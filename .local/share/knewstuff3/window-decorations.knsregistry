@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>McMojave Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305005</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>39021</downloads>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//McMojave/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//McMojave-light/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//</installedfile>
+  <id>1305005</id>
+  <releasedate>2019-11-09</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Kvantum Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304957/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1573278533/s/4418be8d4e4a5ca2345144452ecb2028/t/1578540486/o/1/McMojave.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Koompi-Pionux-Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>tellsela</author>
+  <homepage>https://store.kde.org/p/1319548</homepage>
+  <licence></licence>
+  <version>2.0.3</version>
+  <rating>65</rating>
+  <downloads>3562</downloads>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//Pionux/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//</installedfile>
+  <id>1319548</id>
+  <releasedate>2019-08-19</releasedate>
+  <summary>Pionux Aurorae theame</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/1/3/2/92a92acccfdf738fe4096771f22d214b22eb.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/1/3/2/92a92acccfdf738fe4096771f22d214b22eb.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1566268941/s/8405c534f446e9deb9f8e27735bb6b63/t/1578540501/o/1/pionux.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Canta aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1306413</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>7159</downloads>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//Canta-light/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//Canta-dark/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//</installedfile>
+  <id>1306413</id>
+  <releasedate>2019-09-24</releasedate>
+  <summary>Canta theme for kde plasma desktop</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1569320283/s/baf343ab0361ffb6fe74d08b5910756f/t/1578540495/o/1/Canta.tar.xz</payload>
+  <tags>original-product,linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

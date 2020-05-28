@@ -1,0 +1,35 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "javascripts/jquery-1.4.4.js", "javascripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/gmail_mailtracker.png"
+   },
+   "content_scripts": [ {
+      "css": [ "stylesheets/jquery.dropdown.css", "stylesheets/popover.css", "stylesheets/main_gmail_mail_tracker.css" ],
+      "exclude_globs": [  ],
+      "include_globs": [  ],
+      "js": [ "javascripts/inboxsdk.js", "javascripts/main_gmail_mail_tracker_loader.js" ],
+      "matches": [ "https://mail.google.com/*", "https://inbox.google.com/*", "https://www.cloudhq.net/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://www.cloodhq.net; object-src 'self' https://www.cloudhq.net",
+   "converted_from_user_script": true,
+   "description": "Know when your emails are opened in real-time",
+   "differential_fingerprint": "1.e2383d7d0bb1ed79af69da94eb9f7f320276a9dd442c76f506df4bee1e0baea4",
+   "externally_connectable": {
+      "matches": [ "*://*.orecons.com/*", "*://*.cloudhq.net/*" ]
+   },
+   "icons": {
+      "128": "icons/gmail_mailtracker.png",
+      "48": "icons/gmail_mailtracker.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnas+MpbPlEagjUVyPWYQqt1Grt5BDDj1p4QSfLUXwEDeQBP90EGMXobNVzv+nJUwOyZ3GfByR8Yk3FD5QTV5024E2Uxpvr6+jiGs4SQEMhVgsF3XjyxT/LopkYMuXeDrk5tcjBIXcZT5oAy6hhqw88SspJ2EDBwhbQpItcpS9si/TJLL+SS7bY2rCVL+2fEFpBhbcYzcnrYzXOtKJec1mdFfS7MD9bfvdhu3xRZnPD9EDQKYGZcy8i/fAG8mJoJ5WcrGaYtnyJqBuEsf9TSNas+KYy264Igcc5AIYbUlkn3g+fav85PcTfRX/yMA/Ga8tZn0Wf18wOhM293Nz8pyUwIDAQAB",
+   "manifest_version": 2,
+   "name": "Free Email Tracker by cloudHQ",
+   "permissions": [ "storage", "background", "webRequest", "webRequestBlocking", "notifications", "tabs", "https://mail.google.com/", "https://inbox.google.com/", "https://support.cloudhq.net/", "https://www.cloudhq.net/", "https://*.googleusercontent.com/" ],
+   "short_name": "Free Email Tracker by cloudHQ",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1.10",
+   "web_accessible_resources": [ "javascripts/*", "icons/*" ]
+}

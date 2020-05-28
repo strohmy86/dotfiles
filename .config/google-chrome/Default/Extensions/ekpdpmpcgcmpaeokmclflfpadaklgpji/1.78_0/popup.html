@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<base target="_blank" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="jquery-ui-1.8.16.min.js"></script>
+	<link type="text/css" href="popup.css" rel="stylesheet" />
+	<title>Network Tools</title>
+	<script type="text/javascript" src="popup.js"></script>
+</head> 
+<body>
+<p style="width: 420px;"><a href="https://dnslytics.com/?utm_source=chrome&amp;utm_medium=homepage&amp;utm_campaign=networktools"><img src="logo.png"></a></p>
+<div style="width: 550px"> 
+	<div id="tabs"> 
+		<ul style="font-size: 90%;">
+			<li><a href="#tabs-1">DNS Lookup</a></li> 
+			<li><a href="#tabs-2">DNSBL</a></li>
+			<li><a href="#tabs-3">Domain Search</a></li>
+			<li><a href="#tabs-4">IP Geo</a></li> 
+			<li><a href="#tabs-5">Ping</a></li>
+			<li><a href="#tabs-6">Reverse IP/MX/NS</a></li>
+			<li><a href="#tabs-7">Reverse ID</a></li>
+			<li><a href="#tabs-8">Traceroute</a></li>
+			<li><a href="#tabs-9">Whois Lookup</a></li> 
+			<li><a href="#tabs-10">More</a></li>
+		</ul>
+		<div id="tabs-1" style="height:174px;">
+			<h1>DNS Lookup</h1><form method="post" action="https://dnslytics.com/dns-lookup?utm_source=chrome&amp;utm_medium=dns-lookup&amp;utm_campaign=networktools"><input type="text" name="dnsrecord" size="25" value=""></input><select name="dnstype"><option value="ALL">ALL</option><option value="A">A</option><option value="A6">A6</option><option value="AAAA">AAAA</option><option value="CNAME">CNAME</option><option value="LOC">LOC</option><option value="MX">MX</option><option value="NS">NS</option><option value="PTR">PTR</option><option value="SOA">SOA</option></select><input type="submit" value="DNS lookup"></input></form><p>Query the DNS server on all possible records. The default All option means resolving the A, AAAA, MX, NS and SOA records.</p>
+		</div>
+		<div id="tabs-2" style="height:174px;">
+			<h1>DNS Blackhole List</h1><form method="post" action="https://dnslytics.com/dns-blackhole-list?utm_source=chrome&amp;utm_medium=dns-blackhole-list&amp;utm_campaign=networktools"><input name="dnsbl" type="text" size="25" value=""></input><input type="submit" value="DNSBL Test"></input></form><p>Check to see if an IP address is listed with nearly 100 DNS based anti-spam databases. Just type a domain name or an IP address and click the DNSBL Test button.</p>
+		</div>
+		<div id="tabs-3" style="height:225px;">
+			<h1>Domain Search</h1><form method="post" action="https://dnslytics.com/domain-search?utm_source=chrome&amp;utm_medium=domain-search&amp;utm_campaign=networktools"><input type="text" name="domsearch" size="25" value=""></input><input type="submit" value="Domain Search"></input></form><p>Find registered domain names based on one or more keywords. Keywords can be like a city, brand or trademark. Search through all Top Level Domains including gTLDs, nTLDs and ccTLDs.</p>
+			<h1>Domain Typos</h1><form method="post" action="https://dnslytics.com/domain-typos?utm_source=chrome&amp;utm_medium=domain-typos&amp;utm_campaign=networktools"><input type="text" name="domtypos" size="25" value=""></input><input type="submit" value="Domain Typos"></input></form><p>Find registered domain typos and misspellings for a given domain name. This tool shows all registered domains with one character difference of the given domain name. Search through all Top Level Domains including gTLDs, nTLDs and ccTLDs.</p>
+		</div>
+		<div id="tabs-4" style="height:174px;">
+			<h1>IP Geo Location</h1><form method="post" action="https://dnslytics.com/ip-geo-location?utm_source=chrome&amp;utm_medium=ip-geo-location&amp;utm_campaign=networktools"><input type="text" name="ipgeolocation" value="" size="25"></input><input type="submit" value="Geo Location"></input></form><p>Show the geographical location for domain names or IP addressess on a map. IP addresses are assigned by international organisations like IANA and RIPE. Every assignment is public information and with other public available records it is possible to do a rough calculation of the geographical location of an IP address. Just type a domain name or IP address and click the Geo Location button.</p>
+		</div>
+		<div id="tabs-5" style="height:174px;">
+			<h1>Ping</h1><form method="post" action="https://dnslytics.com/ping?utm_source=chrome&amp;utm_medium=ping&amp;utm_campaign=networktools"><input name="pinghost" type="text" value="" size="25"></input><input type="submit" value="Ping"></input></form><p>Find out how long it takes for packets to reach its destination. Ping is from Germany. The network is from Hetzner. Just type a domain name or an IP address and click the Ping button.</p>
+		</div>
+		<div id="tabs-6" style="height:325px;">
+			<h1>Reverse IP</h1><form method="post" action="https://dnslytics.com/reverse-ip?utm_source=chrome&amp;utm_medium=reverse-ip&amp;utm_campaign=networktools"><input type="text" name="reverseip" size="25" value=""></input><input type="submit" value="Reverse IP"></input></form><p>Find domains hosted on the same web server. Type a domain name or IP address and click the Reverse IP button.</p>
+			<h1>Reverse MX</h1><form method="post" action="https://dnslytics.com/reverse-mx?utm_source=chrome&amp;utm_medium=reverse-mx&amp;utm_campaign=networktools"><input type="text" name="reversemx" size="25" value=""></input><input type="submit" value="Reverse MX"></input></form><p>Find domains sharing the same mail server. Type a domain name or IP address and click the Reverse MX button.</p>
+			<h1>Reverse NS</h1><form method="post" action="https://dnslytics.com/reverse-ns?utm_source=chrome&amp;utm_medium=reverse-ns&amp;utm_campaign=networktools"><input type="text" name="reversens" size="25" value=""></input><input type="submit" value="Reverse NS"></input></form><p>Find domains sharing the same name server. Type a domain name or IP address and click the Reverse NS button.</p>
+		</div>
+		<div id="tabs-7" style="height:174px;">
+			<h1>Reverse Adsense</h1><form method="post" action="https://dnslytics.com/reverse-adsense?utm_source=chrome&amp;utm_medium=reverse-adsense&amp;utm_campaign=networktools"><input type="text" name="reverseadsense" size="25" value=""></input><input type="submit" value="Reverse Adsense"></input></form><p>Find domains sharing the same Adsense ID.</p>
+			<h1>Reverse Analytics</h1><form method="post" action="https://dnslytics.com/reverse-analytics?utm_source=chrome&amp;utm_medium=reverse-analytics&amp;utm_campaign=networktools"><input type="text" name="reverseanalytics" size="25" value=""></input><input type="submit" value="Reverse Analytics"></input></form><p>Find domains sharing the same Analytics ID.</p>
+		</div>
+		<div id="tabs-8" style="height:174px;">
+			<h1>Traceroute</h1><form method="post" action="https://dnslytics.com/traceroute?utm_source=chrome&amp;utm_medium=traceroute&amp;utm_campaign=networktools"><input type="text" name="tracerthost" size="25" value=""></input><input type="submit" value="Traceroute"></input></form><p>Traceroute is a tool to determine the route taken by packets across an IP network. Traceroute is from Germany. The network is from Hetzner.</p>
+		</div>
+		<div id="tabs-9" style="height:174px;"> 
+			<h1>Whois Lookup</h1><form method="post" action="https://dnslytics.com/whois-lookup?utm_source=chrome&amp;utm_medium=whois-lookup&amp;utm_campaign=networktools"><input type="text" name="whois" value="" size="25"></input><input type="submit" value="Whois"></input></form><p>Whois lookup is a powerful way to see all the registration information related to a particular domain, IP address or AS number. The information is stored into different databases. This lookup tool will query the right database and present the whois information in realtime. Just type a domain name, an IP address or an AS number and click the Whois button.</p>
+		</div>
+		<div id="tabs-10" style="height:275px;">
+			<p>We have developed a few other <a href="https://dnslytics.com/browser-extensions-addons-accelerators?utm_source=chrome&amp;utm_medium=browser-extensions&amp;utm_campaign=networktools">extensions</a> related to network tools:</p><br />
+			<h1>IP Address and Domain Information</h1><p>Chrome <a href="https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa">extension</a>. The Ultimate online investigation tool! See detailed information about every IP Address, Domain Name and Provider.</p><br />
+			<h1>IP Domain Country Flag</h1><p>Chrome <a href="https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp">extension</a>. Shows country flag and other IP / domain information in the location bar.</p><br />
+			<h1>myIP address</h1><p>Chrome <a href="https://chrome.google.com/webstore/detail/my-ip-address/monhkdcehmbdgkhgpccaccbbcgcfpjkd">extension</a> and <a href="https://chrome.google.com/webstore/detail/my-ip-address/ccfphbgnmmhjfalloifioeeeokjemobf">webapp</a>. Find your IP address fast! See details like geolocation, whois, DNS and blacklists. All about your IP.</p><br />
+		</div>
+	</div>
+</div>
+</body> 
+</html> 

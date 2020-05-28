@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<link rel="stylesheet" href="vendor/css/bootstrap.min.css" />
+	<link href="css/font-awesome.css" rel="stylesheet" />
+	<link rel="stylesheet" href="css/loading.css" />
+	<link rel="stylesheet" href="css/popup.css" />
+	<title>Link Shortener</title>
+</head>
+
+
+<body class="bg-light">
+	<div class="container popup-container">
+		<div class="row mt-2">
+			<div class="col-md-12">
+				<div class="hidden alert alert-danger text-center" id="defaultShortenerFailed" role="alert">
+					Default shortener had an error 😔
+				</div>
+				<div class="input-group mb-3">
+					<input type="text" readonly class="form-control" id="shortenedLink">
+					<div class="input-group-append">
+						<button class="btn btn-outline-secondary" type="button" title="Copy to Clipboard" id="copy-button"><i class="fa fa-clipboard" aria-hidden="true"></i></button>
+					</div>
+				</div>
+
+				<form class="hidden my-3" id="update-link-form">
+					<div class="form-group">
+						<label for="short-id"><small>Short Url</small></label>
+						<div class="input-group input-group-sm">
+							<div class="input-group-prepend">
+								<span class="input-group-text" id="short-domain"></span>
+							</div>
+							<input type="text" class="form-control" id="short-id" />
+						</div>
+					</div>
+					<div class="form-group text-center text-xs">
+						<a data-toggle="collapse" href="#show-more-options">
+							Additional Options <i class="fa fa-caret-down" aria-hidden="true"></i>
+						</a>
+					</div>
+					<div class="collapse" id="show-more-options">
+						<div class="form-group">
+							<label for="password-protect"><small>Password Protect</small></label>
+							<input type="text" class="form-control form-control-sm" id="password-protect" placeholder="Protect Link with a Password" />
+						</div>
+						<div class="form-group">
+							<label for="expire-views"><small>Expire After Views</small></label>
+							<input type="text" class="form-control form-control-sm" id="expire-views" placeholder="Number of Views" />
+						</div>
+						<div class="form-group">
+							<label for="expire-date"><small>Expire After Date</small></label>
+							<input type="datetime-local" class="form-control form-control-sm" id="expire-date" placeholder="Expire Date" />
+						</div>
+					</div>
+					<button type="submit" class="btn btn-primary btn-block btn-sm">Update Link</button>
+
+				</form>
+				<div class="text-center">
+					<a id="twitter-share" target="_blank" title="Twitter Share" class="hidden twitter-color"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+					<a id="facebook-share" target="_blank" title="Facebook Share" class="hidden facebook-color"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+				</div>
+				<hr class="my-2">
+
+				<div class="text-center">
+					<!-- <a target="_blank" id="stats" title="Stats"><i class="fa fa-line-chart fa-2x" aria-hidden="true"></i></a> -->
+					<a href="#" id="link-history" title="Link History"><i class="fa fa-history fa-2x" aria-hidden="true"></i></a>
+					<a href="#" id="details-button" title="Link Details"><i class="fa fa-info-circle fa-2x" aria-hidden="true"></i></a>
+					<a href="#" id="qr-button" title="Qr Code"><i class="fa fa-qrcode fa-2x" aria-hidden="true"></i></a>
+					<a href="https://timleland.com/link-shortener-faq/" id="help" target="_blank" title="Help"><i class="fa fa-question-circle fa-2x" aria-hidden="true"></i></a>
+					<a href="options.html" id="options" target="_blank" title="Options"><i class="fa fa-cog fa-2x" aria-hidden="true"></i></a>
+				</div>
+
+				<div class="row hidden" id="link-history-container">
+					<div class="col-md-12  mt-2">
+						<div class="list-group" id="link-history-list">
+						</div>
+					</div>
+				</div>
+
+				<div class="form-group hidden" id="url-title-wapper">
+					<label for="url-title"><small>Title</small></label>
+					<input type="text" class="form-control form-control-sm" id="url-title">
+				</div>
+
+				<div class="form-group hidden" id="url-description-wapper">
+					<label for="url-description"><small>Description</small></label>
+					<textarea class="form-control form-control-sm" id="url-description" rows="3"></textarea>
+				</div>
+
+				<div class="text-center my-2 hidden qr-image"><a target="_blank" id="qr-link"><img id="qr-code" /></a></div>
+
+				<div class="my-2">
+					<select class="custom-select" id="providers" required></select>
+				</div>
+			</div>
+		</div>
+
+		<footer class="text-muted text-center text-xs">
+			<ul class="list-inline">
+				<li class="list-inline-item"><a target="_blank" href="https://timleland.com/link-shortener-faq/">FAQ</a></li>
+				<li id="sign-up" class="list-inline-item"><a target="_blank" href="https://t.ly/register">Sign Up</a></li>
+				<li id="my-account" class="list-inline-item"><a target="_blank" href="https://t.ly/links">My Account</a></li>
+				<li class="list-inline-item"><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G3ZAESS76EA7L">Donate</a></li>
+			</ul>
+			<!-- <p class="mb-1"><a target="_blank" href="https://timleland.com/about/">Created by Tim Leland</a></p> -->
+		</footer>
+
+
+
+	</div>
+
+
+	<div class="loading">Loading&#8230;</div>
+	<script src="vendor/js/jquery-3.3.1.min.js"></script>
+	<script src="vendor/js/notify.js"></script>
+	<script src="vendor/js/sweetalert2@8.js"></script>
+	<script src="vendor/js/popper.min.js"></script>
+	<script src="vendor/js/moment.js"></script>
+	<script src="vendor/js/bootstrap.min.js"></script>
+	<script src="js/helpers.js"></script>
+	<script src="js/storageLocal.js"></script>
+	<script src="js/storage.js"></script>
+	<script src="js/popup.js"></script>
+
+
+	<audio id="successAudio" src="sounds/success.mp3" preload="auto"></audio>
+	<audio id="errorAudio" src="sounds/error.wav" preload="auto"></audio>
+</body>
+
+</html>

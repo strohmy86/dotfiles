@@ -1,0 +1,12 @@
+[General]
+Default Identity=1806810304
+
+[Identity #0]
+Default Domain=localhost.localdomain
+Disable Fcc=false
+Identity=Luke Strohm
+Image Location=
+Inline Signature=
+Name=Luke Strohm
+Signature Enabled=false
+uoid=1806810304

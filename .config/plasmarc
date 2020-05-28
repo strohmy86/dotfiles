@@ -1,0 +1,11 @@
+[OSD]
+Enabled=true
+
+[PlasmaToolTips]
+Delay=0.7
+
+[Theme]
+name=jomada
+
+[Wallpapers]
+usersWallpapers=/home/lstrohm/Pictures/VYnrFXx.jpg

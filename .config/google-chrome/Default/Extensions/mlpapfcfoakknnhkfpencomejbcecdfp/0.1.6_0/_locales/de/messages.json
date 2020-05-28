@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Zeigt Flagge und andere IP / Domain-Informationen in der Adressleiste."
+   },
+   "longdesc": {
+      "message": "Diese Erweiterung zeigt eine Markierungsfahne für die aktuelle Website-Server. Die QuickInfo zeigt die Namen der Stadt, Region und Land.\n\nDas Popup enthält weitere Informationen über die Domäne. Details sind Alexa und Alexa ranking, Google Pagerank und MyWOT Ruf. Das Design des Popup ist einfach und sauber.\n\nUm Ihre Privatsphäre zu schützen, senden wir nur den Domain-Namen in unserer Datenbank.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP-Domain-Markierungsfahne"
+   }
+}

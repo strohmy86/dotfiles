@@ -1,0 +1,47 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon-16.png",
+      "default_popup": "popup.html",
+      "default_title": "DocHub"
+   },
+   "content_scripts": [ {
+      "css": [ "bower_components/izimodal/css/iziModal.min.css", "bower_components/intro.js/minified/introjs.min.css", "styles/gmail.css" ],
+      "js": [ "bower_components/jquery/dist/jquery.min.js", "bower_components/izimodal/js/iziModal.js", "bower_components/async/dist/async.min.js", "bower_components/domurl/url.min.js", "bower_components/SparkMD5/spark-md5.min.js", "bower_components/intro.js/minified/intro.min.js", "bower_components/inboxsdk/index.js", "scripts/continually-wait-until-exists.js", "scripts/cs-gmail.js" ],
+      "matches": [ "https://mail.google.com/mail/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "css": [ "bower_components/izimodal/css/iziModal.min.css", "styles/pdf-viewer.css" ],
+      "js": [ "bower_components/jquery/dist/jquery.min.js", "bower_components/izimodal/js/iziModal.js", "bower_components/async/dist/async.min.js", "bower_components/SparkMD5/spark-md5.min.js", "scripts/continually-wait-until-exists.js", "scripts/cs-pdf-viewer.js" ],
+      "matches": [ "*://*/*.pdf*", "file://*/*.pdf*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "bower_components/jquery/dist/jquery.min.js", "scripts/continually-wait-until-exists.js", "scripts/inject-dce-uuid-metatag.js" ],
+      "matches": [ "https://dochub.com/*", "https://localhost:9292/*", "https://localhost:4200/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src  'self' https://*.google.com  https://accounts.google.com/* 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "Sign and edit PDF documents",
+   "externally_connectable": {
+      "matches": [ "https://localhost:9292/*", "https://localhost:4200/*", "https://dochub.com/*" ]
+   },
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "256": "images/icon-256.png",
+      "32": "images/icon-32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl0OeaO8hDoSw434pGo9ut+el3B33vr3og4Hi1ElzBovp4Leg0sUO2MrNNzLMO+EDSYyNFBtCyfOB8F3TQ3/PrvKsjRDgTXAdvpAW8nCji6GthGehI3v20sG81DWtD1qkK6WNtDQWs9DXd8SSnF1j8FbQECmGR7hh4oEMLGy2nSi5fRCmdrk/FNzIpoiW7HhuriC+J9PEOZbE+5B6rMClb/TwUr2vtEiIauBKAtkyevZPOdK1Ui/kD/2VHEtyXYSHuv8MW7fFkjjikV0nvqZ3gQusxvnRrGwtLYtuBLLXIPpe7/wXSPwOM/jqNv8klEy/pODxxGkO8y1Ww7dHnJOO1QIDAQAB",
+   "manifest_version": 2,
+   "name": "DocHub - Sign PDF from Gmail",
+   "permissions": [ "storage", "webRequest", "webRequestBlocking", "contextMenus", "tabs", "\u003Call_urls>", "file://*/*", "activeTab", "unlimitedStorage" ],
+   "short_name": "DocHub",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.7.38",
+   "web_accessible_resources": [ "images/*", "scripts/injector.js", "scripts/dh-launcher.js", "blank.html" ]
+}

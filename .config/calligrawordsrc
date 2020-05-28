@@ -1,0 +1,98 @@
+[DockWidget sharedtooldocker]
+TabbedMode=false
+
+[Interface]
+ResolutionX=14.1732529
+ResolutionY=14.1732529
+Rulers=false
+StatusBarShowLineNumber=true
+StatusBarShowModified=true
+StatusBarShowMouse=false
+StatusBarShowPage=true
+StatusBarShowPageSize=false
+StatusBarShowPageStyle=true
+StatusBarShowWordCount=false
+StatusBarShowZoom=true
+ViewFieldShadings=true
+ViewFormattingChars=false
+ViewFrameBorders=true
+ViewSectionBounds=false
+ViewTableBorders=true
+Zoom=127
+ZoomMode=1
+
+[MainWindow]
+Window-Maximized 900x1600=true
+ko_geometry=AdnQywADAAAAAAAAAAAAAAAABj8AAANfAAABCwAAAJAAAAU0AAACzwAAAAACAAAABkAAAAAAAAAAHQAABj8AAANf
+ko_windowstate=AAAA/wAAAAD9AAAAAQAAAAEAAAZAAAADAPwCAAAABvsAAAAgAHMAaABhAHIAZQBkAHQAbwBvAGwAZABvAGMAawBlAHIAAAAAQwAAAJoAAABsAQAAA/sAAAAUAFMAdABhAHQAaQBzAHQAaQBjAHMAAAAAAP////8AAAD2AQAAA/sAAAAUAE4AYQB2AGkAZwBhAHQAaQBvAG4AAAAAAP////8AAAByAQAAA/sAAAAgAFMAaABhAHAAZQAgAFAAcgBvAHAAZQByAHQAaQBlAHMAAAAAAP////8AAAAcAQAAA/sAAAAoAFMAbgBhAHAARwB1AGkAZABlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAABwBAAAD/AAAAEMAAAMAAAAAxQAIADf6AAAAAAEAAAAC+wAAAA4ATQBvAGQAZQBCAG8AeAEAAAAA/////wAAAaMACAAD+wAAACoAUwBoAGEAcABlAEMAbwBsAGwAZQBjAHQAaQBvAG4ARABvAGMAawBlAHIBAAACIwAAAgcAAACzAAgAAwAAAAAAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+
+[Misc]
+Units=in
+
+[Recent Dirs]
+OpenDialog[$e]=$HOME,$HOME/Audit-Files/HS/tudorc@madisonrams.net,$HOME/Documents
+
+[RecentFiles]
+File1[$e]=$HOME/Sub Logins.docx
+Name1[$e]=Sub Logins.docx
+
+[Statistics]
+CharnospacesVisible=true
+CharspacesVisible=true
+EastAsianCharactersVisible=true
+FleschVisible=true
+LinesVisible=true
+SentencesVisible=true
+SyllablesVisible=true
+WordsVisible=true
+
+[calligra]
+DevicePlugins=spacenavigator
+DevicePluginsDisabled=
+DockerPlugins=calligradockers,calligra_docker_stencils
+DockerPluginsDisabled=
+ModeBoxHorizontalTabsSide=0
+ShapePlugins=artistictextshape,chartshape,formulashape,musicshape,pathshapes,pictureshape,pluginshape,spreadsheetshape,textshape,vectorshape,videoshape
+TextEditingPlugins=autocorrect,changecase,spellcheck
+TextInlinePlugins=textvariables
+ToolPlugins=basicflakesplugin,defaulttools
+ToolPluginsDisabled=
+
+[calligrawords]
+State=AAAA/wAAAAD9AAAAAQAAAAEAAAIHAAAC2vwCAAAABvsAAAAgAHMAaABhAHIAZQBkAHQAbwBvAGwAZABvAGMAawBlAHIAAAAAQwAAAJoAAABsAQAAA/sAAAAUAFMAdABhAHQAaQBzAHQAaQBjAHMAAAAAAP////8AAAD2AQAAA/sAAAAUAE4AYQB2AGkAZwBhAHQAaQBvAG4AAAAAAP////8AAAByAQAAA/sAAAAgAFMAaABhAHAAZQAgAFAAcgBvAHAAZQByAHQAaQBlAHMAAAAAAP////8AAAAcAQAAA/sAAAAoAFMAbgBhAHAARwB1AGkAZABlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAGgBAAAD/AAAAEMAAALaAAAAxQAIADf6AAAAAAEAAAAC+wAAAA4ATQBvAGQAZQBCAG8AeAEAAAAA/////wAAAaMACAAD+wAAACoAUwBoAGEAcABlAEMAbwBsAGwAZQBjAHQAaQBvAG4ARABvAGMAawBlAHIBAAACIwAAAgcAAACzAAgAAwAABDgAAALaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAGQAaQB0AF8AdABvAG8AbABiAGEAcgEAAAD7/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[calligrawords][DockWidget ModeBox]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrawords][DockWidget Navigation]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrawords][DockWidget Shape Properties]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrawords][DockWidget ShapeCollectionDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrawords][DockWidget SnapGuide Properties]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrawords][DockWidget Statistics]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrawords][DockWidget sharedtooldocker]
+Collapsed=false
+DockArea=2
+Locked=false

@@ -1,0 +1,19 @@
+[Interface]
+ShowRulers=false
+
+[Recent Dirs]
+OpenDialog[$e]=$HOME,$HOME/Documents
+
+[RecentFiles]
+File1[$e]=$HOME/Shark attack!_ A cultural approach..odp
+Name1[$e]=Shark attack!_ A cultural approach..odp
+
+[SlideShow]
+PresentationMonitor=0
+PresenterViewEnabled=false
+
+[calligra]
+ShapePlugins=artistictextshape,chartshape,formulashape,musicshape,pathshapes,pictureshape,pluginshape,textshape,vectorshape,videoshape
+ShapePluginsDisabled=
+ToolPlugins=basicflakesplugin,defaulttools
+ToolPluginsDisabled=

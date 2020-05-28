@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<link rel="stylesheet" href="vendor/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="css/loading.css" />
+
+	<title>Options: Link Shortener</title>
+</head>
+
+<body class="bg-light">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 offset-md-3">
+				<div class="py-5 text-center">
+					<img class="d-block mx-auto mb-4" src="/media/icons/original.png" alt="" width="72" height="72">
+					<h2>Link Shortener Options</h2>
+					<p class="lead">The best way to create a short urls using Bitly, TinyUrl, is.gd and to.ly, and more! Check out the <a target="_blank"
+							href="https://timleland.com/link-shortener-faq">FAQ page</a> if you run into issues.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 offset-md-3">
+				<form id="settings-form">
+					<div class="mb-3">
+						<label for="providers">Default Shortener</label>
+						<select class="custom-select" id="providers" required></select>
+					</div>
+
+					<div class="mb-3">
+						<label for="tly-key">T.ly API Token<span class="text-muted">(Optional)</span></label>
+						<input type="text" class="form-control" id="tly-key">
+						<small class="text-muted">Sign up for a T.ly account <a target="_blank" href="https://t.ly/register">here</a>, then create a <a href="https://t.ly/settings#/api"
+								target="_blank">api token</a>.</small>
+					</div>
+					<div class="mb-3 d-none" id="tly-custom-domain-wrapper">
+						<label for="tly-key">T.ly Domain<span class="text-muted">(Optional)</span></label>
+						<select class="custom-select" id="tly-domain"></select>
+						<small class="text-muted">Use a custom domain with your T.ly account.</small>
+					</div>
+
+					<div class="mb-3">
+						<label for="bitly-key">Bit.ly Generic Access Token<span class="text-muted">(Optional)</span></label>
+						<input type="text" class="form-control" id="bitly-key">
+						<small class="text-muted">Sign up for a Bit.ly account <a target="_blank" href="https://bitly.com/a/sign_up">here</a>, then create a <a
+								href="https://support.bitly.com/hc/en-us/articles/230647907-How-do-I-find-my-OAuth-access-token-" target="_blank">generic access token</a>.</small>
+					</div>
+
+					<div class="mb-3">
+						<label for="rebrandly-key">Rebrandly API Key<span class="text-muted">(Optional)</span></label>
+						<input type="text" class="form-control" id="rebrandly-key">
+						<small class="text-muted">Sign up for a free Rebrandly account <a target="_blank" href="https://app.rebrandly.com/sign-up">here</a>, then generate an API key.</small>
+					</div>
+
+					<div class="form-group form-check">
+						<input type="checkbox" class="form-check-input" value="true" id="notification-sound">
+						<label class="form-check-label" for="notification-sound">Audio Notification when URL Shortened</label>
+					</div>
+
+					<div class="form-group form-check">
+						<input type="checkbox" class="form-check-input" value="true" id="include-https">
+						<label class="form-check-label" for="include-https">Include <strong>https://</strong> in short links</label>
+					</div>
+
+					<div class="form-group form-check">
+						<input type="checkbox" class="form-check-input" value="true" id="copy-to-clipboard">
+						<label class="form-check-label" for="copy-to-clipboard">Automatically copy short link to clipboard</label>
+					</div>
+					<hr class="mb-4">
+					<button class="btn btn-primary btn-lg btn-block" type="submit">Save</button>
+				</form>
+			</div>
+		</div>
+
+
+		<footer class="my-5 pt-5 text-muted text-center text-small">
+			<ul class="list-inline">
+				<li class="list-inline-item"><a target="_blank" href="https://timleland.com/link-shortener-faq/">FAQ</a></li>
+				<li class="list-inline-item"><a target="_blank" href="https://t.ly/register">Sign Up</a></li>
+				<li class="list-inline-item"><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G3ZAESS76EA7L">Donate</a></li>
+			</ul>
+			<p class="mb-1"><a target="_blank" href="https://timleland.com/about/">Created by Tim Leland</a></p>
+		</footer>
+	</div>
+
+
+	<div class="loading" style="display: none;">Loading&#8230;</div>
+	<script src="vendor/js/jquery-3.3.1.min.js"></script>
+	<script src="vendor/js/sweetalert2@8.js"></script>
+	<script src="vendor/js/popper.min.js"></script>
+	<script src="vendor/js/bootstrap.min.js"></script>
+	<script src="js/helpers.js"></script>
+	<script src="js/storageLocal.js"></script>
+	<script src="js/storage.js"></script>
+	<script src="js/options.js"></script>
+</body>
+
+</html>

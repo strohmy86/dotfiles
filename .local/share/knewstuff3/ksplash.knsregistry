@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>Megano Animated - Fedora</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Jamesjon</author>
+  <homepage>https://store.kde.org/p/1324773</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>152</downloads>
+  <installedfile>/tmp/Megano-Animated-Fedora.tar.gz</installedfile>
+  <id>1324773</id>
+  <releasedate>2019-09-17</releasedate>
+  <summary>Megano Animated es un tema animado de alta calidad, con diseño elegante y atractivo para Plasma.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/6/5/7/73276239b0bf643bbee3fc0f2bb327dd8584.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/6/5/7/73276239b0bf643bbee3fc0f2bb327dd8584.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1568721293/s/27f1639b5d835de311c52c6e4b713e3b/t/1578540697/o/1/Megano-Animated-Fedora.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,plasma##majorversion=5,splashscreen,gplv3,megano,animated,fedora</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

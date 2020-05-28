@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Zobrazuje vlajku země a jiných IP / informace o doméně v panelu umístění."
+   },
+   "longdesc": {
+      "message": "Toto rozšíření zobrazuje vlajku země pro současný web serveru. V popisku se zobrazí název města, regionu a země.\n\nV místní nabídce se zobrazí více informací o doméně. Podrobnosti jsou Alexa a Quantcast žebříčku, Google Pagerank a MyWOT pověst. Konstrukce popup je jednoduchý a čistý.\n\nChcete-li ochránit své soukromí, pouze pošlete název domény do naší databáze.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "Vlajka země IP domény"
+   }
+}

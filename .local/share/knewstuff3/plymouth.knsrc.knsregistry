@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="108">
+  <name>Apple Macintosh Plymouth Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>mikebearly</author>
+  <homepage>https://store.kde.org/p/1311587</homepage>
+  <licence></licence>
+  <version>1</version>
+  <rating>63</rating>
+  <downloads>9489</downloads>
+  <installedfile>/home/lstrohm/.local/share/kplymouththemeinstaller//apple-mac-plymouth.tar.xz</installedfile>
+  <id>1311587</id>
+  <releasedate>2019-06-26</releasedate>
+  <summary>Apple Mac Plymouth Installation for Ubuntu 18.04 LTS, Xubuntu 18.04, Kubuntu 18.04, Linux Mint 19</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/3/6/2/4b6daac8af423b94bf50ea8063ec3fc2f52e.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/3/6/2/4b6daac8af423b94bf50ea8063ec3fc2f52e.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjE1NTExNDAiLCJvIjoiMSIsInMiOiJhMzlmZTlhZmRhMmU4MjA5ZDlkNTE2NDUzNTYzZTEzM2M2ZmIxYzM1NTU4MWM3YWYxYmJiN2MzZjk1ZTBjYzg2MjBjNDZhZWUyODk5MzdmMzE1YTUwZmI0MDZhMmZlNjgxZmJiZDZhY2JiM2VjNzYxMzRkZjBhOGE1YjIzNjEwNSIsInQiOjE1ODE2MjI5NzMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.id00YD85774jgHEiuxAf_Swyw39ydyv8GFPtrgFB5xw/apple-mac-plymouth.tar.xz</payload>
+  <tags>gplv3,unix,splashscreen,bootscreen,apple,plymouth,splash,linux,macos</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="108">
+  <name>Windows 10 bootsplash</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Brahimsalem</author>
+  <homepage>https://store.kde.org/p/1009178</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>55</rating>
+  <downloads>9435</downloads>
+  <installedfile>/home/lstrohm/.local/share/kplymouththemeinstaller//174351-win10.tar.gz</installedfile>
+  <id>1009178</id>
+  <releasedate>2017-08-24</releasedate>
+  <summary>- I wanted to help Windows 10 transformation pack project http://b00merang.weebly.com/windows-10.html, so I asked my genius friend OobuntusGooftus http://gnome-look.org/usermanager/search.php?username=OobuntusGooftus   to create me a bootsplash and so he did. Enjoy guys!!!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/174351-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/174351-1.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3NTMxMTkiLCJvIjoiMSIsInMiOiIwYmUzNDk1NjJmNzE4ZDcwOTU4NDhhNGM2MDUyMzY3YTVkNmVhMGRkZjdjODE4NjllNjllMjczOTc0NTNiNjZjYWU1NTdhMjUxOWNjNWNiM2JmMmFhMTExMjA5OTdlMDFhNmJiZTE5YTYwYjlmZmI1N2FmYTE5NGQ0ODFmNGUzZiIsInQiOjE1ODE1MzczMDcsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.E8SHeVt0XFd7rDSCkDh7wFtgQJYL6Ron8QvijeTpQQU/174351-win10.tar.gz</payload>
+  <tags>bootscreen,plymouth,linux,unix,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="108">
+  <name>Percentage Plymouth Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>lisabonne_citadel</author>
+  <homepage>https://store.kde.org/p/1185488</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>3296</downloads>
+  <installedfile>/home/lstrohm/.local/share/kplymouththemeinstaller//percentage.tar.gz</installedfile>
+  <id>1185488</id>
+  <releasedate>2017-08-06</releasedate>
+  <summary>nice color transition percentage plymouth theme&lt;br />
+this a second version but with better improvements and with the same throbber from Greatest&lt;br />
+&lt;br />
+&lt;br />
+in case of doubt,&lt;br />
+you can make easily new plymouth temes according to your taste. simply do this:&lt;br />
+&lt;br />
+to make a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/img/b/b/b/7/55fbdceca5d5cda1220a6e7d4f4cbed0e2ee.gif</preview>
+  <previewBig>https://cn.opendesktop.org/img/b/b/b/7/55fbdceca5d5cda1220a6e7d4f4cbed0e2ee.gif</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MDE0MzMyODQiLCJvIjoiMSIsInMiOiJhZTk3MmRkMWIyNDBkYmZjOTk0ZDIxMzJiNDExODA5YTBlZTllNzE3NmE5MjY1MGY3NzdhNjFlNDE4MmFiM2FiMzg4NmZkZmVkYjY4NGVlNDczODQ5YzAyZDQxMWM2NmMyNGI2ODZhZjlmY2U1OTk0MjMzNWQ0NTQ4YjU2NGI0NiIsInQiOjE1ODE2MjMwNDUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.Vomyfyx7h26rmp6V0KgMsSwyS7lBelTqoE9zUuzbmKk/percentage.tar.gz</payload>
+  <tags>bootscreen,plymouth,linux,unix,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

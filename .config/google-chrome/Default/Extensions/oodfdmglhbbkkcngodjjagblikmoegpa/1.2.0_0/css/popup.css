@@ -1,0 +1,46 @@
+.popup-container {
+	width: 320px;
+}
+
+#stats .fa {
+	color: #d9534f;
+}
+
+#qr-button .fa {
+	color: #000;
+}
+
+#details-button .fa {
+	color: #e95420;
+}
+
+#options .fa {
+	color: #f0ad4e;
+}
+#help .fa {
+	color: #64b26f;
+}
+
+.hidden {
+	display: none;
+}
+
+.text-xs {
+	font-size: 11px;
+}
+
+.qr-image img {
+	width: 180px;
+}
+
+.twitter-color {
+	color: #1da1f2;
+}
+
+.facebook-color {
+	color: #3b5998;
+}
+
+.text-small {
+	font-size: 10px;
+}

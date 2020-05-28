@@ -1,0 +1,347 @@
+T 1581604735 19*	Now talking on 22#archlinux
+T 1581604735 22*	Topic for 22#archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | pacman 5.2 is out; check your .pacnews http://allanmcrae.com/2019/10/pacman-5-2-release/ | Installing? New `base` package; read the install guide carefully | You are now being helped by: https://i.imgur.com/2bDqnYZ.jpg
+T 1581604735 22*	Topic for 22#archlinux set by 26evilop (24Sat Nov  9 17:52:49 2019)
+T 1581604780 18<Biswa9618>	Is it possible to move the mingw-w64 packages (only headers, CRT and GCC) to community packages?
+T 1581604803 24*	sav4nt has quit (Ping timeout: 260 seconds)
+T 1581604815 23*	Maxattax (~max@50-195-160-193-static.hfc.comcastbusiness.net23) has joined
+T 1581604855 23*	frvr (~florea@213.233.85.8723) has joined
+T 1581604892 18<Namarrgon18>	from the AUR?
+T 1581604907 24*	yunhao94 has quit (Ping timeout: 240 seconds)
+T 1581604913 24*	Ruuchan has quit (Ping timeout: 272 seconds)
+T 1581604915 24*	Carp has quit (Ping timeout: 260 seconds)
+T 1581604977 18<Biswa9618>	I know. I mean is it possible to move it to community from aur.
+T 1581604986 23*	yunhao94 (~yunhao94@183.198.141.5823) has joined
+T 1581604996 18<Namarrgon18>	you'd have to find a TU willing to maintain them
+T 1581605017 23*	edlou (uid413273@gateway/web/irccloud.com/x-gjnndlpafacvqmhy23) has joined
+T 1581605021 23*	sav4nt (~maxx@h-64-199.A465.priv.bahnhof.se23) has joined
+T 1581605022 18<Namarrgon18>	these three would pull in a handfull of other AUR packages
+T 1581605056 18<20Biswa9618>	Understand.
+T 1581605061 24*	Biswa96 has quit (Quit: Biswa96)
+T 1581605100 24*	vuoto has quit (Quit: vuoto)
+T 1581605131 18<24drathir18>	in short probably better find 3rd repo and ask for add them to autobuild system...
+T 1581605134 23*	jakehemm_ (~jakehemme@68.235.43.9423) has joined
+T 1581605159 24*	ljmf00 has quit (Ping timeout: 268 seconds)
+T 1581605205 24*	stefanc_diff has quit (Excess Flood)
+T 1581605275 23*	ljmf00 (~ljmf00@mescalina/cactus23) has joined
+T 1581605359 23*	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net23) has joined
+T 1581605409 23*	hiyosilver (50249084@gateway/web/cgi-irc/kiwiirc.com/ip.80.36.144.13223) has joined
+T 1581605414 18<25hiyosilver18>	exe jezu! :)
+T 1581605431 23*	alexozer (~alexozer@72-0-150-238.tvc-ip.com23) has joined
+T 1581605477 23*	grzebiel (~grzebiel@217.138.199.4423) has joined
+T 1581605516 23*	boru_ramen (~boru_rame@2a05:3e00:1:1001:a801:f410:b618:be1e23) has joined
+T 1581605552 23*	orivej (~orivej@185.189.113.8323) has joined
+T 1581605585 24*	Hello71 has quit (Quit: Hello71)
+T 1581605621 24*	WSDMatty has quit (Quit: Real Life Beckons...)
+T 1581605652 24*	acmonpong has quit (Remote host closed the connection)
+T 1581605672 23*	Hello71 (~Hello71@gateway/tor-sasl/hello7123) has joined
+T 1581605673 23*	acmonpong (~user@195.242.46.7023) has joined
+T 1581605695 24*	Hello71 has quit (Client Quit)
+T 1581605730 24*	fusion809 has quit (Remote host closed the connection)
+T 1581605730 18<22earnestly18>	This is what gaslighting looks like: https://shibumi.dev/posts/why-suckless-is-wrong/
+T 1581605731 18<22phrik18>	Title: Why suckless is wrong (at shibumi.dev)
+T 1581605761 18<22earnestly18>	Also bonus points for all the logical fallacies you can find
+T 1581605766 23*	Carp (~rue@1-162-52-81.dynamic-ip.hinet.net23) has joined
+T 1581605807 24*	fercell has quit (Quit: WeeChat 2.7)
+T 1581605842 18<20grawity18>	that page has words and sentences, but I can't really make out anything coherent in it
+T 1581605843 23*	Hello71 (~Hello71@gateway/tor-sasl/hello7123) has joined
+T 1581605863 24*	jakehemm_ has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1581605886 23*	rapiz (~rapiz@123.101.180.17523) has joined
+T 1581605901 24*	awe00 has quit (Ping timeout: 272 seconds)
+T 1581605903 18<20deltasquared18>	I know something's off when I read it but can't quite put my finger on it yet. sort of like I have a gut feeling it's incorrect but would need to work through it to rationalise my objections I guess?
+T 1581605911 18<22earnestly18>	grawity: (Although I present it not as a defense of what suckless has to write)
+T 1581605934 18<22earnestly18>	But more as an example of how terrible the arguments are
+T 1581605936 24*	roboticr has quit (Ping timeout: 268 seconds)
+T 1581606011 18<22earnestly18>	It also serves as a fairly nice example of how pervasive propaganda is, even within technical fields
+T 1581606048 18<20grawity18>	ah I think I understood how the post is laid out
+T 1581606067 18<20deltasquared18>	it looks to be refuting each point on the suckless page if you mean that sort of layout?
+T 1581606068 23*	holdthedeer (50249084@gateway/web/cgi-irc/kiwiirc.com/ip.80.36.144.13223) has joined
+T 1581606073 18<20deltasquared18>	or at least trying to
+T 1581606093 18<22earnestly18>	grawity: It's like an email refuting a prior one
+T 1581606097 18<20grawity18>	that "pid 1" thing reminded me of legacy initrd and linuxrc, which did run *before* pid 1
+T 1581606102 18<20grawity18>	(afaik)
+T 1581606118 24*	cdown has quit (Ping timeout: 245 seconds)
+T 1581606176 18<20grawity18>	"I have never had problems with journald on my system, therefore nobody else has had or will have problems with journald on theirs"
+T 1581606210 18<22earnestly18>	You get a bonus point
+T 1581606214 23*	nullthevoid (~nullthevo@unaffiliated/nullthevoid23) has joined
+T 1581606224 18<29Foxboron18>	I think the most annoying arguments against systemd is the people that go "This is how it has been. Thus it doesn't need to change"
+T 1581606233 18<20grawity18>	I dunno, it's trying to refute suckless, so it's got fallacies all over
+T 1581606236 23*	jakehemm_ (~jakehemme@68.235.43.9423) has joined
+T 1581606239 23*	Onslaught2020 (~jeroen@kb-client-040.kb.nl23) has joined
+T 1581606244 18<22Tom^18>	change is always bad, because i hate learning new things.
+T 1581606245 18<20grawity18>	not just in the reply but also in the original
+T 1581606245 18<20nullthevoid18>	hey guys, https://i.imgur.com/Dhh6yQS.png - the update fucked up my fonts and everything
+T 1581606246 18<22earnestly18>	grawity: I know, it's gloriously bad
+T 1581606252 18<29Foxboron18>	The guy running suckless sends emails from a client which is named after a nazi landmark.
+T 1581606254 18<29Foxboron18>	Done deal.
+T 1581606266 18<27Namarrgon18>	nullthevoid: which update?
+T 1581606272 24*	e1080 has quit (Ping timeout: 265 seconds)
+T 1581606280 18<20grawity18>	like the whole "once it's been invented it can never be reinvented" thing
+T 1581606290 18<20nullthevoid18>	latest braves and idk I updated whole system
+T 1581606296 18<29Foxboron18>	grawity: Or the "it's always been working. It doesn't need to change"
+T 1581606308 18<27Namarrgon18>	nullthevoid: look at the pacman log
+T 1581606309 18<22earnestly18>	Foxboron: That is generally a good argument though
+T 1581606316 18<27Namarrgon18>	nullthevoid: "brave" the browser?
+T 1581606329 18<20nullthevoid18>	Namarrgon, yes
+T 1581606329 23*	awe00 (~awe00@unaffiliated/awe0023) has joined
+T 1581606346 18<22earnestly18>	Foxboron: Because the inverse is ridiculous; "When should change it because it has always been working"
+T 1581606384 18<29Foxboron18>	earnestly: Evidently, both are extremes.
+T 1581606386 23*	NERD-k (~NERD-k@199.19.107.27.16clouds.com23) has joined
+T 1581606394 18<22earnestly18>	Foxboron: Iow, a strawman
+T 1581606404 18<29Foxboron18>	earnestly: If the inverse is ridiculous, then you should reconsider the original point
+T 1581606407 24*	chap has quit (Ping timeout: 240 seconds)
+T 1581606413 23*	tpowa (~tpowa@archlinux/developer/tpowa23) has joined
+T 1581606554 18<22earnestly18>	Foxboron: "If something works, we shouldn't change it" is an extreme
+T 1581606557 18<27Namarrgon18>	was there any reason to dig out a four year old blog post?
+T 1581606558 18<22earnestly18>	Right
+T 1581606563 23*	fogobogo (~fogobogo@unaffiliated/fogobogo23) has joined
+T 1581606568 18<22earnestly18>	Namarrgon: lobsters was promoting it just now
+T 1581606572 18<29Foxboron18>	oh
+T 1581606582 18<27Namarrgon18>	and you just jumped at the bait again?
+T 1581606583 18<20nullthevoid18>	Namarrgon, will VAAPI fix any of my problem, the fonts on my Linux are very sharp on my eyes now, after the update.
+T 1581606586 23*	beest (~root@2601:480:4003:37e0::113c23) has joined
+T 1581606596 18<22earnestly18>	Namarrgon: No, I found it hilarious
+T 1581606629 18<29Foxboron18>	earnestly: Well, that is argument I find mostly tedious as it just attempts to blanket dispell anything systemd offers :p
+T 1581606640 18<27Namarrgon18>	nullthevoid: no, vaapi will not fix your fonts.
+T 1581606647 18<27Namarrgon18>	nullthevoid: what do you mean by "on my linux"?
+T 1581606655 18<29Foxboron18>	earnestly: I even tried asking reddit how one would go about do service hardening in all the other inits. The responses was..well... terrible.
+T 1581606667 24*	Terence has quit (Ping timeout: 240 seconds)
+T 1581606673 18<29Foxboron18>	Someone even suggested you should just be running it in docker/podman
+T 1581606701 18<22earnestly18>	Foxboron: That's apparently what google does anyway, more or less
+T 1581606720 18<22earnestly18>	Foxboron: Although ask dreisner, I may have misunderstood
+T 1581606735 24*	NERD-k has quit (Ping timeout: 260 seconds)
+T 1581606752 18<29Foxboron18>	earnestly: system services shouldn't be running in OCI containers. But if they are running whatever other services - sure.
+T 1581606754 18<29Foxboron18>	I believe that
+T 1581606758 24*	bhoman has quit (Read error: Connection reset by peer)
+T 1581606772 18<22earnestly18>	Foxboron: In other supervisors you'd have to apply hardening using tooling like unshare and co.
+T 1581606780 23*	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net23) has joined
+T 1581606794 24*	chripell has quit (Quit: Leaving)
+T 1581606798 18<29Foxboron18>	earnestly: I'm aware. I was after examples how people *have* implemented this, or how they have attempted. But I got a listing of tools instead of any actual examples.
+T 1581606800 18<29Foxboron18>	Like you did now
+T 1581606820 18<22earnestly18>	Foxboron: Yup, because they're general purpose.  A "service" is simply an executable
+T 1581606835 18<22earnestly18>	Simple like a brick
+T 1581606845 18<29Foxboron18>	earnestly: I'm still after examples how people have done it. Dig me up an example!
+T 1581606856 18<22earnestly18>	Foxboron: I'm not aware of any, I haven't looked
+T 1581606856 18<29Foxboron18>	I'm geniunly curious instead of people just saying "ah just use XYZ"
+T 1581606887 24*	Tazmainian has quit (Remote host closed the connection)
+T 1581606920 18<29Foxboron18>	earnestly: And I find that strange!
+T 1581606934 18<24d9k18>	i've found bwrap infinitely useful for doing all sorts of crap like that
+T 1581606936 24*	ShadowKyogre (7358dd25f8@gateway/shell/jabberfr/x-ijyfmaaqswszywlj24) has left
+T 1581606945 18<29Foxboron18>	I think it's a neat systemd feature and I'm confused why people don't pursue this in other inits
+T 1581606958 18<24d9k18>	i think you could do sd-like namespacing + seccomp stuff with it
+T 1581606960 18<22earnestly18>	Hm, I don't personally find it very strange.  The sort of thinking these people have is not towards trying to patch, plug holes everywhere
+T 1581606965 18<24d9k18>	on other inits
+T 1581606997 18<29Foxboron18>	d9k: I'd love to see how it's used! Because I think it would be a neat learning experience instead of the declarative stuff systemd does
+T 1581606997 24*	Bosak has quit (Read error: Connection reset by peer)
+T 1581607009 18<22earnestly18>	They'd rather run software that isn't exploitable.  There's also the problem of trying to run potentially malicious software on the same machine in a secure way which is fundamentally impossible
+T 1581607013 23*	Bosak (~Thunderbi@109.120.237.13123) has joined
+T 1581607022 23*	stuckedbear (~textual@47.56.17.123) has joined
+T 1581607037 18<22earnestly18>	So I doubt that there has been much effort to "sandbox" services in those communities
+T 1581607037 23*	John_Ivan (~John_Ivan@unaffiliated/john-ivan/x-328716223) has joined
+T 1581607075 18<22earnestly18>	I can't find anything so far
+T 1581607112 18<22earnestly18>	bougyman: Have you come across any instances of runit/s6 which have service hardening?  Such as using namespaces
+T 1581607120 23*	Terence (~terence@212-194-129-150.abo.bbox.fr23) has joined
+T 1581607128 18<20deltasquared18>	personally I'd find it interesting if there was a sort of systemd unit parser that can generate and compile C code to wrap the actual service program. apply sandboxing, set up environment, watch for respawns, etc.
+T 1581607144 18<20deltasquared18>	then just call the generated wrapper from a simpler init system.
+T 1581607147 18<22earnestly18>	deltasquared: perp does the first part of that
+T 1581607157 18<22earnestly18>	The parsing systemd units bit
+T 1581607157 18<20deltasquared18>	earnestly: the compile part or just the parsing?
+T 1581607159 18<20deltasquared18>	ah.
+T 1581607176 24*	cotko has quit (Remote host closed the connection)
+T 1581607177 18<20deltasquared18>	I mean supposedly parsing them ain't hard, it's just keeping up with moving goalposts I guess
+T 1581607189 18<20deltasquared18>	(which is to say, all the directives and their interpretation)
+T 1581607207 18<22earnestly18>	It's INI with duplicate keys, one can mostly ignore the keys which aren't recognised
+T 1581607247 23*	feriman (~feriman@176.104.191.13323) has joined
+T 1581607269 24*	smb374 has quit (Ping timeout: 272 seconds)
+T 1581607274 24*	grzebiel has quit (Ping timeout: 240 seconds)
+T 1581607349 23*	mtn (~mtn@unaffiliated/mtn23) has joined
+T 1581607383 24*	Onslaught2020 has quit (Ping timeout: 272 seconds)
+T 1581607383 24*	jkwnki has quit (Ping timeout: 272 seconds)
+T 1581607389 23*	twelveeighty (~twelveeig@unaffiliated/twelveeighty23) has joined
+T 1581607409 18<22earnestly18>	d9k: I could probably use bwrap to test what happens when software is exposed to arbitrary constraints
+T 1581607417 23*	grzebiel (~grzebiel@217.138.199.4423) has joined
+T 1581607429 23*	r4pr0n (~r4pr0n@gateway/tor-sasl/r4pr0n23) has joined
+T 1581607431 18<25stuckedbear18>	I am identified why am I still unreg?
+T 1581607482 18<19beest18>	are you?
+T 1581607495 18<22earnestly18>	Foxboron: Looking more into bwrap, that would pretty much be the answer.  Tools like chpst (and the former daemontools ones) exposed interfaces to run commands as different users, different environments, in chroots, etc.  That is how runit is typically used
+T 1581607498 18<20deltasquared18>	earnestly: you mean like "no you can't touch this file here because you shouldn't need it"?
+T 1581607506 18<22earnestly18>	deltasquared: Yeah
+T 1581607511 18<24d9k18>	i use it for compiling stuff under other sysroots, dropping net and mount everything ro etc
+T 1581607514 18<22earnestly18>	deltasquared: And then see how it breaks
+T 1581607537 18<22earnestly18>	d9k: How do you compile with ro?
+T 1581607563 18<22earnestly18>	Foxboron: bubblewrap is surprisingly well made too, almost no dependencies; that's really lovely to see \o/
+T 1581607570 18<24d9k18>	i dont want random makefiles to mangle my ~
+T 1581607579 18<24d9k18>	it has happened
+T 1581607583 23*	alephZer0 (andrea@gateway/vpn/protonvpn/alephzer023) has joined
+T 1581607588 18<29Foxboron18>	earnestly: I see barth has it packaged
+T 1581607602 18<22earnestly18>	Foxboron: Yeah I just installed it now
+T 1581607610 18<29Foxboron18>	earnestly: I don't see syscall filtering?
+T 1581607634 24*	solsTiCe has quit (Ping timeout: 240 seconds)
+T 1581607655 24*	nullthevoid has quit (Remote host closed the connection)
+T 1581607666 24*	Helenah has quit (Read error: Connection reset by peer)
+T 1581607667 18<22earnestly18>	Foxboron: In bubblewrap or chpst?  Neither have it afaik.  IIRC thestinger made a seccomp sandbox which rust used for their online compiler
+T 1581607678 18<22jelle18>	he did
+T 1581607699 18<22earnestly18>	Foxboron: https://github.com/thestinger/playpen
+T 1581607700 18<22phrik18>	Title: GitHub - thestinger/playpen: A secure application sandbox built with modern Linux sandboxing features - no longer actively developed, but still works fine, use bubblewrap if you need more functionality (at github.com)
+T 1581607705 18<22jelle18>	bha, too slow =)
+T 1581607720 18<20deltasquared18>	earnestly: ooh, I've got a good one, read-only homedir
+T 1581607728 18<24d9k18>	earnestly: obviously buildroot is rw but everything else ro
+T 1581607775 23*	Helenah (~s98259@unaffiliated/iveeee23) has joined
+T 1581607776 18<25stuckedbear18>	beest sorry I was just being stupid
+T 1581607776 23*	ashpex (~ashpex@171.248.253.24623) has joined
+T 1581607780 18<22earnestly18>	d9k: Oh I wanted to agree, I've had .subversion appearing in HOME because of svnversion usage too.  However I wonder
+T 1581607785 18<22earnestly18>	d9k: Does it warn you at all?
+T 1581607787 24*	tkrizek has quit (Quit: Leaving)
+T 1581607810 18<22earnestly18>	See the testing I'm refering to is to detect this kind of thing and then fix it so that it doesn't write to HOME
+T 1581607816 18<19beest18>	stuckedbear: yes dear channel modes :D
+T 1581607839 24*	agowa338 has quit (Ping timeout: 272 seconds)
+T 1581607843 18<25stuckedbear18>	beest: :D
+T 1581607856 18<20deltasquared18>	earnestly: so read-only home would be a pretty common test case then?
+T 1581607879 18<22earnestly18>	deltasquared: Also this fork: https://github.com/Cloudef/rewritefs
+T 1581607880 18<22phrik18>	Title: GitHub - Cloudef/rewritefs: A FUSE filesystem intended to be used like Apache mod_rewrite (at github.com)
+T 1581607944 18<24d9k18>	you could make your home a tmpfs and do a find after if you want to detect
+T 1581607950 23*	ImQ009 (~ImQ009@unaffiliated/imq00923) has joined
+T 1581607954 23*	Kruppt (~Kruppt@50.111.3.8423) has joined
+T 1581607988 18<22earnestly18>	Foxboron: Oh interesting, bwrap has  --seccomp FD  which lets you "Load and use seccomp rules from FD. The rules need to be in the form of a compiled eBPF program, as generated by seccomp_export_bpf"
+T 1581608013 18<29Foxboron18>	earnestly: ah, neat!
+T 1581608079 24*	xInferno has quit (Ping timeout: 260 seconds)
+T 1581608107 24*	barteks2x has quit (Ping timeout: 260 seconds)
+T 1581608113 24*	twelveeighty has quit (Quit: WeeChat 2.7)
+T 1581608118 18<22earnestly18>	Foxboron: It's funny, bubblewrap does a lot of things.  It implements env(1) including env -C.  In the bernstein chaining world you'd have seperate tools that you then chain.  So `sudo env -i FOO=bar -C somedir unshare --... -- runuser -u "$USER" -- command' lol
+T 1581608141 18<20deltasquared18>	d9k: I've been considering doing that just for my home dir as it is. especially with browsers where it seems with every passing day they want to record your viewing history somehow in some way when I didn't want that to occur. case of whitelisting the files that I care about and detecting changes in just those.
+T 1581608141 18<22earnestly18>	Foxboron: Real example I have in my history (can't quite remember why): sudo perf record -e probe:do_sys_open -o flist -a -- runuser -u "$USER" -- env -i HOME="$HOME" PATH=/usr/bin:/usr/bin/core_perl GNUPGHOME="$GNUPGHOME" XDG_RUNTIME_DIR="$XDG_RUNTIME_DIR" makepkg -Ccrsf -- BUILDDIR=/tmp/makepkg
+T 1581608160 23*	twelveeighty (~twelveeig@unaffiliated/twelveeighty23) has joined
+T 1581608162 24*	thurisaz has quit (Ping timeout: 240 seconds)
+T 1581608172 18<22earnestly18>	Foxboron: That's sudo -> perf -> runuser -> env -> makepkg as a chain lol
+T 1581608178 18<29Foxboron18>	earnestly: neat
+T 1581608180 18<20deltasquared18>	earnestly: if I had to guess, build benchmarking?
+T 1581608182 24*	28usersss is now known as 18niee
+T 1581608187 24*	al has quit (Ping timeout: 240 seconds)
+T 1581608193 18<22earnestly18>	I can see why people like to bundle everything into a single command but I still really like the idea of composition like this
+T 1581608193 18<24d9k18>	i just do a env -i "${myenv[@]}" bwrap...
+T 1581608210 23*	SidharthArya (~user@27.100.13.9823) has joined
+T 1581608215 18<22earnestly18>	So you have pipe | lines, and you have bernstein chains.  The latter collapses into a single command
+T 1581608247 24*	Lord_of_Life has quit (Ping timeout: 260 seconds)
+T 1581608281 24*	Rue has quit (Quit: Rue)
+T 1581608281 23*	cotko (~cotko@188-230-147-88.dynamic.t-2.net23) has joined
+T 1581608289 18<22earnestly18>	Foxboron: It was named after bernstein because of his daemontools which included commands like:  envdir, envuidgid, pgrphack, setlock, setuidgid, etc.  I particularly like how envdir was designed.  Instead of parsing and having to worry about splitting on '=', he just designed it so no parsing was needed
+T 1581608297 23*	al (d@niel.cx23) has joined
+T 1581608316 18<22earnestly18>	Foxboron: I.e. mkdir env; print whatever > env/HOME.  So the environment is a file name and the content is its value; no parsing needed
+T 1581608323 18<20deltasquared18>	earnestly: have you seen execline? it has a similar idea to it
+T 1581608334 18<20deltasquared18>	https://skarnet.org/software/execline/
+T 1581608337 23*	Lord_of_Life (~Lord@unaffiliated/lord-of-life/x-088536223) has joined
+T 1581608338 18<22earnestly18>	deltasquared: Yeah I'm aware of it, not sure I like it tbh, but it is pretty novel
+T 1581608340 18<22phrik18>	Title: execline: a small scripting language (at skarnet.org)
+T 1581608352 24*	freswa has quit (Quit: freswa)
+T 1581608359 18<22earnestly18>	d9k: Yeah I have a script which does essentially that
+T 1581608371 18<24d9k18>	dont we all :D
+T 1581608374 18<22earnestly18>	                    if env -C "$repo" -i "${env[@]}" /bin/time -f '%M' -o memory_usage makepkg -Crscf -- "$tmp"
+T 1581608381 24*	hekel has quit (Read error: Connection reset by peer)
+T 1581608385 18<22earnestly18>	                if ((required_mem < available_mem)); then
+T 1581608387 18<22earnestly18>	                    tmp=BUILDDIR=/tmp/makepkg
+T 1581608409 18<22earnestly18>	(If you wondered what -o memory_usage was for)
+T 1581608451 18<24d9k18>	i always use bwrap for running games too under various versions of mesa
+T 1581608478 18<22earnestly18>	d9k: No LD_LIBRARY_PATH instead?
+T 1581608489 24*	fogobogo has quit (Ping timeout: 268 seconds)
+T 1581608527 23*	panikovsky (~panikovsk@93.178.80.18723) has joined
+T 1581608552 23*	cotko_ (~cotko@188-230-147-88.dynamic.t-2.net23) has joined
+T 1581608554 18<22earnestly18>	Foxboron: nice(1) is chain too, I think you understand
+T 1581608561 24*	cotko has quit (Ping timeout: 272 seconds)
+T 1581608566 23*	freswa (~freswa@exchange.betterbits.de23) has joined
+T 1581608568 23*	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth23) has joined
+T 1581608581 23*	imbus__ (~imbus@h-223-72.A193.priv.bahnhof.se23) has joined
+T 1581608598 18<29Foxboron18>	earnestly: I'm debugging kubernetes :/ my attention span went away
+T 1581608607 23*	mcquinn (~Thunderbi@185.238.219.2223) has joined
+T 1581608636 18<24d9k18>	you could do that too
+T 1581608655 18<22earnestly18>	Foxboron: No worries, IRC is fairly permanent.  This thing deltasquared mentioned is basically an implementation of a shell-like tool using nothing but chaining: https://skarnet.org/software/execline/grammar.html
+T 1581608657 18<22phrik18>	Title: execline: language design and grammar (at skarnet.org)
+T 1581608680 18<22earnestly18>	Foxboron: It's interesting if you enjoy seeing weird solutions/designs to things (like learning FP)
+T 1581608709 24*	imbus_ has quit (Ping timeout: 246 seconds)
+T 1581608785 24*	dkmueller has quit (Quit: WeeChat 2.6)
+T 1581608861 18<20deltasquared18>	though I'd posit that unlike the majority of FP languages that the above has a chance of being efficient by default (within it's caveats)
+T 1581608867 18*	20deltasquared ducks
+T 1581608957 24*	ashpex (~ashpex@171.248.253.24624) has left
+T 1581608965 23*	sudoforge (~sudoforge@cpepool8acmts1-40.sanbrunocable.com23) has joined
+T 1581609093 18<26dreisner18>	earnestly: Foxboron: google uses borg, which is a lot like kubernetes. we don't have a real container format (docker, rkt, etc), though. just a shitton of orchestration.
+T 1581609117 24*	HerbY_NL2 has quit (Quit: Leaving)
+T 1581609133 18<29Foxboron18>	dreisner: But not for system services?
+T 1581609157 18<26dreisner18>	ah, you mean for the bootstrap services needed to bring up the container manager?
+T 1581609164 18<29Foxboron18>	dreisner: Yes
+T 1581609170 24*	grzebiel has quit (Ping timeout: 240 seconds)
+T 1581609171 24*	yunhao94 has quit (Ping timeout: 260 seconds)
+T 1581609173 18<29Foxboron18>	Is there any way to describe this better :p?
+T 1581609195 24*	ttoocs has quit (Ping timeout: 240 seconds)
+T 1581609196 18<26dreisner18>	we have different cluster management software for that.
+T 1581609204 18<26dreisner18>	i guess it's more similar to ansible/chef
+T 1581609210 18<29Foxboron18>	Most likely
+T 1581609219 18<26dreisner18>	those don't run in containers, though, of course
+T 1581609220 23*	idbentley (~ian@ool-44c15c73.dyn.optonline.net23) has joined
+T 1581609232 18<29Foxboron18>	Sure, but I was more curious about system service hardening
+T 1581609237 23*	yunhao94 (~yunhao94@183.198.141.5823) has joined
+T 1581609237 18<29Foxboron18>	!shrug
+T 1581609238 18<22phrik18>	¯\_(ツ)_/¯
+T 1581609243 18<26dreisner18>	oh. i can't speak directly to how that's done.
+T 1581609250 18<29Foxboron18>	I know!
+T 1581609266 18<26dreisner18>	i mean, ignoring legal/nda things, i literally just don't know.
+T 1581609267 24*	dhil has quit (Ping timeout: 240 seconds)
+T 1581609278 18<29Foxboron18>	But there is something :D?
+T 1581609280 18<29Foxboron18>	You think?
+T 1581609283 18<29Foxboron18>	you hope?
+T 1581609285 18<26dreisner18>	maybe? probably?
+T 1581609290 18<26dreisner18>	Top People™ are on that.
+T 1581609298 23*	grzebiel (~grzebiel@217.138.199.4423) has joined
+T 1581609301 24*	28piie is now known as 18piiE
+T 1581609304 23*	infides (~infides@92.117.249.22623) has joined
+T 1581609305 18<26dreisner18>	though i guess it's lower level stuff, so maybe it's Bottom People™.
+T 1581609306 18<29Foxboron18>	Someone stuffed in a cubicle, most likely
+T 1581609318 18<26dreisner18>	open floor plan, dawg!
+T 1581609321 18<26dreisner18>	it's so hip!
+T 1581609322 18<27idbentley18>	After motherboard replacement, my arch partition is no longer seen as a UEFI  boot disk.  I re-installed grub and rebuilt the /etc/fstab, but no luck.  Can anyone suggest a next step to troubleshoot?
+T 1581609341 23*	kelnoky (~shao@ip5f5be490.dynamic.kabel-deutschland.de23) has joined
+T 1581609346 18<29Foxboron18>	dreisner: how open? We atleast have this fun Ikea dividers
+T 1581609388 23*	gschanuel (~gschanuel@177.92.61.323) has joined
+T 1581609437 23*	zalt (~devp@unaffiliated/lambda44323) has joined
+T 1581609445 24*	mrbanie has quit (Quit: WeeChat 2.7)
+T 1581609448 18<29twelveeighty18>	It looks like Chromium 80.x has broken SAML authentication into Amazon AWS SSO, anyone else using this combo and found a workaround?
+T 1581609480 23*	nullthevoid (~nullthevo@unaffiliated/nullthevoid23) has joined
+T 1581609491 24*	tafa has quit (Ping timeout: 265 seconds)
+T 1581609494 23*	fogobogo (~fogobogo@unaffiliated/fogobogo23) has joined
+T 1581609516 23*	mcoffin (~mcoffin@gateway/tor-sasl/mcoffin23) has joined
+T 1581609620 23*	hekel (~hekel@unaffiliated/hekel23) has joined
+T 1581609638 23*	blackandblue (~batdownh@gateway/tor-sasl/blackandblue23) has joined
+T 1581609676 23*	ValkerDieTowerna (~hawkins@197.185.140.16923) has joined
+T 1581609678 24*	holdthedeer has quit (Remote host closed the connection)
+T 1581609699 24*	sepehrdad has quit (Quit: Leaving)
+T 1581609722 24*	novns has quit (Quit: ZNC - https://znc.in)
+T 1581609769 24*	bitdex has quit (Quit: = "")
+T 1581609771 18<19Sacro18>	idbentley: partition type? GRUB has nothing to do with it
+T 1581609784 24*	fyrgebraec has quit (Ping timeout: 268 seconds)
+T 1581609811 18<28andre_kal_18>	How can I mount a drive like the system does it automatically (it makes a folder in /mnt with a random name and the deletes it upon unmounting). Is there a service which does this? Preferably one which can be triggered by somebody without sudo privileges
+T 1581609815 24*	flc has quit (Ping timeout: 260 seconds)
+T 1581609843 18<19CubeTheThird18>	fuse can be used to do that
+T 1581609865 24*	deltasquared has quit (Quit: SEGMENTATION FAULT)
+T 1581609940 18<27idbentley18>	@Sacro - I have 2 seperate SSD boot disks (I use the UEFI boot mgr to select between my Windows drive and arch).  On my arch disc: the /boot partition is the first partition on the boot disk is fat32 and 500MB, the / partition is ext4.
+T 1581609948 24*	q4t1 has quit (Read error: Connection reset by peer)
+T 1581609949 18<28andre_kal_18>	CubeTheThird: Ok, thx, I will try it
+T 1581610034 18<26dreisner18>	|                                | <- that open
+T 1581610039 18<26dreisner18>	sometimes more, sometimes less.
+T 1581610090 24*	Noti has quit (Quit: Konversation terminated!)
+T 1581610122 23*	novns (~novns@unaffiliated/novns23) has joined
+T 1581610122 24*	novns has quit (Remote host closed the connection)
+T 1581610127 23*	tafa (~ta20@109.125.132.9323) has joined
+T 1581610148 23*	novns (~novns@unaffiliated/novns23) has joined
+T 1581610271 24*	yunhao94 has quit (Ping timeout: 272 seconds)
+T 1581610286 23*	dhil (~dhil@2001:630:3c1:90:c866:b19b:f136:582b23) has joined
+T 1581610291 24*	awe00 has quit (Ping timeout: 260 seconds)
+T 1581610311 23*	akiva (~akiva@d50-92-125-120.bchsia.telus.net23) has joined
+T 1581610350 18<27jab41617118>	why are there so many versions of sonarr and radarr https://aur.archlinux.org/packages/?O=0&K=sonarr
+T 1581610352 18<22phrik18>	Title: AUR (en) - Search Criteria: sonarr (at aur.archlinux.org)
+T 1581610352 18<20nullthevoid18>	hey, does anyone uses Brave Browser and can help me with the fonts, because the new update messed my font - they are very sharp and small.
+T 1581610356 24*	bhoman has quit (Read error: Connection reset by peer)
+T 1581610366 24*	chris64 has quit (Quit: leaving)
+T 1581610380 23*	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net23) has joined
+T 1581610385 24*	wart has quit (Ping timeout: 272 seconds)
+T 1581610387 24*	mcquinn has quit (Ping timeout: 240 seconds)
+T 1581610397 18<27jab41617118>	nullthevoid, I've had good luck with an extension similar to this, I forget if it was this exact one: https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke
+T 1581610397 18<22phrik18>	Title: Font Changer with Google Web Fonts™ - Chrome Web Store (at chrome.google.com)
+T 1581610415 23*	baltitenger (c3c795a1@linux.karinthy.hu23) has joined
+T 1581610422 24*	akko has quit (Quit: WeeChat 2.6)

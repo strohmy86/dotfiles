@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "各国の国旗と他の IP を示しています/場所バーの情報をドメイン。"
+   },
+   "longdesc": {
+      "message": "この拡張機能は、現在の web サイトのサーバーの国旗を示しています。ツールチップ都市、地域、国の名前が表示されます。ポップアップは、ドメインについての詳細を示しています。詳細は Alexa と Quantcast のランキングは、Google Pagerank とする MyWOT 評判です。ポップアップのデザインはシンプルで清潔です。あなたのプライバシーを保護するためにだけ私達のデータベースに、ドメイン名を送信します。\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP ドメインの国旗"
+   }
+}

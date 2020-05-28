@@ -1,0 +1,24 @@
+[
+    {
+        "enabled": true,
+        "id": "a0bf54824e069307cc39afd13d5e0abd",
+        "metadata": {
+            "fullname": "xrandr-Ancor Communications Inc-VE228-G8LMQS042635",
+            "name": "VGA-1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]

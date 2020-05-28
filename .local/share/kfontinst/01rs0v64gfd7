@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie eq8 lt9 lt10 "><![endif]-->
+<!--[if IE 9]><html class="ie eq9 lt10 "><![endif]-->
+<!--[if IE 10]><html class="ie eq10 "><![endif]-->
+<!--[if gt IE 10]><html class="ie "><![endif]-->
+<!--[if !IE]><!--><html><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta charset='UTF-8' />
+<title>ConkySymbols - wiltur&#039;s Sta.sh</title>
+<meta http-equiv="x-dns-prefetch-control" content="off" />
+<meta property="fb:page_id" content="6452638289" />
+<link rel="publisher" href="https://plus.google.com/108424020240415471405" />
+<script type="text/javascript" id="dagaua_init">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga("create","UA-322734-6","sta.sh");
+ga("send","pageview");            </script>
+            <script type='text/javascript' id='dwaitdatex-5dbc1575bfc52'>
+(function(){
+    function dwaitdatex_5dbc1575bfc52(DWait) {
+        var DWaitReady = false
+        ,context = this
+        ,cb = function() {
+            DWaitReady = true;
+            var elem = document.getElementById('dwaitdatex-5dbc1575bfc52');
+            context = elem ? elem.parentNode : context;
+            (function(){ ga(function () { PubSub.publish('DaGa.init', {});  }); }).apply(context);
+        };
+        DWait.ready(["jms/lib/pubsub.js", "jms/lib/analytics.js"], cb);
+    }
+
+    function load() {
+        if (window.DWait) {
+            dwaitdatex_5dbc1575bfc52(DWait);
+        } else {
+            setTimeout(load, 100);
+        }
+    }
+
+    load();
+})();
+</script>        <script type="text/javascript">
+            window.vms_features={'wixmp_disable_s3':1,'comment_offset_restoration':1,'mobile_notifications_header':1,'mobile_verification_header':1,'submit_menu_hover':1,'c45_update_ui_component':1,'tooltip_cover_image':1,'updated_t12':1,'wix_billing_processor':1,'wix_billing_processor_prints':1,'updated_collection_card':1,'standalone_xhr':1,'greeny':1,'redesigned_join_email_validation':1,'inline_elninos':1,'comment_v2':1,'browse_anon_default_1w':1};
+            function vms_feature(feature) {
+                return (feature in window.vms_features);
+            }
+                        function is_beta() {
+                return false;
+            }
+        </script>
+        <meta http-equiv="content-language" content="en">
+<meta name="keywords" content="Art, Digital Art, Photography, Traditional Art, Community Art, Contemporary Art, Modern Art, Skins, Themes, Poetry, Prose, Applications, Wallpapers, Online Art">
+<meta name="classification" content="Art">
+<meta name="copyright" content="Copyright 2019 DeviantArt">
+<meta name="description" content="Some symbols for conky ConkySymbols">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png">
+<meta name="twitter:image:src" content="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png">
+<meta property="og:title" content="ConkySymbols">
+<meta property="og:image" content="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png">
+<meta property="og:image:width" content="115">
+<meta property="og:image:height" content="150">
+<meta property="og:url" content="https://sta.sh/01rs0v64gfd7">
+<meta property="og:description" content="Some symbols for conky">
+<meta property="da:appurl" content="DeviantArt://deviation/E48AC5AC-9770-BDFB-250D-301C92B54044">
+<link rel='alternate' href='https://backend.deviantart.com/oembed?url=https%3A%2F%2Fsta.sh%2F01rs0v64gfd7&format=xml' type='application/xml+oembed' title='ConkySymbols'><link rel='alternate' href='https://backend.deviantart.com/oembed?url=https%3A%2F%2Fsta.sh%2F01rs0v64gfd7&format=json' type='application/json+oembed' title='ConkySymbols'>
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/deviantart-network_lc.css?1358959555" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/v6loggedin_lc.css?1374386812" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/stash_lc.css?3709464454" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/sidebar_lc.css?1490570941" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/writer_lc.css?48878683" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/v6core_lc.css?103073543" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/settings_lc.css?3790343989" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/stash.page_lc.css?1494726875" media="Screen,Projection,TV,Print"><link rel="apple-touch-icon" sizes="180x180" href="https://st.deviantart.net/minish/touch-icons/ios-180.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://st.deviantart.net/minish/touch-icons/ios-152.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://st.deviantart.net/minish/touch-icons/ios-120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://st.deviantart.net/minish/touch-icons/ios-76.png">
+<link rel="icon" sizes="192x192" href="https://st.deviantart.net/minish/touch-icons/android-192.png">
+<link rel="icon" sizes="144x144" href="https://st.deviantart.net/minish/touch-icons/android-144.png">
+<link rel="icon" sizes="96x96" href="https://st.deviantart.net/minish/touch-icons/android-96.png">
+<link rel="icon" sizes="48x48" href="https://st.deviantart.net/minish/touch-icons/android-48.png">
+<meta name="application-name" content="Sta.sh" />
+<link href="https://sta.sh/01rs0v64gfd7" rel="canonical">
+<link href="android-app://com.deviantart.android.damobile/DeviantArt/deviation/E48AC5AC-9770-BDFB-250D-301C92B54044" rel="alternate">
+<link rel="alternate" hreflang="en" href="https://sta.sh/01rs0v64gfd7"/>
+<link rel="alternate" hreflang="x-default" href="https://sta.sh/01rs0v64gfd7"/>
+<link href="https://i.deviantart.net/icons/da_favicon.ico" rel="shortcut icon"/>
+<script type="text/javascript">window.__external_data={"css_served":[27],"css_url":"\/\/st.deviantart.net\/roses\/cssmin\/","css_cache":{"1":1572551854888,"4":1572551854889,"25":1572551854889,"27":1572551854889,"51":1572551854889,"53":1572551854889,"55":1572551854889,"58":1572551854889,"61":1572551854889,"64":1572551854889,"66":1572551854889,"69":1572551854889,"71":1572551854889,"85":1572551854890,"87":1572551854890,"97":1572551854890,"99":1572551854890,"101":1572551854890,"103":1572551854890,"105":1572551854890},"css_idx":["admin\/kragle","admin","admin\/goals","blocks\/base","blocks","blocks\/critique","blocks\/freeform","blocks\/pointstransactiongummy","blocks\/poll","blocks\/message-module","blocks\/partials\/dropdown","blocks\/widgets\/bppform","blocks\/widgets\/comment-bubble","blocks\/group-created","blocks\/widgets\/comment-box","blocks\/contest","lib\/da\/btn-62deg","blocks\/group-notice","blocks\/stack","blocks\/bulletin","blocks\/status","blocks\/commission","blocks\/birthdaygummy","blocks\/badge","da\/common\/hub-demo","common","kits\/buttons","core","kits\/forms","kits\/tabs","kits\/loading","kits\/helper-classes","lib\/da\/popup","lib\/da\/modal","lib\/da\/toast","da\/torpedo\/torpedo","da\/torpedo\/freeform","da\/torpedo\/film","da\/torpedo\/gallections","da\/torpedo\/mini","da\/torpedo\/watch","da\/torpedo\/polls","da\/torpedo\/bands","da\/torpedo\/ads","da\/torpedo\/mlt","da\/report\/report","da\/gallerywidget\/gallerywidget","da\/twitch\/twitch-embed","da\/browse\/browse-options","da\/watch\/watch-editor","da\/common\/desktop","desktop","da\/facebook-live\/facebook-live-elnino","facebook-live","da\/hero\/hero","hero","da\/hero\/hero-modules","da\/join\/goals_mobile","join-mobile","da\/join\/verify-mobile","da\/join\/join","join","da\/join\/goals","da\/livethumb\/livethumb","livethumb","da\/mobile\/header","mobile-header","da\/mobile\/mobile-header-white","da\/notes\/mobile-notes","mobile-notes","da\/browse\/mobile-browse","mobile","da\/browse\/mobile","da\/sliding-overlay\/sliding-overlay","da\/sliding-panel\/sliding-panel","da\/common\/mobile","da\/login\/mobile-login","da\/common\/mobile-nav-element","da\/notification-center\/mobile-notification-center","da\/profile\/mobile-profile","da\/forum\/mobile-forum","da\/watch\/mobile-watch","da\/deviation\/mobile-deviation","da\/common\/mobile-agegate","da\/moderation\/moderation","moderation","da\/notification-center\/layout","notification-center","da\/notification-center\/messages","da\/notification-center\/sidebar","da\/notification-center\/mobile","lib\/da\/give-menu","lib\/da\/pagination","lib\/da\/selection","lib\/da\/drag-and-drop","lib\/da\/confirm","lib\/da\/peeky\/peek","peeky","da\/portal\/gogo","portal","da\/postbox\/postbox","postbox","da\/settings\/mobile-settings","settings","da\/twitch\/twitch-elnino","twitch"]};window.__pageload = {"initial_data":{"deviantart-object":{"username":null,"userid":null,"useruuid":null,"usericon":"https:\/\/a.deviantart.net\/avatars\/default.gif","features":["wixmp_disable_s3","comment_offset_restoration","mobile_notifications_header","mobile_verification_header","submit_menu_hover","c45_update_ui_component","tooltip_cover_image","updated_t12","wix_billing_processor","wix_billing_processor_prints","updated_collection_card","standalone_xhr","greeny","redesigned_join_email_validation","inline_elninos","comment_v2","browse_anon_default_1w"],"browseadult":false,"loggedin":false,"showads":false,"isMobile":false,"isVM":false,"clickPaging":false,"verified":0,"authMode":null}},"metadata":{"0.0":{"bi":{"eventname":"username_click","typeid":4,"view":"art","itemid":"3179586"}},"0.1":{"bi":{"eventname":"username_click","typeid":4,"view":"art","itemid":"7721112","sectionname":"comments","rank":0}},"0.2":{"bi":{"eventname":"click_download_button","view":"art","deviationid":411720072,"ispaiddownload":0}}}}</script>
+<link  type="text/css" rel="stylesheet" href="//st.deviantart.net/roses/cssmin/core.css?1572551854889" >
+<link  type="text/css" rel="stylesheet" href="//st.deviantart.net/roses/rosa/commons.022322666430aa35b961.css" ><script type="text/javascript">window.webpackManifest = {"0":"commons.022322666430aa35b961.js","1":"mobile.notification-centre.eacd4a0979779280dac7.js","2":"vendor.5974e21d0b4cea41fef4.js","3":"mobile.sink.9852b5081c9e98f56ae6.js","4":"admin-saucepan.564e124b1afe54c5cbd0.js","5":"cart.d8040e6e5a0c6428283b.js","6":"mobile.login.cf5ad7825a7b86d12d33.js","7":"developer.f665f78e8497398a467e.js","8":"login.dd316b99be38f894928c.js","9":"sink.a35a8d0c614787fe435f.js","10":"admin.3a0e61d10602474507e9.js"};window.__wake = (function(){
+            var q = [];
+            window.__wp_q = q;
+            return function(wake) {
+                q.push(wake);
+            }
+        })();</script><script src="https://static.parastorage.com/polyfill/v2/polyfill.min.js?features=default,es6,es7,Promise.prototype.finally,HTMLCanvasElement.prototype.toBlob,IntersectionObserver&flags=gated&unknown=polyfill" crossorigin></script><script src="https://static.parastorage.com/unpkg/react@16.9.0/umd/react.production.min.js" crossorigin></script><script src="https://static.parastorage.com/unpkg/react-dom@16.9.0/umd/react-dom.production.min.js" crossorigin></script><script src="https://static.parastorage.com/unpkg/immutable@3.8.2/dist/immutable.min.js" crossorigin></script><script src="https://static.parastorage.com/unpkg/lodash@4.17.15/lodash.min.js" crossorigin></script><script src="https://static.parastorage.com/unpkg/@wix/draft-js@0.10.503/dist/Draft.js" crossorigin></script><script type="text/javascript">
+if (!window.deviantART) deviantART = {};deviantART.deviant =[];
+deviantART.pageData={"deviation_initial_hit_ref_unknown":true,"deviation_initial_hit_ref_external":false,"artist_analytics_id":false,"deviationid":411720072,"deviation_urlpath":"\/01rs0v64gfd7","catpath":"resources\/fonts\/other","catpath_titles":"Resources & Stock Images \/ Fonts \/ Other","custom_fullview":1,"pimp_deviation_artist":"wiltur","is_not_favouritable":1,"deviation_has_print":0,"deviation_is_unlockable":0,"privateid":"6477336198053323","submit_button_button_href":"https:\/\/www.deviantart.com\/submit?deviationids=411720072","submit_button_button_label":"Submit","deviation_is_recent":false,"deviation_width":115,"deviation_height":150,"deviation_width_fullview":115,"deviation_height_fullview":150,"deviation_cat_topicid":1,"deviation_download":"file","pimp_me":null,"user":{"symbol":"","username":""},"csrf":"-gfNUBtg_soApYNR.q0aflh.W2tkqE0p_fj1073NPciQyfffyGpb9pV5sPdjxBIpzvg","dwait_total":17};
+
+</script>
+<script type="text/javascript">(function(t){var r=function(r){if(!r||"object"!=typeof r||r.nodeType||r==t)return!1;var n=Object.prototype.hasOwnProperty;try{if(r.constructor&&!n.call(r,"constructor")&&!n.call(r.constructor.prototype,"isPrototypeOf"))return!1}catch(o){return!1}var e;for(e in r);return void 0===e||n.call(r,e)},n=function(t){var o,e={};for(o in t)e[o]=r(t[o])?n(t[o]):t[o];return e},o=Array.isArray||function(t){return"[object Array]"===toString.call(t)},e={},l=/^.*\..*$/,i=function(t){if(t){if("function"==typeof t)throw"Glbl isn't meant to store functions, yo";if(o(t))for(var n=0,e=t.length;e>n;n++)i(t[n]);else if(r(t))for(var n in t)i(t[n])}};t.Glbl=function(t,o){if(1==arguments.length)return o=e[t],r(o)&&(o=n(o)),o;if("string"!=typeof t||!l.test(t))throw console.trace(),"Glbl keys need to be namespaced (dot-separated)";return i(o),r(o)&&(o=n(o)),e[t]=o,o},t.Glbl.dflt=function(t,n){if(r(t)){if(void 0!==n)throw"Misuse of Glbl, you cannot pass a dictionary AND a default value";for(var o in t)Glbl.dflt(o,t[o])}else void 0===Glbl(t)&&Glbl(t,n)},t.Glbl.plus=function(t,r){return 1===arguments.length&&(r=1),i(r),Glbl(t,(0|Glbl(t))+r)},t.Glbl.minus=function(t,r){return 1===arguments.length&&(r=1),i(r),Glbl(t,(0|Glbl(t))-r)},t.Glbl.match=function(t){var r={};for(var n in e)t.test(n)&&(r[n]=e[n]);return r},t.Glbl.del=function(t){void 0!==e[t]&&delete e[t]}})(window);</script>
+<script type="text/javascript">window.deviantART||(window.deviantART={}),function(){var t=function(){};window.breakpoint||(window.breakpoint=t),window.console||(window.console={log:t,trace:t,info:t,warn:t}),window.ddt||(window.ddt={log:t,info:t,warn:t,watch:t,unwatch:t,watching:t,alert:t,error:t})}(),DWait={X:[],L:{},T:{},R:{},D:"jms/dwait/download.js",MC:((window.deviantART||{}).pageData||{}).dwait_total||0,ready:function(t,i){var e,a;for(t instanceof Array||(t=[t]),i instanceof Array||(i=[this,i]),"string"==typeof i[1]&&(i[1]=Function(i[1])),a={},e=0;e!=t.length;e++)a[t[e]]=1;for(DWait.X.push({m:a,c:i}),DWait.fire(),e=0;e!=t.length;e++)DWait._trip(t[e])},_trip:function(t){if(!DWait.L[t]&&DWait.T[t]&&t!=DWait.D){var i=DWait.T[t];DWait.ready(DWait.D,function(){DWait.download(i,function(){DWait.unroll(i)})})}},count:function(){--DWait.MC||setTimeout(function(){DWait.run(".allready")},1)},fire:function(){var t,i,e,a;for(t=0;e=this.X[t];t++){a=!1;for(i in e.m){if(!this.L[i]){a=!0;break}delete e.m[i]}if(!a){this.X.splice(t,1),t--,e.c[1].apply(e.c[0],(e.c[2]||[]).concat([this.L[i]])),setTimeout(function(){DWait.fire()},1);break}}},run:function(t,i,e){t.indexOf("__")>0&&console.log("[DWait] Running branched file: ",t),this.L[t.replace(/__([A-Za-z0-9_-]+)/,"")]=i||1,this.T[t]&&!e&&this.unroll(this.T[t],i),DWait.fire()},unroll:function(t,i){t instanceof Array||(t=[t]);var e,a,n,r,o;for(e=0;a=t[e];e++){if(a=a.replace(/\?.*/,""),n=this.R[a])for(r=0;o=n[r];r++)!this.L[o]&&this._is_css.test(o)&&this.run(o,i,!0);delete this.R[a]}},_is_css:/\.css$/,N:[],readyLink:function(t,i,e){var a;if(window.event&&(window.event.cancelBubble=!0),e instanceof Array||(e=[i,e,[]]),!this.L[t]){for(a=0;a!=this.N.length;a++)if(this.N[a]==i)return!1;this.N.push(i),i.style.cursor="wait",i.className+=" active",this.ready(t,[this,this.fixLink,[i]])}if(this.ready.call(i,t,e),i.blur)try{i.blur()}catch(n){}return!1},linkCheck:function(){return!0},fixLink:function(t){var i;for(t.style.cursor="pointer",t.className=t.className.replace(/\bactive\b/,""),i=0;i!=this.N.length;i++)if(this.N[i]==t)return this.N.splice(i,1)},bind:function(t,i,e){return[t,i,e]},loadDownloadMap:function(t){this.T=t,this.retrip()},loadRollupMap:function(t){this.R=t},retrip:function(){for(var t=this.X.length;t--;)for(var i in this.X[t].m)this._trip(i)},replay:function(){DWait.replay.active=!0;try{$(document.body).on("click.dwait",function(t){t.preventDefault()}).find(".dwaiting").removeClass("dwaiting active").gmiWake().click().end().off("click.dwait")}finally{DWait.replay.active=!1}}},function(){function t(t){t=t||window.event;for(var a,r=t.target||t.srcElement,o=r,c=r,s=d+t.type,l=t.type&&"click"==t.type&&!(DWait.replay&&DWait.replay.active);r&&!(r.getAttribute&&(a=r.getAttribute(s))||l&&/\bdwait\b/.test(r.className));)r=r.parentNode;var f=t.which&&t.which>1||t.button>0;if("click"===t.type&&!t.defaultPrevented&&t.returnValue!==!1&&(t.altKey||t.ctrlKey||t.metaKey||t.shiftKey||f))do if("A"===c.nodeName){if(c.href&&0!==c.href.indexOf("javascript:")&&"#"!==c.href)return!0;break}while(c=c.parentNode);var u=function(){t.stopPropagation?t.stopPropagation():t.cancelBubble=!0,t.preventDefault?t.preventDefault():t.returnValue=!1};return a?r.dwait_init_done?!0:i(a,r)?(u(),r.dwait_init_id?"click"==t.type&&(n[r.dwait_init_id]=o):e(a,r,t),!1):(r.dwait_init_done=!0,!0):l&&r&&/\bdwait\b/.test(r.className)?(/\bdwaiting\b/.test(o.className)||(o.className+=" active dwaiting"),void 0===DWait.replay.active&&(DWait.replay.active=!1,DWait.ready([".jqready",".allready"],DWait.replay)),u(),!1):!0}function i(t,i){if(o[t])for(var e=0;o[t].length>e;e++)if(!o[t][e].call(i,i,t))return!1;return!0}function e(t,i,e){function a(){if(r[t])for(var e=0;r[t].length>e;e++)r[t][e].call(i,i,l);i.dwait_init_done=!0,i.className=i.className.replace(/\binit-waiting\b/,"");var a=n[i.dwait_init_id];a&&a.click&&setTimeout(function(){a.click()},1)}var o=s++,c=i.getAttribute(d+"deps"),l=e&&e.type?e.type:"domready";return i.dwait_init_id=o,"click"==l&&(n[o]=e.target||e.srcElement),c&&c.split?(c=c.split(","),i.className+=" init-waiting",DWait.ready(c,a),void 0):(a(),void 0)}var a,n={},r={},o={},c=["click","mouseover"],d="data-dwait-",s=1;for(DWait.init=function(t,i,e){r[t]||(r[t]=[]),r[t].push(i),"function"==typeof e&&(o[t]||(o[t]=[]),o[t].push(e))},DWait.init_domready=function(t){$("[data-dwait-domready]",t).each(function(){this.dwait_init_done||this.dwait_init_id||!this.getAttribute||e(this.getAttribute("data-dwait-domready"),this)})},DWait.ready(".domready",function(){DWait.init_domready()}),a=0;c.length>a;a++)document.addEventListener?document.addEventListener(c[a],t,!1):document.attachEvent&&document.attachEvent("on"+c[a],t)}();</script>
+<script type="text/javascript">(function(t){if(t.console){var n="ddt_watch",e=" ;path=/ ;domain=."+t.location.host.split(".").slice(-2).join("."),r=["sta.sh","deviantart.com"],a=RegExp("^(https?:)?\\/\\/([^.]+\\.)?("+r.join("|").replace(".","\\.")+")\\b","i"),o=t.parent!==t,i={},s={},d=128,c={get:function(){var t=RegExp("(?:^|; )"+encodeURIComponent(n)+"=([^;]+)"),e=t.exec(document.cookie);return e?(decodeURIComponent(e[1])+"").split(","):[]},set:function(){var n=[];for(var e in i)n.push(e);var a,o=n.join(",");if(!vms_feature("qunit"))for(var s=0;r.length>s;s++){var d=r[s];"deviantart.com"==d&&(d="www.deviantart.com"),a=new Image,a.src="https://"+d+"/ddt/?channels="+o+"&cb="+(new Date).getTime()}c.sync(++t.ddt.version)},del:function(){var r=new Date;r.setTime(r.getTime()-864e5),document.cookie=encodeURIComponent(n)+"=; expires="+r.toUTCString()+e,c.sync(++t.ddt.version)},sync:function(){}};if(t.postMessage)var l=setInterval(function(){t.DWait&&(clearInterval(l),DWait.ready("jms/lib/jquery/jquery.current.js",function(){c.sync=function(n){var e=JSON.stringify({ddt:!0,version:n,channels:i}),r="*",s=$("iframe[src]");s.filter(function(){return a.test(this.src)&&this.contentWindow.ddt&&this.contentWindow.ddt.version!==n}),s.length&&(ddt.log("ddt","syncing channels down",s.length,"frames found"),s.each(function(){this.contentWindow.postMessage(e,r)})),o&&t.parent.ddt.version!==n&&(ddt.log("ddt","syncing channels up"),t.parent.postMessage(e,r))},$(t).on("message.ddt",function(n){var e=n.originalEvent;if(e&&e.data&&e.origin&&a.test(e.origin)){var r;try{r=JSON.parse(e.data)}catch(o){}r&&r.ddt&&r.version&&t.ddt.version!==r.version&&(t.ddt.version=r.version,i=r.channels,ddt.log("ddt","updated watch list to","v"+r.version,"in",t.name,ddt.watching()),c.sync(r.version))}})}))},100);var u=function(t,n){if(n.indexOf("*")>=0){if(t.match(n.replace(/\./g,".").replace(/\*/,".*")))return!0}else if(t.toLowerCase()==n)return!0},f=function(t){return t in console||console.warn("[ddt] cannot proxy this method, it is not defined in console",t),function(n,e){s[n]=!0;var r;for(r in i)if(i.hasOwnProperty(r)&&u(n,r)){var a=Array.prototype.slice.call(arguments,1);return a[0]="["+n+"] "+e,console[t].apply(console,a)}}},g=function(t){return t.length>d&&(console.warn("[ddt] package name exceeds allowed length of "+d+" chars and is truncated to that length",t),t=t.substring(0,d)),t};t.ddt={version:0,log:f("log"),info:f("info"),warn:f("warn"),error:f("error"),trace:function(t){ddt.watching(t)&&(ddt.log.apply(ddt,arguments),console.trace())},list:function(t){var n=Object.keys(s);t&&(n=n.filter(function(n){return u(n,t)})),console.log(n)},createLogger:function(t){var n=function(t){var n=Array.prototype.slice.call(arguments,1);return function(){return t.apply(this,n.concat(Array.prototype.slice.call(arguments,0)))}};return{log:n(ddt.log,t),info:n(ddt.info,t),warn:n(ddt.warn,t),error:n(ddt.error,t),trace:n(ddt.trace,t),alert:n(ddt.alert,t)}},watch:function(n,e){if(!n)return!1;if(n instanceof Array){for(var r in n)t.ddt.watch(n[r],!0);c.set()}else{if(!/^[a-zA-Z0-9*.]+$/.test(n))return console.warn("[ddt] attempted to watch invalid package",n),!1;i[g(n.toLowerCase())]=!0,e||c.set()}return!0},unwatch:function(n,e){if(!n)return console.warn("[ddt] need a package name"),!1;if(n instanceof Array){for(var r in n)t.ddt.unwatch(n[r],!0);c.set()}else{if(!/^[a-zA-Z0-9*.]+$/.test(n))return console.warn("[ddt] attempted to watch invalid package",n),!1;n=g(n.toLowerCase());var a;for(a in i)i.hasOwnProperty(a)&&u(a,n)&&delete i[a];e||c.set()}return!0},watching:function(t){if(t){var n;for(n in i)if(i.hasOwnProperty(n)&&u(t,n))return!0}var e=[];for(var r in i)e.push(r);return e},alert:function(n,e,r,a,o){ddt.warn(n,e,r),DWait.ready(["jms/lib/jquery/jquery.current.js","jms/lib/difi.js"],function(){$.isPlainObject(r)||(r&&console.warn("[ddt] alert data is not a plain object",r),r={}),o!==!1&&(r=$.extend({},r||{}),$.extend(r,{url:t.top.location.href,useragent:navigator.userAgent}),(t.deviantART||{}).deviant&&$.extend(r,{username:deviantART.deviant.username,symbol:deviantART.deviant.symbol,userid:deviantART.deviant.id,features:deviantART.deviant.features})),"string"==typeof a&&(a=[a]),"string"!=typeof e&&(console.warn("[ddt] alert message is not a string",e),e=""+e),DiFi.pushPost("Logr","logr",["js",e,r,a||[]],$.noop),DiFi.send()})}};var v=c.get();v&&(v instanceof Array&&v.length?(t.ddt.watch(v),o||console.log("[ddt] watching",t.ddt.watching())):c.del())}})(window);</script>
+<script type="text/javascript">window.autobob={error:function(i){var e=i.target||i.srcElement;e.style.visibility="hidden";var t=e.src,s=parseInt(e.retries||0,10)+1;t=(-1==t.indexOf("?")?t:t.substr(0,t.length-(s-1+"").length-1))+"?"+s,(!window.isVM||vms_feature("vm_fileserving"))&&6>s?(e.retries=s,setTimeout(function(){(e.readyState||e.complete)&&(e.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",e.style.visibility="visible"),e.src=t},3500)):(e.autobob_done=!0,e.style.visibility="visible")},load:function(i){var e=i.target||i.srcElement;e.style.visibility="visible"}};</script>
+<script type="text/javascript">(function(){function e(e,t,i,n){var a=e/i,d=t/n,o={w:e,h:t};return 1>=a&&1>=d?o:(a>d?(o.w=i,o.h=Math.round(t/a)):(o.h=n,o.w=Math.round(e/d)),o)}function t(t,i,n,g){var l,m=(document.body||{}).clientWidth||window.innerWidth||document.documentElement.offsetWidth,c=window.innerHeight||document.documentElement.offsetHeight,f=m-a-d-o,s=f-v,_=c-w-u-h-p-r,A={};return s=Math.max(300,s),_=Math.max(300,_),l=e(t,i,s,_),200>l.h&&(l.top=Math.round((200-l.h)/2)),m>=n?(A.w=n,A.h=g,l.top&&(A.top=l.top)):(dw=n/m,A.w=m,A.h=Math.round(g/dw)),{normal:l,full:A,full_zoomed:{w:n,h:g}}}var i=!(window.deviantART||{deviant:{}}).deviant.loggedIn||(window.deviantART||{deviant:{}}).deviant.ads,n=Boolean(((window.deviantART||{}).pageData||{}).with_apps),a=331,d=10,o=10,v=0,h=i?60:0,w=43,u=n?25:0,p=8,r=12,g=t(Number(deviantART.pageData.deviation_width),Number(deviantART.pageData.deviation_height),Number(deviantART.pageData.deviation_width_fullview),Number(deviantART.pageData.deviation_height_fullview)),l='<style type="text/css">';for(var m in g)l+=".dev-page-view .dev-view-deviation img.dev-content-"+m+", .dev-page-view .dev-view-deviation .devpage-gate-"+m+" { width:"+g[m].w+"px; height: "+g[m].h+"px "+(g[m].top?"; position:relative; top:"+g[m].top+"px":"")+"}";document.write(l+"</style>")})();</script>
+<script type="text/javascript">document.write('<style type="text/css">div.unscripted, span.unscripted {display:none} div.scripted, div.unlock div.unscripted {display:block} span.scripted, div.unlock span.unscripted {display:inline}</style>');</script>
+<script type="text/javascript">OHM_ON=150,OHM_OFF=300,OHM={disabled:!1,sync:function(e,t){var a;return(a=OHM.getLink(e.target||e.srcElement))?(t||(a=null),OHM.disabled?!1:(OHM.want=a,OHM.timer&&clearTimeout(OHM.timer),navigator.userAgent.indexOf("Mobile")>=0?OHM.hit("m",e.target):OHM.timer=setTimeout(OHM.hit,OHM.got&&a?10:a?OHM_ON:OHM_OFF),void 0)):!1},hit:function(e,t){if(delete OHM.timer,OHM.want&&"m"==e){for(;!t.href&&(t=t.parentNode););t&&!t.onclick&&(t.className||"").match(/\bmi\b/)&&(window.location.href=t.href)}OHM.want!=OHM.got&&(OHM.got&&(OHM.got.className=OHM.got.className.replace(/\s*\bmmhover{1,2}\b/g,""),window.Popup2&&Popup2.showOverlayElements(),window.PubSub&&PubSub.publish("OHM.hit",{id:OHM.got.id,on:0})),OHM.got=OHM.want,OHM.got&&window.Popup2&&(OHM.got.className+=" mmhover",window.PubSub&&PubSub.publish("OHM.hit",{id:OHM.got.id,on:1})))},getLink:function(e){for(;("DIV"!=e.tagName&&"TD"!=e.tagName||!((e.className||"").indexOf("oh-ml")>=0||(e.className||"").indexOf("oh-hashover")>=0||(e.className||"").indexOf("oh-hasbutton")>=0)||!((document.body.className||"").indexOf("no-apps")>=0||(document.body.className||"").indexOf("stash-submit-page")>=0||0>(e.className||"").indexOf("oh-mmain")))&&(e=e.parentNode);)if("H1"==e.tagName)return 0;return e}};</script><script type="text/javascript">if (window.DWait) {DWait.run('jms/lib/glbl.js');DWait.run('jms/dwait/dwait.js');DWait.run('jms/lib/ddt.js');DWait.run('jms/chrome/autobob.js');DWait.run('jms/pages/deviation/dev-page-view-inline-sizer.js');DWait.run('jms/lib/unscripted.js');DWait.run('jms/chrome/overhead_mouse.js');}</script><script type="text/javascript">
+            DWait.loadRollupMap({"https:\/\/st.deviantart.net\/css\/deviantart-network_lc.css":["cssms\/lib\/survival.css","cssms\/lib\/nudge.css","cssms\/lib\/thumbnails.css","cssms\/lib\/thumbnails-200H.css","cssms\/lib\/thumbnails-stream.css","cssms\/lib\/thumbnails-maturefilter.css","cssms\/lib\/thumbnails-lit.css","cssms\/lib\/thumbnails-journal.css","cssms\/lib\/thumbnails-film.css","cssms\/lib\/thumbnails-misc.css","cssms\/lib\/thumbnails-profilecard.css","cssms\/lib\/thumbnails-stack.css","cssms\/lib\/deviation-placeholders.css","cssms\/lib\/maturefilter.css","cssms\/lib\/icons.css","cssms\/lib\/popup.css","cssms\/lib\/shadows.css","cssms\/lib\/modals.css","cssms\/modals\/purchase-modal.css","cssms\/pages\/misc\/gmbutton2.css","cssms\/pages\/misc\/smbutton.css","cssms\/pages\/grusers\/boxes.css","cssms\/modals\/signup-modal.css","cssms\/pages\/refurb\/da-modals.css","cssms\/pages\/verify.css","cssms\/pages\/misc\/subble.css","cssms\/pages\/misc\/quicktip.css","cssms\/pages\/misc\/buttons.css","cssms\/pages\/comment-box.css","cssms\/pages\/misc\/megamisc.css","cssms\/pages\/deviation\/paddles-ab.css","cssms\/pages\/misc\/iconbar.css","cssms\/topsecret\/quiet-comments.css","cssms\/pages\/talkpost.css","cssms\/lib\/pager.css","cssms\/lib\/da.misc.widgets.pager.css","cssms\/pages\/deviation\/deviation-misc.css","cssms\/pages\/deviation\/deviation-devlinkzone.css","cssms\/pages\/deviation\/deviation-stash.css","cssms\/pages\/deviation\/deviation-group.css","cssms\/pages\/deviation\/deviation-share.css","cssms\/pages\/deviation\/deviation-ch.css","cssms\/pages\/deviation\/deviation-artistcomments.css","cssms\/pages\/deviation\/deviation-sparta.css","cssms\/pages\/deviation\/deviation-boxtop.css","cssms\/pages\/deviation\/deviation-popup2.css","cssms\/pages\/deviation\/deviation.css","cssms\/pages\/deviation\/dev-page-view-common.css","cssms\/pages\/deviation\/dev-page-view-right-bar.css","cssms\/pages\/deviation\/dev-page-view-about.css","cssms\/pages\/deviation\/dev-page-view-challenge.css","cssms\/font\/calibre.css","cssms\/chrome\/overhead.css","cssms\/chrome\/body-misc.css","cssms\/chrome\/v6-legacy.css","cssms\/chrome\/navbar.css","cssms\/pages\/writeranywhere.css","cssms\/lib\/writer-overrides.css","cssms\/pages\/refurb\/colors.css","cssms\/pages\/refurb\/da-editor.css"],"https:\/\/st.deviantart.net\/css\/v6loggedin_lc.css":["cssms\/lib\/drag.css","cssms\/minish\/lub.css","cssms\/pages\/misc\/progressbar.css","cssms\/pages\/grusers\/editmode.css","cssms\/pages\/grusers\/editmode-modal.css","cssms\/lib\/jquery\/jquery.select.pager.css","cssms\/pages\/refurb\/da-groups.css"],"https:\/\/st.deviantart.net\/css\/stash_lc.css":["cssms\/pages\/stash\/stash.css","cssms\/pages\/stash\/stash.header.css","cssms\/pages\/stash\/stash.folder.css","cssms\/pages\/stash\/stash.uploadzone.css","cssms\/pages\/stash\/stash.auth.css","cssms\/pages\/stash\/stash.upgrade.css","cssms\/pages\/stash\/stash.thumb.dnd.css","cssms\/pages\/stash\/stash.thumb.hover.css","cssms\/pages\/stash\/stash.thumb.upload.css","cssms\/pages\/stash\/stash.thumb.stack.css","cssms\/pages\/stash\/stash.override.comments.css","cssms\/pages\/stash\/stash.override.deviation.css","cssms\/pages\/stash\/stash.override.global.css","cssms\/pages\/stash\/stash.override.header.css","cssms\/pages\/stash\/stash.override.modal.css","cssms\/pages\/stash\/stash.override.pagination.css","cssms\/pages\/stash\/stash.override.thumbs.css","cssms\/pages\/writeranywhere\/stashdesc.css","cssms\/pages\/writeranywhere\/stackdesc.css","cssms\/pages\/ile\/ile.shares.with.stash.css"],"https:\/\/st.deviantart.net\/css\/sidebar_lc.css":["cssms\/lib\/writer-sidebar.css"],"https:\/\/st.deviantart.net\/css\/writer_lc.css":["cssms\/lib\/writer.css","cssms\/lib\/writer-imagecontrols.css","cssms\/lib\/writer-toolbar.css","cssms\/lib\/writer-subtoolbar.css","cssms\/lib\/autocomplete.css"],"https:\/\/st.deviantart.net\/css\/v6core_lc.css":["cssms\/pages\/lesport.css","cssms\/lib\/deviantsymbols.css","cssms\/lib\/logo.css","cssms\/chrome\/depthsv7.css","cssms\/pages\/misc\/tabselect.css","cssms\/chrome\/nav.css","cssms\/pages\/critique-deviation.css","cssms\/pages\/critique-itempage.css","cssms\/pages\/deviation\/groupmenu.css","cssms\/pages\/deviation\/journals.css","cssms\/pages\/deviation\/literature.css","cssms\/pages\/devwatch-editor.css","cssms\/pages\/deviationmanage.css","cssms\/pages\/browse\/browse.css","cssms\/pages\/browse\/browse-buttons.css","cssms\/pages\/browse\/browse-journals.css","cssms\/pages\/browse\/newbrowse.css","cssms\/pages\/ad-square.css","cssms\/pages\/ad-da-custom.css","cssms\/pages\/ad-download.css","cssms\/pages\/ad-top.css","cssms\/pages\/ad-mc.css","cssms\/pages\/ad-gruser.css","cssms\/pages\/ad-core.css","cssms\/pages\/ad-yahoo.css","cssms\/minish\/hpto.css","cssms\/pages\/misc\/gmbutton.css","cssms\/topsecret\/contests.css","cssms\/lib\/thumbnails-news.css","cssms\/lib\/thumbnails-portal.css","cssms\/lib\/commentcount.css","cssms\/lib\/thumbnails-cropthumb.css","cssms\/pages\/deviation\/deviation-favebtn.css","cssms\/pages\/deviation\/deviation-megabag.css","cssms\/pages\/deviation\/deviation-collect.css","cssms\/pages\/deviation\/deviation-more.css","cssms\/pages\/deviation\/deviation-iconcommentstats.css","cssms\/pages\/browselikethis\/browselikethis.css","cssms\/pages\/browselikethis\/browselikethis.top_bar.css","cssms\/pages\/browselikethis\/browselikethis.left_bar.css","cssms\/pages\/browselikethis\/browselikethis.results.css","cssms\/pages\/browselikethis\/browselikethis.deviation_full_views.css","cssms\/pages\/browselikethis\/browselikethis.groups.css","cssms\/pages\/browselikethis\/browselikethis.shop.css","cssms\/pages\/browselikethis\/browselikethis.ads.css","cssms\/pages\/browselikethis\/browselikethis.search_input.css","cssms\/pages\/refurb\/da-browselikethis.css","cssms\/pages\/discoverytag\/discoverytag.css","cssms\/pages\/discoverytag\/discoverytag.right_bar.css","cssms\/pages\/challenge\/challenge.css","cssms\/pages\/agegate.css","cssms\/pages\/newbies.css"],"https:\/\/st.deviantart.net\/css\/settings_lc.css":["cssms\/pages\/settings\/settings.css","cssms\/pages\/settings\/settings.identity.css","cssms\/pages\/settings\/settings.general.css","cssms\/pages\/settings\/settings.sessions.css","cssms\/pages\/settings\/settings.activation.css","cssms\/pages\/settings\/settings.applications.css","cssms\/pages\/settings\/settings.billing.css","cssms\/pages\/settings\/settings.deactivation.modal.css","cssms\/pages\/settings\/settings.gdpr.css"],"https:\/\/st.deviantart.net\/css\/notes-modal_lc.css":["cssms\/pages\/deviation\/note-modal.css"],"https:\/\/st.deviantart.net\/css\/artzone_lc.css":["cssms\/pages\/film.css","cssms\/lib\/deck.css","cssms\/pages\/grusers\/gallery.css","cssms\/pages\/comments.css","cssms\/pages\/talkpost-files.css"],"https:\/\/st.deviantart.net\/css\/stash.page_lc.css":["cssms\/pages\/stash\/stash.page.css","cssms\/pages\/stash\/stash.page.news.css","cssms\/pages\/stash\/stash.page.toolbar.css","cssms\/pages\/stash\/stash.page.footer.css"]});
+            </script>
+<script type="text/javascript">
+                if (window.DWait) {
+                    for (var dwaitrollup in {"https:\/\/st.deviantart.net\/css\/deviantart-network_lc.css":true,"https:\/\/st.deviantart.net\/css\/v6loggedin_lc.css":true,"https:\/\/st.deviantart.net\/css\/stash_lc.css":true,"https:\/\/st.deviantart.net\/css\/sidebar_lc.css":true,"https:\/\/st.deviantart.net\/css\/writer_lc.css":true,"https:\/\/st.deviantart.net\/css\/v6core_lc.css":true,"https:\/\/st.deviantart.net\/css\/settings_lc.css":true,"https:\/\/st.deviantart.net\/css\/stash.page_lc.css":true}) {
+                        DWait.unroll(dwaitrollup);
+                    }
+                }
+                </script>
+<script type="text/javascript">DWait.ready(["jms\/lib\/glbl.js"], function(){ Glbl('deviantART.user_agreed_to_submission_policy', false); Glbl('Site.is_eclipse', true); Glbl('Stash.mode', "readonly"); Glbl('Signup.no_redirect', true); Glbl('Bi.view', "art"); Glbl('Bi.component', null); Glbl('Submit.is_new_submit_form', true); Glbl('StashUploader.image_size_limit', 83886080); Glbl('StashUploader.default_size_limit', 209715200); Glbl('StashUploader.text_size_limit', 65500);  });</script>
+
+<script type="text/javascript" src="https://st.deviantart.net/css/deviantart-safeframes-host_jc.js?1506201991" charset="utf-8"></script></head>
+<body id="deviantART-v7" class="secure multisubmit white bubble gruze no-apps stash-page maturefilter maturehide loggedout">
+
+<script type="text/javascript" async  src="https://st.deviantart.net/css/deviantart-network_jc.js?2340126098" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/v6core_jc.js?2097413736" charset="utf-8"></script>
+    <header id="overhead-collect">
+        <iframe id="bg_auth_iframe" src="https://sta.sh/login/oauth/hidden"></iframe>        <table id="overhead" data-header-refresh="Stash;getHeaderHTML"     onmouseover="OHM.sync(arguments[0]||event,1);"
+    onmouseout="OHM.sync(arguments[0]||event,0);"><tr>
+            <td class="oh-keep"></td><td class="oh-hasmenu oh-hashover oh-mmain oh-stashmain">
+        <a href="https://sta.sh" onclick="PubSub.publish('StashPageNavigation.escape_to_root'); return false;" class="oh-l">
+            <span class="oh-stashlogo"><img width="30" height="30" src="https://a.deviantart.net/avatars/w/i/wiltur.jpg?7" class="avatar"/>
+                <span class="oh-stashlogo-name">wiltur's</span>
+            </span>
+            <span class="oh-stashtitle">Sta.sh</span>
+            <span class="oh-submiticon"></span>
+            <span class="oh-stashsubmit">Submit</span>
+        </a>
+        <div id="oh-mainmenu" class="oh-menu iconset-more stash-menu">
+            <a class="mi" href="https://sta.sh"><i class="i1337"><img width="20" height="20" src="https://a.deviantart.net/avatars/default.gif" class="avatar"/></i>Sta.sh</a>
+                        <a class="mi" href="https://sta.sh/writer"><i class="idkfa"></i>Sta.sh Writer</a>
+                        <a class="mi" href="https://sta.sh/muro"><i class="i49"></i>DeviantArt muro</a>
+            <a class="mi verify-link" href="https://www.deviantart.com/submit"><i class="iddt"></i>Submit</a>
+            <div class="oh-hr"></div>
+            <a class="mi" href="https://www.deviantart.com/"><i class="iddqd"></i>DeviantArt</a>
+            <div class="oh-hr oh-hrlast"></div>        </div>
+    </td>
+    <td class="oh-stash-toolbar oh-default-toolbar oh-keep">        
+        <div class="stash-toolbar default-toolbar"></div>
+    </td>
+
+    <td class="oh-gap">&nbsp;</td>
+
+
+                </tr></table>
+    </header><div id="output">
+    <script type="text/javascript">DWait.ready([".domready",".jquery","jms\/lib\/gmi.js"], function(){     $(window).bind('message', function (e) {
+        var message_data = e.data || e.originalEvent.data;
+
+        if (typeof message_data == "string" && message_data.match(/logged_in/)) {
+            try {
+                message_data = JSON.parse(message_data);
+            } catch (e) {
+                return;
+            }
+
+            if (!message_data.logged_in) {
+                return;
+            }
+            DiFi.pushPrivateGet('Stash', 'getHeaderHTML', [], function (success, data) {
+                if (success) {
+                    $('#overhead-sc, #overhead tr').fadeOut(function () {
+                        gWebPage.update(data.response.content);
+                        var $menu2 = $('<div></div>').html(data.response.content.html);
+                        $(this).find('.oh-hasmenu').replaceWith($menu2.find('.oh-hasmenu'));
+                        if (window.location.href.match(/\?edit=1$/)) {
+                            $(this).show();
+                            if (message_data.username == window.deviantART.pageData.pimp_deviation_artist) {
+                                PubSub.publish('DeviationPageEditor.open');
+                            }
+                        } else {
+                            $(this).fadeIn();
+                        }
+                    });
+                } else {
+                    console.log('Err', data.response.content);
+                }
+            });
+
+            var rvc = GMI.query('ResViewContainer')[0];
+            rvc.gmi_args.id = deviantART.pageData.privateid;
+            rvc.reloadExtrasPane({force_stash: true});
+        }
+    });
+ });</script>
+        <div class="dev-page-container bubbleview" style="">
+        <div data-gmiclass="DeviationPageView"
+               class="dev-page-view view-mode-normal"
+             gmi-deviationid="411720072" gmi-userid="3179586">            <div class="dev-view-main-content">
+                        <div class="dev-view-deviation">
+                    <img collect_rid="1:411720072" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png" data-embed-type="deviation" data-embed-format="thumb" data-embed-id="6477336198053323"              width="115"
+             height="150"
+             alt="ConkySymbols by wiltur"             class="dev-content-normal "
+             data-bi='{"typeid":1,"sectionname":"top_bar","creatorid":"18da117f-4a06-4c82-98df-5fb8212f85a1"}'>
+        <img collect_rid="1:411720072" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png" data-embed-type="deviation" data-embed-format="thumb" data-embed-id="6477336198053323"              width="115"
+             height="150"
+             alt="ConkySymbols by wiltur"             class="dev-content-full ">        </div>
+                                <div class="dev-view-about">
+                    <div class="dev-view-about-content">
+                    <div class="dev-title-container "><span class="dev-title-avatar"><a target="_self" href="https://www.deviantart.com/wiltur" ><img class="avatar" height="50" src="https://a.deviantart.net/avatars/w/i/wiltur.jpg?7" alt=":iconwiltur:" title="wiltur" /></a></span>        <h1>
+        <a class="title" href="https://sta.sh/01rs0v64gfd7">ConkySymbols</a> <small class="author"><span class="by">by </span><span class="username-with-symbol u"><a class="u regular username" href="https://www.deviantart.com/wiltur" target="_self">wiltur</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></small></h1><div class="dev-about-cat-cc"><span class="cc-copy">&copy;2013-2019 <span class="username-with-symbol u"><a class="u regular username" href="https://www.deviantart.com/wiltur" target="_self">wiltur</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></span></div><div class="dev-about-tags-cc dev-about-breadcrumb"></div></div><div class="">
+                        <div class="dev-description" >        <div class="text-ctrl">
+                <div class="text block">Some symbols for conky <img src="https://e.deviantart.net/emoticons/s/smile.gif" width="15" height="15" alt=":)" data-embed-type="emoticon" data-embed-id="391" title=":) (Smile)"/></div>
+        </div></div>
+        </div><div class="dev-page-below-tabs">
+            <a id="comments"></a>    <div class="talk-tower tower-commentcontrol" name="gmi-CCommentMaster" id="gmi-CCommentMaster" data-gmiclass="CCommentMaster"><div class="drawplz-attachment-ctrl iconset-itscoming" style="display:none">
+        <a style="padding-left:26px !important" href="" class="gmbutton2 gmbutton2g"><i class="i1 icon"></i> Load All Images<b></b></a>
+        </div><div class="ccomment-thread" name="gmi-CCommentThread" id="gmi-CCommentThread" data-gmiclass="CCommentThread" gmi-order="2" gmi-offset="0" gmi-count_per_page="50" gmi-typeid="61" gmi-itemid="411720072" gmi-rootid="" data-dwait-deps="jms/pages/ccommentthread.js" data-dwait-domready="ccommentthread_wake_and_toggle">
+    <div class="ccomment ch "  name="gmi-CComment" id="gmi-CComment" data-gmiclass="CComment" gmi-commentid="4344584367" gmi-itemid="411720072" gmi-typeid="61" gmi-private="0" gmi-hidetext="Owner" gmi-splitid="3179586" gmi-authorid="7721112" data-dwait-deps="jms/pages/ccomment.js" data-dwait-domready="GMI.wake">
+        <div class="ch-ctrl">
+            <i class="l"></i><span class="cc-avatar"><a target="_self" href="https://www.deviantart.com/ilnanny"  data-sigil="click-event-tracker" data-meta="0.1"><img class="avatar" width="50" height="50" src="https://a.deviantart.net/avatars/i/l/ilnanny.jpg?6" alt=":iconilnanny:" title="ilnanny" /></a></span>                    <div class="ctext ch">
+                        <div class="ch-ctrl cc-in">
+                            <div class="cc-meta">
+
+        
+                <span class="cc-name"><span class="username-with-symbol u"><a class="u regular username" href="https://www.deviantart.com/ilnanny"  data-sigil="click-event-tracker" data-meta="0.1" target="_self">ilnanny</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></span>
+                <span class="cc-featured">Featured By Owner</span>
+        <span class="cc-time"><a title="138 weeks and 2 days ago (at 1:55:54 PM)" href="https://sta.sh/comments/61/1rs0v64gfd7/4344584367">Mar 7, 2017</a></span>
+                <span class="cc-userdetails"><span class="cc-seperator">&nbsp;</span>Hobbyist Digital Artist        </span>
+            </div>
+                            <div class="text text-ii">Thanks <img src="https://e.deviantart.net/emoticons/b/biggrin.gif" width="15" height="15" alt=":D" data-embed-type="emoticon" data-embed-id="366" title=":D (Big Grin)"/></div>
+                    </div>
+                </div>
+                <a class="gmbutton2 reply" href="https://sta.sh/comments/61/1rs0v64gfd7/4344584367#reply" onclick=" if (window.GMI) return GMI.up(this, 'CComment').replyClick() ">Reply<b></b></a>        </div>
+    </div>
+
+</div><div         class="pagination-wrapper " data-sigil="manual-paging"
+     name="gmi-GPager" id="gmi-GPager" data-gmiclass="GPager" gmi-limit="1"><div class="pagination both-paddles-disabled"><ul class="pages"><li class="prev disabled"><a class="disabled"><span>Prev</span></a></li><li class="next disabled"><a class="disabled"><span>Next</span></a></li></ul></div></div><form class="f" id="cooler-comment-submit" action="https://www.deviantart.com/comments/post" method="post" onsubmit="if (this.body.value.length == 0 || !this.body.value.match(/[^\s]/)) { alert ('You must type something.'); return false; } var now = (new Date).valueOf(); if (now > (window.LAST_FORM_POST || 0)) { window.window.LAST_FORM_POST = now + 3000; return true } else { return false }">
+
+    <div class="ccomment-form" style="padding-bottom:0"  name="gmi-TalkPostWrapper" id="gmi-TalkPostWrapper" data-gmiclass="TalkPostWrapper" gmi-typeid="61" gmi-itemid="411720072" gmi-splitid="411720072" gmi-ownerid="3179586">
+    <input type="hidden" name="ref" value="https://sta.sh/01rs0v64gfd7" />
+    <input type="hidden" name="typeid" value="61" />
+    <input type="hidden" name="itemid" value="411720072" />
+    <input type="hidden" name="splitid" value="411720072" />
+    <input type="hidden" name="ownerid" value="3179586" />
+    <input type="hidden" name="private" value="0" />
+    <input type="hidden" name="validate_key" value="1572607349" />
+    <input type="hidden" name="validate_token" value="f1e867e4e1f2ddb6a030" />
+            <img style="display:none" class="cx" src="https://st.deviantart.net/minish/messages/neutral-x.gif" alt="x"/>
+                <a target="_self" href="#" ><img class="avatar" width="50" height="50" src="https://a.deviantart.net/avatars/default.gif" alt="" title="" /></a>        <div class="h">
+            <div class="name" style="display:none">
+                <i class="l"></i>
+            </div>
+            <div class="ccname">
+                <span class="ccusername"></span>
+                <span class="cclabel">Add a Comment:</span>
+            </div>
+            <div class="cctextarea"><div class="cctextarea-ctrl">
+                <div class="previewbox" style="display:none"></div>
+                <div class="inputblocker" style="display:none"></div>
+                <textarea class="text writeranywhere " tabindex="11" data-type="stashcomment"
+                    placeholder=""
+                    id="commentbody" name="body" rows="15" cols="60"></textarea>
+                <div style="word-wrap: break-word; font-weight: normal; width: 575px; font-family: verdana, sans-serif; line-height: 17px; font-size: 12px; padding-left: 3px; padding-bottom: 3px; padding-right: 110px; padding-top: 3px; position: absolute; display: none; ">&nbsp;</div>
+            </div>
+            <i class="l"></i>
+            </div>
+        </div>
+                <div class="inputs" style="position:relative;text-align:right">
+            <div class="scripted">
+                <a href="#" class="smbutton smbutton-pale smbutton-big preview" tabindex="13" onclick="GMI.up(this).previewClick();return GMI.evCancel()"><span>Preview</span></a>
+                <span style="display: inline-block; width: 10px">&nbsp;</span>
+                <a href="#" class="smbutton smbutton-green smbutton-big comment-submit" tabindex="12" onclick="GMI.up(this).sendClick();return GMI.evCancel()"><span class="post">Submit Comment</span></a>
+            </div>
+            <div class="unscripted">
+                <input class="post comment-submit" type="submit" value="Send" tabindex="14">
+            </div>
+            <div style="position:absolute;left:0;_left:-8em;top:4px;font-size:8.25pt">
+                            </div>
+        </div>
+
+    </div>
+    </form>    </div>
+    </div>                    </div>
+                </div>
+            </div>
+                    <div class="dev-view-meta">
+            <div class="dev-view-meta-content">
+            <div class="dev-meta-actions">        <div style="display:none" data-sigil="minibrowse-remove-message"  name="gmi-ResourceViewMessageButton" id="gmi-ResourceViewMessageButton" data-gmiclass="ResourceViewMessageButton"></div>
+        <a class="dev-page-button dev-page-button-with-text dev-page-download"
+             href="https://sta.sh/download/6477336198053323/d6t4l8o-e9d1e73e-215f-4ff5-9259-294baeed3aa8?token=9ade01c6b1166a77fe50e45785324be4d1b6c083&amp;ts=1572607949"
+             rel="nofollow"  data-sigil="click-event-tracker" data-meta="0.2" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;download_file&quot;,&quot;nofollow&quot;:1}"  data-download_url="https://sta.sh/download/6477336198053323/d6t4l8o-e9d1e73e-215f-4ff5-9259-294baeed3aa8?token=9ade01c6b1166a77fe50e45785324be4d1b6c083&amp;ts=1572607949"  data-gmiclass="DownloadButton"  data-dwait-domready="GMI.wake"  data-dwait-click="GMI.wake"  data-dwait-deps="jms/pages/deviation/dev-page-view.js"  data-deviationid="411720072" >
+             <i></i>
+             <span class="label">Download</span>
+                             <span class="text">TTF download, 32.9 KB</span>
+                      </a></div>            <hr class="fade-highlight-bar">
+            <h3 class="dev-right-bar-title dev-metainfo-title dev-metainfo-details">Details</h3>
+                <div class="dev-right-bar-content dev-metainfo-content dev-metainfo-details" data-dwait-deps="jms/pages/deviation/dev-page-view.js" data-dwait-domready="DeviationPageView.meta_info">
+            <dl><dt>Uploaded on</dt><dd><span title="5 years, 11 months and 3 weeks ago" ts="1383662013" offset="-1">November 5, 2013</span></dd><dt>File Size</dt><dd>32.9 KB</dd></dl>        </div>
+                    <hr class="fade-highlight-bar">
+            <h3 class="dev-right-bar-title dev-metainfo-title dev-metainfo-stats">Stats</h3>
+                <div class="dev-right-bar-content dev-metainfo-content dev-metainfo-stats" >
+            <dl><dt>Views</dt><dd>5,928</dd><dt>Comments</dt><dd>1</dd><dt>Downloads</dt><dd>2,585</dd></dl>        </div>
+            <div class="preload" id="pimp-preload"><span class="i"></span><span class="ii"></span><span class="iii"></span></div>
+    <div id="pimp-6477336198053323" class="light pimp" style="display:none">
+        <div class="pimp-holder" data-pimptype="deviation">
+            <div class="funzone c"></div>
+            <div class="pimp-note" style="padding:48px 32px;_padding:48">
+                <div style="_white-space:nowrap"><label>To</label><input class="itext" tabindex="303" maxlength="250" type="text" name="recipients" onkeypress="return Blogobox.inputKey(window.event || arguments[0], this)"/>
+                <a href="#" tabindex="304" class="a iconset-modules gmhyper gmbutton2 gmbutton2qn" data-fixed-popup-position="1" onclick="return DWait.readyLink('jms/pages/friends.js', this, 'Friends.open(this,function(res){Blogobox.noteFriend(this[0],res);})')" onmouseover="if (t=document.getElementById('sitemap-groups-menu'))t.parentNode.removeChild(t)"><i class="icon i28" style="margin-top: 6px;"></i><b></b></a></div>
+                <div class="pt">
+                    <label class="ii">Message</label>
+                    <div class="textarea">
+                        <div class="preview" onclick="return Blogobox.noteFocus(this)">
+                            <span class="shadow-holder"><div class="tt-a stash-tt-a ta" collect_rid="1:6477336198053323" usericon="https://a.deviantart.net/avatars/w/i/wiltur.jpg?7" userid="3179586" username="wiltur" symbol="~" category="resources/fonts/other"><span class="tt-w"><span class="shadow mild" ><a class="thumb" href="https://sta.sh/01rs0v64gfd7" title="ConkySymbols by wiltur, Nov 5, 2013 in Resources &amp; Stock Images &gt; Fonts &gt; Other"        data-sigil="thumb">
+        <i></i><img   onerror="autobob.error(event)" onload="autobob.load(event)" width="115" height="150" alt="ConkySymbols by wiltur" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png" data-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png" srcset="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/18da117f-4a06-4c82-98df-5fb8212f85a1/d6t4l8o-24d1f1b9-226e-4cdb-a7d0-7a61e8c6f5f2.png 115w" sizes="115px"></a></span><!-- ^TTT --><!-- TTT$ --></span></div></span>                        </div>
+                        <!-- #9470 -->
+                        <textarea tabindex="303" onkeydown="return Blogobox.inputKey(window.event || arguments[0], this)"></textarea>
+                    </div>
+                </div>
+                <br/>
+                <div class="">
+                </div>
+                <div style="_white-space:nowrap"><input tabindex="303" class="isend" type="button" value="Send" onclick="Blogobox.note(this)" style="width:10ex;font-size:10pt"/>
+                &nbsp;&nbsp;
+                <input tabindex="304" class="icancel" type="button" value="Cancel" onclick="Modals.pop()" style="width:10ex;font-size:10pt"/></div>
+                <kbd style="display:block;margin:4px 0 0 90px" title="keyboard shortcut">&nbsp;</kbd>
+            </div>
+        </div>
+    </div>
+                </div>
+        </div>
+                    <div class="dev-right-col-bg"></div>
+            <div style="clear:both;"></div><span style="display:none" class="dwaitcontext" id="dwaitcontext-101"></span><script type="text/javascript">DWait.ready(["jms\/pages\/deviation\/dev-page-view.js"], DWait.bind(document.getElementById('dwaitcontext-101').parentNode, function(){$(this).gmiUp()}));</script>
+        </div>        </div>    <div class="footer">
+        </div>
+    </div><!-- output -->    <div class="commentwriter-interface" style="display:none">
+        <div class="commentwriter-toolbar stashwriter-subtoolbar open">
+            <table id="commentwriter-topmenu"><tr>
+            <td class="oh-hasmenu oh-hashover oh-mmain oh-stashmain">
+        <a href="https://sta.sh" onclick="PubSub.publish('StashPageNavigation.escape_to_root'); return false;" class="oh-l">
+            <span class="oh-stashlogo"><img width="30" height="30" src="https://a.deviantart.net/avatars/default.gif" class="avatar"/>
+                <span class="oh-stashlogo-name"></span>
+            </span>
+            <span class="oh-stashtitle">Sta.sh</span>
+            <span class="oh-submiticon"></span>
+            <span class="oh-stashsubmit">Submit</span>
+        </a>
+        <div id="oh-mainmenu" class="oh-menu iconset-more stash-menu">
+            <a class="mi" href="https://sta.sh"><i class="i1337"><img width="20" height="20" src="https://a.deviantart.net/avatars/default.gif" class="avatar"/></i>Sta.sh</a>
+                        <a class="mi" href="https://sta.sh/writer"><i class="idkfa"></i>Sta.sh Writer</a>
+                        <a class="mi" href="https://sta.sh/muro"><i class="i49"></i>DeviantArt muro</a>
+            <a class="mi verify-link" href="https://www.deviantart.com/submit"><i class="iddt"></i>Submit</a>
+            <div class="oh-hr"></div>
+            <a class="mi" href="https://www.deviantart.com/"><i class="iddqd"></i>DeviantArt</a>
+            <div class="oh-hr oh-hrlast"></div>        </div>
+    </td>            </tr></table>
+            <div class="commentwriter-actions">
+                <a class="commentwriter-cancel smbutton smbutton-white" href="#"><span><em>Hide Media</em></span></a>
+                <a class="commentwriter-preview smbutton smbutton-white" href="#"><span><em>Preview</em></span></a>
+                <a class="commentwriter-submit smbutton smbutton-green" href="#"><span><em>Submit Comment</em></span></a>
+            </div>
+            <div class="commentwriter-toolbar-outer">
+                <div class="commentwriter-toolbar-inner">
+                </div>
+            </div>
+        </div>
+        <div class="commentwriter-sidebar">
+            <div class="commentwriter-sidebar-inner">
+                <h3>Add Media</h3>
+            </div>
+            <div class="commentwriter-skinbar-inner writer-skinbar">
+                <h3>Style</h3>
+                <div class="current-skin hh">
+                    <div class="ll">
+                        Skin: <span class="skin-title"></span>
+                    </div>
+                    <div class="rr">
+                        <a href="#skins" class="skins_show">Change skin</a>
+                    </div>
+                </div>
+                <div id="stashwriter_sidebar_skins_container">
+                </div>
+            </div>
+        </div>
+        <div style="display: none" id="stash_upload_zone_holder">
+                <div class="tt-a stash-tt-a sq stream-upload-thumb"><span class="tt-ww">
+            <form method="POST" id="stash-form" class="undraggable" enctype="multipart/form-data" action="/dapi/v1/submit/upload" autocomplete="off">
+                <input type="hidden" name="action" value="StashPost">
+                <a class="smbutton smbutton-file-upload">
+                    <span>Upload Files</span>
+                    <input type="file" name="file" class="file-upload stash-file">
+                </a>
+            </form>
+        </span></div>
+        </div>
+    </div>
+    
+<script type="text/javascript" async  src="https://st.deviantart.net/css/stash_jc.js?2814122657" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/jquery.ui_jc.js?3105002537" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/art-common_jc.js?762687254" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/stashwriter_jc.js?187065623" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/menusys_jc.js?302537211" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/sidebar_jc.js?100627355" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/header_jc.js?3114820648" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/jquery-extras_jc.js?1138821555" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/dragger_jc.js?97510288" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/jquery.scrollto_jc.js?1893097371" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/v6loggedin_jc.js?3300582400" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/deviantart-network-loggedin_jc.js?1438447932" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/stash.page_jc.js?2637827851" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/chat_jc.js?1110053347" charset="utf-8"></script><script type="text/javascript">window.__initial_body_data={"bilogger":{"platform":"desktop","clientid":"f717b020-fa6b-9560-ad38-f623aad63ad2","requestid":"606m2009b07c91604f45facd6e3f4d0d4f81","throttle":"100"},"dapx":{"client":"dw","daid":"f717b020fa6b9560ad38f623aad63ad2","requestid":"606m6ff31fa4836b8d90650451b19da1889a","log_data":{"artist":"3179586","devid":411720072},"eventid":"daweb:art::::pageview","delay_init_event":false},"csrf":"-gfNUBtg_soApYNR.q0aflh.W2tkqE0p_fj1073NPciQyfffyGpb9pV5sPdjxBIpzvg","hub":{"user":"vkhSFIqHmjqHN3LAsOufqQ","ts":"1572607349","auth":"4d5097cd441e50923fb444ad286f551229b3c7e362963f12215317be6fa62f41","subs":[],"endpoint":"https:\/\/hub.deviantart.net"}};__wake(["lib\/dom\/wait","lib\/da\/dapx","lib\/da\/legacy-difi-bridge"]);</script>            <script type="text/javascript" src="//st.deviantart.net/roses/rosa/webpackcore.d41d8cd98f00b204e980.js"></script>
+                        <script type="text/javascript" src="//st.deviantart.net/roses/rosa/vendor.5974e21d0b4cea41fef4.js"></script>
+                        <script type="text/javascript" src="//st.deviantart.net/roses/rosa/commons.022322666430aa35b961.js"></script>
+                        <script type="text/javascript" src="//st.deviantart.net/roses/rosa/sink.a35a8d0c614787fe435f.js"></script>
+            <a id="deviantART-loves-you"> </a>
+        <!-- Begin comScore Tag -->
+        <script>
+         var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "8112885" });
+         (function() {
+         var s = document.createElement("script"), el =
+        document.getElementsByTagName("script")[0]; s.async = true;
+         s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+        ".scorecardresearch.com/beacon.js";
+         el.parentNode.insertBefore(s, el);
+         })();
+        </script>
+        <noscript>
+            <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8112885" />
+        </noscript>
+        <!-- End comScore Tag -->
+        <script type="text/javascript">
+                DWait.loadDownloadMap({"jms\/pages\/widgets\/discoverytags.js":["https:\/\/st.deviantart.net\/css\/discoverytags_jc.js?2812848301"],"jms\/pages\/blogobox.js":["https:\/\/st.deviantart.net\/css\/deviation_old_jc.js?782658437","https:\/\/st.deviantart.net\/css\/deviantart-network-admin_jc.js?767131306"],"cssms\/pages\/deviation\/note-modal.css":["https:\/\/st.deviantart.net\/css\/notes-modal_lc.css?3383669418"],"jms\/pages\/gruzecontrol\/widgets\/utils.js":["https:\/\/st.deviantart.net\/css\/page_editor_jc.js?983125978","https:\/\/st.deviantart.net\/css\/group_privs_jc.js?621278068","https:\/\/st.deviantart.net\/css\/v6gruser_jc.js?1261026703"],"jms\/lib\/tv150view.js":["https:\/\/st.deviantart.net\/css\/tvthumbs_jc.js?1313893804"],"jms\/lib\/deck.js":["https:\/\/st.deviantart.net\/css\/deck_variant_jc.js?559421050","https:\/\/st.deviantart.net\/css\/artzone_lc.css?899898936"]});
+                </script></body>
+</html>

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Mostra a bandeira do país e outro IP / informações de domínio na barra de localização."
+   },
+   "longdesc": {
+      "message": "Esta extensão mostra uma bandeira do país para o servidor do site atual. A dica de ferramenta mostra o nome de cidade, região e país.\n\nO pop-up mostra mais informações sobre o domínio. Detalhes são Alexa e Quantcast classificação, Google Pagerank e MyWOT reputação. O design do popup é simples e limpo.\n\nPara proteger sua privacidade, enviamos somente o nome de domínio para nosso banco de dados.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "Bandeira de país de domínio IP"
+   }
+}

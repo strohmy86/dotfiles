@@ -1,0 +1,894 @@
+{
+	"folder_history":
+	[
+		"/home/lstrohm/Scripts",
+		"/home/lstrohm/GAM-Scripts3",
+		"/home/lstrohm/cisco-config-tftp",
+		"/home/lstrohm/Gam-Frontend",
+		"/home/lstrohm/NSFW-detection",
+		"/home/lstrohm/nsfw_model"
+	],
+	"last_version": 3211,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"MODIFY",
+						"MODIFY_REPLACE"
+					],
+					[
+						"gr",
+						"groupMembership"
+					],
+					[
+						"de",
+						"dept"
+					],
+					[
+						"All",
+						"AllStudents"
+					],
+					[
+						"all",
+						"all_stu"
+					],
+					[
+						"add",
+						"add_argument"
+					],
+					[
+						"days",
+						"days_ago"
+					],
+					[
+						"week",
+						"week_ago2"
+					],
+					[
+						"str",
+						"strftime"
+					],
+					[
+						"ws_data",
+						"ws_data"
+					],
+					[
+						"Data",
+						"Data"
+					],
+					[
+						"bold",
+						"bold"
+					],
+					[
+						"ws_",
+						"ws_data"
+					],
+					[
+						"a",
+						"add_worksheet"
+					],
+					[
+						"eq",
+						"equivalent"
+					],
+					[
+						"equ",
+						"equivalentToMe"
+					],
+					[
+						"e",
+						"equivalentToMe"
+					],
+					[
+						"Student",
+						"Student"
+					],
+					[
+						"cl",
+						"clfcn"
+					],
+					[
+						"Staff",
+						"Staff"
+					],
+					[
+						"fs",
+						"files"
+					],
+					[
+						"File",
+						"file"
+					],
+					[
+						"net",
+						"net"
+					],
+					[
+						"name",
+						"name"
+					],
+					[
+						"username",
+						"username"
+					],
+					[
+						"END",
+						"END"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"parser",
+						"parser"
+					],
+					[
+						"file",
+						"file"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/lstrohm/Scripts/renamePhotos.py",
+				"/home/lstrohm/Scripts/gam.py",
+				"/home/lstrohm/Scripts/pingsweep-mac.py",
+				"/home/lstrohm/Scripts/certgen-mac.py",
+				"/home/lstrohm/Scripts/certgen.py",
+				"/home/lstrohm/Scripts/hashtool.py",
+				"/home/lstrohm/Scripts/hashStudentPW.py",
+				"/home/lstrohm/Scripts/enroll.sh",
+				"/home/lstrohm/Scripts/listfiles.sh",
+				"/home/lstrohm/Scripts/LICENSE",
+				"/home/lstrohm/Scripts/listfiles-mac.sh",
+				"/home/lstrohm/Scripts/resetStudentPW.py",
+				"/home/lstrohm/Scripts/pingsweep.sh",
+				"/home/lstrohm/Scripts/pingsweep.py",
+				"/home/lstrohm/Scripts/ocr.py",
+				"/home/lstrohm/Scripts/NDScheck.py",
+				"/home/lstrohm/Scripts/NDScheck-mac.py",
+				"/home/lstrohm/Scripts/moveStudents.py",
+				"/home/lstrohm/Scripts/diskwipe.sh",
+				"/home/lstrohm/Scripts/cisco-config-tftp.py",
+				"/home/lstrohm/Scripts/cisco-config-tftp-mac.py",
+				"/home/lstrohm/Scripts/checkPWchangeDate.py",
+				"/home/lstrohm/disabled_test.txt",
+				"/home/lstrohm/Scripts/activate-new-users.sh",
+				"/home/lstrohm/Scripts/activate-new-users-mac.sh",
+				"/home/lstrohm/Scripts/SubAccts.py",
+				"/home/lstrohm/Scripts/unauthorized-file-notification.py",
+				"/home/lstrohm/Scripts/.gitignore",
+				"/home/lstrohm/.gam/gam.cfg",
+				"/home/lstrohm/Audit-Files/(1)-f48a0b07_RTF.rtf",
+				"/home/lstrohm/deduper-script/dedup.py",
+				"/home/lstrohm/Scripts/downloadStudentFiles.py",
+				"/home/lstrohm/Scripts/PWexpirationNotifier.py",
+				"/home/lstrohm/Scripts/ldapExtract.py",
+				"/home/lstrohm/Downloads/Surfn-master/surfn-icons/Surfn/create-new-icon-theme.cache.sh",
+				"/home/lstrohm/Scripts/.travis.yml",
+				"/home/lstrohm/Scripts/pingsweep2.py",
+				"/home/lstrohm/NSFW-detection/test.py",
+				"/home/lstrohm/Scripts/portcheck.py",
+				"/home/lstrohm/NSFW-detection/classify.py",
+				"/home/lstrohm/upload.py"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ex",
+						"except"
+					],
+					[
+						"dis",
+						"discoverable"
+					],
+					[
+						"permi",
+						"permissionid"
+					],
+					[
+						"MODIFY",
+						"MODIFY_REPLACE"
+					],
+					[
+						"gr",
+						"groupMembership"
+					],
+					[
+						"de",
+						"dept"
+					],
+					[
+						"All",
+						"AllStudents"
+					],
+					[
+						"all",
+						"all_stu"
+					],
+					[
+						"add",
+						"add_argument"
+					],
+					[
+						"days",
+						"days_ago"
+					],
+					[
+						"week",
+						"week_ago2"
+					],
+					[
+						"str",
+						"strftime"
+					],
+					[
+						"ws_data",
+						"ws_data"
+					],
+					[
+						"Data",
+						"Data"
+					],
+					[
+						"bold",
+						"bold"
+					],
+					[
+						"ws_",
+						"ws_data"
+					],
+					[
+						"a",
+						"add_worksheet"
+					],
+					[
+						"eq",
+						"equivalent"
+					],
+					[
+						"equ",
+						"equivalentToMe"
+					],
+					[
+						"e",
+						"equivalentToMe"
+					],
+					[
+						"Student",
+						"Student"
+					],
+					[
+						"cl",
+						"clfcn"
+					],
+					[
+						"Staff",
+						"Staff"
+					],
+					[
+						"fs",
+						"files"
+					],
+					[
+						"File",
+						"file"
+					],
+					[
+						"net",
+						"net"
+					],
+					[
+						"name",
+						"name"
+					],
+					[
+						"username",
+						"username"
+					],
+					[
+						"END",
+						"END"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"parser",
+						"parser"
+					],
+					[
+						"file",
+						"file"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/lstrohm/Scripts/DriveSharingWarning.py",
+					"settings":
+					{
+						"buffer_size": 6619,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/lstrohm/Scripts/resetStudentPW.py",
+					"settings":
+					{
+						"buffer_size": 6829,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/lstrohm/Scripts/moveStudents.py",
+					"settings":
+					{
+						"buffer_size": 16211,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/lstrohm/Scripts/PWexpirationNotifier.py",
+					"settings":
+					{
+						"buffer_size": 8177,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/lstrohm/Scripts/pingsweep-mac.py",
+					"settings":
+					{
+						"buffer_size": 4026,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/lstrohm/Scripts"
+			],
+			"file_history":
+			[
+				"/home/lstrohm/Scripts/org.py",
+				"/home/lstrohm/.conky/WIU/WIU",
+				"/home/lstrohm/Scripts/renamePhotos.py",
+				"/home/lstrohm/Scripts/gam.py",
+				"/home/lstrohm/Scripts/pingsweep-mac.py",
+				"/home/lstrohm/Scripts/certgen-mac.py",
+				"/home/lstrohm/Scripts/certgen.py",
+				"/home/lstrohm/Scripts/hashtool.py",
+				"/home/lstrohm/Scripts/hashStudentPW.py",
+				"/home/lstrohm/Scripts/enroll.sh",
+				"/home/lstrohm/Scripts/listfiles.sh",
+				"/home/lstrohm/Scripts/LICENSE",
+				"/home/lstrohm/Scripts/listfiles-mac.sh",
+				"/home/lstrohm/Scripts/resetStudentPW.py",
+				"/home/lstrohm/Scripts/pingsweep.sh",
+				"/home/lstrohm/Scripts/pingsweep.py",
+				"/home/lstrohm/Scripts/ocr.py",
+				"/home/lstrohm/Scripts/NDScheck.py",
+				"/home/lstrohm/Scripts/NDScheck-mac.py",
+				"/home/lstrohm/Scripts/moveStudents.py",
+				"/home/lstrohm/Scripts/diskwipe.sh",
+				"/home/lstrohm/Scripts/cisco-config-tftp.py",
+				"/home/lstrohm/Scripts/cisco-config-tftp-mac.py",
+				"/home/lstrohm/Scripts/checkPWchangeDate.py",
+				"/home/lstrohm/disabled_test.txt",
+				"/home/lstrohm/Scripts/activate-new-users.sh",
+				"/home/lstrohm/Scripts/activate-new-users-mac.sh",
+				"/home/lstrohm/Scripts/SubAccts.py",
+				"/home/lstrohm/Scripts/unauthorized-file-notification.py",
+				"/home/lstrohm/Scripts/.gitignore",
+				"/home/lstrohm/.gam/gam.cfg",
+				"/home/lstrohm/Audit-Files/(1)-f48a0b07_RTF.rtf",
+				"/home/lstrohm/deduper-script/dedup.py",
+				"/home/lstrohm/Scripts/downloadStudentFiles.py",
+				"/home/lstrohm/Scripts/PWexpirationNotifier.py",
+				"/home/lstrohm/Scripts/ldapExtract.py",
+				"/home/lstrohm/Downloads/Surfn-master/surfn-icons/Surfn/create-new-icon-theme.cache.sh",
+				"/home/lstrohm/Scripts/.travis.yml",
+				"/home/lstrohm/Scripts/pingsweep2.py",
+				"/home/lstrohm/NSFW-detection/test.py",
+				"/home/lstrohm/Scripts/portcheck.py",
+				"/home/lstrohm/NSFW-detection/classify.py",
+				"/home/lstrohm/upload.py"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/lstrohm/Scripts"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/lstrohm/Scripts/DriveSharingWarning.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6619,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6603,
+										6603
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 768.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/lstrohm/Scripts/resetStudentPW.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6829,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5444,
+										5444
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2863.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/lstrohm/Scripts/moveStudents.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16211,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4815,
+										4815
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5700.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/lstrohm/Scripts/PWexpirationNotifier.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8177,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2522,
+										2522
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 740.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/lstrohm/Scripts/pingsweep-mac.py",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 4026,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,220,0,1761,1014,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 18,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

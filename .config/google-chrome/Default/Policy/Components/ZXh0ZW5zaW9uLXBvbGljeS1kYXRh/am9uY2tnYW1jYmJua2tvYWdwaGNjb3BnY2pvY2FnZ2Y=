@@ -1,0 +1,11 @@
+{
+  "secret": {
+    "Value": "ihVBoJvRwLelFNbmbiDegxLsoAUMKehQ"
+  },
+  "enable_collect_extensions": {
+    "Value": true
+  },
+  "enable_extension_requesting": {
+    "Value": false
+  }
+}

@@ -1,0 +1,24 @@
+2020/05/15-10:28:56.034 1f6039 Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2020/05/15-10:28:56.034 1f6039 Recovering log #48
+2020/05/15-10:28:56.158 1f6039 Reusing old log /home/lstrohm/.config/google-chrome/Default/Extension State/000048.log 
+2020/05/15-14:33:59.302 1f82ac Level-0 table #52: started
+2020/05/15-14:33:59.352 1f82ac Level-0 table #52: 2272643 bytes OK
+2020/05/15-14:33:59.379 1f82ac Delete type=0 #48
+2020/05/16-11:44:02.493 1f82ac Level-0 table #54: started
+2020/05/16-11:44:02.572 1f82ac Level-0 table #54: 2276433 bytes OK
+2020/05/16-11:44:02.604 1f82ac Delete type=0 #51
+2020/05/17-08:49:05.954 1f82ac Level-0 table #56: started
+2020/05/17-08:49:06.086 1f82ac Level-0 table #56: 2276439 bytes OK
+2020/05/17-08:49:06.113 1f82ac Delete type=0 #53
+2020/05/17-08:49:06.114 1f82ac Compacting 4@0 + 1@1 files
+2020/05/17-08:49:06.203 1f82ac Generated table #57@0: 6 keys, 7229 bytes
+2020/05/17-08:49:06.203 1f82ac Compacted 4@0 + 1@1 files => 7229 bytes
+2020/05/17-08:49:06.226 1f82ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/17-08:49:06.226 1f82ac Delete type=2 #54
+2020/05/17-08:49:06.226 1f82ac Delete type=2 #47
+2020/05/17-08:49:06.226 1f82ac Delete type=2 #52
+2020/05/17-08:49:06.227 1f82ac Delete type=2 #56
+2020/05/17-08:49:06.227 1f82ac Delete type=2 #49
+2020/05/18-05:54:09.243 1f82ac Level-0 table #59: started
+2020/05/18-05:54:09.293 1f82ac Level-0 table #59: 2276428 bytes OK
+2020/05/18-05:54:09.326 1f82ac Delete type=0 #55

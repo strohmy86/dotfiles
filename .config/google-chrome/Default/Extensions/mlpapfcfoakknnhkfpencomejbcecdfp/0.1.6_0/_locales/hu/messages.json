@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Országzászló és más IP / domain információk a címsorba."
+   },
+   "longdesc": {
+      "message": "Ezt a kiterjesztést egy ország lobogója mutatja a jelenlegi honlap szerver. Az elemleírás város, a régió és az ország nevét mutatja.\n\nA lakosság a tartomány további információkat jelenít meg. Részletek a Alexa és a rangsor, Quantcast, Google Pagerank és MyWOT hírnevét. A lakosság a design az egyszerű és tiszta.\n\nAdatainak védelme érdekében csak küldünk a domain nevet a adatbázisunkban.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP Domain országzászló"
+   }
+}

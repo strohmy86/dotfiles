@@ -1,0 +1,204 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:40:49 2020
+
+Feb 13 09:40:49 *	Now talking on ##security
+Feb 13 09:40:49 *	Topic for ##security is: Welcome to Computer, Network & Physical ##Security | Please stay on topic | Jobs: https://bit.ly/2YZtyoY | PasswordsCon live stream: https://www.youtube.com/watch?v=GK17BvaMAb4
+Feb 13 09:40:49 *	Topic for ##security set by Kryczek (Mon Nov 25 05:19:05 2019)
+Feb 13 09:40:49 -ChanServ-	[##security] In line with freenode channel naming policy ( http://freenode.net/policy.shtml#channelnaming ), channel management of #security has moved to ##security .... please update your autojoins! Thanks.
+Feb 13 09:41:23 <jaggz>	Here is the request of the form page itself (prior to submitting the form): https://i.imgur.com/GrYCEUk.png
+Feb 13 09:41:24 *	_weedmic has quit (Read error: Connection reset by peer)
+Feb 13 09:41:34 <jaggz>	`Tim, yeah, mosaic
+Feb 13 09:41:44 <jaggz>	with some other distort(s) before that just in case mosaic is reversible
+Feb 13 09:42:10 <jaggz>	lightened up the blob outlines from their ominous black to make it friendlier-feeling
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+Feb 13 09:42:31 <calmclam>	maslen: ick
+Feb 13 09:42:37 <jaggz>	(they have a scary "redacted old castle death rock" feel otherwise)
+**** ENDING LOGGING AT Thu Feb 13 09:43:51 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:51 2020
+
+Feb 13 09:45:00 *	vuoto has quit (Quit: vuoto)
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+Feb 13 09:45:55 <calmclam>	jaggz put more thought into their redaction than I have the last 10 years of my life
+Feb 13 09:47:06 *	variableLabel (variableLa@gateway/vpn/protonvpn/variablelabel) has joined
+Feb 13 09:47:15 <`Tim>	assume any distorts to be potentially reversable.. not that the information here is worth the trouble :D
+Feb 13 09:47:52 <`Tim>	just use good old fashioned fill-all
+Feb 13 09:48:13 <`Tim>	was just wondering, it looked like you went through some trouble to work it there
+Feb 13 09:48:40 <jaggz>	:)
+Feb 13 09:48:55 <jaggz>	it's more entertaining with the 10 extra clicks
+Feb 13 09:49:03 <jaggz>	(in exchange for)
+Feb 13 09:49:30 <jaggz>	(considering it's about privacy, I'm not doing myself favors by making my pastes unique to me though am I)
+Feb 13 09:51:20 <`Tim>	:D
+Feb 13 09:51:27 *	weedmic (~weedmic@212.68.131.233) has joined
+Feb 13 09:51:56 <Tazmainian>	Sigh, I'm not exactly liking that more and more places are starting to rely on biometrics. most commonly fingerprints, and we leave those everywhere, like writing your password on a paper and throwing it everywhere
+Feb 13 09:54:09 <calmclam>	indeed
+Feb 13 09:55:10 <`Tim>	well; i mean when they are replacing an electronic locking system where you can just buy the fitting master key on ebay, they aren't exactly reducing security either
+Feb 13 09:55:10 <calmclam>	I think biometrics are only useful as a second factor
+Feb 13 09:55:48 <jaggz>	bio is also not protected by whatever amendment yet in u.s.
+Feb 13 09:56:03 <jaggz>	whereas not divulging a password from your mind is
+Feb 13 09:56:12 *	killbash (~Geek@unaffiliated/geek) has joined
+Feb 13 09:56:33 <calmclam>	I don't think even that is settled law
+Feb 13 09:57:23 <calmclam>	Refusing to provide your password by court order is considered contempt in some places
+Feb 13 09:57:49 <calmclam>	Under at least some circumstances
+Feb 13 09:57:58 <iz>	but you can claim to forget your password, but can't do that w/ biometrics
+Feb 13 09:58:21 *	awe00 has quit (Ping timeout: 272 seconds)
+Feb 13 09:58:47 <calmclam>	In fact there was a news article about this just recently
+Feb 13 10:00:46 *	thebope has quit (Remote host closed the connection)
+Feb 13 10:00:58 <calmclam>	https://arstechnica.com/tech-policy/2020/02/man-who-refused-to-decrypt-hard-drives-is-free-after-four-years-in-jail/
+Feb 13 10:01:27 <iz>	Tazmainian's analogy is pretty good though.. like writing a long and complicated password on paper and throwing it everywhere.. and just hoping people don't have the means/patience to read the pieces of paper..  in many situations, like smartphones, it's like the paper are post-it notes stuck all over the phone
+Feb 13 10:02:00 *	Elzington (Elzington@gateway/vpn/privateinternetaccess/elzington) has joined
+Feb 13 10:03:26 *	thebope (~thebope@pdpc/supporter/student/thebope) has joined
+Feb 13 10:03:30 <calmclam>	The fucked up thing about the government's position in that instance is that they claim they can keep someone in jail *indefinitely* until they reveal their password
+Feb 13 10:03:37 *	romare (~st.pauli@unaffiliated/romare) has joined
+Feb 13 10:03:59 *	Onslaught2020 (~jeroen@kb-client-040.kb.nl) has joined
+Feb 13 10:04:23 <iz>	yeah, that's yet another reason the cypherpunk idea of plausabile deniability w/ FDE if you go to court is bs security-theater
+Feb 13 10:04:35 <iz>	the reality is once you are in the court system, you already lost
+Feb 13 10:05:02 <calmclam>	yes, that's exactly right
+Feb 13 10:06:46 <calmclam>	you're fucked as soon as the legal system gets ahold of you in one way or another, the circumstances are pretty much irrelevent, as is your innocence
+Feb 13 10:07:03 *	awe00 (~awe00@unaffiliated/awe00) has joined
+Feb 13 10:07:19 <calmclam>	I wonder if it's always been that way
+Feb 13 10:07:22 *	sangoma has quit (Quit: WeeChat 2.7)
+Feb 13 10:07:56 <iz>	i think so, but i think it was even worse before
+Feb 13 10:07:59 <nate>	calmclam: Technically speaking it shouldn't even be 18 months, PA law gives 12 months maximum holding on trial period, I'm kinda surprised he wasn't let out on that unless he did have other charges successfully brought against him
+Feb 13 10:09:57 <`Tim>	iirc france had to give up legislation in that direction (including something about leaving encryption keys at some public office?) because it was limiting movement of people within the EU; an argument that might create some stability within the EU as long as at lease some places in there value it
+Feb 13 10:10:06 *	snowkidimd (~snowkidim@80.255.7.4) has joined
+Feb 13 10:10:12 <`Tim>	least*
+Feb 13 10:11:31 <nate>	calmclam: Ah nevermind, his was a -federal- court case
+Feb 13 10:11:38 <nate>	so PA law wouldn't have applied
+Feb 13 10:11:47 <Tazmainian>	well if someone steals your bio info, that is it
+Feb 13 10:11:55 *	thebope has quit (Remote host closed the connection)
+Feb 13 10:12:21 <iz>	have you seen that CCC talk where they recreate a fingerprint from a high res press photo?
+Feb 13 10:12:28 <Tazmainian>	yep
+Feb 13 10:12:30 <`Tim>	which one?
+Feb 13 10:12:33 <`Tim>	:)
+Feb 13 10:12:34 <Tazmainian>	guy did it sitting in a bar
+Feb 13 10:12:38 <Tazmainian>	there are lots of that
+Feb 13 10:12:41 <iz>	yeah
+Feb 13 10:12:48 <Tazmainian>	facial recognition being fooled
+Feb 13 10:12:56 <iz>	and like you said, you can't change your fingerprings
+Feb 13 10:13:11 *	thebope (~thebope@pdpc/supporter/student/thebope) has joined
+Feb 13 10:13:20 <Tazmainian>	that's why it's such a bad idea
+Feb 13 10:13:24 <nate>	There are other ways around it too though :P
+Feb 13 10:13:44 <nate>	Though android sorta ruined them with I think android 7
+Feb 13 10:13:52 <Tazmainian>	well there is that researcher that made a generic finger print that will unlock something like 40% of the world's smart phones
+Feb 13 10:14:13 <Tazmainian>	so talk about a generic key to the castle
+Feb 13 10:14:28 <calmclam>	nate: the whole way they did it is fucked up imo, the case is "United States of America v. ... Velociraptor Duo External Hard Drive", wtf
+Feb 13 10:14:47 *	Rottingbeef-2 has quit (Ping timeout: 240 seconds)
+Feb 13 10:14:47 *	Tazmainian has quit (Remote host closed the connection)
+Feb 13 10:14:47 <nate>	You can usually control the sensitivity level on phones, but the other issue is what I just mentioned with Android 7 (at least I think it was that one) it compensated for "angled" fingerprints
+Feb 13 10:15:05 <ses1984>	i was using trivy to scan my docker image (based on ubuntu:18.04/bionic). it found i'm vulnerable to a few things, for example https://people.canonical.com/~ubuntu-security/cve/2019/CVE-2019-1549.html
+Feb 13 10:15:13 <nate>	so where you used to be able to be sneaky and say do a fingerprint sideways on android, now you can't
+Feb 13 10:15:21 <ses1984>	the ubuntu cve tracker says that this package is fixed in: "Ubuntu 20.04 (Focal Fossa):released (1.1.1d-2ubuntu1) "
+Feb 13 10:15:39 <ses1984>	so i pulled those sources and built that package, installed it in my docker image, trivy says i'm still vulnerable
+Feb 13 10:15:55 *	BOKALDO (~BOKALDO@46.109.201.199) has joined
+Feb 13 10:16:09 <iz>	there is also just a certain percentage of the population that fingerprint reading tech doesn't work with
+Feb 13 10:16:11 <nate>	calmclam: I think they listed all the vendors cause they tried to go after the vendors for help as well
+Feb 13 10:16:26 <`Tim>	as in people with lost limbs?
+Feb 13 10:16:34 <ses1984>	i looked into it, and it looks like trivy's database says that for ubunut 18.04, there is no fix version for this vuln, the "fix version" is empty string
+Feb 13 10:16:44 <iz>	not just ppl missing fingers, but also some ppl just have thinner skin or ridges so fine that the readers can't really see them
+Feb 13 10:16:50 *	z8z has quit (Ping timeout: 240 seconds)
+Feb 13 10:16:54 <ses1984>	trivy sees the fix version as empty string and flags me as vulnerable even though i have the fixed pacakge
+Feb 13 10:17:10 <ses1984>	how do people normally deal with this? for example in ci/cd pipelines i want to see my fix "go green"
+Feb 13 10:17:29 <ses1984>	i want to be able to generate a report to give to customers that says the cve was addressed
+Feb 13 10:17:30 <iz>	i was working on a project that wanted to use fingerprint reader as a mandatory auth, and one of the older ladies in the team was one of the ppl the reader just wouldn't work on
+Feb 13 10:17:31 <`Tim>	i mean the "state of the art" devices will look underneath your skin anyway for uhm.. how do they call that "life" detection thing
+Feb 13 10:17:44 *	enet (~enet@broadband-188-32-114-80.ip.moscow.rt.ru) has joined
+Feb 13 10:17:45 <nate>	ses1984: Stop using a tool and manually verify
+Feb 13 10:17:47 <iz>	that's just to detect a living finger vs dead
+Feb 13 10:18:01 <iz>	so protect against like cutting off a finger or using a prosthetic
+Feb 13 10:18:11 <`Tim>	which as we learned doesn't work
+Feb 13 10:18:15 <`Tim>	like that
+Feb 13 10:18:16 <`Tim>	:D
+Feb 13 10:18:18 <iz>	but it still needs to read the ridges
+Feb 13 10:18:40 *	marky1991 has quit (Ping timeout: 268 seconds)
+Feb 13 10:18:59 <`Tim>	it doesn't actually care if the fingers lives, as long as the prosthetic is providing image of a living finger, that is apparently alright
+Feb 13 10:19:41 <nate>	ses1984: If you're not capable of manually verifying a vulnerability then you should really be hiring someone to do it.  Ultimately automated scanners are there to give you things to look at manually, not to guarantee you 100% accuracy.
+Feb 13 10:19:54 <nate>	At the very least you should be able to easily verify it by checking the version numbers against what the CVE says is the fix minimum
+Feb 13 10:20:17 <nate>	You pasted that you have 1.1.1d, the CVE states "Fixed in OpenSSL 1.1.1d"
+Feb 13 10:22:16 <ses1984>	what do you mean by "manually verifying" because to me "manual" is a dirty word
+Feb 13 10:22:56 <ses1984>	i can "manually" patch trivy to do what i want every time automatically from now on but i'd rather just use another scanner that already does the right thing
+Feb 13 10:23:03 *	Onslaught2020 has quit (Ping timeout: 272 seconds)
+Feb 13 10:24:25 *	marky1991 (~marky1991@unaffiliated/marky1991) has joined
+Feb 13 10:25:12 *	fox2p has quit (Ping timeout: 246 seconds)
+Feb 13 10:25:43 *	tryphe_ is now known as tryphe
+Feb 13 10:26:23 *	alephZer0 (andrea@gateway/vpn/protonvpn/alephzer0) has joined
+Feb 13 10:27:24 *	soulisson (~soulisson@unaffiliated/soulisson) has joined
+Feb 13 10:27:39 *	fox2p (~fox2p@cpe-66-108-32-173.nyc.res.rr.com) has joined
+Feb 13 10:28:17 *	TurboBorland (~Eub@unaffiliated/turboborland) has joined
+Feb 13 10:28:38 *	Warped has quit (Ping timeout: 245 seconds)
+Feb 13 10:28:57 <Copenhagen_Bram>	good morning
+Feb 13 10:29:41 <nate>	ses1984: if manual is a dirty word you shouldn't even be touching a system from a system administrator perspective nor telling customers anything
+Feb 13 10:29:54 <iz>	good morning Copenhagen_Bram!!! *robin williams voice*
+Feb 13 10:30:03 <soulisson>	hello
+Feb 13 10:30:09 <Copenhagen_Bram>	lol
+Feb 13 10:30:19 <Copenhagen_Bram>	RIP robin williams
+Feb 13 10:30:22 <nate>	the entire point to system administration is a hands-on nature, automation is there to help make things more clear, you are working the wrong things if you don't like to get your hands involved to things
+Feb 13 10:30:51 <Copenhagen_Bram>	i installed gentoo once, i'm gonna be a great sysadmin right?
+Feb 13 10:30:54 <ses1984>	i honestly can't tell if serious. first of all, i'm not a system admin. i make software. i sell it to customers. they run it. i want something to make sure that if my pipeline runs and is green, the docker image that pops out at the end is good
+Feb 13 10:31:06 *	calmclam gently caresses the firewire port
+Feb 13 10:31:36 *	SeepingN (~CPngN@unaffiliated/cpngn/x-6985199) has joined
+Feb 13 10:31:39 <ses1984>	if trivy says, "he you have OpenSSL 1.1.1d and by the way it's vulnerable to CVE-2019-1549" that smells like a bug in trivy to me, or my model of how i think it should work is different from how it actually works
+Feb 13 10:32:01 *	AquaL1te has quit (Quit: leaving)
+Feb 13 10:32:17 <ses1984>	i guess i can't rely on trivy to do the verification for me, i have to have a separate scanner to do this, maybe write my own, but i would rather just pull one of the shelf
+Feb 13 10:32:21 <nate>	Then you need to talk to trivy or ubuntu, as I pointed out the CVE details say 1.1.1d is the fix, so either ubuntu did not patch like they claimed they did or trivy is wrong
+Feb 13 10:33:01 <ses1984>	i explained exactly how it works. on the ubuntu cve page, it says for bionic, "Ubuntu 18.04 LTS (Bionic Beaver):needed"
+Feb 13 10:33:09 <ses1984>	trivy scrapes this and ingests it into their database
+Feb 13 10:33:09 <calmclam>	it depends on how they did the patch and how the vulnerability detection works; if they backported a patch without incrementing the version, but the vuln scanner detects the vuln by checking the version, then it would false positive
+Feb 13 10:33:09 <nate>	But management of system level software/libraries is generally a sysop level thing, unless you're saying you statically build openssl into your projects?
+Feb 13 10:33:26 <ses1984>	then trivy does this: https://github.com/aquasecurity/trivy/blob/246793e8739ed45cb972ecb88cccc74929e95ade/pkg/detector/ospkg/ubuntu/ubuntu.go#L64
+Feb 13 10:33:31 *	z8z (~x@ac230029.ppp.asahi-net.or.jp) has joined
+Feb 13 10:33:51 *	_nutcr4ck3r (~su@5.253.207.20) has joined
+Feb 13 10:33:55 <ses1984>	in the database trivy says there is no fix version for this cve for bionic
+Feb 13 10:34:01 *	skywlkr (~skywlkr@unaffiliated/skywlkr) has joined
+Feb 13 10:34:04 <ses1984>	i could literally install ANY version of ssl and trivy would flag this CVE
+Feb 13 10:34:20 *	wodencafe has quit (Quit: ZNC 1.6.6+deb1ubuntu0.2 - http://znc.in)
+Feb 13 10:34:21 <ses1984>	i could install OLDER versions of SSL with different vulns, trivy wont find them, but it will flag this CVE
+Feb 13 10:34:29 *	z8z has quit (Remote host closed the connection)
+Feb 13 10:34:41 <nate>	Then trivy probably isn't maintaining their database or at least haven't updated it yet.  All we can do is tell you what the CVE details say which is that 1.1.1d is the fix version
+Feb 13 10:34:57 <ses1984>	trivy's database is exactly up to date according to the ubuntu cve tracker
+Feb 13 10:35:08 <ses1984>	it just has weird behavior. i would call it wrong behavior but maybe the trivy authors disagree with me
+Feb 13 10:35:37 <ses1984>	trivy is finding that my docker image is based on bionic and only looking at the bionic slice of the ubuntu cve tracker
+Feb 13 10:35:45 *	trinityblade (~trinitybl@65.220.10.3) has joined
+Feb 13 10:35:55 <ses1984>	trivy is completely unaware that the cve is addressed in Ubuntu 20.04 (Focal Fossa):released (1.1.1d-2ubuntu1)
+Feb 13 10:36:08 <ses1984>	even if it was, it wouldn't correlate that with my package
+Feb 13 10:37:22 <ses1984>	the entire point to system administration is a hands on nature, baby please my production servers dont have ssh
+Feb 13 10:37:27 *	Lord_of_Life has quit (Ping timeout: 260 seconds)
+Feb 13 10:38:57 *	Lord_of_Life (~Lord@unaffiliated/lord-of-life/x-0885362) has joined
+Feb 13 10:40:15 *	marky1991 has quit (Ping timeout: 268 seconds)
+Feb 13 10:41:56 *	st-5 has quit (Quit: Leaving)
+Feb 13 10:42:21 <nate>	I'm not sure why you're saying that as if that's supposed to be a good thing or impressive
+Feb 13 10:42:49 *	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth) has joined
+Feb 13 10:43:24 *	up` (~top-cat@unaffiliated/up/x-6424988) has joined
+Feb 13 10:43:27 <ses1984>	i'm not sure why you think manual work is a good thing
+Feb 13 10:43:34 *	pai-pai has quit (Read error: Connection reset by peer)
+Feb 13 10:43:43 <en4rab>	telnet ftw
+Feb 13 10:47:14 *	sangoma (~zeus@41.220.1.56) has joined
+Feb 13 10:47:55 *	pyrot (~pyrate@gateway/tor-sasl/pyrot) has joined
+Feb 13 10:50:56 *	ASTP001_ (~ASTP001@65.254.25.194) has joined
+Feb 13 10:51:48 *	Rottingbeef-2 (~Rottingbe@66.44.43.188) has joined
+Feb 13 10:51:56 <ses1984>	is there a scanner out there that will tell me openssl 1.1.1-1ubuntu2.1~18.04.5 bad, 1.1.1d-2ubuntu3 good, where trivy fails to do so
+Feb 13 10:51:57 *	HerbY_NL2 has quit (Quit: Leaving)
+Feb 13 10:53:03 *	uZiel has quit (Ping timeout: 240 seconds)
+Feb 13 10:53:47 *	machinedgod has quit (Ping timeout: 260 seconds)
+Feb 13 10:54:49 *	pyrot has quit (Remote host closed the connection)
+Feb 13 10:55:15 *	pyrot (~pyrate@gateway/tor-sasl/pyrot) has joined
+Feb 13 10:56:26 *	gschanuel (~gschanuel@177.92.61.3) has joined
+Feb 13 10:57:06 *	zalt (~devp@unaffiliated/lambda443) has joined
+Feb 13 10:57:23 *	sbetrium (~sbetrium@47.54.208.47) has joined
+Feb 13 10:58:14 *	_nutcr4ck3r has quit (Read error: Connection reset by peer)
+Feb 13 10:58:50 *	pmercado (~pmercado@201.189.29.9) has joined
+Feb 13 11:00:38 *	blackandblue (~batdownh@gateway/tor-sasl/blackandblue) has joined
+Feb 13 11:01:19 *	wodencafe (wodencafe@woden.cafe) has joined
+Feb 13 11:02:36 *	atacami has quit (Quit: WeeChat 2.7)
+Feb 13 11:03:37 *	IR0NMAN (IR0NMAN@modemcable050.51-176-173.mc.videotron.ca) has joined
+Feb 13 11:03:59 *	sangoma has quit (Ping timeout: 265 seconds)
+Feb 13 11:06:01 *	machinedgod (~machinedg@134.41.184.253) has joined
+Feb 13 11:11:31 *	awe00 has quit (Ping timeout: 260 seconds)
+Feb 13 11:11:34 *	thalunil has quit (Quit: Leaving)
+Feb 13 11:13:41 *	BOKALDO_ (~BOKALDO@46.109.201.199) has joined
+Feb 13 11:14:07 *	mishiranu has quit (Quit: Life finally caught up.)

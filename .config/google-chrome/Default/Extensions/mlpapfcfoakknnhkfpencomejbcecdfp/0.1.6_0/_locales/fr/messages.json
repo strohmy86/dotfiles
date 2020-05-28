@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Montre le drapeau du pays et les autre IP / informations de domaine dans la barre d'adresse."
+   },
+   "longdesc": {
+      "message": "Cette extension montre un drapeau du pays pour le serveur du site Web actuel. L'info-bulle affiche le nom ville, région et pays.\n\nLe popup affiche plus d'informations sur le domaine. Détails sont Alexa et Quantcast, classement, Google Pagerank et réputation MyWOT. Le design de la fenêtre contextuelle est simple et propre.\n\nPour protéger votre vie privée, nous envoyons uniquement le nom de domaine à notre base de données.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "Drapeau de pays pour le domaine IP"
+   }
+}

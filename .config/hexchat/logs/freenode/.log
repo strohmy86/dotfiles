@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:36:28 2020
+
+Feb 13 09:36:28 *	Connecting to chat.freenode.net (64.86.243.181:6697)
+Feb 13 09:36:28 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Feb 13 09:36:28 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Feb 13 09:36:28 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Feb 13 09:36:28 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Feb 13 09:36:28 *	* Subject: /CN=karatkievich.freenode.net
+Feb 13 09:36:28 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Feb 13 09:36:28 *	* Certification info:
+Feb 13 09:36:28 *	  Subject:
+Feb 13 09:36:28 *	    CN=karatkievich.freenode.net
+Feb 13 09:36:28 *	  Issuer:
+Feb 13 09:36:28 *	    C=US
+Feb 13 09:36:28 *	    O=Let's Encrypt
+Feb 13 09:36:28 *	    CN=Let's Encrypt Authority X3
+Feb 13 09:36:28 *	  Public key algorithm: rsaEncryption (4096 bits)
+Feb 13 09:36:28 *	  Sign algorithm sha256WithRSAEncryption
+Feb 13 09:36:28 *	  Valid since Jan 13 05:02:59 2020 GM to Apr 12 05:02:59 2020 GM
+Feb 13 09:36:28 *	* Cipher info:
+Feb 13 09:36:28 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Feb 13 09:36:28 *	Connected. Now logging in.

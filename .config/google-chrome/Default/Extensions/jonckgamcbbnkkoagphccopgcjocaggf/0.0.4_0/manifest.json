@@ -1,0 +1,23 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "src/bg/background.js" ]
+   },
+   "content_security_policy": "connect-src https://api.crxcavator.io; img-src https://lh3.googleusercontent.com; script-src 'self'; object-src 'self';",
+   "description": "Gathers user extension data for CRXcavator",
+   "icons": {
+      "128": "icons/128x128.png",
+      "16": "icons/16x16.png",
+      "48": "icons/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1iYASz1tIu1ag3GNKeyGrWExn1QVM8URq8+qhew0Dxz2H+C9KsIDFfrms4P3Xs9eGXn2ESbTyxOaAhHtMLe1ubRsZhEVqprkXxY7CF1k5vapv0YRq4qfEZlh6EVEwx+QNbBpSwYuw4JHF5RaepEINYVm9AcKZov+izYIEomINWVZJrZbCisT5v3SmBavz3emhp3DmfkHNYgO3HKtI30GsBLh7B3kiTNraejQevbiTJ2OZ/eyiYHEo0LcdMZN/FsOgZJCbXs3txhJ3JEplJqUgk1m8J7B3+KDhY4HSSg3duGSn2AYTW41alfcs3l4lo8bYr2CzP+QyvPdXVdslEcAhQIDAQAB",
+   "manifest_version": 2,
+   "name": "CRXcavator Gatherer",
+   "permissions": [ "management", "identity", "identity.email", "alarms", "storage", "activeTab", "notifications", "https://chrome.google.com/webstore/*" ],
+   "storage": {
+      "managed_schema": "managed_policy_schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.4",
+   "web_accessible_resources": [ "src/pages/*", "src/ui/*" ]
+}

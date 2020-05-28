@@ -1,0 +1,34 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "javascripts/background.js", "javascripts/popup.js", "javascripts/jquery-1.4.4.js", "javascripts/jquery.json.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/forward.png",
+      "default_popup": "popup.html",
+      "default_title": "Multi Email Forward by cloudHQ"
+   },
+   "content_scripts": [ {
+      "css": [ "stylesheets/jquery.dropdown.css", "stylesheets/popover.css", "stylesheets/main_gmail_bulk_forward.css" ],
+      "exclude_globs": [  ],
+      "include_globs": [  ],
+      "js": [ "javascripts/inboxsdk.js", "javascripts/main_gmail_bulk_forward_loader.js" ],
+      "matches": [ "https://mail.google.com/*", "https://inbox.google.com/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://www.cloudhq.net; object-src 'self' https://www.cloudhq.net",
+   "converted_from_user_script": true,
+   "description": "Forward multiple emails with one click. Transfer and migrate all your emails.",
+   "differential_fingerprint": "1.e14951f210158927bf759faa825353f3e54c03a58c588058dc863a9751e68a6c",
+   "icons": {
+      "128": "icons/icon-128x128.png",
+      "48": "icons/icon-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt99fFowD5snqv7lvpURFU85EzYtcg02EeUa7sesCBMweASnWBh0bK+rxzYBUXfc4XAqmus2ar92h7T5PYdG8/ig3kHzbVRYnugSIbogs//Vuxf6wLFczHYDf5p7K2zsiOeX4Saj1s//g3iJQ+r8gUtmSmwnpdzSrSbqbv/Q5WuKeNT9pGdll5VDKI9HcnPXqCvzN1/PQSRaooTYu3heJQoV93WxnWzTHqv9TDJXBCbwef90+8h0iKf44gJ/A+6bTBHy9bDi6J0ew34YI81rop7Ypi33fdKseHInBYrZo5JGGen+Iinh2piWcKKGzC6c9ZUHPNpEecQVUDGs2qt8SzwIDAQAB",
+   "manifest_version": 2,
+   "name": "Multi Email Forward by cloudHQ",
+   "permissions": [ "storage", "background", "https://mail.google.com/", "https://inbox.google.com/", "https://www.cloudhq.net/" ],
+   "short_name": "Multi Email Forward by cloudHQ",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.21",
+   "web_accessible_resources": [ "javascripts/*", "icons/*" ]
+}

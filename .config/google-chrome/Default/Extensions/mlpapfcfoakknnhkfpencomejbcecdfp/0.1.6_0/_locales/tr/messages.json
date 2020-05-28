@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Ülke bayrağı ve diğer IP gösterir / konum çubuğundaki etki alanı bilgileri."
+   },
+   "longdesc": {
+      "message": "Bu uzantı, geçerli Web sitesinin sunucusu için bir ülke bayrağı gösterir. Araç ipucu, şehir, bölge ve ülke adını gösterir.\n\nAçılan etki alanı hakkında daha fazla bilgi gösterir. Alexa ve sıralama, Quantcast Google Pagerank ve MyWOT ün ayrıntılardır. Açılan kutu tasarımı sade ve temiz.\n\nGizliliğinizi korumak için yalnızca etki alanı adını veritabanımıza gönderiyoruz.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP etki alanı ülke bayrağı"
+   }
+}

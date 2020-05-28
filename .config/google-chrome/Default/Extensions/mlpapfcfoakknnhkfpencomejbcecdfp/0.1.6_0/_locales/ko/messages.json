@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "국가 깃발과 다른 IP 표시 / 주소 창에 도메인 정보."
+   },
+   "longdesc": {
+      "message": "이 확장 현재 웹 사이트의 서버에 대 한 국가 플래그를 보여 줍니다. 도구 설명에는 도시, 지역 및 국가 이름을 보여 줍니다.\n\n팝업은 도메인에 대 한 더 많은 정보를 보여줍니다. 자세한 사항은 알 렉 사와 Quantcast 순위, 구글 페이지 랭크와 MyWOT 명성입니다. 팝업의 디자인은 간단 하 고 깨끗 한.\n\n귀하의 개인 정보를 보호 하기 위해 우리는 단지 우리의 데이터베이스에 도메인 이름 보낼.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP 도메인 국가 깃발"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "מראה דגל ו- IP אחרים / תחום מידע בבר מיקום."
+   },
+   "longdesc": {
+      "message": "הרחבה זו מציגה דגל עבור שרת האתר הנוכחי. תיאור הכלי מציג שם העיר, האזור והמדינה.\n\nהמוקפץ מציג מידע נוסף אודות התחום. הפרטים הם אלקסה, Quantcast הדירוג, גוגל Pagerank ומוניטין MyWOT. העיצוב של המוקפץ הוא פשוט ונקי.\n\nכדי להגן על פרטיותך, אנו רק לשלוח את שם התחום למסד הנתונים שלנו.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "דגל המדינה תחום IP"
+   }
+}

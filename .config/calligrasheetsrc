@@ -1,0 +1,77 @@
+[CSVDialog Settings]
+codec=Recommended ( UTF-8 )
+delimiter=,
+ignoreDups=false
+textQuote="
+
+[DockWidget sharedtooldocker]
+TabbedMode=false
+
+[MainWindow]
+Height 900=739
+Width 1600=1432
+ko_geometry=AdnQywADAAAAAACLAAAAMwAABioAAAM2AAAAjwAAAFAAAAYmAAADMgAAAAAAAAAABkAAAACPAAAAUAAABiYAAAMy
+ko_windowstate=AAAA/wAAAAD9AAAAAwAAAAAAAAEGAAACCfwCAAAAAfsAAAAUAFMAdABlAG4AYwBpAGwAQgBvAHgAAAAAtgAAAgkAAACYAQAAAwAAAAEAAAF/AAACfPwCAAAABfsAAAAgAHMAaABhAHIAZQBkAHQAbwBvAGwAZABvAGMAawBlAHIAAAAAQwAAAnwAAABsAQAAA/sAAAAoAFMAbgBhAHAARwB1AGkAZABlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAABwBAAAD+wAAACAAUwBoAGEAcABlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAABwBAAAD+wAAACoAUwBoAGEAcABlAEMAbwBsAGwAZQBjAHQAaQBvAG4ARABvAGMAawBlAHIAAAAAtgAAAHQAAAAcAAAAHPsAAAAOAE0AbwBkAGUAQgBvAHgDAAAEqAAAAQYAAAF/AAACCQAAAAIAAAWYAAAAcvwBAAAAAfsAAAAwAEMAYQBsAGwAaQBnAHIAYQBTAGgAZQBlAHQAcwBDAGUAbABsAEUAZABpAHQAbwByAAAAAAAAAAWYAAABWQEAAAMAAAWYAAACfAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+
+[Recent Dirs]
+OpenDialog[$e]=$HOME,$HOME/Documents
+
+[RecentFiles]
+File1[$e]=$HOME/MS-Unauthorized-Files-2019-11-06.csv
+File2[$e]=$HOME/Staff.csv
+Name1[$e]=MS-Unauthorized-Files-2019-11-06.csv
+Name2[$e]=Staff.csv
+
+[Stencil Box]
+viewMode=1
+
+[calligra]
+DevicePlugins=spacenavigator
+DevicePluginsDisabled=
+DockerPlugins=calligradockers,calligra_docker_stencils
+DockerPluginsDisabled=
+ModeBoxHorizontalTabsSide=0
+ShapePlugins=artistictextshape,chartshape,formulashape,musicshape,pathshapes,pictureshape,pluginshape,spreadsheetshape,textshape,vectorshape,videoshape
+ShapePluginsDisabled=
+TextEditingPlugins=autocorrect,changecase,spellcheck
+ToolPlugins=basicflakesplugin,defaulttools
+ToolPluginsDisabled=
+
+[calligrasheets]
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAEGAAACCfwCAAAAAfsAAAAUAFMAdABlAG4AYwBpAGwAQgBvAHgAAAAAtgAAAgkAAACYAQAAAwAAAAEAAAF/AAACfPwCAAAABfsAAAAgAHMAaABhAHIAZQBkAHQAbwBvAGwAZABvAGMAawBlAHIAAAAAQwAAAnwAAABsAQAAA/sAAAAoAFMAbgBhAHAARwB1AGkAZABlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAGgBAAAD+wAAACAAUwBoAGEAcABlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAABwBAAAD+wAAACoAUwBoAGEAcABlAEMAbwBsAGwAZQBjAHQAaQBvAG4ARABvAGMAawBlAHIAAAAAtgAAAHQAAAAcAAAAHPsAAAAOAE0AbwBkAGUAQgBvAHgDAAAEqAAAAQYAAAF/AAACCQAAAAIAAAWYAAAAcvwBAAAAAfsAAAAwAEMAYQBsAGwAaQBnAHIAYQBTAGgAZQBlAHQAcwBDAGUAbABsAEUAZABpAHQAbwByAAAAAAAAAAWYAAABWQEAAAMAAAWYAAACfAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAAGAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAZQBkAGkAdABUAG8AbwBsAEIAYQByAQAAAPv/////AAAAAAAAAAAAAAAiAG4AYQB2AGkAZwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAJgBmAG8AbgB0AFAAcgBvAHAAZQByAHQAeQBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAaAGYAbwByAG0AYQB0AFQAbwBvAGwAQgBhAHIBAAACjf////8AAAAAAAAAAAAAACoAYwBvAGwAbwByAEEAbgBkAEIAbwByAGQAZQByAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[calligrasheets][DockWidget CalligraSheetsCellEditor]
+Collapsed=false
+DockArea=4
+Locked=false
+
+[calligrasheets][DockWidget ModeBox]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrasheets][DockWidget Shape Properties]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrasheets][DockWidget ShapeCollectionDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrasheets][DockWidget SnapGuide Properties]
+Collapsed=false
+DockArea=2
+Locked=false
+
+[calligrasheets][DockWidget StencilBox]
+Collapsed=false
+DockArea=1
+Locked=false
+
+[calligrasheets][DockWidget sharedtooldocker]
+Collapsed=false
+DockArea=2
+Locked=false

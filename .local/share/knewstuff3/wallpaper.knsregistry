@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Tela color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1307853</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>81617</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers//01-wallpaper-tela.jpg</installedfile>
+  <id>1307853</id>
+  <releasedate>2019-05-31</releasedate>
+  <summary>Flat colorful wallpapers</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/a/9/e/a9d603ef0e911f7f5ad8326c5c7da2740be2.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/a/9/e/a9d603ef0e911f7f5ad8326c5c7da2740be2.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1559299738/s/f758cb4eb06b921a4c86358dd83b4b01/t/1578541374/o/1/01-wallpaper-tela.jpg</payload>
+  <tags>wallpaper,artwork,plasma,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Canta wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1309863</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>13259</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers//canta-wallpaper.png</installedfile>
+  <id>1309863</id>
+  <releasedate>2019-06-14</releasedate>
+  <summary>Canta wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/8/a/4/00bc6d082ba96c6a460f6f9ce3edff48b49b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/8/a/4/00bc6d082ba96c6a460f6f9ce3edff48b49b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1560513361/s/5969d9fc7592646ca207e0544917bf95/t/1578541354/o/1/canta-wallpaper.png</payload>
+  <tags>cc-by-sa,original-product,wallpaper,artwork,plasma,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

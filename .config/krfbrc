@@ -1,0 +1,6 @@
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGtAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+
+[Security]
+allowUnattendedAccess=false

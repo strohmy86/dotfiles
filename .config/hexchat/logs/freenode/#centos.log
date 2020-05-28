@@ -1,0 +1,172 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:39:50 2020
+
+Feb 13 09:39:50 *	Now talking on #centos
+Feb 13 09:39:50 *	Topic for #centos is: Use https://paste.centos.org for 3+ lines|Only current releases (8.1.1911, 8-stream, 7.7.1908 & 6.10) are supported, run yum update to get current|#centos-social for idle chat|Read https://wiki.centos.org/irc |Backports: http://tinyurl.com/k9738z9 |Some thinking required|Be polite and considerate|Infra status: https://status.centos.org
+Feb 13 09:39:50 *	Topic for #centos set by Arrfab!~arrfab@centos/unfakeable/Arrfab (Wed Jan 15 09:27:41 2020)
+Feb 13 09:39:50 -ChanServ-	[#centos] Welcome to #centos | use https://pastebin.centos.org for more than 3 lines | Only current releases (8.1.1911, 8-stream, 7.7.1908, 6.10) are supported; run yum update to get current | Use #centos-social for idle chat | Read http://wiki.centos.org/irc | Backports: http://tinyurl.com/k9738z9 | Some thinking required | Be polite and considerate | Infra status : https://status.centos.org
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** ENDING LOGGING AT Thu Feb 13 09:43:52 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:52 2020
+
+Feb 13 09:44:09 *	skywaker is now known as skywalker
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+Feb 13 09:46:10 *	racooper (~racooper@unaffiliated/racooper) has joined
+Feb 13 09:46:45 *	stefanc_diff has quit (Excess Flood)
+Feb 13 09:46:55 *	leanderthal (~leanderth@91.141.136.152) has joined
+Feb 13 09:49:19 *	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net) has joined
+Feb 13 09:50:55 *	happymeal|2 has quit (Ping timeout: 268 seconds)
+Feb 13 09:51:58 *	areguera_ has quit (Ping timeout: 245 seconds)
+Feb 13 09:53:35 *	losuler has quit (Ping timeout: 260 seconds)
+Feb 13 09:54:04 *	losuler (~losuler@unaffiliated/losuler) has joined
+Feb 13 09:55:30 *	DanyC (~DanyC@185.65.25.74) has joined
+Feb 13 09:56:35 <ghostzec>	Hi, If I wanna setup a CentOS headless server only for using it as a wireguard server. would that work well you reckon ?
+Feb 13 09:56:37 *	malleda (~adellam@pdpc/supporter/active/adellam) has joined
+Feb 13 09:56:54 *	malleda is now known as adellam
+Feb 13 09:57:01 <ghostzec>	Basically what Im asking is.. does anyone know if there could be a problem with this or recommend me to set this up somewhere else ?
+Feb 13 09:57:30 <sfix>	wasn't wireguard _just_ merged into mainline?
+Feb 13 09:57:42 <Evolution>	ghostzec: centos doesn't currently support wireguard unless you're building your own kernel.
+Feb 13 09:57:43 <ghostzec>	I have no idea my friend Im a newbie in this world..
+Feb 13 09:57:50 <ghostzec>	Evolution, damn it..
+Feb 13 09:58:12 <ghostzec>	so basically has to be a ubuntuserver then
+Feb 13 09:58:17 *	gko_ has quit (Remote host closed the connection)
+Feb 13 09:58:21 <Evolution>	sfix is right. it was *just* merged into the mainline kernel.
+Feb 13 09:58:32 <ghostzec>	ok so.. what does that mean
+Feb 13 09:58:33 <Evolution>	like, in the last 2-3 weeks.
+Feb 13 09:58:33 *	gko_ (~gko@220-133-45-101.HINET-IP.hinet.net) has joined
+Feb 13 09:58:41 <ghostzec>	will maybe work but probably a bit buggy ?
+Feb 13 09:59:06 <Evolution>	ghostzec: no one really knows yet, because it literally *just* landed.
+Feb 13 09:59:18 <Evolution>	it could explode, it could work fine.
+Feb 13 09:59:36 <Evolution>	only time and early adopters will tell.
+Feb 13 10:00:03 *	giovdav has quit (Remote host closed the connection)
+Feb 13 10:00:07 *	DanyC has quit (Ping timeout: 260 seconds)
+Feb 13 10:00:29 *	giovdav (~giovdav@unaffiliated/giovdav) has joined
+Feb 13 10:00:45 *	JesterHead (~jesterhea@cpe-70-119-232-218.tx.res.rr.com) has joined
+Feb 13 10:00:53 *	holdthedeer (50249084@gateway/web/cgi-irc/kiwiirc.com/ip.80.36.144.132) has joined
+Feb 13 10:01:24 <ghostzec>	damn
+Feb 13 10:01:35 <ghostzec>	Im a real newbie.. I do everything from guides only :D
+Feb 13 10:01:46 <ghostzec>	Should I try it? I mean it will either work or it wont right
+Feb 13 10:01:58 *	cdown has quit (Ping timeout: 245 seconds)
+Feb 13 10:01:58 <ghostzec>	I dont like ubuntuserver ..
+Feb 13 10:02:09 <ghostzec>	actually I dont even like ubuntu
+Feb 13 10:02:42 <ghostzec>	or maybe I will try this openBSD out.. heard a lot of good things about it'
+Feb 13 10:03:14 *	jaake has quit (Ping timeout: 240 seconds)
+Feb 13 10:03:28 *	Holdenger has quit (Remote host closed the connection)
+Feb 13 10:03:43 <lmns>	ghostzec: Have you tried Fedora yet? They usually ship new kernel versions quite fast
+Feb 13 10:03:46 *	Holdenger (~holdenger@95.47.179.225) has joined
+Feb 13 10:04:43 <lmns>	Also if you don't like Debian / Ubuntu and CentOS / RHEL is too old for you, then Fedora would make sense
+Feb 13 10:04:53 *	kelkoobenoitr has quit (Ping timeout: 245 seconds)
+Feb 13 10:05:15 *	JesterHead has quit (Ping timeout: 260 seconds)
+Feb 13 10:05:31 <ghostzec>	I shall take a look at that as well thanks
+Feb 13 10:05:42 *	DanyC (~DanyC@185.65.25.74) has joined
+Feb 13 10:06:01 *	areguera (~areguera@centos/sig-artwork/areguera) has joined
+Feb 13 10:06:22 *	JesterHead (~jesterhea@cpe-70-119-232-218.tx.res.rr.com) has joined
+Feb 13 10:06:53 *	Holdenger has quit (Read error: Connection reset by peer)
+Feb 13 10:08:13 <Ussat>	Just cureious, what is wrong with ubuntu server ?
+Feb 13 10:08:42 *	Holdenger (~holdenger@95.47.179.225) has joined
+Feb 13 10:12:03 *	ghostzec has quit (Remote host closed the connection)
+Feb 13 10:12:14 <Evolution>	it's off topic in this channel?
+Feb 13 10:12:16 <Evolution>	:-P
+Feb 13 10:12:45 <Ussat>	Well, I did not bring it up
+Feb 13 10:12:49 <Ussat>	tell him/her
+Feb 13 10:14:42 *	JesterHead has quit (Ping timeout: 246 seconds)
+Feb 13 10:14:47 *	Tazmainian has quit (Remote host closed the connection)
+Feb 13 10:15:55 *	BOKALDO (~BOKALDO@46.109.201.199) has joined
+Feb 13 10:16:22 *	byteskeptical (~amnesia@c-73-156-0-193.hsd1.fl.comcast.net) has joined
+Feb 13 10:16:50 *	z8z has quit (Ping timeout: 240 seconds)
+Feb 13 10:16:53 <dowdle>	What's the matter with Kansas?
+Feb 13 10:17:09 *	pajamian (~pj@centos/ops/pj) has joined
+Feb 13 10:17:10 *	stuckedbear (~textual@47.56.17.1) has joined
+Feb 13 10:18:01 <Ussat>	I donno, if RHEL/Cent would have got their **it together and included the libraries I needed for these cases, I would have used them
+Feb 13 10:18:27 *	jay-m_ has quit (Ping timeout: 240 seconds)
+Feb 13 10:19:41 *	pj has quit (Ping timeout: 258 seconds)
+Feb 13 10:19:48 <Iders>	No package json available.
+Feb 13 10:19:51 <Iders>	how to find this?
+Feb 13 10:21:00 *	bugs_ (~bugs@cpe-70-121-47-23.tx.res.rr.com) has joined
+Feb 13 10:21:12 <Kosch>	?
+Feb 13 10:21:35 <Iders>	No package json available.
+Feb 13 10:21:41 <Kosch>	Ok.
+Feb 13 10:21:50 <Iders>	https://www.irccloud.com/pastebin/GJxWoC7C/
+Feb 13 10:22:03 <dowdle>	Iders: There are many packages (I think) that have json as part of the name but not a package just named "json".  You'll have to be more specific to find the package you are looking for.
+Feb 13 10:22:28 <Kosch>	@xy
+Feb 13 10:22:28 <centbot>	It sounds like you may be trying to solve an XY problem where you think you want to do Y in order to achieve X and it would help if we knew what your end goal (i.e X) actually is - http://mywiki.wooledge.org/XyProblem
+Feb 13 10:22:41 <dowdle>	Iders: Just like you can't install a package named thispackagedoesnotexist.
+Feb 13 10:23:33 <Iders>	dowdle: :S then any way to install?
+Feb 13 10:24:00 <carbonator>	Iders: for what? there are like >100 packages with json in the name in the most common repos
+Feb 13 10:24:03 <dowdle>	Iders: Yes.  Find the actual package name... for a package that exists... and those do install. :)
+Feb 13 10:24:17 <Kosch>	use yum search to finde the needed one...
+Feb 13 10:27:40 *	byteskeptical has quit (Quit: leaving)
+Feb 13 10:28:13 <TrevorH>	or yum provides to find the actual file you're looking for
+Feb 13 10:30:39 *	JesterHead (~jesterhea@cpe-70-119-232-218.tx.res.rr.com) has joined
+Feb 13 10:31:38 *	dansolo42 (~dansolo42@50.237.110.75) has joined
+Feb 13 10:31:42 *	happymeal (~happymeal@unaffiliated/happymeal) has joined
+Feb 13 10:31:46 *	jvesely (~jvesely@pool-96-237-153-237.bstnma.ftas.verizon.net) has joined
+Feb 13 10:31:47 <Iders>	yum search json find many json
+Feb 13 10:31:57 <Iders>	not only json named file
+Feb 13 10:32:10 *	dansolo42 has quit (Remote host closed the connection)
+Feb 13 10:32:33 <Evolution>	right. which one do you need?
+Feb 13 10:32:57 <Iders>	i need to install tdom and json
+Feb 13 10:33:31 *	z8z (~x@ac230029.ppp.asahi-net.or.jp) has joined
+Feb 13 10:34:22 <Evolution>	for what? you'll need to use more words. 'json' is a structured data format, not a package. so python json is different from ruby is different from nodejs, etc.
+Feb 13 10:34:29 *	z8z has quit (Remote host closed the connection)
+Feb 13 10:35:05 <Iders>	my eggdrop tcl required that
+Feb 13 10:35:27 *	JesterHead has quit (Ping timeout: 260 seconds)
+Feb 13 10:36:05 <Evolution>	Iders: which version of centos are you using?
+Feb 13 10:36:08 *	happymeal` (~happymeal@unaffiliated/happymeal) has joined
+Feb 13 10:36:37 <Kosch>	@uname Iders
+Feb 13 10:36:37 <centbot>	Please paste the single line of output from the 'uname -a' command run on the machine in question to the channel. We request this information to better assist you. If you are worried about your privacy or security we ask that you _only_ obfuscate the hostname and leave all other information intact.
+Feb 13 10:36:58 *	byteskeptical (~amnesia@c-73-156-0-193.hsd1.fl.comcast.net) has joined
+Feb 13 10:37:39 <Iders>	Evolution:  centos 6
+Feb 13 10:38:23 *	happymeal has quit (Ping timeout: 260 seconds)
+Feb 13 10:38:44 <Ussat>	6
+Feb 13 10:39:10 <Evolution>	Iders: use the package. it's in epel.
+Feb 13 10:39:14 *	almostdvs has quit (Ping timeout: 240 seconds)
+Feb 13 10:39:42 <Evolution>	don't build it yourself.
+Feb 13 10:39:57 <Iders>	Evolution:  how?
+Feb 13 10:40:25 <Evolution>	@epel
+Feb 13 10:40:25 <centbot>	EPEL (Extra Packages for Enterprise Linux) is a third party yum repository. You can install EPEL by running 'yum --enablerepo=extras install epel-release' and gain access to several thousand more packages for CentOS/RHEL. Please note that issues with the EPEL repository, packages or mirrors should be reported to #epel
+Feb 13 10:40:34 <Kosch>	https://fedoraproject.org/wiki/EPEL
+Feb 13 10:40:35 *	dansolo42 (~dansolo42@50.237.110.74) has joined
+Feb 13 10:40:42 <Evolution>	then 'yum install eggdrop'
+Feb 13 10:41:06 *	pateh has quit (Quit: WeeChat 2.2)
+Feb 13 10:41:56 <TrevorH>	@c6eol
+Feb 13 10:41:56 <centbot>	CentOS 6 entered Maintenance Support 2 (see https://access.redhat.com/support/policy/updates/errata/ ) on May 10th 2017 and now only receives critical updates. It will go EOL on 30 Nov, 2020 -- in 41 weeks, 3 days, 8 hours, 18 minutes, and 4 seconds
+Feb 13 10:41:59 <TrevorH>	use something else
+Feb 13 10:43:01 <Iders>	Evolution: , thanks i fixed json error :)
+Feb 13 10:43:32 <Evolution>	...
+Feb 13 10:45:23 *	timothy has quit (Quit: Konversation terminated!)
+Feb 13 10:46:19 *	rbowen has quit (Ping timeout: 260 seconds)
+Feb 13 10:46:25 *	almostdvs (~almostdvs@162.154.195.113) has joined
+Feb 13 10:47:43 *	sbluhm has quit (Ping timeout: 260 seconds)
+Feb 13 10:48:27 *	openstrike[m] (~pete@186.19.187.81.in-addr.arpa) has joined
+Feb 13 10:50:16 *	nksegos (~Thunderbi@lfbn-ann-1-113-54.w86-220.abo.wanadoo.fr) has joined
+Feb 13 10:51:36 *	nksegos has quit (Client Quit)
+Feb 13 10:53:30 *	timothy (~tredaelli@redhat/timothy) has joined
+Feb 13 10:55:54 *	happymeal` has quit (Quit: quit)
+Feb 13 10:56:44 *	JohnMS_WORK has quit (Read error: Connection reset by peer)
+Feb 13 10:57:27 *	carbonator has quit (Remote host closed the connection)
+Feb 13 10:59:27 *	leanderthal has quit (Remote host closed the connection)
+Feb 13 11:00:36 *	reis_r has quit (Ping timeout: 268 seconds)
+Feb 13 11:01:11 *	BRLX has quit (Quit: BRLX)
+Feb 13 11:01:18 *	holdthedeer has quit (Remote host closed the connection)
+Feb 13 11:03:19 *	leanderthal (~leanderth@91.141.136.152) has joined
+Feb 13 11:03:33 *	sbluhm (~stefan@mail.bluhm-de.com) has joined
+Feb 13 11:03:46 *	rgogunskiy has quit ()
+Feb 13 11:05:45 *	reis_r (~aoetuhaoe@2804:d4b:1c4f:1200:5edd:7170:6485:34c5) has joined
+Feb 13 11:06:27 *	DanyC_ (~DanyC@185.65.25.74) has joined
+Feb 13 11:09:07 *	Robert_Zenz (~Robert_Ze@2a02:908:e30:e080:225:22ff:fedf:2ccb) has joined
+Feb 13 11:09:25 *	DanyC_ has quit (Remote host closed the connection)
+Feb 13 11:10:00 *	DanyC has quit (Ping timeout: 246 seconds)
+Feb 13 11:11:34 *	thalunil has quit (Quit: Leaving)
+Feb 13 11:11:44 *	DanyC (~DanyC@185.65.25.74) has joined
+Feb 13 11:13:15 *	dowdle has quit (Quit: Konversation terminated!)
+Feb 13 11:13:33 *	muhaha has quit (Quit: Ping timeout (120 seconds))
+Feb 13 11:13:41 *	BOKALDO_ (~BOKALDO@46.109.201.199) has joined
+Feb 13 11:14:02 *	muhaha (~muhaha@88.86.104.21) has joined
+Feb 13 11:14:07 *	mishiranu has quit (Quit: Life finally caught up.)

@@ -1,0 +1,21 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+Height 1080=925
+Height 898=839
+Height 900=807
+State=AAAA/wAAAAD9AAAAAAAABSEAAANaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1591=1476
+Width 1600=1395
+Width 1920=1313
+
+[Recent Files]
+File1[$e]=$HOME/Audit-Files/MS/hovdae@madisonrams.net/hqdefault (1).jpg
+File2[$e]=$HOME/Audit-Files/MS/stollingsl1@madisonrams.net/Screenshot 2020-02-13 at 1.03.00 PM.png
+Name1[$e]=hqdefault (1).jpg
+Name2[$e]=Screenshot 2020-02-13 at 1.03.00 PM.png
+
+[SideBar]
+SideBarSplitterSizes=242,1068

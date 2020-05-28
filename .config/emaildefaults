@@ -1,0 +1,9 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=lstrohm@mlsd.net
+FullName=Luke Strohm
+Organization=
+ReplyAddr=
+ServerType=

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Pokazuje flagę kraju i inne IP / informacji o domenie w ten określenie miejsca zagrodzić."
+   },
+   "longdesc": {
+      "message": "To rozszerzenie zawiera flagę kraju dla bieżącej witryny sieci Web serwera. Etykietka narzędzia zawiera nazwę miasta, regionu i kraju.\n\nPopup przedstawiono więcej informacji na temat domeny. Szczegóły są Alexa i Quantcast rankingu Google Pagerank i reputacji MyWOT. Projekt ten lud jest proste i czyste.\n\nAby chronić prywatność, wysyłamy tylko nazwę domeny do naszej bazy danych.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "Flaga kraju domeny IP"
+   }
+}

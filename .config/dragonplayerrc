@@ -1,0 +1,68 @@
+[General]
+Recent Urls[$e]=file:$HOME/Audit-Files/HS/bakerg@madisonrams.net/(1)-20170919_220317.mp4,file:$HOME/Audit-Files/HS/cameront@madisonrams.net/rice cooker.mpeg,file:$HOME/Audit-Files/HS/davism1@madisonrams.net/chat-media-video-168F8AFE-62E4-4D31-A7A1-C3E97047A19F.mov,file:$HOME/Audit-Files/HS/secristw@madisonrams.net/Mario-Luigi-Paper-Jam-Trio-Attack-Hammer-Paper-Craft.mp4
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+Height 898=573
+Height 900=248
+State=AAAA/wAAAAD9AAAAAQAAAAEAAABNAAAAm/wCAAAAAfsAAAAWAHYAbwBsAHUAbQBlAF8AZABvAGMAawEAAABDAAAAmwAAAAAAAAAAAAACiwAAAeAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1591=651
+Width 1600=729
+
+[file:///home/lstrohm/Audit-Files/HS/bakerg@madisonrams.net/(1)-20170919_220317.mp4]
+Brightness=0
+Contrast=0
+Date=2019,11,5
+Hue=0
+IsVideo=false
+Position=7554
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/lstrohm/Audit-Files/HS/cameront@madisonrams.net/rice cooker.mpeg]
+Brightness=0
+Contrast=0
+Date=2019,11,5
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/lstrohm/Audit-Files/HS/crankm1@madisonrams.net/akrotiri-qtvr1.mov]
+Brightness=0
+Contrast=0
+Date=2019,11,5
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/lstrohm/Audit-Files/HS/davism1@madisonrams.net/chat-media-video-168F8AFE-62E4-4D31-A7A1-C3E97047A19F.mov]
+Brightness=0
+Contrast=0
+Date=2019,11,5
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/lstrohm/Audit-Files/HS/meisterh@madisonrams.net/ALLIANCE.AVI]
+Brightness=0
+Contrast=0
+Date=2020,1,6
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/lstrohm/Audit-Files/HS/secristw@madisonrams.net/Mario-Luigi-Paper-Jam-Trio-Attack-Hammer-Paper-Craft.mp4]
+Brightness=0
+Contrast=0
+Date=2019,11,5
+Hue=0
+IsVideo=false
+Position=10567
+Preferred Size=100,30
+Saturation=0

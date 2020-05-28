@@ -1,0 +1,30 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "78fjh45jhg4g545.min.js" ]
+   },
+   "browser_action": {
+      "default_popup": "override.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "iboss cloud Enterprise",
+   "differential_fingerprint": "1.9ec474047503c671ff77c1dbd8dcc74bc0a11f06e1036db91c2f4e62849f3d7d",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnwSoha1QKo66UN5n/rf9km0bf7F/SlYDUq3yfxOVniUOqbjHp4Dkr4Lh9+p6UNyQl3PkiamcLGOCIRr0LTcfJGCwTq8euo6HHFrsBWpeXb3idfPjxTRdpJTKyqzNpIiXb14KzYzhRMMoUt8TohKoWs4V1dq6ZGjBoj3Yi/g9lxperHmWczX+SfrT/mdHkCD3tuxr4wa1sYIIOCeDJkQJuCWrDTGoGx7A5nAqBjH8yclZrakt9n1j7Y0ULFPFO/BgOjsEyfkN9fOOGzwgdXLynRtg4SXvHQ2P+LNQwPPtcGbsl5kqj1RNSIa35KmucJxLeSQFzlCoUoHRuagdKJ3T7QIDAQAB",
+   "manifest_version": 2,
+   "name": "iboss cloud Enterprise",
+   "permissions": [ "background", "tabs", "idle", "webRequest", "webRequestBlocking", "http://*/*", "https://*/*", "ftp://*/*", "identity", "identity.email", "storage", "alarms", "proxy", "enterprise.deviceAttributes" ],
+   "short_name": "iboss cloud",
+   "storage": {
+      "managed_schema": "ibossSettingsSchema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.1.35",
+   "web_accessible_resources": [ "images/*.png", "images/*.jpg", "fonts/*.woff2", "*.js", "loader.html", "override.html", "restricted.html" ]
+}

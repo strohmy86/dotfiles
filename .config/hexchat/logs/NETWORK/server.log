@@ -1,0 +1,46 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:36:27 2020
+
+Feb 13 09:36:27 Checksum plugin loaded
+Feb 13 09:36:27 Perl interface loaded
+Feb 13 09:36:28 FiSHLiM plugin loaded
+Feb 13 09:36:28 Python interface loaded
+Feb 13 09:36:28 Sysinfo plugin loaded
+Feb 13 09:36:28 Lua version 1.3/5.3 loaded.
+**** BEGIN LOGGING AT Wed Feb 19 14:09:41 2020
+
+Feb 19 14:09:41 Checksum plugin loaded
+Feb 19 14:09:41 Perl interface loaded
+Feb 19 14:09:41 FiSHLiM plugin loaded
+Feb 19 14:09:41 Python interface loaded
+Feb 19 14:09:41 Sysinfo plugin loaded
+Feb 19 14:09:41 Lua version 1.3/5.3 loaded.
+Feb 19 14:09:41 *	Looking up chat.freenode.net
+Feb 19 14:09:41 *	Connecting to chat.freenode.net (185.30.166.37:6697)
+Feb 19 14:09:42 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Feb 19 14:09:42 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Feb 19 14:09:42 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Feb 19 14:09:42 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Feb 19 14:09:42 *	* Subject: /CN=orwell.freenode.net
+Feb 19 14:09:42 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Feb 19 14:09:42 *	* Certification info:
+Feb 19 14:09:42 *	  Subject:
+Feb 19 14:09:42 *	    CN=orwell.freenode.net
+Feb 19 14:09:42 *	  Issuer:
+Feb 19 14:09:42 *	    C=US
+Feb 19 14:09:42 *	    O=Let's Encrypt
+Feb 19 14:09:42 *	    CN=Let's Encrypt Authority X3
+Feb 19 14:09:42 *	  Public key algorithm: rsaEncryption (4096 bits)
+Feb 19 14:09:42 *	  Sign algorithm sha256WithRSAEncryption
+Feb 19 14:09:42 *	  Valid since Jan 20 05:02:02 2020 GM to Apr 19 05:02:02 2020 GM
+Feb 19 14:09:42 *	* Cipher info:
+Feb 19 14:09:42 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Feb 19 14:09:42 *	Connected. Now logging in.
+Feb 19 14:09:42 *	*** Looking up your hostname...
+Feb 19 14:09:42 *	*** Checking Ident
+Feb 19 14:09:42 *	*** Found your hostname
+Feb 19 14:09:50 *	*** No Ident response
+Feb 19 14:09:50 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Feb 19 14:09:50 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Feb 19 14:09:50 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Wed Feb 19 14:09:50 2020
+

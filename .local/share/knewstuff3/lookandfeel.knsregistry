@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>McMojave LAF</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1310500</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>65</rating>
+  <downloads>36160</downloads>
+  <installedfile>/tmp/01-com.github.vinceliuice.McMojave.tar.xz</installedfile>
+  <id>1310500</id>
+  <releasedate>2019-11-09</releasedate>
+  <summary>McMojave Look And Feel</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1573278479/s/471dd8d0116560c3c17f566d7370a562/t/1578541354/o/1/01-com.github.vinceliuice.McMojave.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Canta LNF</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1306419</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>70</rating>
+  <downloads>7074</downloads>
+  <installedfile>/tmp/01-com.github.vinceliuice.Canta-dark.tar.xz</installedfile>
+  <id>1306419</id>
+  <releasedate>2019-09-24</releasedate>
+  <summary>Canta theme for kde plasma desktop</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1569322607/s/993d5baa0961cfdcacc39a7305b3cf7a/t/1578541334/o/1/01-com.github.vinceliuice.Canta-dark.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,47 @@
+2020/03/05-13:32:04.776 4cf09 Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/05-13:32:04.776 4cf09 Recovering log #3
+2020/03/05-13:32:04.845 4cf09 Reusing old log /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2020/03/05-13:32:11.130 4e04e Level-0 table #5: started
+2020/03/05-13:32:11.211 4e04e Level-0 table #5: 4181190 bytes OK
+2020/03/05-13:32:11.353 4e04e Delete type=0 #3
+2020/03/05-13:33:12.412 4e04e Level-0 table #7: started
+2020/03/05-13:33:12.517 4e04e Level-0 table #7: 4424680 bytes OK
+2020/03/05-13:33:12.565 4e04e Delete type=0 #4
+2020/03/05-13:35:54.559 4e04e Level-0 table #9: started
+2020/03/05-13:35:54.690 4e04e Level-0 table #9: 4421269 bytes OK
+2020/03/05-13:35:54.829 4e04e Delete type=0 #6
+2020/03/05-13:38:06.987 4e04e Level-0 table #11: started
+2020/03/05-13:38:07.089 4e04e Level-0 table #11: 5252866 bytes OK
+2020/03/05-13:38:07.121 4e04e Delete type=0 #8
+2020/03/05-14:27:36.815 4e04e Level-0 table #13: started
+2020/03/05-14:27:36.979 4e04e Level-0 table #13: 4412330 bytes OK
+2020/03/05-14:27:37.022 4e04e Delete type=0 #10
+2020/03/05-16:10:32.142 4e04e Level-0 table #15: started
+2020/03/05-16:10:32.280 4e04e Level-0 table #15: 5227157 bytes OK
+2020/03/05-16:10:32.351 4e04e Delete type=0 #12
+2020/03/05-16:10:32.353 4e04e Compacting 4@0 + 1@1 files
+2020/03/05-16:10:32.513 4e04e Generated table #16@0: 567 keys, 2104116 bytes
+2020/03/05-16:10:32.596 4e04e Generated table #17@0: 9 keys, 18807 bytes
+2020/03/05-16:10:32.596 4e04e Compacted 4@0 + 1@1 files => 2122923 bytes
+2020/03/05-16:10:32.625 4e04e compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/03/05-16:10:32.626 4e04e Delete type=2 #15
+2020/03/05-16:10:32.626 4e04e Delete type=2 #9
+2020/03/05-16:10:32.626 4e04e Delete type=2 #7
+2020/03/05-16:10:32.626 4e04e Delete type=2 #13
+2020/03/05-16:10:32.626 4e04e Delete type=2 #11
+2020/03/05-19:51:15.788 4e04e Level-0 table #19: started
+2020/03/05-19:51:15.897 4e04e Level-0 table #19: 4399256 bytes OK
+2020/03/05-19:51:15.944 4e04e Delete type=0 #14
+2020/03/06-07:07:37.681 4e04e Compacting 1@0 + 2@1 files
+2020/03/06-07:07:37.816 4e04e Generated table #20@0: 677 keys, 825975 bytes
+2020/03/06-07:07:37.816 4e04e Compacted 1@0 + 2@1 files => 825975 bytes
+2020/03/06-07:07:37.862 4e04e compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/06-07:07:37.863 4e04e Delete type=2 #16
+2020/03/06-07:07:37.863 4e04e Delete type=2 #17
+2020/03/06-07:07:37.863 4e04e Delete type=2 #19
+2020/03/06-07:27:38.858 4e04e Level-0 table #22: started
+2020/03/06-07:27:38.946 4e04e Level-0 table #22: 4384935 bytes OK
+2020/03/06-07:27:38.990 4e04e Delete type=0 #18
+2020/03/06-08:50:18.098 4e04e Level-0 table #24: started
+2020/03/06-08:50:18.224 4e04e Level-0 table #24: 4228398 bytes OK
+2020/03/06-08:50:18.278 4e04e Delete type=0 #21

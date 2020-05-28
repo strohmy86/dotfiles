@@ -1,0 +1,24 @@
+[
+    {
+        "enabled": true,
+        "id": "Virtual1",
+        "metadata": {
+            "name": "Virtual1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 900,
+                "width": 1600
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "replicate": "",
+        "rotation": 1,
+        "scale": 1
+    }
+]

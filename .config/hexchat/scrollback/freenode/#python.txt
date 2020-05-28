@@ -1,0 +1,433 @@
+T 1581604835 19*	Now talking on 22#python
+T 1581604835 22*	Topic for 22#python is: Anything about Python is on-topic. Don't paste, use https://bpaste.net/+python | Be nice: https://j.mp/psf-coc | Tutorial: https://j.mp/MCAhYx | New programmer? https://j.mp/23X7emF | Local user groups: https://j.mp/1Mq06bF | #python-fr #python.de #python-uk #python-es #python.tw #python-br #python-nl #python-ir #python.it #python-ro #python-india #python-hu
+T 1581604835 22*	Topic for 22#python set by 26papna (24Wed Dec 25 22:09:25 2019)
+T 1581604835 18<corn26618>	_ = [print(obj) for obj in mylistofunkownlength] ?
+T 1581604848 23*	rjgonza (~rjgonza__@pool-74-105-64-237.nwrknj.fios.verizon.net23) has joined
+T 1581604852 18<acresearch18>	barometz: i guess,   but i am on linux
+T 1581604878 18<altendky18>	acresearch: that doesn't save you from damage from random executables
+T 1581604881 23*	saml (~saml@unaffiliated/saml23) has joined
+T 1581604884 24*	_weedmic has quit (Read error: Connection reset by peer)
+T 1581604896 24*	KarmenJello has quit (Remote host closed the connection)
+T 1581604903 18<altendky18>	acresearch: you are asking someone to run something?  depends if they want to review source vs. have an all-in-one thing.  pyinstaller can make you 'a program' from 'a python program'
+T 1581604913 24*	saml has quit (Remote host closed the connection)
+T 1581604914 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581604919 18<acresearch18>	altendky: i know,,, but it sounds doddy,,,  "hey listen    can you run this executable .... "
+T 1581604943 23*	saml (~saml@unaffiliated/saml23) has joined
+T 1581604958 18<arhat18>	acresearch: Haha you mean like improfessional?
+T 1581604962 18<arhat18>	unprofessional*
+T 1581604966 18<acresearch18>	altendky: so the background info is that i have a large database that needs annotation,    and i have a freelancer who is willing to annotate in return for payment,,,   but he is not a programmer, (just an extra pair of hands)
+T 1581605021 23*	sav4nt (~maxx@h-64-199.A465.priv.bahnhof.se23) has joined
+T 1581605021 24*	28pr100 is now known as 18pr100|afk
+T 1581605037 18<26altendky18>	acresearch: ask if they would feel more comfortable with instructions to install python and create an env and install your project, or a .exe.  though fair warning, pyinstaller results do sometimes get flagged by antivirus.  :[
+T 1581605045 18<26altendky18>	it's an ongoing hassle
+T 1581605048 18<27acresearch18>	altendky: i have a GUI python script that performs this annotation,,, but he does not have the skill to install (on windows) the nessesary libraries for it to run,,, so i thought i would simplify the setup for him by sending an all-in-one executable
+T 1581605085 23*	GodFather (~rcc@wsip-66-210-242-210.ph.ph.cox.net23) has joined
+T 1581605100 24*	vuoto has quit (Quit: vuoto)
+T 1581605120 23*	jakehemm_ (~jakehemme@68.235.43.9423) has joined
+T 1581605122 23*	john2496 (~john2496@fw1.fuzzproduction.rbbnet.net23) has joined
+T 1581605125 18<27acresearch18>	altendky: exactly,,,     and as arhat said,  i think it is just unprofessional to ask someone to run an executable (especially if they cannot understand the code if provided)
+T 1581605126 18<26altendky18>	acresearch: install python.  `py -m venv venv`  `venv/scripts/pip install theproject.whl`  `venv/scripts/myprogram` is something you can walk most people through.  but sure, a .exe could be nice.  seems pretty straightforward, ask them what they would prefer.
+T 1581605132 24*	rjgonza has quit (Quit: Powered by WinIRC)
+T 1581605141 18<26altendky18>	acresearch: so it's unprofessional to distribute a program?
+T 1581605151 23*	rjgonza (uid2292@gateway/web/irccloud.com/x-iasjroltcvwntyfc23) has joined
+T 1581605160 23*	phasetwo__ (~phasetwo@2601:602:9902:2320:71d5:c1c1:39c:a63023) has joined
+T 1581605165 23*	canarts (~stranac@m83-178-235-246.cust.tele2.hr23) has joined
+T 1581605167 24*	Glorforidor has quit (Ping timeout: 240 seconds)
+T 1581605167 18<27acresearch18>	altendky: no,  just in this particular situation
+T 1581605174 23*	djhoulihan (~djhouliha@pool-96-246-91-229.nycmny.fios.verizon.net23) has joined
+T 1581605190 18<26altendky18>	acresearch: i mean, you've argued yourself into a corner.  they can't do the python steps and won't be reading your code but saving them from having to do the python steps and making it harder for them to read your code (that they won't be doing regardless) is unacceptable.
+T 1581605205 24*	stefanc_diff has quit (Excess Flood)
+T 1581605217 24*	wyclif has quit (Ping timeout: 272 seconds)
+T 1581605217 24*	davepdotorg has quit (Ping timeout: 272 seconds)
+T 1581605218 18<26FLHerne18>	Masklin: Note that `print(*mylistofunknownlength)` will fail with length > 255 in CPython before 3.7
+T 1581605219 18<26altendky18>	acresearch: you are asking them to run something.  it doesn't much matter if it's a .py, .bat, or .exe.
+T 1581605232 18<26FLHerne18>	Masklin: (since 3.7 there's no limit on the number of arguments)
+T 1581605234 18<27acresearch18>	altendky: hmmm
+T 1581605238 18<27arhat18>	If you are confident in your script acresearch then I think you should just frame it to them as "I've written this script to make your annotations easier", if the freelancer has a problem with that I'm sure you can work through it
+T 1581605245 18<26altendky18>	acresearch: they can't audit any of them presumably so they are trusting you regardless
+T 1581605271 18<27acresearch18>	altendky: arhat   true, and the code is on my github anyway
+T 1581605289 18<26altendky18>	acresearch: a web app would be the only way to save them from running your code.  or remote desktop to your computer or...
+T 1581605306 23*	seanacais (~seanacais@173.170.215.2523) has joined
+T 1581605315 18<27acresearch18>	altendky: yeh i thought about that.... i tried google colab, but that did not work (did not accept the GUI)
+T 1581605327 23*	Haudegen (~quassel@91.114.49.1023) has joined
+T 1581605330 18<26altendky18>	acresearch: so.  there is the pyinstaller antivirus hazard so mention that and if they trust you...  go for it
+T 1581605335 18<27acresearch18>	altendky: and to be honest i do not have the required skills to setup a web page with python as a back end
+T 1581605336 18<27arhat18>	You could learn JS if you have time :P
+T 1581605350 18<26altendky18>	acresearch: qt does have some serve-through-a-browser features.  but this really seems pretty unecessary
+T 1581605355 18<27acresearch18>	altendky: i think i might take that option
+T 1581605359 18<27acresearch18>	arhat: haha
+T 1581605359 23*	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net23) has joined
+T 1581605377 18<26altendky18>	acresearch: unless this person is super paranoid or otherwise doesn't trust you
+T 1581605378 24*	stranac has quit (Ping timeout: 240 seconds)
+T 1581605381 23*	Rapture (~textual@50.239.87.4223) has joined
+T 1581605386 18<27acresearch18>	altendky: i agree
+T 1581605406 18<27acresearch18>	altendky: well,,,, lets see   :-)   thanks for the ideas
+T 1581605409 18<27arhat18>	There might be a project that already exists for this. A quick google search:
+T 1581605409 18<27arhat18>	https://github.com/annotorious/annotorious
+T 1581605412 18<27acresearch18>	arhat: too :-)
+T 1581605418 24*	amb11111 has quit (Ping timeout: 268 seconds)
+T 1581605423 18<27arhat18>	Good luck :)
+T 1581605483 24*	phasetwo__ has quit (Ping timeout: 272 seconds)
+T 1581605487 23*	weedmic (~weedmic@212.68.131.23323) has joined
+T 1581605495 18<27arhat18>	This looks more active https://github.com/jsbroks/coco-annotator
+T 1581605495 18<20CodePoint18>	test
+T 1581605531 18<27acresearch18>	arhat: nice let me check them out
+T 1581605594 24*	mmx_in_orbit has quit (Ping timeout: 240 seconds)
+T 1581605598 23*	AbedB (~AbedBhuty@bzq-109-67-29-184.red.bezeqint.net23) has joined
+T 1581605613 23*	KarmenJello (~karmenjel@cpc96964-rdng25-2-0-cust380.15-3.cable.virginm.net23) has joined
+T 1581605630 23*	Jerrynicki (~niklas@p549A9E58.dip0.t-ipconnect.de23) has joined
+T 1581605679 18<25physiology18>	Here's what I've got so far: https://pastebin.com/R7T5sa8f.  What I would like is that the user can enter a .csv that is in the same directory, and then add another plot in another color.  When the user just hits 'return,' all of the plots are on one graph.
+T 1581605680 18<27infobob18>	https://bpaste.net/H2VA (repasted for physiology)
+T 1581605691 23*	mtellez (~user@201.105.185.21423) has joined
+T 1581605707 23*	carc1n0gen_work (~carc1n0ge@freebsd1.carsonevans.ca23) has joined
+T 1581605724 18<26altendky18>	physiology: https://matplotlib.org/3.1.3/gallery/subplots_axes_and_figures/multiple_figs_demo.html perhaps
+T 1581605730 23*	DanyC (~DanyC@185.65.25.7423) has joined
+T 1581605754 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581605757 18<25physiology18>	altendky: What value even designates color, or are they all blue?
+T 1581605821 23*	markb1 (~mbiggers@2606-a000-111f-41fd-4c46-c249-6cec-3134.inf6.spectrum.com23) has joined
+T 1581605833 18<26altendky18>	physiology: maybe https://matplotlib.org/tutorials/colors/colors.html
+T 1581605846 23*	spinningcat-work (~nebioglu@212.175.18.3823) has joined
+T 1581605853 18<25spinningcat-work18>	is python slow?
+T 1581605858 23*	derk0pf (~derk0pf@p5B2E5C39.dip0.t-ipconnect.de23) has joined
+T 1581605863 24*	jakehemm_ has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1581605864 18<28corn26618>	that's a question of relativity
+T 1581605882 18<26altendky18>	spinningcat-work: there's lots of details to consider.  do you have a specific task you want to do?
+T 1581605889 24*	sandeepk has quit (Remote host closed the connection)
+T 1581605895 23*	lockywolf (~lockywolf@101.224.183.15923) has joined
+T 1581605901 18<25spinningcat-work18>	image processing
+T 1581605901 24*	awe00 has quit (Ping timeout: 272 seconds)
+T 1581605915 18<28corn26618>	should be fine for that imo
+T 1581605916 18<26altendky18>	spinningcat-work: what sort?
+T 1581605917 24*	GnomosOrg has quit (Quit: killed)
+T 1581605965 24*	28chandankumar is now known as 18raukadah
+T 1581605966 18<22SnoopJeDi18>	physiology, matplotlib's default behavior will give you a particular color for new Line objects, in common usage. You can get things similar to coloring a marker by a value on a 3rd axis and most other problems you might want to do, but it does take some learning the API. The figure demos can be quite helpful.
+T 1581605978 18<25spinningcat-work18>	well let say you crop or resize image, descrease the size of image that kind of thing may be some filtering?
+T 1581605995 18<26altendky18>	spinningcat-work: maybe use pillow
+T 1581606007 24*	DanyC has quit (Ping timeout: 260 seconds)
+T 1581606010 18<28corn26618>	from PIL import Image
+T 1581606021 23*	Elzington (Elzington@gateway/vpn/privateinternetaccess/elzington23) has joined
+T 1581606035 18<27grym18>	spinningcat-work: what framerate do you require
+T 1581606035 24*	wyclif has quit (Ping timeout: 260 seconds)
+T 1581606036 18<26altendky18>	spinningcat-work: i can't say for pillow for sure but...  lots of python libraries have the computationally intensive parts coded in c.
+T 1581606039 18<22SnoopJeDi18>	spinningcat-work, it would be very slow to do this purely in python, but yea, pillow gives you tools to express yourself in Python but actually do the work
+T 1581606053 24*	lockywolf has quit (Max SendQ exceeded)
+T 1581606065 18<27ramsub0718>	hello. are the keys of dict fixed? as in, would dict1.keys() be stochastic in nature?
+T 1581606068 18<22SnoopJeDi18>	If you're doing anything like computer vision, you also want to know about the openCV bindings for Python, under the package cv2
+T 1581606077 18<25spinningcat-work18>	i am not sure framerate could be 60
+T 1581606090 18<22SnoopJeDi18>	ramsub07, are you asking about key order, or something else?
+T 1581606109 18<27ramsub0718>	SnoopJeDi order of dict.key(s)
+T 1581606113 18<27ramsub0718>	dickt.keys()
+T 1581606113 18<26altendky18>	ramsub07: dict keys are what you set them to.  order...  is consistent assuming you don't modify.  and now iteration order matches insertion order
+T 1581606118 24*	cdown has quit (Ping timeout: 245 seconds)
+T 1581606122 18<27grym18>	naturally, cv2 is named `pip install opencv-python opencv-contrib-python`
+T 1581606123 18<27grym18>	:(
+T 1581606126 23*	GnomosOrg (~matrixirc@2a01:79c:cebe:f2dc:216:3eff:fe20:8ac123) has joined
+T 1581606131 18<25spinningcat-work18>	you suggest me pillow?
+T 1581606137 23*	lockywolf (~lockywolf@101.224.183.15923) has joined
+T 1581606140 18<27grym18>	spinningcat-work: depends on what you want to do
+T 1581606147 18<29Masklin18>	FLHerne: Good to know, thanks!
+T 1581606157 18<22SnoopJeDi18>	ramsub07, what altendky said, since 3.7 you can make some guarantees. If you need ordered dictionaries, use collections.OrderedDict, even if you're writing for 3.7+
+T 1581606157 23*	plutoniix (~q@node-d3t.pool-125-24.dynamic.totinternet.net23) has joined
+T 1581606158 18<28corn26618>	ramsub07: since python 3.6 key ordering is insertion order
+T 1581606159 18<25spinningcat-work18>	i mentioned what i want to do above actualşly
+T 1581606168 18<27grym18>	spinningcat-work: not really
+T 1581606171 24*	lockywolf has quit (Remote host closed the connection)
+T 1581606177 18<27ramsub0718>	thank goodness, i'm on 3.7
+T 1581606186 18<25spinningcat-work18>	hmm
+T 1581606188 18<22SnoopJeDi18>	corn266, it entered the language in 3.7, 3.6 was when it entered CPython, but you have no reason to expect any other 3.6 interpreter to do the same thing
+T 1581606192 18<26altendky18>	corn266: implementation detail in cpython 3.6.  language guarantee in python 3.7.  pypy... for awhile
+T 1581606203 18<26altendky18>	(as implementation detail)
+T 1581606210 18<25spinningcat-work18>	i just want to apply something to image like resize, crop, reduce quality etc.
+T 1581606212 18<22SnoopJeDi18>	but again, use OrderedDict if your code cares about this, don't gamble on versions
+T 1581606214 23*	nullthevoid (~nullthevo@unaffiliated/nullthevoid23) has joined
+T 1581606218 18<28corn26618>	really well shit
+T 1581606220 18<22SnoopJeDi18>	spinningcat-work, sounds like you want exactly Pillow
+T 1581606225 18<27grym18>	spinningcat-work: yes; to what, exactly? frames from a video? static images in a directory?
+T 1581606225 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581606231 18<22SnoopJeDi18>	or honestly, ffmpeg :)
+T 1581606231 23*	jakehemm_ (~jakehemme@68.235.43.9423) has joined
+T 1581606235 18<27grym18>	or imagemagick
+T 1581606239 18<22SnoopJeDi18>	(the libffmpeg bindings are bad though)
+T 1581606242 23*	lockywolf (~lockywolf@101.224.183.15923) has joined
+T 1581606249 18<25spinningcat-work18>	i dont need to edit video
+T 1581606259 24*	lbalhar has quit (Ping timeout: 260 seconds)
+T 1581606261 18<25spinningcat-work18>	does python have a library for imagemagick?
+T 1581606281 24*	Lucas_Gray has quit (Quit: %nickname% has gone offline)
+T 1581606283 18<27NoImNotNineVolt18>	i'd be shocked if it didn't.
+T 1581606283 18<22SnoopJeDi18>	There are bindings, but they're clumsy IIRC
+T 1581606286 18<25spinningcat-work18>	imagemagick is really capable
+T 1581606290 24*	lockywolf has quit (Remote host closed the connection)
+T 1581606299 23*	rippa (~rippa@ppp-vpdn-37.1.85.157.yarnet.ru23) has joined
+T 1581606304 23*	Lucas_Gray (~Wryhder@197.210.70.3523) has joined
+T 1581606321 18<27grym18>	spinningcat-work: frankly i just subprocess.run(), sometimes
+T 1581606324 23*	stefanos82 (~stephen@93-39-60.internethome.cytanet.com.cy23) has joined
+T 1581606337 18<25spinningcat-work18>	for running imagemagick command
+T 1581606339 18<25spinningcat-work18>	?
+T 1581606342 23*	DanyC (~DanyC@185.65.25.7423) has joined
+T 1581606355 18<22SnoopJeDi18>	yes, because the library is designed primarily for the CLI
+T 1581606362 18<26rowbee18>	i can't believe that there has yet to be an effort to make something like pillow but using imagick bindings
+T 1581606382 18<25spinningcat-work18>	I see
+T 1581606386 23*	NERD-k (~NERD-k@199.19.107.27.16clouds.com23) has joined
+T 1581606395 18<22SnoopJeDi18>	rowbee, why? Pillow is pretty good
+T 1581606407 18<25spinningcat-work18>	is it fast?
+T 1581606407 18<27grym18>	spinningcat-work: imagemagick is very firmly in the "UNIX tradition good" camp, so i treat it that way
+T 1581606414 18<26rowbee18>	it can't do some of the more complex transforms that imagick can
+T 1581606418 18<22SnoopJeDi18>	spinningcat-work, yes
+T 1581606418 23*	lockywolf (~lockywolf@101.224.183.15923) has joined
+T 1581606422 18<27grym18>	Pillow[simd] is pretty zippy
+T 1581606425 18<26rowbee18>	grym: that can be troublesome
+T 1581606429 18<22SnoopJeDi18>	rowbee, can you give an example of what you mean?
+T 1581606432 18<26rowbee18>	see: linux and fork+exec
+T 1581606433 18<25spinningcat-work18>	understand
+T 1581606438 18<26rowbee18>	SnoopJeDi: warping images in waves
+T 1581606449 18<22SnoopJeDi18>	oh, effects :)
+T 1581606451 18<27grym18>	rowbee: i meant "easily piped around, has a robust CLI"
+T 1581606458 18<26rowbee18>	yeah sure
+T 1581606465 24*	lockywolf has quit (Remote host closed the connection)
+T 1581606473 18<22SnoopJeDi18>	rowbee, I wonder if the GIMP plugin is done in Python heh
+T 1581606484 18<25spinningcat-work18>	do you know about cython, pythonnet?
+T 1581606486 18<26rowbee18>	now that'd be interesting
+T 1581606488 18<22SnoopJeDi18>	or uh whatever the right word is, extension or whatever
+T 1581606490 24*	pcloadltr (~pcloadltr@185.229.59.12324) has left ("Leaving")
+T 1581606527 18<22SnoopJeDi18>	I don't know GIMP's data model well enough under the hood but I *think* it uses its own Image class anyway
+T 1581606547 24*	wyclif has quit (Ping timeout: 272 seconds)
+T 1581606554 23*	lockywolf (~lockywolf@101.224.183.15923) has joined
+T 1581606575 24*	lockywolf has quit (Remote host closed the connection)
+T 1581606599 18<25cgi77718>	I need a deb file for a project. I dont want to store it in git. What is a good place to put it/retrieve it from when installing the python package?
+T 1581606613 18<25spinningcat-work18>	can we say python is preferrable language for image ğrpcess,mg_
+T 1581606626 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581606627 18<22SnoopJeDi18>	spinningcat-work, it depends on whose preferences you're talking about
+T 1581606636 18<27grym18>	cgi777: a ppa, canonically
+T 1581606641 18<26altendky18>	cgi777: i'd guess #debian would know about that
+T 1581606643 18<27grym18>	cgi777: i have no idea how such things are created
+T 1581606649 18<26altendky18>	or, wherever they are
+T 1581606650 18<22SnoopJeDi18>	grym, you will soon >:)
+T 1581606653 23*	dvp (~dvp@157.45.224.423) has joined
+T 1581606662 18<27grym18>	SnoopJeDi: ugh
+T 1581606663 18<22SnoopJeDi18>	(I hope)
+T 1581606665 18<25spinningcat-work18>	wwo this pillow has many functions
+T 1581606695 23*	awe00 (~awe00@unaffiliated/awe0023) has joined
+T 1581606713 18<25spinningcat-work18>	SnoopJeDi,  of you for example
+T 1581606735 24*	NERD-k has quit (Ping timeout: 260 seconds)
+T 1581606736 18<19makara18>	how would I open an AES encrypted file AES/CBC/PKCS7Padding
+T 1581606758 24*	bhoman has quit (Read error: Connection reset by peer)
+T 1581606780 23*	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net23) has joined
+T 1581606789 18<20lmns18>	makara: https://cryptography.io/
+T 1581606887 24*	Tazmainian has quit (Remote host closed the connection)
+T 1581606888 23*	twobitsprite (~ifreeman@8.42.18.1023) has joined
+T 1581606911 23*	thiras (~thiras@unaffiliated/thiras23) has joined
+T 1581606947 23*	drincruz (~adriancru@104.129.137.8223) has joined
+T 1581607010 24*	z8z has quit (Ping timeout: 240 seconds)
+T 1581607012 24*	thevishy has quit (Remote host closed the connection)
+T 1581607013 24*	imp has quit (Quit: WeeChat 2.6)
+T 1581607036 23*	bonestormii_ (~boneii@c-67-162-87-77.hsd1.il.comcast.net23) has joined
+T 1581607047 23*	horatiohb (~horatiohb@178.128.157.24223) has joined
+T 1581607051 18<24bonestormii_18>	hi all
+T 1581607064 23*	enet (~enet@broadband-188-32-114-80.ip.moscow.rt.ru23) has joined
+T 1581607066 23*	phasetwo__ (~phasetwo@2601:602:9902:2320:b0ff:e4fe:ac17:e87923) has joined
+T 1581607080 23*	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net23) has joined
+T 1581607107 24*	jay-m_ has quit (Ping timeout: 240 seconds)
+T 1581607136 24*	dvp has quit (Remote host closed the connection)
+T 1581607154 23*	mmx_in_orbit (~mmx_in_sp@pool-173-63-245-155.nwrknj.fios.verizon.net23) has joined
+T 1581607196 23*	dvp (~dvp@157.45.224.423) has joined
+T 1581607196 18<22SnoopJeDi18>	spinningcat-work, ?
+T 1581607219 18<24bonestormii_18>	Python runs code upon import, but it doesn't seem to *re-run* code that is imported more than once--which makes sense. However, I'd like to find a way to make python reliably re-run initialization code each time the module is imported. Any suggestions?
+T 1581607281 24*	wyclif has quit (Ping timeout: 246 seconds)
+T 1581607371 24*	dvp has quit (Read error: Connection reset by peer)
+T 1581607372 18<25ChrisWarrick18>	bonestormii_: You can’t do that.
+T 1581607373 23*	merc1er (~corentinm@ppp-124-120-192-3.revip2.asianet.co.th23) has joined
+T 1581607393 18<24bonestormii_18>	Ha, thanks ChrisWarrick.
+T 1581607396 18<22SnoopJeDi18>	and more importantly, the fact that you want to do this suggests an architectural flaw
+T 1581607425 18<22SnoopJeDi18>	so if you can address that, it'd be a lot easier anyway :)
+T 1581607439 18<24bonestormii_18>	It suggests it, but it isn't necessarily the case. I'm just thinking of ways to conceal some complexity. It's simple enough to have people initialize things themselves.
+T 1581607445 24*	spinningcat-work has quit (Quit: Leaving)
+T 1581607453 23*	millido (~millido@148-252-99.248.3p.ntebredband.no23) has joined
+T 1581607457 18<28corn26618>	make a class and put the code in the _init_ ?
+T 1581607477 18<24bonestormii_18>	corn266: that works the first time it is imported only
+T 1581607484 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581607491 18<24bonestormii_18>	it's a code analysis tool that is acting on the file it is being imported into.
+T 1581607505 23*	dvp (~dvp@157.45.224.423) has joined
+T 1581607507 18<24bonestormii_18>	That's why I'm looking for this super specific behavior.
+T 1581607507 24*	dvp has quit (Remote host closed the connection)
+T 1581607526 18<22SnoopJeDi18>	bonestormii_, can you say more about how is the tool meant to be used?
+T 1581607585 24*	Rurik has quit (Quit: Rurik)
+T 1581607620 18<24bonestormii_18>	Sure, right now the objective is to simply import the module into the file you want to analyze. The import statement identifies the file that is importing it and runs code analysis on that file and spits out some info to a file.
+T 1581607631 18<28jfhbrook18>	re.match(r"([^:])+:", "testing:") how come the result of this has the colon in the group?
+T 1581607638 18<24bonestormii_18>	It basically works, but only for one single file.
+T 1581607641 18<28jfhbrook18>	like group(0) is "testing:" not "testing"
+T 1581607655 24*	nullthevoid has quit (Remote host closed the connection)
+T 1581607658 24*	carl- has quit (Ping timeout: 240 seconds)
+T 1581607660 18<28corn26618>	jfhbrook: use group(1)
+T 1581607662 18<24bonestormii_18>	If I have 10 files in a project that I want to analyze and I import the module 10 times, I still only capture the output from the first.
+T 1581607666 24*	Helenah has quit (Read error: Connection reset by peer)
+T 1581607667 18<22SnoopJeDi18>	jfhbrook, group(0) is the whole match I think
+T 1581607710 18<28jfhbrook18>	ahhhh
+T 1581607725 18<28jfhbrook18>	that seems to be helping - not quite what I want yet but progress haha!
+T 1581607736 18<26FLHerne18>	bonestormii_: I guess a sane API would be `import analysis; analysis.analyze_file()` or so
+T 1581607756 18<24bonestormii_18>	FLHerne, totally
+T 1581607773 23*	Helenah (~s98259@unaffiliated/iveeee23) has joined
+T 1581607775 18<26FLHerne18>	(I'd probably give `analyze_file()` an optional argument so you can analyze some other file)
+T 1581607801 18<24merc1er18>	exit
+T 1581607804 24*	merc1er has quit (Quit: leaving)
+T 1581607804 18<26FLHerne18>	Actually, I wouldn't make it optional, just have `analyze_file(__file__)`
+T 1581607818 18<24bonestormii_18>	I appreciate the sober advice FLHerne
+T 1581607822 23*	dvp (~dvp@157.45.224.423) has joined
+T 1581607827 18<22SnoopJeDi18>	jfhbrook, if you're writing down a grammar, I recommend giving parsimonious a spin sometime. It makes these little jobs less tedious, and you still have all the regex power at your fingertips
+T 1581607836 18<24bonestormii_18>	I actually don't disagree at all and am implementing that type of interface.
+T 1581607843 18<19sveinse18>	altendky: here is my story: https://bpaste.net/RLXQ <-- This hopefully illustrates better what I'd like to achieve with asyncio/twisted
+T 1581607845 23*	duderonomy (~duderonom@216.38.150.14023) has joined
+T 1581607848 18<28jfhbrook18>	re.match(r"^([^:])+?:$", "testing:").group(1) this one returns "g" instead of "testing"
+T 1581607856 18<28jfhbrook18>	yeah I can take a look
+T 1581607861 24*	dvp has quit (Read error: Connection reset by peer)
+T 1581607863 18<26FLHerne18>	bonestormii_: "Explicit is better than implicit", as `import this` tells you ;-)
+T 1581607870 18<22SnoopJeDi18>	jfhbrook, qualifier needs to be inside the group if you want the whole thing, you're asking for one char
+T 1581607893 18<28jfhbrook18>	ahhhh
+T 1581607894 18<19sveinse18>	altendky: during the rubberducking of this, I do realize that this is probably not possible. I will be forced to rewrite the entire callstack when a inner function becomes async
+T 1581607896 18<22SnoopJeDi18>	(which I guess is being updated every time you step forward?)
+T 1581607905 18<28jfhbrook18>	THERE we go
+T 1581607906 18<24bonestormii_18>	FLHerne: it's true, but I feel like you throw that out the window when you are doing this kind of thing.
+T 1581607921 24*	AquaL1te has quit (Quit: leaving)
+T 1581607929 18<28jfhbrook18>	parsimonious looks good, I should give it a try
+T 1581607932 23*	tsaka__ (~torstein@2a02:2149:827b:f900:7c32:85de:f39d:4d0c23) has joined
+T 1581607938 23*	edrocks (~ed@2603:9000:c900:1eeb:a84e:8286:ca33:96d423) has joined
+T 1581607942 18<26FLHerne18>	bonestormii_: I don't really see why; it doesn't save you much typing
+T 1581607949 18<24bonestormii_18>	I could definitely just import the tool into a separate file and module.analyze(file) for each one.
+T 1581607960 18<28jfhbrook18>	I'm hacking up a comments-based DSL, so using regexp to extract the magic comment seems fine given the file format (pgpass file) but a "real parser" might be good for the actual language
+T 1581607968 18<24bonestormii_18>	hmmm
+T 1581607987 23*	sbetrium (~sbetrium@47.54.208.4723) has joined
+T 1581608011 23*	z8z (~x@ac230029.ppp.asahi-net.or.jp23) has joined
+T 1581608014 24*	millido has quit (Remote host closed the connection)
+T 1581608014 23*	howdoi (uid224@gateway/web/irccloud.com/x-zsfyjnzljowbgpvd23) has joined
+T 1581608016 18<24bonestormii_18>	FLHerne: Aesthetics :) The heart wants what the heart wants.
+T 1581608025 24*	sbetrium has quit (Client Quit)
+T 1581608030 18<22SnoopJeDi18>	jfhbrook, EBNF is a pretty broad target for grammars, and it's nice to write the thing that matters expressively instead of all the fuss that comes with writing your own machinery
+T 1581608036 23*	skywlkr (~skywlkr@unaffiliated/skywlkr23) has joined
+T 1581608051 24*	wyclif has quit (Ping timeout: 260 seconds)
+T 1581608069 24*	z8z has quit (Remote host closed the connection)
+T 1581608093 23*	merc1er (~corentinm@ppp-124-120-192-3.revip2.asianet.co.th23) has joined
+T 1581608097 18<22SnoopJeDi18>	and should be a superset of what regex can do, modulo extensions
+T 1581608099 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581608103 24*	Burrito has quit (Read error: Connection reset by peer)
+T 1581608132 23*	amb11111 (~Amber@d28-23-146-85.dim.wideopenwest.com23) has joined
+T 1581608144 24*	dbone has quit (Quit: ZZZzzz…)
+T 1581608145 23*	trinityblade (~trinitybl@65.220.10.323) has joined
+T 1581608164 18<22SnoopJeDi18>	I think stuff like lookaround breaks context-free assumptions or somesuch
+T 1581608182 24*	28usersss is now known as 18niee
+T 1581608207 23*	dvp (~dvp@157.45.224.423) has joined
+T 1581608210 23*	frrs (uid130725@gateway/web/irccloud.com/x-wrenovwbhzjedobd23) has joined
+T 1581608215 18<19sveinse18>	I do wonder why py has chosen to only allow await/yield in the immediate function, and not make them available for use in any sub functions. Or do py support passing down the coroutine/generator object into subfunction and have them awaited/yielded on there too?
+T 1581608247 24*	Lord_of_Life has quit (Ping timeout: 260 seconds)
+T 1581608248 18<22gcbirzan18>	sveinse: coroutines/generators are proper objects, so to the second part of teh question, yes.
+T 1581608258 24*	KarmenJello has quit (Remote host closed the connection)
+T 1581608263 18<22gcbirzan18>	I'm not sure I understand what you mean by the first
+T 1581608286 23*	jolvera (uid366386@gateway/web/irccloud.com/x-zzpzxlimhuhqbfsa23) has joined
+T 1581608300 23*	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net23) has joined
+T 1581608337 23*	Lord_of_Life (~Lord@unaffiliated/lord-of-life/x-088536223) has joined
+T 1581608370 24*	Tichodroma has quit (Quit: leaving)
+T 1581608387 24*	wyclif has quit (Ping timeout: 260 seconds)
+T 1581608390 23*	Ialokin (~nothing@unaffiliated/ialokin23) has joined
+T 1581608393 18<19sveinse18>	gcbirzan: well, I have a use-case where I want to make an inner function in a call stack async, but avoid touching the implementation of the intermediate functions. If the inner function could somehow use the outer generator/coroutine yield/await functionality, the middle functions wouldn't need to care about this.
+T 1581608396 24*	CodePoint has quit (Quit: WeeChat 1.9.1)
+T 1581608405 24*	28Derogatory_Ternn is now known as 18foul_foul
+T 1581608419 18<19sveinse18>	gcbirzan: Following this example: https://bpaste.net/RLXQ
+T 1581608424 18<22gcbirzan18>	How would that work?
+T 1581608448 18<22gcbirzan18>	I mean, that makes no sense.
+T 1581608452 24*	pxs_0o has quit (Ping timeout: 268 seconds)
+T 1581608460 18<22gcbirzan18>	You cannot go "I'll change code only at the top and bottom, ignore the middle"
+T 1581608478 18<19sveinse18>	gcbirzan: Right, that is precisely what I'm pondering over
+T 1581608527 23*	panikovsky (~panikovsk@93.178.80.18723) has joined
+T 1581608540 18<19sveinse18>	gcbirzan: I'm not saying it should, but it does have impact on the mid-layers
+T 1581608569 23*	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth23) has joined
+T 1581608604 23*	up` (~top-cat@unaffiliated/up/x-642498823) has joined
+T 1581608648 23*	toverna (~quassel@128-70-125-136.broadband.corbina.ru23) has joined
+T 1581608695 24*	amb11111 has quit (Ping timeout: 260 seconds)
+T 1581608723 24*	Lucas_Gray has quit (Ping timeout: 260 seconds)
+T 1581608778 18<19sveinse18>	It can probably be argued that my example here is esoteric, but I notice that many async programs do actually make a lot of synchronous calls. When then the inner function needs changed to a fully async function, it propegates code changes in the whole call stack up to the closest coroutine/generator.
+T 1581608832 24*	dvp has quit (Quit: leaving)
+T 1581608869 23*	iKON (~iKON@c-73-232-163-154.hsd1.tx.comcast.net23) has joined
+T 1581608930 24*	GodFather has quit (Ping timeout: 240 seconds)
+T 1581608948 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581609036 18<28MrTrick18>	principle question... If I have two classes with a set of fields that need to match, and I require that the fields not only be setEquals(a, b) , but also that they be defined in the same order... Would you call that adhering to a principle of least surprise?
+T 1581609056 23*	ASTP001_ (~ASTP001@65.254.25.19423) has joined
+T 1581609096 18<28MrTrick18>	eg runtime-wise it shouldn't matter if A has 'foo','bar','baz' and B has 'foo','baz','bar', but developer-wise it will potentially confuse.
+T 1581609107 23*	sdoherty (sdoherty@nat/redhat/x-wbslwsmbvmeqeodr23) has joined
+T 1581609111 18<22gcbirzan18>	sveinse: What programs?
+T 1581609120 24*	Deusdeorum has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1581609165 24*	carif has quit (Remote host closed the connection)
+T 1581609168 23*	dino82 (~deeno@unaffiliated/dino8223) has joined
+T 1581609194 18<19sveinse18>	gcbirzan: We can use this as an example: https://docs.python.org/3/library/asyncio-task.html#asyncio.sleep  -- datetime.datetime.now() is syncronous.
+T 1581609195 24*	ttoocs has quit (Ping timeout: 240 seconds)
+T 1581609214 24*	montaropdf has quit (Quit: Have to go see you soon)
+T 1581609225 18<22gcbirzan18>	sveinse: Well, by that definition, everything is synchronous.
+T 1581609260 18<22gcbirzan18>	sveinse: But, that's the wrong definition. Getting the current time cannot block indefinitely.
+T 1581609266 24*	28foul_foul is now known as 18graciously_super
+T 1581609275 23*	honigkuchen (~honigkuch@ip5f5b4d31.dynamic.kabel-deutschland.de23) has joined
+T 1581609311 18<26altendky18>	sveinse: does this not show your situation and desire?  https://bpaste.net/GSZQ
+T 1581609332 18<19sveinse18>	gcbirzan: what if the inner loop for datetime.datetime.now() cannot return immediately because it wants to verify with the NTP server. The function must not block for long time, otherwise it interfers with the event-loop, so that specific function now needs some await mechanism, but the layers inbetween might not
+T 1581609351 18<22gcbirzan18>	sveinse: But, datetime.datetime.now() doesn't do that.
+T 1581609366 18<22gcbirzan18>	That's not even close to how NTP works
+T 1581609374 18<19sveinse18>	gcbirzan: I'm not saying it is, its an example
+T 1581609401 23*	sbetrium (~sbetrium@47.54.208.4723) has joined
+T 1581609404 24*	wyclif has quit (Ping timeout: 265 seconds)
+T 1581609406 23*	gschanuel (~gschanuel@177.92.61.323) has joined
+T 1581609415 18<22gcbirzan18>	sveinse: It's an example of "most programs do it wrong", but it's not wrong.
+T 1581609427 18<26altendky18>	sveinse: though inner() could even be removed from my example i think
+T 1581609433 23*	zalt (~devp@unaffiliated/lambda44323) has joined
+T 1581609447 23*	Lucas_Gray (~Wryhder@197.210.44.423) has joined
+T 1581609473 18<19sveinse18>	altendky: yeah, I need to check what the react() function does
+T 1581609480 23*	nullthevoid (~nullthevo@unaffiliated/nullthevoid23) has joined
+T 1581609501 18<26altendky18>	sveinse: it's a way to run the reactor while main runs
+T 1581609530 18<26altendky18>	and i did that wrong...
+T 1581609581 23*	farmfromjakestat (~farmfromj@gateway/tor-sasl/farmfromjakestat23) has joined
+T 1581609590 24*	chele has quit (Quit: Leaving)
+T 1581609604 18<26altendky18>	sveinse: https://bpaste.net/FLEQ i think that's more correct...
+T 1581609616 24*	corn266 (~corn266@unaffiliated/corn26624) has left
+T 1581609621 23*	lbalhar (~lbalhar@cz7.datarail.eu23) has joined
+T 1581609626 18<19sveinse18>	gcbirzan: I am well aware of how async works vs sync code, so I agree that there are bad designs. However, when implementing an async app, I find that this problem pops over all the time: Running an async outer loop, then some inner function needs to be changed to a async implementation, and then all of the sudden all midlayers needs to be refactored too.
+T 1581609638 23*	blackandblue (~batdownh@gateway/tor-sasl/blackandblue23) has joined
+T 1581609663 23*	aalmazan (uid180785@gateway/web/irccloud.com/x-esjsajydelwrqgqp23) has joined
+T 1581609722 23*	Lazy0 (~Lazy0@ip68-110-86-110.ph.ph.cox.net23) has joined
+T 1581609739 24*	gambl0re has quit (Ping timeout: 272 seconds)
+T 1581609751 24*	gone_missing has quit (Quit: Leaving.)
+T 1581609757 18<19sveinse18>	altendky: oh, react() starts the reactor. In my example the reactor is alreay running. The outermost function is already an async function
+T 1581609769 24*	bitdex has quit (Quit: = "")
+T 1581609776 24*	floi_ has quit (Quit: floi_)
+T 1581609784 23*	IRCNew (~Elrick@76-10-173-219.dsl.teksavvy.com23) has joined
+T 1581609798 18<26altendky18>	sveinse: i tried to make an example which was complete and the only truly missing piece (oops, i need some yield in inner()) was the part you wanted filled in.  the body of yield_to_reactor_and_wait_for_deferred()
+T 1581609799 23*	floi (~floi@141.57.41.16123) has joined
+T 1581609814 18<19sveinse18>	altendky: did you see my example?
+T 1581609824 18<26altendky18>	sveinse: your example is giant.  is mine missing something relevant?  it's got the async outside, sync in the middle, async inside.
+T 1581609843 24*	JaredSchooley has quit (Ping timeout: 246 seconds)
+T 1581609865 23*	wyclif (~daniel@unaffiliated/wyclif23) has joined
+T 1581609974 23*	JaredSchooley (~Sech@2600:6c42:7400:c86:2112:fd1a:6b56:ea4123) has joined
+T 1581609987 23*	DanyC_ (~DanyC@185.65.25.7423) has joined
+T 1581609994 18<19sveinse18>	altendky: an outer() function perhaps? The main loop is elsewhere in the application.
+T 1581610009 23*	jil (~user@2001:41d0:52:cff::f2a23) has joined
+T 1581610012 18<25jil18>	hello
+T 1581610014 24*	Serpent7776 has quit (Quit: Leaving)
+T 1581610017 18<26altendky18>	sveinse: would another inlineCallbacks called outer show something?
+T 1581610047 24*	floi has quit (Client Quit)
+T 1581610067 23*	floi (~floi@141.57.41.16123) has joined
+T 1581610090 23*	ZeroWalker (~Zerowalke@62-20-231-19-no268.tbcn.telia.com23) has joined
+T 1581610090 24*	Noti has quit (Quit: Konversation terminated!)
+T 1581610094 18<19sveinse18>	altendky: The mid layer is missing. To use your fn names: main() -> mid() -> inner(), where mid() is a sync function
+T 1581610147 18<26altendky18>	sveinse: https://bpaste.net/57KA  maybe a bit better example
+T 1581610154 24*	wyclif has quit (Ping timeout: 268 seconds)
+T 1581610165 24*	DanyC_ has quit (Remote host closed the connection)
+T 1581610200 24*	DanyC has quit (Ping timeout: 246 seconds)
+T 1581610206 23*	mcwitt (~Android@208.71.158.12623) has joined
+T 1581610209 18<26altendky18>	sveinse: i think we're entering QApplication.instance.processCallbacks() territory
+T 1581610214 24*	kosh has quit (Read error: Connection reset by peer)
+T 1581610216 18<26altendky18>	(but sure, you aren't using qt)
+T 1581610228 18<26altendky18>	it does this thing you want though
+T 1581610248 24*	28chloeee is now known as 18reasonable_doubt
+T 1581610258 18<25frrs18>	Guys, can I plot a boxplot in seaborn when I don't have the underlying dataset but only aggregate quantiles?
+T 1581610291 24*	awe00 has quit (Ping timeout: 260 seconds)
+T 1581610304 23*	DanyC (~DanyC@185.65.25.7423) has joined
+T 1581610308 23*	P1RATEZ (piratez@unaffiliated/p1ratez23) has joined
+T 1581610309 24*	operateur has quit (Ping timeout: 272 seconds)
+T 1581610356 24*	bhoman has quit (Read error: Connection reset by peer)
+T 1581610374 24*	lakitu has quit (Read error: Connection reset by peer)
+T 1581610380 23*	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net23) has joined
+T 1581610436 23*	ny0x1 (~ny0x@unaffiliated/ny0x23) has joined
+T 1581610477 18<19sveinse18>	altendky: here is the compact version of my example using https://bpaste.net/RNRA

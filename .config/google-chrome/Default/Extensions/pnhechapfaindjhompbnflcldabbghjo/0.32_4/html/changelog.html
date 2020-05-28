@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'/>
+  <title>ChangeLog Since nassh-0.31</title>
+  <link rel='stylesheet' href='../third_party/chrome-bootstrap/chrome-bootstrap.css'></link>
+
+  <style>
+    body {
+      padding: 1em;
+    }
+  </style>
+</head>
+<body class='chrome-bootstrap'>
+
+<h1>Online ChangeLogs</h1>
+<ul>
+  <li><a href='https://chromium.googlesource.com/apps/libapps/+log'>Full `git log`</a></li>
+  <li><a href='https://chromium.googlesource.com/apps/libapps/+/HEAD/libdot/doc/ChangeLog.md'>libdot ChangeLog.md</a></li>
+  <li><a href='https://chromium.googlesource.com/apps/libapps/+/HEAD/hterm/doc/ChangeLog.md'>hterm ChangeLog.md</a></li>
+  <li><a href='https://chromium.googlesource.com/apps/libapps/+/HEAD/nassh/doc/ChangeLog.md'>nassh ChangeLog.md</a></li>
+</ul>
+
+<h1>ChangeLog (since nassh-0.31)</h1>
+<div><a href="https://crrev.com/7572a6f9612ba898a45f792fee7d60e929614dec">nassh: release 0.32</a></div>
+<div><a href="https://crrev.com/c37f02a6dc684b16a8426741cb86c4f3509dd28e">nassh: corp relay: fix ack-vs-read typo</a></div>
+<div><a href="https://crrev.com/edac0e7f2535958bcfff7f5b56eebe0c50025653">hterm: fix overlay colors</a></div>
+<div><a href="https://crrev.com/16dcb2872d7e1fe85ab4e4b5b75be530cf8ed46b">hterm/nassh: improve some descriptions and translation tips</a></div>
+<div><a href="https://crrev.com/02aa0146ae0e34bbb79fb60a031c044d590f3a02">terminal: set enable-resize-status back to false by default</a></div>
+<div><a href="https://crrev.com/fadcc6874e5b1700dad4d575c2666d4f2e15ae5b">terminal: remove faq and send feedback from context menu</a></div>
+<div><a href="https://crrev.com/6c992c1a86df49e4c2e7402b15c3c8228143ef24">nassh: Remove a non-existing option from the doc.</a></div>
+<div><a href="https://crrev.com/0a908d87d9d25d678211af10aa8e5a8c24201896">libdot: lint: do not try to lint .patch files</a></div>
+<div><a href="https://crrev.com/ad1731fc0185a8ce3f7578b46fcc7aae8bd78427">hterm: Add an optional border to the main screen.</a></div>
+<div><a href="https://crrev.com/341e984546bab4e98dd46c7d52542bece21b2f5f">kokoro/ssh_client: add generic linter driver</a></div>
+<div><a href="https://crrev.com/f6e2fc4776a918e36334c59c2f94e189eb371897">libdot: lint: add basic html &amp; text file checks</a></div>
+<div><a href="https://crrev.com/4b9c23e6743c393b9f3058bf747841ca112b4edc">hterm/nassh: add missing &lt;meta charset=utf-8/&gt; tag</a></div>
+<div><a href="https://crrev.com/c0bcd2275275c1f82adec86bdc30d6cc6ad0d577">lint: change default behavior to look at all files</a></div>
+<div><a href="https://crrev.com/d97e0e07aa5aa8aa24f3569961a94b0d82689041">hterm/kokoro/nassh/ssh_client/terminal: convert core constants to pathlib</a></div>
+<div><a href="https://crrev.com/00e6880adde8b6de4b2bcdc070c248ba2297bcd9">terminal: remap Ctrl+N to call terminalPrivate.openWindow</a></div>
+<div><a href="https://crrev.com/9798072d8198cb2c5119b6701f35cdb96cdd8fd3">libdot: closure-compiler: merge with dedicated tool</a></div>
+<div><a href="https://crrev.com/db77cae3925ab64d2b0c60e4edf1c66f100c020c">libdot: eslint: split out into dedicated tool</a></div>
+<div><a href="https://crrev.com/45b1b9d5d5118070afaad3506b6d89380cd4ef96">terminal: remove send feedback from about page</a></div>
+<div><a href="https://crrev.com/3456741a56808d79222046d4c91df88e70d8653d">hterm: style copy toast according to ui mock</a></div>
+<div><a href="https://crrev.com/2cb49b5570b8f4a9ec4ec90c6e650d9fcb6060b7">libdot: npm: rework how we invoke node programs</a></div>
+<div><a href="https://crrev.com/aee93058f3f30543b869f3937d865b23d844057a">hterm: terminal: use local color state for text overlays</a></div>
+<div><a href="https://crrev.com/48b1e6ced2e7b64492a6da81ff3c8ab276afb08d">hterm: ctrl+n should PASS if pref is set</a></div>
+<div><a href="https://crrev.com/9494632c0cab688ea21f51549214e1a4970c46ec">crosh: use terminalPrivate a11y functions</a></div>
+<div><a href="https://crrev.com/f087acdb1e4a932c8a47bbeba8aa80da0cbb02a9">libdot: run: extend API for nicer logging</a></div>
+<div><a href="https://crrev.com/e7f353e9d0f0dc85b9abf4c80eda61e9ac100f71">crosh: no open as window tip for chrome-untrusted</a></div>
+<div><a href="https://crrev.com/923505996d41ec0712a73a6e7ba51036d4ff63ac">terminal: remove unused display-manager</a></div>
+<div><a href="https://crrev.com/d4771f03c619363780a6ff5f807ce4a511bf73e4">hterm: fix screen visible height to avoid seeing partial bottom row</a></div>
+<div><a href="https://crrev.com/e4c193c08a81675a89a5a813837457aee59a7122">terminal: about section with links for feedback and licenses</a></div>
+<div><a href="https://crrev.com/ac8c38652d54150dc31ec8d6b8cc3a5612806571">libdot: node: fix Windows syncing</a></div>
+<div><a href="https://crrev.com/3d82578de67b02588bb178495e365bf8df86e0a4">hterm: style size toast according to ui mock</a></div>
+<div><a href="https://crrev.com/442c246d91182f483662a9f0d194c0df476786f8">hterm: doc: add info about CrOS WM shortcuts</a></div>
+<div><a href="https://crrev.com/6752959964211ea783cfd1978981777dab3e7727">nassh: doc: switch docs to Secure Shell extension variant</a></div>
+<div><a href="https://crrev.com/89f3e8a642f6765ccd209cf45d02a6df66270f85">libdot: pylint: refactor to use new tool guidelines</a></div>
+<div><a href="https://crrev.com/8ebe4e942a829d2f9374045060ba4254abd97617">libdot: docs: add guidelines for tools</a></div>
+<div><a href="https://crrev.com/a1d1605d52caa58fdc37b1d562a45e57bc62c75e">hterm: handle padding for fold and a11y buttons</a></div>
+<div><a href="https://crrev.com/aaa848d66cf94be4d96f207bfba25abca11d291a">terminal: open settings window in popup</a></div>
+<div><a href="https://crrev.com/a75b451ba8adfd92398e5d9462e32eeacf65b628">terminal: set default for enable-resize-status and font-family</a></div>
+<div><a href="https://crrev.com/abcfcdc8592f85d89714e0f88a26bdef6a20390d">libdot: lint: filter out generated paths from Gerrit comments</a></div>
+<div><a href="https://crrev.com/3923dcfacc87df7cb93205029fd846ede78a9c69">crosh: gzip resources in dist to save rootfs space</a></div>
+<div><a href="https://crrev.com/5e29dc04914f73975b5949313c50b11019fd6c92">hterm: terminal: fix default keybinding handling</a></div>
+<div><a href="https://crrev.com/2097e258f1e3deb5e403cf475af42f44a110bdb8">nassh: doc: reformat DOS line endings</a></div>
+<div><a href="https://crrev.com/e2108434449c0f428b0541232d47b854fea1d38e">libdot: closure: update to v20200504</a></div>
+
+</body>
+</html>

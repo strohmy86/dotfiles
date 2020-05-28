@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Cho thấy lá cờ và IP khác / tên miền thông tin trong thanh địa chỉ."
+   },
+   "longdesc": {
+      "message": "Phần mở rộng này cho thấy một lá cờ cho máy chủ của trang web hiện tại. Tooltip cho thấy tên thành phố, khu vực và quốc gia.\n\nPopup Hiển thị thêm thông tin về tên miền. Thông tin chi tiết là Alexa và xếp hạng, Quantcast Google Pagerank và danh tiếng MyWOT. Việc thiết kế các popup là đơn giản và sạch sẽ.\n\nĐể bảo vệ riêng tư của bạn, chúng tôi chỉ gửi cho tên miền của chúng tôi cơ sở dữ liệu.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP miền Country Flag"
+   }
+}

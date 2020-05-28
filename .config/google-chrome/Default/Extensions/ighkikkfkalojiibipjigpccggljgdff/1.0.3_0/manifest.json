@@ -1,0 +1,22 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/foam.js", "js/cab.js", "background_main.js" ]
+      }
+   },
+   "default_locale": "en",
+   "icons": {
+      "128": "img/128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjtwc7kwMwnrzumGXmvoJogIF3Pj+zqILF6zJeQUmpw0FGUf0PR/XZqfG9laYpZcQHN05cpciH9O+mr8fcnXj4FfVwj/o5vZt5E3N2JkwCMdZu1RmJc3l5F5suhSx0mr+OoqXbrvppf7dVJxCOEGyYwV0TrzvNp7r8t+SiTXcI85u114Uppji2me2TxFBx+7LKkVEol4hfdWZC7QFLdJgop6xucC23FQ4rdoTGp1J3kpaAxDe68ZWk5KCQZk+VKsETolN16/N8yOCgh08ue9k4rif9RFCwUI6A8HSmhQuVknc9qLvl+Md0y4eIu7LQF+0s3in+8MQzzZz5hUYefZ5swIDAQAB",
+   "kiosk_enabled": true,
+   "manifest_version": 2,
+   "minimum_chrome_version": "37.0.0.0",
+   "name": "__MSG_appname__",
+   "offline_enabled": true,
+   "permissions": [ "webview", "power", "storage", "system.display", "videoCapture", "geolocation", "pointerLock", {
+      "fileSystem": [ "write", "retainEntries", "directory" ]
+   }, "accessibilityFeatures.read", "accessibilityFeatures.modify" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}

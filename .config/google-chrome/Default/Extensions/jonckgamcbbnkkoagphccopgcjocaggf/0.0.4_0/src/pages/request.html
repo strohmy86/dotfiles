@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="ui/semantic.min.css">
+    <script src="request.js"></script>
+  </head>
+  <body style="background-color:#FFF8E8;" class="dim pushable dimmable dimmed">
+    <div style="display:flex;justify-content:center;align-items:center;height:80%;">
+      <div class="ui segment container modal transition visible active dimmed">
+        <div id="icon_div" style="display:flex;justify-content:center;align-items:center;height:80%;">
+          <img id="icon" src="" class="ui centered small image">
+        </div>
+        <h1 class="ui header centered" style="border-bottom: unset;" id="header"></h1>
+        <div id="request_form">
+          <form class="ui form" id="request_form">
+            <div class="field">
+              <label>Business Justification</label>
+              <textarea id="justification"></textarea>
+            </div>
+            <button class="positive ui button" type="submit">Request Approval</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

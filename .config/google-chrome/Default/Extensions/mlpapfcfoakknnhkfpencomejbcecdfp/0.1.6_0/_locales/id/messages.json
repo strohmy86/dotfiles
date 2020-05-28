@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Menunjukkan bendera negara dan IP lainnya / informasi domain di bar lokasi."
+   },
+   "longdesc": {
+      "message": "Ekstensi ini menunjukkan bendera negara untuk server situs yang sekarang. Tooltip menunjukkan nama kota, wilayah dan negara.\n\nPopup menunjukkan informasi lebih lanjut tentang domain. Rincian adalah Alexa dan Quantcast peringkat, Google Pagerank dan reputasi MyWOT. Desain popup sederhana dan bersih.\n\nUntuk melindungi privasi Anda, kami hanya mengirim nama domain ke database kami.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "Bendera negara IP Domain"
+   }
+}

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-rpm
+Name=ConnectWiseControl.ClientSetup.rpm
+Type=Link
+URL[$e]=file:$HOME/Downloads/ConnectWiseControl.ClientSetup.rpm
+X-KDE-LastOpenedWith=org.kde.kdialog

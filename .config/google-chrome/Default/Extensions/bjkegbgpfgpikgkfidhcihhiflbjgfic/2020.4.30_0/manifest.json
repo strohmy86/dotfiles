@@ -1,0 +1,25 @@
+{
+   "browser_action": {
+      "default_popup": "html/popup.html",
+      "default_title": "Google Meet Grid View"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "js/inject.js" ],
+      "matches": [ "https://meet.google.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Shows everyone in a Google Meet - Thanks to Chris Gamble!",
+   "differential_fingerprint": "1.4b723c996ef2a9502d7022b3169dd29fcb5dae652817d3196f5013857fb32357",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjHzzpbCkFLdZns+o68KrpShfTcp4B/VOqFIUUDHb/PoNQBZDDIBrkZEklhHZbyFusw1QH21/aVCBHFuuMXkKePbCAIxjNbLgKob2VwhIp3YDfonNUTXCwU4LwQ7Zvh5V6Q69iL20ASLgZN5l2rrhCLDuZIRrrG8Tohz1uNeq8DTLWl0MGhHFAbbSrWy0bx7dWW695t0nqicNwBG1ozrwIN85awe5c/1z8IH1MEWtzfbafyWZzt7HfbH6KhsZX7FPMkgkK3Y1GQjv936OKCDGjZUOv/NzBnBEV5Jv3lYurT01yJcXveX27JH5K6CAJ6sRI4m1VB6qSx3TwZ//d5crIwIDAQAB",
+   "manifest_version": 2,
+   "name": "Google Meet Grid View",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2020.4.30",
+   "web_accessible_resources": [ "js/gridview.js" ]
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Carl Aurorae theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1331617</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>1259</downloads>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//Carl/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//</installedfile>
+  <id>1331617</id>
+  <releasedate>2019-10-19</releasedate>
+  <summary>Aurorae theme for Carl Plasma theme https://store.kde.org/p/1330604/&lt;br />
+&lt;br />
+Based on McMojave aurorae by Vinceliuice https://github.com/vinceliuice/McMojave-kde</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1571493951/s/7b631cf5a6e5aaa8df1623e68b405bd2/t/1578541486/o/1/Carl.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>McMojave Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305005</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>39021</downloads>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//McMojave/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//McMojave-light/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//</installedfile>
+  <id>1305005</id>
+  <releasedate>2019-11-09</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Kvantum Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304957/" target="_blank" rel="nofollow">https://www.pling.com/p/1304957/&lt;/a>&lt;br />
+&lt;strong>- Plasma Color Schemes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305007/" target="_blank" rel="nofollow">https://www.pling.com/p/1305007/&lt;/a>&lt;br />
+&lt;strong>- Plasma Desktop Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305006/" target="_blank" rel="nofollow">https://www.pling.com/p/1305006/&lt;/a>&lt;br />
+&lt;strong>- Plasma Look-and-Feel Settings&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Icon theme: McMojave-circle&lt;/strong>&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1305429" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1305429&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1573278533/s/f8d81915caed1c07b3b8ab5b170431c8/t/1578541364/o/1/McMojave.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Canta aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1306413</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>7159</downloads>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//Canta-light/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//Canta-dark/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//</installedfile>
+  <id>1306413</id>
+  <releasedate>2019-09-24</releasedate>
+  <summary>Canta theme for kde plasma desktop</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1569320283/s/1fcadc840db0961c9cb8477503dce83e/t/1578541344/o/1/Canta.tar.xz</payload>
+  <tags>original-product,linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

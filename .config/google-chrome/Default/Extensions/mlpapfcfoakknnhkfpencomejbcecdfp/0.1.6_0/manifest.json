@@ -1,0 +1,23 @@
+{
+   "background": {
+      "scripts": [ "punycode.min.js", "jquery-1.10.2.min.js", "locache.js", "bg.js" ]
+   },
+   "content_security_policy": "script-src 'self' https://www.google.com https://apis.google.com https://ssl.google-analytics.com; object-src https://www.google.com 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "http://www.tcpiputils.com",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtf0t25XE8jqhKALEslvZjstmaoQMU8vMXy/1JUBuEnfk/vIGeiz9ptXuPDThCkB70DSEZajgCF+dqlHJvoO9Hk1Sdszju4QheNM1s7IHKVtJ/NKqicDlvSa54U1pNrlprzmmF2w6C8cfOoKnt26yRpbd0dIGUkWtGys+xwraSSbCYNlMjV+k1c64nyDZkTVe9K+hQJLtLtuCkDrhqEs0VHaH7fickSvtLHE1aId+q5+QHZRwrB2ECjQHfFzDrvKc6s/+Ae6ekPEGpRJr5niYF40mlDDsyqwNlUqUoxtfdIEg85WFr4ZXlPYGw5BDINaDao/1MMoqbzNuqRE7iR5JSwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "page_action": {
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "*://*.tcpiputils.com/", "*://*.utlsapi.com/", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.6"
+}

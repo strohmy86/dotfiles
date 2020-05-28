@@ -1,0 +1,13 @@
+[Added Associations]
+text/csv=libreoffice-calc.desktop;org.kde.calligrasheets.desktop;org.kde.kwrite.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;geany.desktop;atom.desktop;org.kde.calligrawords_ascii.desktop;
+video/mp4=vlc.desktop;org.kde.dragonplayer.desktop;
+video/quicktime=vlc.desktop;org.kde.dragonplayer.desktop;
+
+[Default Applications]
+text/csv=libreoffice-calc.desktop;
+video/mp4=vlc.desktop;
+video/quicktime=vlc.desktop;
+x-scheme-handler/http=google-chrome.desktop;
+x-scheme-handler/https=google-chrome.desktop;
+x-scheme-handler/mailto=org.kde.kmail2.desktop
+text/html=firefox.desktop

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Rodo šalies vėliava ir kitas IP / domeno informaciją, esančią adreso lauke."
+   },
+   "longdesc": {
+      "message": "Šis išplėtimas rodo šalies vėliava dabartinės svetainės serverio. Tooltip rodo miesto, regiono ir šalies pavadinimas.\n\nIššokantis langas rodo daugiau informacijos apie domeną. Duomenys yra Alexa ir Quantcast reitingą, Google Pagerank ir MyWOT reputaciją. Iššokantis langas yra paprastas ir švarus.\n\nSiekiant apsaugoti jūsų privatumą, mes tik siųsti domeno vardą į mūsų duomenų bazę.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP domeno šalies vėliava"
+   }
+}

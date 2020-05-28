@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Toont land vlag en andere IP / domeininformatie in de locatiebalk."
+   },
+   "longdesc": {
+      "message": "Deze extensie toont de vlag van een land voor server van de huidige website. Stad, regio en land naam wordt weergegeven in de knopinfo.\n\nDe popup bevat meer informatie over het domein. Details zijn Alexa en Quantcast rangschikking, Google Pagerank en MyWOT reputatie. Het ontwerp van de popup is eenvoudig en schoon.\n\nTer bescherming van uw privacy hebben we alleen de domeinnaam verzenden naar onze database.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP-domein land vlag"
+   }
+}

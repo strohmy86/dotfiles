@@ -1,0 +1,62 @@
+{
+   "app": {
+      "display_mode": "standalone",
+      "icon_color": "#DB4E42",
+      "launch": {
+         "web_url": "https://plus.google.com/?lfhs=2"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/1x/gplus_icon_flush_76dp.png"
+      }, {
+         "size": 48,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/1x/gplus_icon_flush_76dp.png"
+      }, {
+         "size": 64,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/1x/gplus_icon_flush_76dp.png"
+      }, {
+         "size": 76,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/1x/gplus_icon_flush_76dp.png"
+      }, {
+         "size": 96,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/2x/gplus_icon_flush_60dp.png"
+      }, {
+         "size": 120,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/2x/gplus_icon_flush_60dp.png"
+      }, {
+         "size": 128,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/2x/gplus_icon_flush_76dp.png"
+      }, {
+         "size": 152,
+         "url": "https://ssl.gstatic.com/images/branding/google_plus/2x/gplus_icon_flush_76dp.png"
+      }, {
+         "size": 192,
+         "url": "https://ssl.gstatic.com/images/branding/product/1x/google_plus_192dp.png"
+      }, {
+         "size": 256,
+         "url": "https://ssl.gstatic.com/images/branding/product/1x/google_plus_192dp.png"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "120": "icons/120.png",
+      "128": "icons/128.png",
+      "152": "icons/152.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "76": "icons/76.png",
+      "96": "icons/96.png"
+   },
+   "key": "yH7ppt21bYk6AFnWjC7aqTuaqb868TNIcQ3cz+Ji/Vo=",
+   "name": "Google+",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://plus.google.com/*" ],
+         "title": "Google+"
+      }
+   },
+   "version": "2020.2.20.52271"
+}

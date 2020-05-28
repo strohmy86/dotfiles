@@ -1,0 +1,11 @@
+[General]
+SplitterSizes=275,354
+
+[KFileDialog Settings]
+Recent Files[$e]=ApacheDirectoryStudio,file:$HOME/bin/ApacheDirectoryStudio/icon.xpm,file:$HOME/bin/ApacheDirectoryStudio/ApacheDirectoryStudio
+Recent URLs[$e]=file:$HOME/bin/ApacheDirectoryStudio/
+detailViewIconSize=0
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

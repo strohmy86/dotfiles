@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Xenon Blue</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>markitos66</author>
+  <homepage>https://store.kde.org/p/999822</homepage>
+  <licence></licence>
+  <version>1.00.00</version>
+  <rating>76</rating>
+  <downloads>12921</downloads>
+  <installedfile>/home/lstrohm/.icons//XenonBlue/*</installedfile>
+  <installedfile>/home/lstrohm/.icons//</installedfile>
+  <id>999822</id>
+  <releasedate>2014-05-15</releasedate>
+  <summary>&lt;em>&lt;strong>Xenon Blue&lt;/strong>&lt;/em> is a X11 mouse theme multisized to 24, 32, 40, 48, 56 and 64 pixels. Dedicated to Xfce.&lt;br />
+This one is a almost fully modification of Starcraft mouse theme for windows. If you want to see the original, go...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/img//hive/content-pre1/165175-1.gif</preview>
+  <previewBig>https://cn.opendesktop.org/img//hive/content-pre1/165175-1.gif</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1460735010/s/2542e5d2cef05aad3015d0e77027202a/t/1578542255/o/1/165175-XenonBlue.tgz</payload>
+  <tags>cursor,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

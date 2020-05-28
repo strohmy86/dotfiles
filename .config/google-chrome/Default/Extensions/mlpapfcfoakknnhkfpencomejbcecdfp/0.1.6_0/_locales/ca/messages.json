@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Mostra la bandera del país i altre IP / informació domini al bar de localització."
+   },
+   "longdesc": {
+      "message": "Aquesta ampliació Mostra una bandera del país per al servidor de la pàgina web. El tooltip Mostra el nom de ciutat, comarca i país.\n\nEl desplegable es mostra més informació sobre el domini. Detalls són Alexa i Quantcast de classificació, Google Pagerank i reputació de MyWOT. El disseny de la finestra emergent és simple i neta.\n\nPer protegir la vostra privadesa, només s'envien el nom de domini a la nostra base de dades.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "Bandera del país IP domini"
+   }
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>McMojave-circle</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305429</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>15365</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//McMojave-circle/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//McMojave-circle-dark/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1305429</id>
+  <releasedate>2019-12-31</releasedate>
+  <summary>MacOSX Mojave like circle icon theme for linux desktops&lt;br />
+--------------------------&lt;br />
+Based on OSX_ONE: &lt;a href="https://github.com/unc926/OSX_ONE" target="_blank" rel="nofollow">https://github.com/unc926/OSX_ONE&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>You can use this with:&lt;/strong>&lt;br />
+--------------------------&lt;br />
+&lt;strong>GTK theme&lt;/strong>&lt;br />
+Mojave-gtk-theme: &lt;a href="https://www.pling.com/p/1275087/" target="_blank" rel="nofollow">https://www.pling.com/p/1275087/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>KDE theme&lt;/strong>&lt;br />
+McMojave-kde: &lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Folder-color&lt;/strong>&lt;br />
+Folder-color: &lt;a href="http://foldercolor.tuxfamily.org" target="_blank" rel="nofollow">http://foldercolor.tuxfamily.org&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>Info&lt;/strong>&lt;br />
+--------------------------&lt;br />
+This theme use &lt;strong>numix-icon-theme-circle&lt;/strong> for Inherits&lt;br />
+so if you want a better experience you can install numix-circle&lt;br />
+&lt;br />
+&lt;strong>numix-icon-theme-circle&lt;/strong> :&lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1577778864/s/6f76b5b6abfe5d7bcc05440a0c316496/t/1578541368/o/1/01-McMojave-circle.tar.xz</payload>
+  <tags>gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Arc-ICONS Complete Icon and Folder Set</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rtl88</author>
+  <homepage>https://store.kde.org/p/1326508</homepage>
+  <licence></licence>
+  <version>1.5.8</version>
+  <rating>87</rating>
+  <downloads>2620</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Arc-ICONS/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1326508</id>
+  <releasedate>2019-12-23</releasedate>
+  <summary>Arc-ICONS are finally complete and all living in one theme. This is currently the only complete, official-based, Arc icon set available anywhere.&lt;br />
+&lt;br />
+These Arc icons and folders have been carefully crafted to match all traditionally schemed Arc desktop themes, but they can surely...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/6/6/d/ffa8b18f310c6f844b777b2d8a25f41ec7de.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/6/6/d/ffa8b18f310c6f844b777b2d8a25f41ec7de.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1577094070/s/60ebe5eab2b18ce56d23a22aa50c8bfc/t/1578540576/o/1/Arc-ICONS_1.5.8.zip</payload>
+  <tags>dark,arc,matching,blue,arc-dark,cc-by-sa,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Canta icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1306416</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>73</rating>
+  <downloads>16875</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Canta/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1306416</id>
+  <releasedate>2019-05-21</releasedate>
+  <summary>Canta icons theme&lt;br />
+--------------------------&lt;br />
+&lt;strong>Info&lt;/strong>&lt;br />
+--------------------------&lt;br />
+This theme use &lt;strong>numix-icon-theme-circle&lt;/strong> for Inherits&lt;br />
+so if you want a better experience you can install numix-circle&lt;br />
+&lt;br />
+&lt;strong>numix-icon-theme-circle&lt;/strong> :&lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1558436225/s/34642171ae9a489ba33dc42f15e293b6/t/1578541348/o/1/Canta.tar.xz</payload>
+  <tags>linux,unix,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

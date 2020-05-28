@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Viser land flag og andre IP / domain information i placering advokatstanden."
+   },
+   "longdesc": {
+      "message": "Denne udvidelse viser et nationalflag for det aktuelle websteds server. Værktøjstip viser by, region og land navn.\n\nPop-up-vinduet viser flere oplysninger om domænet. Detaljer er Alexa og Quantcast ranking, Google Pagerank og MyWOT omdømme. Design af popup er enkle og rene.\n\nFor at beskytte dine personlige oplysninger, sender vi kun domænenavnet til vores database.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP domæne land Flag"
+   }
+}

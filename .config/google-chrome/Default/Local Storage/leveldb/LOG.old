@@ -1,0 +1,17 @@
+2020/05/04-14:42:37.211 5ece4 Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/04-14:42:37.211 5ece4 Recovering log #59
+2020/05/04-14:42:37.248 5ece4 Level-0 table #62: started
+2020/05/04-14:42:37.310 5ece4 Level-0 table #62: 48216 bytes OK
+2020/05/04-14:42:37.373 5ece4 Delete type=0 #59
+2020/05/04-14:42:37.373 5ed74 Compacting 4@0 + 1@1 files
+2020/05/04-14:42:37.685 5ed74 Generated table #64@0: 688 keys, 586243 bytes
+2020/05/04-14:42:37.685 5ed74 Compacted 4@0 + 1@1 files => 586243 bytes
+2020/05/04-14:42:37.794 5ed74 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/04-14:42:37.794 5ed74 Delete type=2 #62
+2020/05/04-14:42:37.794 5ed74 Delete type=2 #55
+2020/05/04-14:42:37.794 5ed74 Delete type=2 #52
+2020/05/04-14:42:37.794 5ed74 Delete type=2 #60
+2020/05/04-14:42:37.794 5ed74 Delete type=2 #57
+2020/05/04-14:43:51.446 5ed74 Level-0 table #66: started
+2020/05/04-14:43:51.499 5ed74 Level-0 table #66: 246938 bytes OK
+2020/05/04-14:43:51.528 5ed74 Delete type=0 #63

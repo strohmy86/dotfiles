@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-a13d41bb-70ad-4d8d-9aa0-5dc5c46b143f]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:terminator.desktop,applications:io.github.Hexchat.desktop,applications:Apache Directory Studio.desktop,applications:sublime_text.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:terminator.desktop,applications:io.github.Hexchat.desktop,applications:Apache Directory Studio.desktop,applications:sublime_text.desktop

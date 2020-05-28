@@ -1,0 +1,6 @@
+2020/05/04-14:42:37.013 5ecca Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/04-14:42:37.014 5ecca Recovering log #48
+2020/05/04-14:42:37.051 5ecca Reusing old log /home/lstrohm/.config/google-chrome/Default/Sync Data/LevelDB/000048.log 
+2020/05/04-16:15:52.249 7e973 Level-0 table #52: started
+2020/05/04-16:15:52.294 7e973 Level-0 table #52: 130077 bytes OK
+2020/05/04-16:15:52.321 7e973 Delete type=0 #48

@@ -1,0 +1,180 @@
+{
+  "type": "object",
+
+  "properties": {
+
+    "WebSecurityKey": {
+      "title": "WebSecurity Key.",
+      "description": "The Security Key specifying which group requests that originate from this App should target for web security filtering.",
+      "type": "string"
+    },
+    "WebSecurityHost": {
+      "title": "WebSecurity Host",
+      "description": "This is the hostname of your assigned iboss Cloud or off-premise accessible iboss filter",
+      "type": "string"
+    },
+    "WebSecurityCustomBlockPageURL": {
+      "title": "WebSecurity Custom Block Page URL",
+      "description": "This is the url of an optional custom block page to use instead of the default internal block page",
+      "type": "string"
+    },
+    "BlockOnUnsuccessfulConnection": {
+      "title": "Block on connection failure",
+      "description": "This setting controls whether or not requests should be automatically blocked on failure to contact the iboss cloud",
+      "type": "boolean"
+    },
+    "FilterPerformance": {
+      "title": "Ability to define the filtering performance to apply",
+      "description": "This setting defines the filtering performance and consequently the number of filtering calls that the extension will generate. Acceptable values are HIGH, MEDIUM, or LOW.",
+      "type": "string"
+    },
+    "SSOSecurityKey": {
+      "title": "SSOSecurity Key.",
+      "description": "The SSOSecurity Key specifying which group requests that originate from this App should target for SSO login purposes.",
+      "type": "string"
+    },
+    "SSOHost": {
+      "title": "SSO Host",
+      "description": "This is the hostname of your local filter used to process SSO login requests",
+      "type": "string"
+    },
+    "HTTPPort": {
+      "title": "HTTP Port",
+      "description": "This is the assigned the http port which the iboss filter runs on",
+      "type": "integer"
+    },
+    "HTTPSPort": {
+      "title": "HTTPS Port",
+      "description": "This is the assigned the https port which the iboss filter runs on",
+      "type": "integer"
+    },
+    "SSOBackupHost": {
+      "title": "SSO Backup Host",
+      "description": "This is the hostname of your local filter to be used as a backup in case the primary filter that processes SSO login requests goes down",
+      "type": "string"
+    },
+    "SSOLoginIntervalMinutes": {
+      "title": "The SSO Login Interval",
+      "description": "This setting controls the interval time (in minutes) when the SSO Login request should be sent to update the IP Address of the user",
+      "type": "integer"
+    },
+    "AllowOffPremUsage": {
+      "title": "Allows the device to function off-premise",
+      "description": "This setting controls whether the device can function when off-premise or whether all traffic will be blocked",
+      "type": "boolean"
+    },
+    "FilterWhenOffPrem": {
+      "title": "Turns filtering on/off when off-premise",
+      "description": "This setting controls whether the device will filter when it is off-premise or allow all traffic to pass",
+      "type": "boolean"
+    },
+    "SendCompleteEmail": {
+      "title": "Send Complete Email",
+      "description": "For all requests if this is set to true the complete email will be sent otherwise just the prefix will be sent",
+      "type": "boolean"
+    },
+    "UseSSL": {
+      "title": "Use SSL",
+      "description": "This setting controls whether the iboss will connect to the On/Off Prem Hosts via SSL/HTTPS or standard HTTP",
+      "type": "boolean"
+    },
+    "RunTimeMode": {
+      "title": "Cloud Connector Mode",
+      "description": "This setting controls whether the iboss Cloud Connector will operate in 'normal', 'gen4_saml', or 'gen4_auto' mode",
+      "type": "string"
+    },
+    "Gen4ProxyHost": {
+      "title": "Gen4 Proxy Host",
+      "description": "This is the hostname of your assigned iboss Cloud or off-premise accessible iboss filter",
+      "type": "string"
+    },
+    "Gen4ProxyPort": {
+      "title": "Gen4 Proxy Port",
+      "description": "This is the proxy port of your assigned iboss Cloud or off-premise accessible iboss filter",
+      "type": "integer"
+    },
+	 "Gen4ProxyBypass": {
+      "title": "Gen4 Proxy Bypass",
+      "description": "A list of servers which will bypass the proxy connection",
+      "type": "array",
+	  "items": {
+		"type": "string"
+	  }
+    },
+    "Gen4ProxyAutoConfigurationScriptURL": {
+      "title": "Gen4 Proxy Auto Configuration Script URL",
+      "description": "Use a Proxy Auto Configuration Script (still requires Proxy Host to be set)",
+      "type": "string"
+    },
+    "SAMLSessionCookie": {
+      "title": "SAML Session Cookie",
+      "description": "SAML Session Cookie used by Gen4 SAML mode connections",
+      "type": "string"
+    },
+    "Gen4AutoRegisterPort": {
+      "title": "Gen4 Auto Login Register Port",
+      "description": "Agent registration port for Auto Login mode",
+      "type": "integer"
+    },
+    "Gen4AutoRegisterSecurePort": {
+      "title": "Gen4 Auto Login Register Secure Port",
+      "description": "Agent registration port for Auto Login mode",
+      "type": "integer"
+    },
+    "Gen4AutoLoginSecurityGroups": {
+      "title": "Gen4 Auto Login Security Groups",
+      "description": "Security Groups a newly registered device will be placed in (comma separated list)",
+      "type": "string"
+    },
+    "Gen4AutoLoginComputerOverridesUser": {
+      "title": "Gen4 Auto Login Computer Overrides User",
+      "description": "",
+      "type": "integer"
+    },
+    "Gen4AutoLoginEncryptionRegistration": {
+      "title": "Gen4 Auto Login Encryption Registration",
+      "description": "a boolean flag to enable to encrypt the registration call string",
+      "type": "integer"
+    },
+    "Gen4ProxyMonitorInterval": {
+      "title": "Gen4 Auto Login Proxy Monitor Interval",
+      "description": "interval to monitor the proxy setting",
+      "type": "integer"
+    },
+    "Gen4AutoLoginRegistrationInterval": {
+      "title": "Gen4 Auto Login Registration Interval",
+      "description": "interval to re-register on configured interval",
+      "type": "integer"
+    },
+    "Gen4AutoLoginCaptivePortalDetection": {
+      "title": "Gen4 Captive Portal Detection",
+      "description": "feature switch to turn on captive portal detection",
+      "type": "integer"
+    },
+    "Gen4AutoLoginCaptivePortalDetectionInterval": {
+      "title": "Gen4 Captive Portal Detection",
+      "description": "interval for captive portal detection",
+      "type": "integer"
+    },
+    "IpAddressCheckInterval": {
+      "title": "Validate IP Address consistency",
+      "description": "interval for checking IP addrses",
+      "type": "integer"
+    },
+    "ReloadTabs": {
+      "title": "Reload browser tabs at start up",
+      "description": "At extension start reload ReloadTabs",
+      "type": "boolean"
+    },
+    "ChromeBridgeIP": {
+      "title": "IP address of Chrome Bridge",
+      "description": "Addresses chrome is using for internal bridge",
+      "type": "string"
+    },
+    "PACServerPort": {
+      "title": " Pac Server Port",
+      "description": "Port to serve pac server",
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+T 1581604790 19*	Now talking on 22#centos
+T 1581604790 22*	Topic for 22#centos is: Use https://paste.centos.org for 3+ lines|Only current releases (8.1.1911, 8-stream, 7.7.1908 & 6.10) are supported, run yum update to get current|#centos-social for idle chat|Read https://wiki.centos.org/irc |Backports: http://tinyurl.com/k9738z9 |Some thinking required|Be polite and considerate|Infra status: https://status.centos.org
+T 1581604790 22*	Topic for 22#centos set by 26Arrfab!~arrfab@centos/unfakeable/Arrfab (24Wed Jan 15 09:27:41 2020)
+T 1581604790 -18ChanServ-	[#centos] Welcome to #centos | use https://pastebin.centos.org for more than 3 lines | Only current releases (8.1.1911, 8-stream, 7.7.1908, 6.10) are supported; run yum update to get current | Use #centos-social for idle chat | Read http://wiki.centos.org/irc | Backports: http://tinyurl.com/k9738z9 | Some thinking required | Be polite and considerate | Infra status : https://status.centos.org
+T 1581605049 24*	28skywaker is now known as 18skywalker
+T 1581605170 23*	racooper (~racooper@unaffiliated/racooper23) has joined
+T 1581605205 24*	stefanc_diff has quit (Excess Flood)
+T 1581605215 23*	leanderthal (~leanderth@91.141.136.15223) has joined
+T 1581605359 23*	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net23) has joined
+T 1581605455 24*	happymeal|2 has quit (Ping timeout: 268 seconds)
+T 1581605518 24*	areguera_ has quit (Ping timeout: 245 seconds)
+T 1581605615 24*	losuler has quit (Ping timeout: 260 seconds)
+T 1581605644 23*	losuler (~losuler@unaffiliated/losuler23) has joined
+T 1581605730 23*	DanyC (~DanyC@185.65.25.7423) has joined
+T 1581605795 18<28ghostzec18>	Hi, If I wanna setup a CentOS headless server only for using it as a wireguard server. would that work well you reckon ?
+T 1581605797 23*	malleda (~adellam@pdpc/supporter/active/adellam23) has joined
+T 1581605814 24*	28malleda is now known as 18adellam
+T 1581605821 18<28ghostzec18>	Basically what Im asking is.. does anyone know if there could be a problem with this or recommend me to set this up somewhere else ?
+T 1581605850 18<20sfix18>	wasn't wireguard _just_ merged into mainline?
+T 1581605862 18<22Evolution18>	ghostzec: centos doesn't currently support wireguard unless you're building your own kernel.
+T 1581605863 18<28ghostzec18>	I have no idea my friend Im a newbie in this world..
+T 1581605870 18<28ghostzec18>	Evolution, damn it..
+T 1581605892 18<28ghostzec18>	so basically has to be a ubuntuserver then
+T 1581605897 24*	gko_ has quit (Remote host closed the connection)
+T 1581605901 18<22Evolution18>	sfix is right. it was *just* merged into the mainline kernel.
+T 1581605912 18<28ghostzec18>	ok so.. what does that mean
+T 1581605913 18<22Evolution18>	like, in the last 2-3 weeks.
+T 1581605913 23*	gko_ (~gko@220-133-45-101.HINET-IP.hinet.net23) has joined
+T 1581605921 18<28ghostzec18>	will maybe work but probably a bit buggy ?
+T 1581605946 18<22Evolution18>	ghostzec: no one really knows yet, because it literally *just* landed.
+T 1581605958 18<22Evolution18>	it could explode, it could work fine.
+T 1581605976 18<22Evolution18>	only time and early adopters will tell.
+T 1581606003 24*	giovdav has quit (Remote host closed the connection)
+T 1581606007 24*	DanyC has quit (Ping timeout: 260 seconds)
+T 1581606029 23*	giovdav (~giovdav@unaffiliated/giovdav23) has joined
+T 1581606045 23*	JesterHead (~jesterhea@cpe-70-119-232-218.tx.res.rr.com23) has joined
+T 1581606053 23*	holdthedeer (50249084@gateway/web/cgi-irc/kiwiirc.com/ip.80.36.144.13223) has joined
+T 1581606084 18<28ghostzec18>	damn
+T 1581606095 18<28ghostzec18>	Im a real newbie.. I do everything from guides only :D
+T 1581606106 18<28ghostzec18>	Should I try it? I mean it will either work or it wont right
+T 1581606118 24*	cdown has quit (Ping timeout: 245 seconds)
+T 1581606118 18<28ghostzec18>	I dont like ubuntuserver ..
+T 1581606129 18<28ghostzec18>	actually I dont even like ubuntu
+T 1581606162 18<28ghostzec18>	or maybe I will try this openBSD out.. heard a lot of good things about it'
+T 1581606194 24*	jaake has quit (Ping timeout: 240 seconds)
+T 1581606208 24*	Holdenger has quit (Remote host closed the connection)
+T 1581606223 18<20lmns18>	ghostzec: Have you tried Fedora yet? They usually ship new kernel versions quite fast
+T 1581606226 23*	Holdenger (~holdenger@95.47.179.22523) has joined
+T 1581606283 18<20lmns18>	Also if you don't like Debian / Ubuntu and CentOS / RHEL is too old for you, then Fedora would make sense
+T 1581606293 24*	kelkoobenoitr has quit (Ping timeout: 245 seconds)
+T 1581606315 24*	JesterHead has quit (Ping timeout: 260 seconds)
+T 1581606331 18<28ghostzec18>	I shall take a look at that as well thanks
+T 1581606342 23*	DanyC (~DanyC@185.65.25.7423) has joined
+T 1581606361 23*	areguera (~areguera@centos/sig-artwork/areguera23) has joined
+T 1581606382 23*	JesterHead (~jesterhea@cpe-70-119-232-218.tx.res.rr.com23) has joined
+T 1581606413 24*	Holdenger has quit (Read error: Connection reset by peer)
+T 1581606493 18<27Ussat18>	Just cureious, what is wrong with ubuntu server ?
+T 1581606522 23*	Holdenger (~holdenger@95.47.179.22523) has joined
+T 1581606723 24*	ghostzec has quit (Remote host closed the connection)
+T 1581606734 18<22Evolution18>	it's off topic in this channel?
+T 1581606736 18<22Evolution18>	:-P
+T 1581606765 18<27Ussat18>	Well, I did not bring it up
+T 1581606769 18<27Ussat18>	tell him/her
+T 1581606882 24*	JesterHead has quit (Ping timeout: 246 seconds)
+T 1581606887 24*	Tazmainian has quit (Remote host closed the connection)
+T 1581606955 23*	BOKALDO (~BOKALDO@46.109.201.19923) has joined
+T 1581606982 23*	byteskeptical (~amnesia@c-73-156-0-193.hsd1.fl.comcast.net23) has joined
+T 1581607010 24*	z8z has quit (Ping timeout: 240 seconds)
+T 1581607013 18<19dowdle18>	What's the matter with Kansas?
+T 1581607029 23*	pajamian (~pj@centos/ops/pj23) has joined
+T 1581607030 23*	stuckedbear (~textual@47.56.17.123) has joined
+T 1581607081 18<27Ussat18>	I donno, if RHEL/Cent would have got their **it together and included the libraries I needed for these cases, I would have used them
+T 1581607107 24*	jay-m_ has quit (Ping timeout: 240 seconds)
+T 1581607181 24*	pj has quit (Ping timeout: 258 seconds)
+T 1581607188 18<29Iders18>	No package json available.
+T 1581607191 18<29Iders18>	how to find this?
+T 1581607260 23*	bugs_ (~bugs@cpe-70-121-47-23.tx.res.rr.com23) has joined
+T 1581607272 18<19Kosch18>	?
+T 1581607295 18<29Iders18>	No package json available.
+T 1581607301 18<19Kosch18>	Ok.
+T 1581607310 18<29Iders18>	https://www.irccloud.com/pastebin/GJxWoC7C/
+T 1581607323 18<19dowdle18>	Iders: There are many packages (I think) that have json as part of the name but not a package just named "json".  You'll have to be more specific to find the package you are looking for.
+T 1581607348 18<19Kosch18>	@xy
+T 1581607348 18<25centbot18>	It sounds like you may be trying to solve an XY problem where you think you want to do Y in order to achieve X and it would help if we knew what your end goal (i.e X) actually is - http://mywiki.wooledge.org/XyProblem
+T 1581607361 18<19dowdle18>	Iders: Just like you can't install a package named thispackagedoesnotexist.
+T 1581607413 18<29Iders18>	dowdle: :S then any way to install?
+T 1581607440 18<26carbonator18>	Iders: for what? there are like >100 packages with json in the name in the most common repos
+T 1581607443 18<19dowdle18>	Iders: Yes.  Find the actual package name... for a package that exists... and those do install. :)
+T 1581607457 18<19Kosch18>	use yum search to finde the needed one...
+T 1581607660 24*	byteskeptical has quit (Quit: leaving)
+T 1581607693 18<24TrevorH18>	or yum provides to find the actual file you're looking for
+T 1581607839 23*	JesterHead (~jesterhea@cpe-70-119-232-218.tx.res.rr.com23) has joined
+T 1581607898 23*	dansolo42 (~dansolo42@50.237.110.7523) has joined
+T 1581607902 23*	happymeal (~happymeal@unaffiliated/happymeal23) has joined
+T 1581607906 23*	jvesely (~jvesely@pool-96-237-153-237.bstnma.ftas.verizon.net23) has joined
+T 1581607907 18<29Iders18>	yum search json find many json
+T 1581607917 18<29Iders18>	not only json named file
+T 1581607930 24*	dansolo42 has quit (Remote host closed the connection)
+T 1581607953 18<22Evolution18>	right. which one do you need?
+T 1581607977 18<29Iders18>	i need to install tdom and json
+T 1581608011 23*	z8z (~x@ac230029.ppp.asahi-net.or.jp23) has joined
+T 1581608062 18<22Evolution18>	for what? you'll need to use more words. 'json' is a structured data format, not a package. so python json is different from ruby is different from nodejs, etc.
+T 1581608069 24*	z8z has quit (Remote host closed the connection)
+T 1581608105 18<29Iders18>	my eggdrop tcl required that
+T 1581608127 24*	JesterHead has quit (Ping timeout: 260 seconds)
+T 1581608165 18<22Evolution18>	Iders: which version of centos are you using?
+T 1581608168 23*	happymeal` (~happymeal@unaffiliated/happymeal23) has joined
+T 1581608197 18<19Kosch18>	@uname Iders
+T 1581608197 18<25centbot18>	Please paste the single line of output from the 'uname -a' command run on the machine in question to the channel. We request this information to better assist you. If you are worried about your privacy or security we ask that you _only_ obfuscate the hostname and leave all other information intact.
+T 1581608218 23*	byteskeptical (~amnesia@c-73-156-0-193.hsd1.fl.comcast.net23) has joined
+T 1581608259 18<29Iders18>	Evolution:  centos 6
+T 1581608303 24*	happymeal has quit (Ping timeout: 260 seconds)
+T 1581608324 18<27Ussat18>	6
+T 1581608350 18<22Evolution18>	Iders: use the package. it's in epel.
+T 1581608354 24*	almostdvs has quit (Ping timeout: 240 seconds)
+T 1581608382 18<22Evolution18>	don't build it yourself.
+T 1581608397 18<29Iders18>	Evolution:  how?
+T 1581608425 18<22Evolution18>	@epel
+T 1581608425 18<25centbot18>	EPEL (Extra Packages for Enterprise Linux) is a third party yum repository. You can install EPEL by running 'yum --enablerepo=extras install epel-release' and gain access to several thousand more packages for CentOS/RHEL. Please note that issues with the EPEL repository, packages or mirrors should be reported to #epel
+T 1581608434 18<19Kosch18>	https://fedoraproject.org/wiki/EPEL
+T 1581608435 23*	dansolo42 (~dansolo42@50.237.110.7423) has joined
+T 1581608442 18<22Evolution18>	then 'yum install eggdrop'
+T 1581608466 24*	pateh has quit (Quit: WeeChat 2.2)
+T 1581608516 18<24TrevorH18>	@c6eol
+T 1581608516 18<25centbot18>	CentOS 6 entered Maintenance Support 2 (see https://access.redhat.com/support/policy/updates/errata/ ) on May 10th 2017 and now only receives critical updates. It will go EOL on 30 Nov, 2020 -- in 41 weeks, 3 days, 8 hours, 18 minutes, and 4 seconds
+T 1581608519 18<24TrevorH18>	use something else
+T 1581608581 18<29Iders18>	Evolution: , thanks i fixed json error :)
+T 1581608612 18<22Evolution18>	...
+T 1581608723 24*	timothy has quit (Quit: Konversation terminated!)
+T 1581608779 24*	rbowen has quit (Ping timeout: 260 seconds)
+T 1581608785 23*	almostdvs (~almostdvs@162.154.195.11323) has joined
+T 1581608863 24*	sbluhm has quit (Ping timeout: 260 seconds)
+T 1581608907 23*	openstrike[m] (~pete@186.19.187.81.in-addr.arpa23) has joined
+T 1581609016 23*	nksegos (~Thunderbi@lfbn-ann-1-113-54.w86-220.abo.wanadoo.fr23) has joined
+T 1581609096 24*	nksegos has quit (Client Quit)
+T 1581609210 23*	timothy (~tredaelli@redhat/timothy23) has joined
+T 1581609354 24*	happymeal` has quit (Quit: quit)
+T 1581609404 24*	JohnMS_WORK has quit (Read error: Connection reset by peer)
+T 1581609447 24*	carbonator has quit (Remote host closed the connection)
+T 1581609567 24*	leanderthal has quit (Remote host closed the connection)
+T 1581609636 24*	reis_r has quit (Ping timeout: 268 seconds)
+T 1581609671 24*	BRLX has quit (Quit: BRLX)
+T 1581609678 24*	holdthedeer has quit (Remote host closed the connection)
+T 1581609799 23*	leanderthal (~leanderth@91.141.136.15223) has joined
+T 1581609813 23*	sbluhm (~stefan@mail.bluhm-de.com23) has joined
+T 1581609826 24*	rgogunskiy has quit ()
+T 1581609945 23*	reis_r (~aoetuhaoe@2804:d4b:1c4f:1200:5edd:7170:6485:34c523) has joined
+T 1581609987 23*	DanyC_ (~DanyC@185.65.25.7423) has joined
+T 1581610147 23*	Robert_Zenz (~Robert_Ze@2a02:908:e30:e080:225:22ff:fedf:2ccb23) has joined
+T 1581610165 24*	DanyC_ has quit (Remote host closed the connection)
+T 1581610200 24*	DanyC has quit (Ping timeout: 246 seconds)
+T 1581610294 24*	thalunil has quit (Quit: Leaving)
+T 1581610304 23*	DanyC (~DanyC@185.65.25.7423) has joined
+T 1581610395 24*	dowdle has quit (Quit: Konversation terminated!)
+T 1581610413 24*	muhaha has quit (Quit: Ping timeout (120 seconds))
+T 1581610421 23*	BOKALDO_ (~BOKALDO@46.109.201.19923) has joined
+T 1581610442 23*	muhaha (~muhaha@88.86.104.2123) has joined
+T 1581610447 24*	mishiranu has quit (Quit: Life finally caught up.)

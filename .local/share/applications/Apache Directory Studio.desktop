@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=Powerful LDAP Utility
+Exec=/home/lstrohm/bin/ApacheDirectoryStudio/ApacheDirectoryStudio
+GenericName=
+Icon=/home/lstrohm/bin/ApacheDirectoryStudio/icon.xpm
+Name=Apache Directory Studio
+NoDisplay=false
+Path[$e]=$HOME/bin/ApacheDirectoryStudio
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Dimostra la bandiera del paese e altri IP / informazioni di dominio nella barra."
+   },
+   "longdesc": {
+      "message": "Questa estensione dimostra la bandiera di un paese per il server del sito Web corrente. Il tooltip Mostra nome città, regione e paese.\n\nPopup Mostra ulteriori informazioni sul dominio. Dettagli sono Alexa e Quantcast ranking, Google Pagerank e MyWOT reputazione. Il design del popup è semplice e pulito.\n\nPer proteggere la vostra privacy, inviamo solo il nome di dominio al nostro database.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP dominio paese bandiera"
+   }
+}

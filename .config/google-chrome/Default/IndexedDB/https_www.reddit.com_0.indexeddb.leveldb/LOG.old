@@ -1,0 +1,8 @@
+2020/05/17-09:57:48.422 1ef9be Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/17-09:57:48.422 1ef9be Recovering log #50
+2020/05/17-09:57:48.423 1ef9be Reusing old log /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000050.log 
+2020/05/17-09:58:20.503 1f657a Level-0 table #55: started
+2020/05/17-09:58:20.503 1f657a Level-0 table #55: 0 bytes OK
+2020/05/17-09:58:20.552 1f657a Delete type=0 #50
+2020/05/17-09:58:20.552 1f657a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/17-09:58:20.552 1f657a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

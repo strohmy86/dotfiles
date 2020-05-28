@@ -1,0 +1,190 @@
+T 1581604849 19*	Now talking on 22##security
+T 1581604849 22*	Topic for 22##security is: Welcome to Computer, Network & Physical ##Security | Please stay on topic | Jobs: https://bit.ly/2YZtyoY | PasswordsCon live stream: https://www.youtube.com/watch?v=GK17BvaMAb4
+T 1581604849 22*	Topic for 22##security set by 26Kryczek (24Mon Nov 25 05:19:05 2019)
+T 1581604849 -18ChanServ-	[##security] In line with freenode channel naming policy ( http://freenode.net/policy.shtml#channelnaming ), channel management of #security has moved to ##security .... please update your autojoins! Thanks.
+T 1581604883 18<jaggz18>	Here is the request of the form page itself (prior to submitting the form): https://i.imgur.com/GrYCEUk.png
+T 1581604884 24*	_weedmic has quit (Read error: Connection reset by peer)
+T 1581604894 18<jaggz18>	`Tim, yeah, mosaic
+T 1581604904 18<jaggz18>	with some other distort(s) before that just in case mosaic is reversible
+T 1581604930 18<jaggz18>	lightened up the blob outlines from their ominous black to make it friendlier-feeling
+T 1581604951 18<calmclam18>	maslen: ick
+T 1581604957 18<jaggz18>	(they have a scary "redacted old castle death rock" feel otherwise)
+T 1581605100 24*	vuoto has quit (Quit: vuoto)
+T 1581605155 18<28calmclam18>	jaggz put more thought into their redaction than I have the last 10 years of my life
+T 1581605226 23*	variableLabel (variableLa@gateway/vpn/protonvpn/variablelabel23) has joined
+T 1581605235 18<28`Tim18>	assume any distorts to be potentially reversable.. not that the information here is worth the trouble :D
+T 1581605272 18<28`Tim18>	just use good old fashioned fill-all
+T 1581605293 18<28`Tim18>	was just wondering, it looked like you went through some trouble to work it there
+T 1581605320 18<19jaggz18>	:)
+T 1581605335 18<19jaggz18>	it's more entertaining with the 10 extra clicks
+T 1581605343 18<19jaggz18>	(in exchange for)
+T 1581605370 18<19jaggz18>	(considering it's about privacy, I'm not doing myself favors by making my pastes unique to me though am I)
+T 1581605480 18<28`Tim18>	:D
+T 1581605487 23*	weedmic (~weedmic@212.68.131.23323) has joined
+T 1581605516 18<20Tazmainian18>	Sigh, I'm not exactly liking that more and more places are starting to rely on biometrics. most commonly fingerprints, and we leave those everywhere, like writing your password on a paper and throwing it everywhere
+T 1581605649 18<28calmclam18>	indeed
+T 1581605710 18<28`Tim18>	well; i mean when they are replacing an electronic locking system where you can just buy the fitting master key on ebay, they aren't exactly reducing security either
+T 1581605710 18<28calmclam18>	I think biometrics are only useful as a second factor
+T 1581605748 18<19jaggz18>	bio is also not protected by whatever amendment yet in u.s.
+T 1581605763 18<19jaggz18>	whereas not divulging a password from your mind is
+T 1581605772 23*	killbash (~Geek@unaffiliated/geek23) has joined
+T 1581605793 18<28calmclam18>	I don't think even that is settled law
+T 1581605843 18<28calmclam18>	Refusing to provide your password by court order is considered contempt in some places
+T 1581605869 18<28calmclam18>	Under at least some circumstances
+T 1581605878 18<22iz18>	but you can claim to forget your password, but can't do that w/ biometrics
+T 1581605901 24*	awe00 has quit (Ping timeout: 272 seconds)
+T 1581605927 18<28calmclam18>	In fact there was a news article about this just recently
+T 1581606046 24*	thebope has quit (Remote host closed the connection)
+T 1581606058 18<28calmclam18>	https://arstechnica.com/tech-policy/2020/02/man-who-refused-to-decrypt-hard-drives-is-free-after-four-years-in-jail/
+T 1581606087 18<22iz18>	Tazmainian's analogy is pretty good though.. like writing a long and complicated password on paper and throwing it everywhere.. and just hoping people don't have the means/patience to read the pieces of paper..  in many situations, like smartphones, it's like the paper are post-it notes stuck all over the phone
+T 1581606120 23*	Elzington (Elzington@gateway/vpn/privateinternetaccess/elzington23) has joined
+T 1581606206 23*	thebope (~thebope@pdpc/supporter/student/thebope23) has joined
+T 1581606210 18<28calmclam18>	The fucked up thing about the government's position in that instance is that they claim they can keep someone in jail *indefinitely* until they reveal their password
+T 1581606217 23*	romare (~st.pauli@unaffiliated/romare23) has joined
+T 1581606239 23*	Onslaught2020 (~jeroen@kb-client-040.kb.nl23) has joined
+T 1581606263 18<22iz18>	yeah, that's yet another reason the cypherpunk idea of plausabile deniability w/ FDE if you go to court is bs security-theater
+T 1581606275 18<22iz18>	the reality is once you are in the court system, you already lost
+T 1581606302 18<28calmclam18>	yes, that's exactly right
+T 1581606406 18<28calmclam18>	you're fucked as soon as the legal system gets ahold of you in one way or another, the circumstances are pretty much irrelevent, as is your innocence
+T 1581606423 23*	awe00 (~awe00@unaffiliated/awe0023) has joined
+T 1581606439 18<28calmclam18>	I wonder if it's always been that way
+T 1581606442 24*	sangoma has quit (Quit: WeeChat 2.7)
+T 1581606476 18<22iz18>	i think so, but i think it was even worse before
+T 1581606479 18<20nate18>	calmclam: Technically speaking it shouldn't even be 18 months, PA law gives 12 months maximum holding on trial period, I'm kinda surprised he wasn't let out on that unless he did have other charges successfully brought against him
+T 1581606597 18<28`Tim18>	iirc france had to give up legislation in that direction (including something about leaving encryption keys at some public office?) because it was limiting movement of people within the EU; an argument that might create some stability within the EU as long as at lease some places in there value it
+T 1581606606 23*	snowkidimd (~snowkidim@80.255.7.423) has joined
+T 1581606612 18<28`Tim18>	least*
+T 1581606691 18<20nate18>	calmclam: Ah nevermind, his was a -federal- court case
+T 1581606698 18<20nate18>	so PA law wouldn't have applied
+T 1581606707 18<20Tazmainian18>	well if someone steals your bio info, that is it
+T 1581606715 24*	thebope has quit (Remote host closed the connection)
+T 1581606741 18<22iz18>	have you seen that CCC talk where they recreate a fingerprint from a high res press photo?
+T 1581606748 18<20Tazmainian18>	yep
+T 1581606750 18<28`Tim18>	which one?
+T 1581606753 18<28`Tim18>	:)
+T 1581606754 18<20Tazmainian18>	guy did it sitting in a bar
+T 1581606758 18<20Tazmainian18>	there are lots of that
+T 1581606761 18<22iz18>	yeah
+T 1581606768 18<20Tazmainian18>	facial recognition being fooled
+T 1581606776 18<22iz18>	and like you said, you can't change your fingerprings
+T 1581606791 23*	thebope (~thebope@pdpc/supporter/student/thebope23) has joined
+T 1581606800 18<20Tazmainian18>	that's why it's such a bad idea
+T 1581606804 18<20nate18>	There are other ways around it too though :P
+T 1581606824 18<20nate18>	Though android sorta ruined them with I think android 7
+T 1581606832 18<20Tazmainian18>	well there is that researcher that made a generic finger print that will unlock something like 40% of the world's smart phones
+T 1581606853 18<20Tazmainian18>	so talk about a generic key to the castle
+T 1581606868 18<28calmclam18>	nate: the whole way they did it is fucked up imo, the case is "United States of America v. ... Velociraptor Duo External Hard Drive", wtf
+T 1581606887 24*	Rottingbeef-2 has quit (Ping timeout: 240 seconds)
+T 1581606887 24*	Tazmainian has quit (Remote host closed the connection)
+T 1581606887 18<20nate18>	You can usually control the sensitivity level on phones, but the other issue is what I just mentioned with Android 7 (at least I think it was that one) it compensated for "angled" fingerprints
+T 1581606905 18<26ses198418>	i was using trivy to scan my docker image (based on ubuntu:18.04/bionic). it found i'm vulnerable to a few things, for example https://people.canonical.com/~ubuntu-security/cve/2019/CVE-2019-1549.html
+T 1581606913 18<20nate18>	so where you used to be able to be sneaky and say do a fingerprint sideways on android, now you can't
+T 1581606921 18<26ses198418>	the ubuntu cve tracker says that this package is fixed in: "Ubuntu 20.04 (Focal Fossa):released (1.1.1d-2ubuntu1) "
+T 1581606939 18<26ses198418>	so i pulled those sources and built that package, installed it in my docker image, trivy says i'm still vulnerable
+T 1581606955 23*	BOKALDO (~BOKALDO@46.109.201.19923) has joined
+T 1581606969 18<22iz18>	there is also just a certain percentage of the population that fingerprint reading tech doesn't work with
+T 1581606971 18<20nate18>	calmclam: I think they listed all the vendors cause they tried to go after the vendors for help as well
+T 1581606986 18<28`Tim18>	as in people with lost limbs?
+T 1581606994 18<26ses198418>	i looked into it, and it looks like trivy's database says that for ubunut 18.04, there is no fix version for this vuln, the "fix version" is empty string
+T 1581607004 18<22iz18>	not just ppl missing fingers, but also some ppl just have thinner skin or ridges so fine that the readers can't really see them
+T 1581607010 24*	z8z has quit (Ping timeout: 240 seconds)
+T 1581607014 18<26ses198418>	trivy sees the fix version as empty string and flags me as vulnerable even though i have the fixed pacakge
+T 1581607030 18<26ses198418>	how do people normally deal with this? for example in ci/cd pipelines i want to see my fix "go green"
+T 1581607049 18<26ses198418>	i want to be able to generate a report to give to customers that says the cve was addressed
+T 1581607050 18<22iz18>	i was working on a project that wanted to use fingerprint reader as a mandatory auth, and one of the older ladies in the team was one of the ppl the reader just wouldn't work on
+T 1581607051 18<28`Tim18>	i mean the "state of the art" devices will look underneath your skin anyway for uhm.. how do they call that "life" detection thing
+T 1581607064 23*	enet (~enet@broadband-188-32-114-80.ip.moscow.rt.ru23) has joined
+T 1581607065 18<20nate18>	ses1984: Stop using a tool and manually verify
+T 1581607067 18<22iz18>	that's just to detect a living finger vs dead
+T 1581607081 18<22iz18>	so protect against like cutting off a finger or using a prosthetic
+T 1581607091 18<28`Tim18>	which as we learned doesn't work
+T 1581607095 18<28`Tim18>	like that
+T 1581607096 18<28`Tim18>	:D
+T 1581607098 18<22iz18>	but it still needs to read the ridges
+T 1581607120 24*	marky1991 has quit (Ping timeout: 268 seconds)
+T 1581607139 18<28`Tim18>	it doesn't actually care if the fingers lives, as long as the prosthetic is providing image of a living finger, that is apparently alright
+T 1581607181 18<20nate18>	ses1984: If you're not capable of manually verifying a vulnerability then you should really be hiring someone to do it.  Ultimately automated scanners are there to give you things to look at manually, not to guarantee you 100% accuracy.
+T 1581607194 18<20nate18>	At the very least you should be able to easily verify it by checking the version numbers against what the CVE says is the fix minimum
+T 1581607217 18<20nate18>	You pasted that you have 1.1.1d, the CVE states "Fixed in OpenSSL 1.1.1d"
+T 1581607336 18<26ses198418>	what do you mean by "manually verifying" because to me "manual" is a dirty word
+T 1581607376 18<26ses198418>	i can "manually" patch trivy to do what i want every time automatically from now on but i'd rather just use another scanner that already does the right thing
+T 1581607383 24*	Onslaught2020 has quit (Ping timeout: 272 seconds)
+T 1581607465 23*	marky1991 (~marky1991@unaffiliated/marky199123) has joined
+T 1581607512 24*	fox2p has quit (Ping timeout: 246 seconds)
+T 1581607543 24*	28tryphe_ is now known as 18tryphe
+T 1581607583 23*	alephZer0 (andrea@gateway/vpn/protonvpn/alephzer023) has joined
+T 1581607644 23*	soulisson (~soulisson@unaffiliated/soulisson23) has joined
+T 1581607659 23*	fox2p (~fox2p@cpe-66-108-32-173.nyc.res.rr.com23) has joined
+T 1581607697 23*	TurboBorland (~Eub@unaffiliated/turboborland23) has joined
+T 1581607718 24*	Warped has quit (Ping timeout: 245 seconds)
+T 1581607737 18<24Copenhagen_Bram18>	good morning
+T 1581607781 18<20nate18>	ses1984: if manual is a dirty word you shouldn't even be touching a system from a system administrator perspective nor telling customers anything
+T 1581607794 18<22iz18>	good morning Copenhagen_Bram!!! *robin williams voice*
+T 1581607803 18<29soulisson18>	hello
+T 1581607809 18<24Copenhagen_Bram18>	lol
+T 1581607819 18<24Copenhagen_Bram18>	RIP robin williams
+T 1581607822 18<20nate18>	the entire point to system administration is a hands-on nature, automation is there to help make things more clear, you are working the wrong things if you don't like to get your hands involved to things
+T 1581607851 18<24Copenhagen_Bram18>	i installed gentoo once, i'm gonna be a great sysadmin right?
+T 1581607854 18<26ses198418>	i honestly can't tell if serious. first of all, i'm not a system admin. i make software. i sell it to customers. they run it. i want something to make sure that if my pipeline runs and is green, the docker image that pops out at the end is good
+T 1581607866 18*	28calmclam gently caresses the firewire port
+T 1581607896 23*	SeepingN (~CPngN@unaffiliated/cpngn/x-698519923) has joined
+T 1581607899 18<26ses198418>	if trivy says, "he you have OpenSSL 1.1.1d and by the way it's vulnerable to CVE-2019-1549" that smells like a bug in trivy to me, or my model of how i think it should work is different from how it actually works
+T 1581607921 24*	AquaL1te has quit (Quit: leaving)
+T 1581607937 18<26ses198418>	i guess i can't rely on trivy to do the verification for me, i have to have a separate scanner to do this, maybe write my own, but i would rather just pull one of the shelf
+T 1581607941 18<20nate18>	Then you need to talk to trivy or ubuntu, as I pointed out the CVE details say 1.1.1d is the fix, so either ubuntu did not patch like they claimed they did or trivy is wrong
+T 1581607981 18<26ses198418>	i explained exactly how it works. on the ubuntu cve page, it says for bionic, "Ubuntu 18.04 LTS (Bionic Beaver):needed"
+T 1581607989 18<26ses198418>	trivy scrapes this and ingests it into their database
+T 1581607989 18<28calmclam18>	it depends on how they did the patch and how the vulnerability detection works; if they backported a patch without incrementing the version, but the vuln scanner detects the vuln by checking the version, then it would false positive
+T 1581607989 18<20nate18>	But management of system level software/libraries is generally a sysop level thing, unless you're saying you statically build openssl into your projects?
+T 1581608006 18<26ses198418>	then trivy does this: https://github.com/aquasecurity/trivy/blob/246793e8739ed45cb972ecb88cccc74929e95ade/pkg/detector/ospkg/ubuntu/ubuntu.go#L64
+T 1581608011 23*	z8z (~x@ac230029.ppp.asahi-net.or.jp23) has joined
+T 1581608031 23*	_nutcr4ck3r (~su@5.253.207.2023) has joined
+T 1581608035 18<26ses198418>	in the database trivy says there is no fix version for this cve for bionic
+T 1581608041 23*	skywlkr (~skywlkr@unaffiliated/skywlkr23) has joined
+T 1581608044 18<26ses198418>	i could literally install ANY version of ssl and trivy would flag this CVE
+T 1581608060 24*	wodencafe has quit (Quit: ZNC 1.6.6+deb1ubuntu0.2 - http://znc.in)
+T 1581608061 18<26ses198418>	i could install OLDER versions of SSL with different vulns, trivy wont find them, but it will flag this CVE
+T 1581608069 24*	z8z has quit (Remote host closed the connection)
+T 1581608081 18<20nate18>	Then trivy probably isn't maintaining their database or at least haven't updated it yet.  All we can do is tell you what the CVE details say which is that 1.1.1d is the fix version
+T 1581608097 18<26ses198418>	trivy's database is exactly up to date according to the ubuntu cve tracker
+T 1581608108 18<26ses198418>	it just has weird behavior. i would call it wrong behavior but maybe the trivy authors disagree with me
+T 1581608137 18<26ses198418>	trivy is finding that my docker image is based on bionic and only looking at the bionic slice of the ubuntu cve tracker
+T 1581608145 23*	trinityblade (~trinitybl@65.220.10.323) has joined
+T 1581608155 18<26ses198418>	trivy is completely unaware that the cve is addressed in Ubuntu 20.04 (Focal Fossa):released (1.1.1d-2ubuntu1)
+T 1581608168 18<26ses198418>	even if it was, it wouldn't correlate that with my package
+T 1581608242 18<26ses198418>	the entire point to system administration is a hands on nature, baby please my production servers dont have ssh
+T 1581608247 24*	Lord_of_Life has quit (Ping timeout: 260 seconds)
+T 1581608337 23*	Lord_of_Life (~Lord@unaffiliated/lord-of-life/x-088536223) has joined
+T 1581608415 24*	marky1991 has quit (Ping timeout: 268 seconds)
+T 1581608516 24*	st-5 has quit (Quit: Leaving)
+T 1581608541 18<20nate18>	I'm not sure why you're saying that as if that's supposed to be a good thing or impressive
+T 1581608569 23*	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth23) has joined
+T 1581608604 23*	up` (~top-cat@unaffiliated/up/x-642498823) has joined
+T 1581608607 18<26ses198418>	i'm not sure why you think manual work is a good thing
+T 1581608614 24*	pai-pai has quit (Read error: Connection reset by peer)
+T 1581608623 18<26en4rab18>	telnet ftw
+T 1581608834 23*	sangoma (~zeus@41.220.1.5623) has joined
+T 1581608875 23*	pyrot (~pyrate@gateway/tor-sasl/pyrot23) has joined
+T 1581609056 23*	ASTP001_ (~ASTP001@65.254.25.19423) has joined
+T 1581609108 23*	Rottingbeef-2 (~Rottingbe@66.44.43.18823) has joined
+T 1581609116 18<26ses198418>	is there a scanner out there that will tell me openssl 1.1.1-1ubuntu2.1~18.04.5 bad, 1.1.1d-2ubuntu3 good, where trivy fails to do so
+T 1581609117 24*	HerbY_NL2 has quit (Quit: Leaving)
+T 1581609183 24*	uZiel has quit (Ping timeout: 240 seconds)
+T 1581609227 24*	machinedgod has quit (Ping timeout: 260 seconds)
+T 1581609289 24*	pyrot has quit (Remote host closed the connection)
+T 1581609315 23*	pyrot (~pyrate@gateway/tor-sasl/pyrot23) has joined
+T 1581609386 23*	gschanuel (~gschanuel@177.92.61.323) has joined
+T 1581609426 23*	zalt (~devp@unaffiliated/lambda44323) has joined
+T 1581609443 23*	sbetrium (~sbetrium@47.54.208.4723) has joined
+T 1581609494 24*	_nutcr4ck3r has quit (Read error: Connection reset by peer)
+T 1581609530 23*	pmercado (~pmercado@201.189.29.923) has joined
+T 1581609638 23*	blackandblue (~batdownh@gateway/tor-sasl/blackandblue23) has joined
+T 1581609679 23*	wodencafe (wodencafe@woden.cafe23) has joined
+T 1581609756 24*	atacami has quit (Quit: WeeChat 2.7)
+T 1581609817 23*	IR0NMAN (IR0NMAN@modemcable050.51-176-173.mc.videotron.ca23) has joined
+T 1581609839 24*	sangoma has quit (Ping timeout: 265 seconds)
+T 1581609961 23*	machinedgod (~machinedg@134.41.184.25323) has joined
+T 1581610291 24*	awe00 has quit (Ping timeout: 260 seconds)
+T 1581610294 24*	thalunil has quit (Quit: Leaving)
+T 1581610421 23*	BOKALDO_ (~BOKALDO@46.109.201.19923) has joined
+T 1581610447 24*	mishiranu has quit (Quit: Life finally caught up.)

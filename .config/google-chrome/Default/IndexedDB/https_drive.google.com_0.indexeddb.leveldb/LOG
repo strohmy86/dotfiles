@@ -1,0 +1,13 @@
+2020/03/10-08:20:14.848 3cf4 Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/10-08:20:14.848 3cf4 Recovering log #23
+2020/03/10-08:20:15.726 3cf4 Reusing old log /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000023.log 
+2020/03/10-08:20:22.058 3fde Compacting 2@0 + 1@1 files
+2020/03/10-08:20:22.156 3fde Generated table #26@0: 929 keys, 518198 bytes
+2020/03/10-08:20:22.156 3fde Compacted 2@0 + 1@1 files => 518198 bytes
+2020/03/10-08:20:22.279 3fde compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/10-08:20:22.279 3fde Delete type=2 #20
+2020/03/10-08:20:22.279 3fde Delete type=2 #22
+2020/03/10-08:20:22.279 3fde Delete type=2 #24
+2020/03/10-08:29:14.888 3fde Level-0 table #28: started
+2020/03/10-08:29:14.958 3fde Level-0 table #28: 4590786 bytes OK
+2020/03/10-08:29:15.005 3fde Delete type=0 #23

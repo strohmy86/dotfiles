@@ -1,0 +1,94 @@
+
+
+<script src="javascripts/jquery-1.4.4.js"></script>
+<script src="javascripts/jquery.json.js"></script>
+<script src="javascripts/popup.js"></script>
+<style>
+body {
+  min-width:450px;
+  overflow-x:hidden;
+  vertical-align: top;
+  font-size: 14px;
+  font-style: normal;
+  color: #195070;
+  font-size: 14px;
+  font-family: arial,helvetica,sans-serif;
+}
+h1 {
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  color: #195070;
+  margin: 0px;
+  padding: 0p;
+}
+h2 {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  color: #195070;
+}
+.conflict_wrapper {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  background-color: #E2E9ED;
+}
+
+.job_table_type_col {
+  font-size: 14px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #195070;
+}
+a {
+  text-decoration: underline;
+  color: #195070;
+}
+img {
+  border:0px solid black;
+  vertical-align:middle;
+}
+</style>
+
+<div>
+  <a href="https://www.cloudHQ.net/synch" target="_blank" border="0" style="outline:none">
+    <img border="0" src="icons/logo.png"/>
+  </a>
+    <div id="cloudHQ_synch_status">
+      <center>
+        <br/>
+        <h1>Loading...</h1>
+        <br/>
+        <img src="icons/spinner.gif"/>
+        <br/>
+        <br/>
+      </center>
+    </div>
+    <div id="cloudHQ_login_or_create_account" style="display:none">
+      <div class="cloudHQ_init">
+        <center>
+        <br/>
+        
+        <div id="cloudHQ_create_account_button">
+          <a href="#" target="_blank">
+            <button type="button">Create Account</button>
+          </a>
+        </div> 
+        <br/>
+        or
+        <br/>
+        <br/>
+        <div id="cloudHQ_connect_button">
+          <a href="#" target="_blank">
+            <button type="button">Login</button>
+          </a>
+        </div>
+        <br/>
+        </center>
+      </div>    
+    </div>
+</div>

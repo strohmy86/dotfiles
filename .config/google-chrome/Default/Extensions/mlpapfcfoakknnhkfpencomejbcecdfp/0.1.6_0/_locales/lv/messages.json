@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Parāda valsts karogu un citu IP / domēna informāciju atrašanās vietas josla."
+   },
+   "longdesc": {
+      "message": "Šis pagarinājums rāda pašreizējās vietnes servera valsts karogu. Rīka padoms rāda pilsētas, reģiona un valsts nosaukums.\n\nUznirstošā izvēlne parāda plašāku informāciju par domēnu. Sīkāka informācija ir Alexa un Quantcast rangu, Google Pagerank un MyWOT reputāciju. Noformējuma uznirstošā izvēlne ir vienkārša un tīra.\n\nAizsargāt jūsu privātumu, mēs tikai nosūtīt domēna vārdu mūsu datu bāzē.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP domēna valsts karogu"
+   }
+}

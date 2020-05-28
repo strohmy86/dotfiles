@@ -1,0 +1,185 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:36:28 2020
+
+Feb 13 09:36:28 *	*** Looking up your hostname...
+Feb 13 09:36:28 *	*** Checking Ident
+Feb 13 09:36:28 *	*** Couldn't look up your hostname
+Feb 13 09:36:38 *	*** No Ident response
+Feb 13 09:36:38 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Feb 13 09:36:38 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Feb 13 09:36:38 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Thu Feb 13 09:36:38 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:36:38 2020
+
+Feb 13 09:36:38 *	Welcome to the freenode Internet Relay Chat Network Strohmy86
+Feb 13 09:36:38 *	Your host is karatkievich.freenode.net[64.86.243.181/6697], running version ircd-seven-1.1.8
+Feb 13 09:36:38 *	This server was created Wed Sep 11 2019 at 21:14:27 UTC
+Feb 13 09:36:38 *	karatkievich.freenode.net ircd-seven-1.1.8 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Feb 13 09:36:38 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Feb 13 09:36:38 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+Feb 13 09:36:38 *	KNOCK SAFELIST ELIST=CTU WHOX :are supported by this server
+Feb 13 09:36:38 *	There are 101 users and 85729 invisible on 28 servers
+Feb 13 09:36:38 *	35 :IRC Operators online
+Feb 13 09:36:38 *	35 :unknown connection(s)
+Feb 13 09:36:38 *	41653 :channels formed
+Feb 13 09:36:38 *	I have 6755 clients and 1 servers
+Feb 13 09:36:38 *	6755 10666 :Current local users 6755, max 10666
+Feb 13 09:36:38 *	85830 92604 :Current global users 85830, max 92604
+Feb 13 09:36:38 *	Highest connection count: 10667 (10666 clients) (675207 connections received)
+Feb 13 09:36:38 *	- karatkievich.freenode.net Message of the Day - 
+Feb 13 09:36:38 *	- Welcome to karatkievich.freenode.net. Thanks to
+Feb 13 09:36:38 *	- http://www.tatacommunications.com/ for sponsoring
+Feb 13 09:36:38 *	- this server!
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- KARATKIEVICH, ULADZIMIR (1930-1984) was a Belarusian
+Feb 13 09:36:38 *	- romantic writer. After his first published work was a poem
+Feb 13 09:36:38 *	- in 1951, he followed up with novels, short stories, plays,
+Feb 13 09:36:38 *	- essays, articles and screenplays. His probably most popular
+Feb 13 09:36:38 *	- work is the novel 'King Stakh's Wild Hunt' (1964). Most his
+Feb 13 09:36:38 *	- novels are about Belarus's past.  He won many national
+Feb 13 09:36:38 *	- literary awards and influenced the Belarusian literature's
+Feb 13 09:36:38 *	- development of historical themes.
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- Welcome to freenode - supporting the free and open source
+Feb 13 09:36:38 *	- software communities since 1998.
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- By connecting to freenode you indicate that you have read and
+Feb 13 09:36:38 *	- accept our policies and guidelines as set out on https://freenode.net
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- In the event that you observe behaviour that contravenes our policies,
+Feb 13 09:36:38 *	- please notify a volunteer staff member via private message, or send us an
+Feb 13 09:36:38 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Feb 13 09:36:38 *	- situation within a reasonable period of time, and we may request further
+Feb 13 09:36:38 *	- information or, as appropriate, involve other parties such as channel operators 
+Feb 13 09:36:38 *	- Group Contacts representing an on-topic group.
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- freenode runs an open proxy scanner.
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- If you are looking for assistance, you may be able to find a list of 
+Feb 13 09:36:38 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Feb 13 09:36:38 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Feb 13 09:36:38 *	- any of us at any time. Please note that freenode predominantly provides 
+Feb 13 09:36:38 *	- assistance via private message, and while we have a network channel the 
+Feb 13 09:36:38 *	- primary venue for support requests is via private message to a member 
+Feb 13 09:36:38 *	- of the volunteer staff team.
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- From time to time, volunteer staff may send server-wide notices relating to
+Feb 13 09:36:38 *	- the project, or the communities that we host. The majority of such notices
+Feb 13 09:36:38 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Feb 13 09:36:38 *	- do not miss them. Important messages relating to the freenode project, including
+Feb 13 09:36:38 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Feb 13 09:36:38 *	- global notices.
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- Representing an on-topic project? Don't forget to register, more information
+Feb 13 09:36:38 *	- can be found on the https://freenode.net website under "Group Registration".
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Feb 13 09:36:38 *	- network going for close to two decades.
+Feb 13 09:36:38 *	-  
+Feb 13 09:36:38 *	- Thank you for using freenode!
+Feb 13 09:36:38 *	End of /MOTD command.
+Feb 13 09:36:38 *	Strohmy86 sets mode +Z on Strohmy86
+Feb 13 09:36:38 *	Strohmy86 sets mode +i on Strohmy86
+Feb 13 09:36:39 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Feb 13 09:36:39 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Feb 13 09:36:39 *	Received a CTCP VERSION from freenode-connect
+Feb 13 09:37:09 >NickServ<	identify ****
+Feb 13 09:37:10 -NickServ-	Invalid password for Strohmy86.
+Feb 13 09:37:14 >NickServ<	identify ****
+Feb 13 09:37:14 -NickServ-	Invalid password for Strohmy86.
+Feb 13 09:37:19 >NickServ<	identify ****
+Feb 13 09:37:20 -NickServ-	You are now identified for Strohmy86.
+Feb 13 09:37:20 -NickServ-	2 failed logins since last login.
+Feb 13 09:37:20 -NickServ-	Last failed attempt from: Strohmy86!~Strohmy86@208.108.119.253 on Feb 13 14:37:13 2020.
+Feb 13 09:37:42 *	LIST :This command could not be completed because it has been used recently, and is rate-limited.
+Feb 13 09:37:44 *	LIST :This command could not be completed because it has been used recently, and is rate-limited.
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** ENDING LOGGING AT Thu Feb 13 09:43:52 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:52 2020
+
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Wed Feb 19 14:09:50 2020
+
+Feb 19 14:09:50 *	Welcome to the freenode Internet Relay Chat Network Strohmy86
+Feb 19 14:09:50 *	Your host is orwell.freenode.net[185.30.166.37/6697], running version ircd-seven-1.1.8
+Feb 19 14:09:50 *	This server was created Sun Sep 8 2019 at 20:18:33 UTC
+Feb 19 14:09:50 *	orwell.freenode.net ircd-seven-1.1.8 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Feb 19 14:09:50 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Feb 19 14:09:50 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+Feb 19 14:09:50 *	SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+Feb 19 14:09:50 *	There are 97 users and 85429 invisible on 29 servers
+Feb 19 14:09:50 *	33 :IRC Operators online
+Feb 19 14:09:50 *	30 :unknown connection(s)
+Feb 19 14:09:50 *	43153 :channels formed
+Feb 19 14:09:50 *	I have 6356 clients and 1 servers
+Feb 19 14:09:50 *	6356 7777 :Current local users 6356, max 7777
+Feb 19 14:09:50 *	85526 92604 :Current global users 85526, max 92604
+Feb 19 14:09:50 *	Highest connection count: 7778 (7777 clients) (1722735 connections received)
+Feb 19 14:09:50 *	- orwell.freenode.net Message of the Day - 
+Feb 19 14:09:50 *	- Welcome to orwell.freenode.net in Amsterdam, NL.
+Feb 19 14:09:50 *	- Thanks to http://www.hyperfilter.com/ for sponsoring
+Feb 19 14:09:50 *	- this server!
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+Feb 19 14:09:50 *	- moved him to England when he was one year old, and it
+Feb 19 14:09:50 *	- was in England where he was educated and spent most of
+Feb 19 14:09:50 *	- his life.  Orwell is perhaps best known for his novels
+Feb 19 14:09:50 *	- Nineteen Eighty-Four and Animal Farm.
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- Welcome to freenode - supporting the free and open source
+Feb 19 14:09:50 *	- software communities since 1998.
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- By connecting to freenode you indicate that you have read and
+Feb 19 14:09:50 *	- accept our policies and guidelines as set out on https://freenode.net
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- In the event that you observe behaviour that contravenes our policies,
+Feb 19 14:09:50 *	- please notify a volunteer staff member via private message, or send us an
+Feb 19 14:09:50 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Feb 19 14:09:50 *	- situation within a reasonable period of time, and we may request further
+Feb 19 14:09:50 *	- information or, as appropriate, involve other parties such as channel operators 
+Feb 19 14:09:50 *	- Group Contacts representing an on-topic group.
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- freenode runs an open proxy scanner.
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- If you are looking for assistance, you may be able to find a list of 
+Feb 19 14:09:50 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Feb 19 14:09:50 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Feb 19 14:09:50 *	- any of us at any time. Please note that freenode predominantly provides 
+Feb 19 14:09:50 *	- assistance via private message, and while we have a network channel the 
+Feb 19 14:09:50 *	- primary venue for support requests is via private message to a member 
+Feb 19 14:09:50 *	- of the volunteer staff team.
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- From time to time, volunteer staff may send server-wide notices relating to
+Feb 19 14:09:50 *	- the project, or the communities that we host. The majority of such notices
+Feb 19 14:09:50 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Feb 19 14:09:50 *	- do not miss them. Important messages relating to the freenode project, including
+Feb 19 14:09:50 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Feb 19 14:09:50 *	- global notices.
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- Representing an on-topic project? Don't forget to register, more information
+Feb 19 14:09:50 *	- can be found on the https://freenode.net website under "Group Registration".
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Feb 19 14:09:50 *	- network going for close to two decades.
+Feb 19 14:09:50 *	-  
+Feb 19 14:09:50 *	- Thank you for using freenode!
+Feb 19 14:09:50 *	End of /MOTD command.
+Feb 19 14:09:50 *	Strohmy86 sets mode +Z on Strohmy86
+Feb 19 14:09:50 *	Strohmy86 sets mode +i on Strohmy86
+Feb 19 14:09:50 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Feb 19 14:10:10 Sysinfo plugin unloaded
+Feb 19 14:10:10 Python interface unloaded
+Feb 19 14:10:10 FiSHLiM plugin unloaded
+Feb 19 14:10:10 Perl interface unloaded
+Feb 19 14:10:10 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Feb 19 14:10:10 2020
+

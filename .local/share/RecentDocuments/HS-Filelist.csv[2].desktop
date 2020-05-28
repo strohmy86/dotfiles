@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-csv
+Name=HS-Filelist.csv
+Type=Link
+URL[$e]=file:$HOME/HS-Filelist.csv
+X-KDE-LastOpenedWith=libreoffice-calc

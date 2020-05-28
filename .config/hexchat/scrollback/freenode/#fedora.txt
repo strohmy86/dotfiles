@@ -1,0 +1,129 @@
+T 1581604779 19*	Now talking on 22#fedora
+T 1581604779 22*	Topic for 22#fedora is: #Fedora F30, F31 end user support || Please READ: https://tinyurl.com/chanfaq || Common bugs: https://tinyurl.com/f30-common https://tinyurl.com/f31commonbugs ||Only Use Fedora,rpmfusion and Copr Repos || IRC Feedback: https://tinyurl.com/fedoraircsig || Updated F31 Live isos: https://tinyurl.com/Live-respins2 || Default to OPEN: https://tinyurl.com/defualt2open
+T 1581604779 22*	Topic for 22#fedora set by 26Southern_Gentlem!~notfred@fedora/Southern-Gentleman (24Mon Feb 10 12:50:52 2020)
+T 1581604779 -18ChanServ-	[#fedora] "Any advice you read here is provided by individual community members. You should use it at your OWN RISK. This advice is owned by each individual, and does NOT represent the views of Freenode, Fedora or Red Hat. This channel may be logged"
+T 1581604799 23*	linville (~linville@sapphire.tuxdriver.com23) has joined
+T 1581604841 18<corshmock18>	Hey lemonzest, you rule brother!  Thanks very much for that!
+T 1581604850 18<lemonzest18>	it works now?
+T 1581604873 18<corshmock18>	I've got the bottom taskbar
+T 1581604877 18<lemonzest18>	:D
+T 1581604884 23*	garrett (~garrett@ipbcc20736.dynamic.kabel-deutschland.de23) has joined
+T 1581604897 18<corshmock18>	That's a lot better!
+T 1581604899 24*	mkyral has quit (Ping timeout: 240 seconds)
+T 1581604915 24*	Carp has quit (Ping timeout: 260 seconds)
+T 1581604949 24*	28didiksupriadi41 is now known as 18didiksupriadi41_
+T 1581605049 24*	28skywaker is now known as 18skywalker
+T 1581605072 24*	28didiksupriadi41_ is now known as 18didiksupriadi41
+T 1581605114 18<22Southern_Gentlem18>	codetronaut_, https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2019/application/
+T 1581605190 18<22Southern_Gentlem18>	codetronaut_, https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2020/application/
+T 1581605205 24*	stefanc_diff has quit (Excess Flood)
+T 1581605215 23*	leanderthal (~leanderth@91.141.136.15223) has joined
+T 1581605359 23*	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net23) has joined
+T 1581605611 23*	aday__ (~aday@215.213.159.143.dyn.plus.net23) has joined
+T 1581605615 24*	losuler has quit (Ping timeout: 260 seconds)
+T 1581605644 23*	losuler (~losuler@unaffiliated/losuler23) has joined
+T 1581605730 24*	fusion809 has quit (Remote host closed the connection)
+T 1581605738 24*	aday_ has quit (Ping timeout: 240 seconds)
+T 1581605771 23*	Carp (~rue@1-162-52-81.dynamic-ip.hinet.net23) has joined
+T 1581605805 23*	capitanocrunch (~capitanoc@unaffiliated/capitanocrunch23) has joined
+T 1581605868 18<19codetronaut_18>	thanks @Southern_Gentlem
+T 1581605889 24*	sandeepk has quit (Remote host closed the connection)
+T 1581606482 24*	codetronaut_ has quit (Ping timeout: 260 seconds)
+T 1581606639 24*	davemq has quit (Quit: ZNC 1.7.5 - https://znc.in)
+T 1581606758 24*	bhoman has quit (Read error: Connection reset by peer)
+T 1581606780 23*	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net23) has joined
+T 1581606903 24*	solicito has quit (Ping timeout: 260 seconds)
+T 1581606991 23*	HarveyPwca (~HarveyPwc@70-89-216-161-il.hfc.comcastbusiness.net23) has joined
+T 1581606993 24*	scr267 has quit (Quit: See you later! | A plus tard!)
+T 1581607009 23*	scr267 (~scr267@unaffiliated/scr26723) has joined
+T 1581607088 23*	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net23) has joined
+T 1581607100 23*	marloi (~mark@104-195-249-90.cpe.teksavvy.com23) has joined
+T 1581607127 23*	diogenes_ (~diogenes_@188.208.120.2723) has joined
+T 1581607215 23*	ReneP- (ReneP@fedora/ReneP23) has joined
+T 1581607227 24*	ReneP has quit (Ping timeout: 240 seconds)
+T 1581607227 24*	28ReneP- is now known as 18ReneP
+T 1581607252 23*	bugs_ (~bugs@cpe-70-121-47-23.tx.res.rr.com23) has joined
+T 1581607256 18<26marloi18>	Hi, I'm having trouble with a python package giving me a core dump from /usr/include/c++/9/bits/stl_vector.h:1042 . Doing some googling this seems to be a Fedora issue, but I'm not sure what to do with that
+T 1581607388 18<26Khaytsus18>	marloi: A Fedora package?  put the failure on paste.centos.org ?
+T 1581607417 23*	vincent--- (~vincent-@unaffiliated/vincent-23) has joined
+T 1581607439 18<26marloi18>	https://paste.centos.org/view/d114b60f
+T 1581607532 18<26marloi18>	This happens when I call a specific function in the graph-tool python package on Fedora 31
+T 1581607541 23*	deathwish (~deathwish@179.56.30.9323) has joined
+T 1581607553 24*	deathwish has quit (Client Quit)
+T 1581607577 24*	vincent-- has quit (Ping timeout: 265 seconds)
+T 1581607615 18<24rindolf18>	marloi: hi
+T 1581607641 18<24rindolf18>	marloi: can you follow https://github.com/shlomif/how-to-share-code-online ?
+T 1581607658 24*	carl- has quit (Ping timeout: 240 seconds)
+T 1581607713 18<26Khaytsus18>	marloi: Yeah if you're using a Fedora python package and it's doing that, sounds like a bug should be logged
+T 1581607716 18*	26Khaytsus points to https://bugzilla.redhat.com/bugzilla
+T 1581607753 24*	cbaylis has quit (Quit: leaving)
+T 1581607754 24*	zdohnal has quit (Quit: Leaving.)
+T 1581607768 18<24prussian18>	or post the whole stacktrace at least. reading that it failed a bounds check on an stl type doesn't say anything useful.
+T 1581607799 18<26marloi18>	How do I get the whole stacktrace?
+T 1581607810 23*	sub_pop (~sub_pop@2603:3005:4872:8000::29c123) has joined
+T 1581607819 18<24rindolf18>	marloi: gdb
+T 1581607843 18<26marloi18>	This is the code that causes the error: https://paste.debian.net/1130460/
+T 1581607853 18<26marloi18>	Not much there though
+T 1581607880 23*	dansolo42 (~dansolo42@50.237.110.7523) has joined
+T 1581607894 23*	vincent-- (~vincent-@unaffiliated/vincent-23) has joined
+T 1581607900 23*	jvesely (~jvesely@pool-96-237-153-237.bstnma.ftas.verizon.net23) has joined
+T 1581607921 24*	AquaL1te has quit (Quit: leaving)
+T 1581607930 24*	dansolo42 has quit (Remote host closed the connection)
+T 1581607932 23*	tsaka__ (~torstein@2a02:2149:827b:f900:7c32:85de:f39d:4d0c23) has joined
+T 1581608067 24*	vincent--- has quit (Ping timeout: 272 seconds)
+T 1581608077 18<24rindolf18>	marloi: thanks! I was able to reproduce the crash on f31 x86-64
+T 1581608144 24*	dbone has quit (Quit: ZZZzzz…)
+T 1581608170 18<26marloi18>	Oh, so it's not just me!
+T 1581608203 18<24rindolf18>	marloi: apparently not
+T 1581608302 23*	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net23) has joined
+T 1581608352 18<24rindolf18>	marloi: here is the code with only explicit imports: https://paste.debian.net/1130461/
+T 1581608361 18<24rindolf18>	still segfaults
+T 1581608417 23*	dansolo42 (~dansolo42@50.237.110.7423) has joined
+T 1581608422 18<24prussian18>	curious if the upstream project has the same problem, or if it's because the maintainer built this package with stuff like fortify_source and other stuff.
+T 1581608460 18<26marloi18>	I've used other functions in the package with no problem, it's just that minimize_blockmodel_dl() that segfaults for me
+T 1581608555 18<24prussian18>	have you tried just importing graph_tool like this guy -> https://git.skewed.de/count0/graph-tool/issues/621 ? looks like the module init code may be to blame.
+T 1581608581 23*	imbus__ (~imbus@h-223-72.A193.priv.bahnhof.se23) has joined
+T 1581608604 23*	up` (~top-cat@unaffiliated/up/x-642498823) has joined
+T 1581608709 24*	imbus_ has quit (Ping timeout: 246 seconds)
+T 1581608723 24*	timothy has quit (Quit: Konversation terminated!)
+T 1581608744 24*	spybert (~herbert@2601:204:d000:c590::99db24) has left ("Leaving")
+T 1581608755 23*	davemq (~davemq@129.41.86.723) has joined
+T 1581608801 18<26marloi18>	prussian, look at how rindolf imported in https://paste.debian.net/1130461/, still segfaults
+T 1581608839 24*	corshmock (~corshmock@78.16.96.3324) has left
+T 1581608927 18<24prussian18>	stuff like this is why I hate ffi, cpython, c abi using stuff.
+T 1581608968 24*	capitanocrunch has quit (Quit: disconnected)
+T 1581609007 18<24prussian18>	and ya, try just importing the module. not picking stuff out with named imports
+T 1581609064 24*	ace_me has quit (Quit: thank you for your time and kind help)
+T 1581609117 24*	HerbY_NL2 has quit (Quit: Leaving)
+T 1581609158 23*	codetronaut (~codetrona@49.35.33.18323) has joined
+T 1581609165 24*	carif has quit (Remote host closed the connection)
+T 1581609210 23*	timothy (~tredaelli@redhat/timothy23) has joined
+T 1581609261 23*	paiton (~paul@2600:8800:1300:6e4:bc59:c0c9:a284:949b23) has joined
+T 1581609281 23*	ace_me (~Thunderbi@unaffiliated/ace-me/x-81463823) has joined
+T 1581609282 24*	ace_me has quit (Remote host closed the connection)
+T 1581609291 24*	phantsure has quit (Ping timeout: 240 seconds)
+T 1581609304 23*	infides (~infides@92.117.249.22623) has joined
+T 1581609370 23*	phantsure (~phantsure@2409:4061:2e95:2240:8fbb:ca48:29ef:e47d23) has joined
+T 1581609381 23*	gschanuel (~gschanuel@177.92.61.323) has joined
+T 1581609500 23*	ramses (~ramses@nat-35.starnet.cz23) has joined
+T 1581609567 24*	leanderthal has quit (Remote host closed the connection)
+T 1581609587 24*	eiglow_ has quit (Quit: Konversation terminated!)
+T 1581609600 24*	phantsure has quit (Read error: Connection reset by peer)
+T 1581609616 23*	phantsure (~phantsure@117.211.86.10923) has joined
+T 1581609662 23*	rdieter_ (~rdieter@fedora/rdieter23) has joined
+T 1581609663 24*	plarsen has quit (Remote host closed the connection)
+T 1581609739 24*	gambl0re has quit (Ping timeout: 272 seconds)
+T 1581609752 24*	Usurp_ has quit (Ping timeout: 265 seconds)
+T 1581609766 24*	crobinso has quit (Quit: Leaving)
+T 1581609799 23*	leanderthal (~leanderth@91.141.136.15223) has joined
+T 1581609810 23*	Usurp_ (~syl@reactos/developer/Usurp23) has joined
+T 1581609897 24*	rdieter has quit (Ping timeout: 265 seconds)
+T 1581609912 23*	plarsen (~plarsen@redhat/jboss/pdpc.professional.plarsen23) has joined
+T 1581610165 23*	quippy (~user@cpe-70-113-54-82.austin.res.rr.com23) has joined
+T 1581610224 18<26quippy18>	I was wondering if anyone else is using Zoom on Fedora 31? I've been experiencing X11 freezes while using Zoom -- I have Wayland disabled because I can't screenshare on Zoom with it. Anyway I'm just trying to debug, not sure where to look.
+T 1581610225 24*	didiksupriadi41 has quit (Remote host closed the connection)
+T 1581610356 24*	bhoman has quit (Read error: Connection reset by peer)
+T 1581610380 23*	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net23) has joined
+T 1581610395 24*	dowdle has quit (Quit: Konversation terminated!)
+T 1581610413 24*	muhaha has quit (Quit: Ping timeout (120 seconds))
+T 1581610448 23*	muhaha (~muhaha@88.86.104.2123) has joined

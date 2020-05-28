@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Arată steagul ţării şi alte IP / informaţii de domeniu în bara de locaţie."
+   },
+   "longdesc": {
+      "message": "Această extensie Arată un pavilion de ţara pentru server de site-ul curent. Tooltip Arată nume de oraş, regiune şi ţară.\n\nPop-up afişează mai multe informaţii despre domeniu. Detaliile sunt Alexa şi Quantcast rang, Google Pagerank şi reputaţia MyWOT. Design de pop-up este simplu şi curat.\n\nPentru a proteja confidenţialitatea datelor dumneavoastră, ne trimite doar numele de domeniu baza noastră de date.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP Domain steagul ţării"
+   }
+}

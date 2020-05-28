@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "显示国家船旗国和其他 IP / 域信息栏中的位置。"
+   },
+   "longdesc": {
+      "message": "此扩展显示国家国旗的当前网站的服务器。工具提示显示城市、 地区和国家的名称。弹出窗口显示了有关域的详细信息。详细信息是 Alexa 和 Quantcast 排名、 Google Pagerank 和 MyWOT 的信誉。弹出菜单的设计是简单和干净。要保护您的隐私，我们只到我们的数据库发送的域的名称。\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP 域国家国旗"
+   }
+}

@@ -1,0 +1,7 @@
+2020/05/15-10:28:58.860 1f6094 Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/15-10:28:58.861 1f6094 Recovering log #3
+2020/05/15-10:28:59.270 1f6094 Reusing old log /home/lstrohm/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000003.log 
+2020/05/18-11:27:39.351 1f657a Level-0 table #5: started
+2020/05/18-11:27:39.463 1f657a Level-0 table #5: 311029 bytes OK
+2020/05/18-11:27:39.612 1f657a Delete type=0 #3
+2020/05/18-11:27:39.663 1f657a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-java-jnlp-file
+Name=ConnectWiseControl.Client.jnlp
+Type=Link
+URL[$e]=file:$HOME/Downloads/ConnectWiseControl.Client.jnlp
+X-KDE-LastOpenedWith=javaws

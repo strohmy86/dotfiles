@@ -1,0 +1,6 @@
+2020/03/04-14:01:03.869 b9e5 Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/04-14:01:03.869 b9e5 Recovering log #3
+2020/03/04-14:01:04.214 b9e5 Reusing old log /home/lstrohm/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2020/03/04-14:01:08.474 bad7 Level-0 table #5: started
+2020/03/04-14:01:08.555 bad7 Level-0 table #5: 1582098 bytes OK
+2020/03/04-14:01:08.605 bad7 Delete type=0 #3

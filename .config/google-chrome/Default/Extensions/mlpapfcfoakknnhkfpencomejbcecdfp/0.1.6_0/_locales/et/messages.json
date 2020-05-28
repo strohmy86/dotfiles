@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Näitab riigi lipu ja teiste IP / domeeni teabe asukoht baari."
+   },
+   "longdesc": {
+      "message": "See laiendus näitab riigi lipu praeguse veebilehe server. Kohtspikris kuvatakse linna, piirkonna ja riigi nimi.\n\nPopup näitab rohkem infot domeeni. Üksikasjad on Alexa ja Quantcast edetabel, Google Pagerank ja MyWOT maine. Popup disain on lihtne ja selge.\n\nTeie privaatsuse kaitsmiseks me ainult saada domeeni nimi meie andmebaasi.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP domeeni riigi lipu"
+   }
+}

@@ -1,0 +1,14 @@
+[/home/lstrohm/.local/share/plasma-vault/Madison.enc]
+activities=
+backend=cryfs
+lastError=Unknown device (code: 1)
+lastStatus=2
+mountPoint=/home/lstrohm/Vaults/Madison
+name=Madison
+offlineOnly=false
+
+[EncryptedDevices]
+/home/lstrohm/.local/share/plasma-vault/Madison.enc=true
+
+[UI-notice]
+SkipNotice-cryfs-message=true

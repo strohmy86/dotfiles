@@ -1,0 +1,15 @@
+2020/05/15-10:28:45.800 1f6037 Reusing MANIFEST /home/lstrohm/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/15-10:28:45.800 1f6037 Recovering log #51
+2020/05/15-10:28:45.887 1f6037 Reusing old log /home/lstrohm/.config/google-chrome/Default/Sync Data/LevelDB/000051.log 
+2020/05/15-10:34:36.606 1f82ac Level-0 table #55: started
+2020/05/15-10:34:36.633 1f82ac Level-0 table #55: 132567 bytes OK
+2020/05/15-10:34:36.655 1f82ac Delete type=0 #51
+2020/05/15-10:34:36.655 1f82ac Compacting 4@0 + 1@1 files
+2020/05/15-10:34:36.682 1f82ac Generated table #56@0: 1795 keys, 109171 bytes
+2020/05/15-10:34:36.682 1f82ac Compacted 4@0 + 1@1 files => 109171 bytes
+2020/05/15-10:34:36.704 1f82ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/15-10:34:36.705 1f82ac Delete type=2 #47
+2020/05/15-10:34:36.705 1f82ac Delete type=2 #55
+2020/05/15-10:34:36.705 1f82ac Delete type=2 #52
+2020/05/15-10:34:36.705 1f82ac Delete type=2 #44
+2020/05/15-10:34:36.705 1f82ac Delete type=2 #49

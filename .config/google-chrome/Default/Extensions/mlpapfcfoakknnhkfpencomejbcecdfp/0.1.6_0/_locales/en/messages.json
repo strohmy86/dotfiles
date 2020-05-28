@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Shows country flag and other IP / domain information in the location bar."
+   },
+   "longdesc": {
+      "message": "This extension shows a country flag for the current website's server. The tooltip shows city, region and country name.\n\nThe popup shows more information about the domain. Details are Alexa and Quantcast ranking, Google Pagerank and MyWOT reputation. The design of the popup is simple and clean.\n\nTo protect your privacy, we only send the domain name to our database."
+   },
+   "name": {
+      "message": "IP Domain Country Flag"
+   }
+}

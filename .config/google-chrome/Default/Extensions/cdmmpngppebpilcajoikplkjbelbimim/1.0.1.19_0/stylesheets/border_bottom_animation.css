@@ -1,0 +1,31 @@
+.cloudHQ__webclip_target_checking_url {
+  padding-bottom: 2px;
+  background-image: -webkit-gradient(linear, 0 50%, 100% 50%, color-stop(0, rgba(0,113,255,0.3)), color-stop(25%, #1a7fff), color-stop(75%, #00a60c), color-stop(100%, rgba(0,140,10,0.3)));
+  background-size: 100% 1px;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-color: transparent;
+  -webkit-animation: cloudHQ__mymove 10s linear 0s infinite
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes cloudHQ__mymove {
+    from {
+        background-position: 0 bottom
+    }
+
+    to {
+        background-position: 1600px bottom
+    }
+}
+
+/* Standard syntax */
+@keyframes cloudHQ__mymove {
+    from {
+        background-position: 0 bottom
+    }
+
+    to {
+        background-position: 1600px bottom
+    }
+}

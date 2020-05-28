@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "secret": {"type": "string"},
+    "enable_collect_extensions": {"type": "boolean"},
+    "enable_extension_requesting": {"type": "boolean"}
+  }
+}

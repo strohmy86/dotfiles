@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Lopullinen online tutkimus työkalu! Katso yksityiskohtaisia tietoja jokaisen IP-osoite, toimialuenimi ja toimittaja."
+   },
+   "name": {
+      "message": "IP Address and Domain Information"
+   }
+}

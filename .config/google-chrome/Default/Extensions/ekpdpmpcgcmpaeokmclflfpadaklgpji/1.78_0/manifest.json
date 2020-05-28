@@ -1,0 +1,20 @@
+{
+   "browser_action": {
+      "default_icon": "iconb32.png",
+      "default_popup": "popup.html"
+   },
+   "content_security_policy": "script-src 'self' https://apis.google.com; object-src 'self'",
+   "description": "Quick access to our online tools ping, tracert, domain search, dns blackhole list, dns lookup, reverse ip and whois lookup.",
+   "icons": {
+      "128": "icon128.png",
+      "32": "icon32.png",
+      "64": "icon64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgxjPeig00MTcfbNearDo0tf/7vi+nSC38oCEX4MMaZI/Wbfy/PEaL9erJjIShTspnkdBeYNFaf5AIe1wyCtn3EKLM7lWBtMRlC2l0HUzO1kKqhjb+PEGQlay/7DlSm8O41DTfcWiOxcl31tWTArJKh1o2megua7Iu57NKf3vTxwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "19",
+   "name": "Network and Internet tools",
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.78"
+}

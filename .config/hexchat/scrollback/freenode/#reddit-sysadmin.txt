@@ -1,0 +1,453 @@
+T 1581604718 19*	Now talking on 22#reddit-sysadmin
+T 1581604718 22*	Topic for 22#reddit-sysadmin is: "Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info.
+T 1581604718 22*	Topic for 22#reddit-sysadmin set by 26ravioli!~ravioli@donger/pasta (24Fri Jan 24 12:58:50 2020)
+T 1581604760 18<agent_white18>	I dunno, I think it stands up well enough without that. 'Smaller' issues like locomotion/movement I think need to be more figured out.
+T 1581604771 18<PublicWiFi18>	in order to automate the uploading of these files i need to bake in a user account
+T 1581604777 18<PublicWiFi18>	why no autho token
+T 1581604779 18<PublicWiFi18>	-.-
+T 1581604780 18<Alternity18>	index is the best iteration on the current concept. it's not a true evolution of the concept
+T 1581604802 18<Alternity18>	PublicWiFi no api keys?
+T 1581604808 18<PublicWiFi18>	oh get this
+T 1581604811 18<PublicWiFi18>	you need an api key
+T 1581604815 18<PublicWiFi18>	AND the login
+T 1581604817 18<PublicWiFi18>	-.-
+T 1581604823 18<PublicWiFi18>	what's eve the point
+T 1581604826 23*	percY- (~percY@138.68.239.1923) has joined
+T 1581604831 18<Nightcinder18>	i suppose the question is what exactly is an 'evolution' of vr
+T 1581604835 18<Alternity18>	it's like wearing two condoms at once
+T 1581604836 18<PublicWiFi18>	of course it builds you a token you acn reuse, but if anyone gets ahold of the token that user is pwnd
+T 1581604837 18<Alternity18>	double the protection
+T 1581604849 18<PublicWiFi18>	rip
+T 1581604859 18<Alternity18>	Nightcinder well that's the million dollar question. If i knew i'd be rich
+T 1581604872 18<PublicWiFi18>	and when the user password changes you gotta recreate the token manually
+T 1581604875 18<PublicWiFi18>	so what's even the fucking point lol
+T 1581604876 18<Nightcinder18>	the issue is locomotion
+T 1581604881 18<Nightcinder18>	that's the million dollar question
+T 1581604899 18<Alternity18>	one of them
+T 1581604911 18<Nightcinder18>	that's the current major one
+T 1581604915 18<Alternity18>	can you make VR trick my senses enough that I can convincingly "touch" sometime in VR?
+T 1581604922 18<Alternity18>	Nightcinder the major one we are aware of
+T 1581604947 18<agent_white18>	Alternity: There is some tech out there for that! Absolutely not in the price range of consumers though.
+T 1581604950 18<Alternity18>	i think at the point where VR can simulate fondling boobies is when we will see it explode
+T 1581604959 18<Alternity18>	agent_white ya some of the haptic stuff def has potential
+T 1581604983 18<agent_white18>	Basically, Ready Player One. I want hentai tiddies rubbing on my pp
+T 1581604991 18<Statscowski18>	UwU
+T 1581605006 18<Alternity18>	personally I"d prefer more Daemon instead of ready player one
+T 1581605042 18<22Alternity18>	btw if you haven't read Daemon and like VR stuff you really should -> https://www.amazon.com/DAEMON-Daemon-Daniel-Suarez/dp/0451228731
+T 1581605048 18<22Alternity18>	it's basically the adult version of ready player one
+T 1581605206 18*	28Casteil throws it on his list
+T 1581605217 18<28Casteil18>	currently re-reading Kingkiller Chronicles
+T 1581605239 18<28Casteil18>	probably should've waited to do it until just before book 3 comes out
+T 1581605262 18<27agent_white18>	Alternity: Sidenote... you might also dig https://en.wikipedia.org/wiki/Feed_(Anderson_novel)
+T 1581605280 18<28Casteil18>	but, The Name of the Wind is my favorite book.. and I was in need of an audiobook I knew I'd enjoy to keep me company for a few long road trips
+T 1581605370 18<20Nightcinder18>	https://arstechnica.com/gadgets/2020/02/andy-rubins-smartphone-startup-essential-is-dead/
+T 1581605371 18<20Nightcinder18>	lol
+T 1581605374 18<20Nightcinder18>	it's finally dead
+T 1581605381 23*	Rapture (~textual@50.239.87.4223) has joined
+T 1581605441 18<28Casteil18>	been a while since I've read anything scifi
+T 1581605466 23*	Macuser (~macuser@unaffiliated/macuser23) has joined
+T 1581605501 18<28Casteil18>	last one may have been A Fire Upon The Deep - https://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285
+T 1581605504 23*	d (~d@2601:882:817f:be70:bc83:435c:9299:439d23) has joined
+T 1581605513 18<27agent_white18>	Casteil: You should read... The Ear, The Eye, and The Arm. https://en.wikipedia.org/wiki/The_Ear,_the_Eye_and_the_Arm
+T 1581605539 18<28Casteil18>	"afrofuturism"
+T 1581605540 18<28Casteil18>	lol
+T 1581605546 18<28Casteil18>	dis some black panther shit?
+T 1581605576 24*	d has quit (Client Quit)
+T 1581605628 18<27agent_white18>	"children's novel" to be taken lightly. I actually saw my teacher reading it in 3rd grade and picked it up to read myself. Really cool story. Basically about some investigation team of mutants out to find the king's kids who ran away from their castle/kingdom to learn about what their country is really like.
+T 1581605633 18<27agent_white18>	Super fun read :)
+T 1581605712 18<28Casteil18>	one of these days I should try actually just chilling in my lounge chair reading my kindle
+T 1581605719 18<22Alternity18>	oh wow agent_white i've read that!
+T 1581605724 18<22Alternity18>	i remember that being a fun book
+T 1581605727 18<22Alternity18>	in like..... 4th grade?
+T 1581605732 18<27agent_white18>	Yep!
+T 1581605741 18<27agent_white18>	I couldn't put it down. It was sooo good.
+T 1581605744 18<22teh_f4ll3n18>	this planet is going to shit too fast. Can I get off?
+T 1581605745 23*	ApocalypseCow (~apocalyps@shadowcat/actuallyamemberof/lollipopguild.insomnia23) has joined
+T 1581605776 18<27agent_white18>	I don't remember the last time I actually read a fiction :(
+T 1581605789 18*	27agent_white throws glue on teh_f4ll3n 
+T 1581605790 18<28Casteil18>	virtually all my reading occurs in bed, like.. I'm laying down getting ready to go to sleep
+T 1581605802 18<22Alternity18>	i've started reading regularly again
+T 1581605810 18<24SynMonger18>	I can't do that, I never go to sleep at a reasonable hour
+T 1581605811 18<22Alternity18>	nothing fast but doing about a novel a month
+T 1581605816 18<28Casteil18>	I've had that bite me though because there are certain parts of certain books that have kept me reading between like 9pm - 6am
+T 1581605819 18<27agent_white18>	Yeah I used to do that all the time. Perfect way to settle down for the evening and prepare your mind for dreams!
+T 1581605820 23*	d (~d@2601:882:817f:be70:bc83:435c:9299:439d23) has joined
+T 1581605838 18<22Alternity18>	unless the book gets really good and you can't stop reading
+T 1581605843 18<28Casteil18>	but when I'm not getting ready for bed, I *never* read
+T 1581605846 18<22Alternity18>	and then it's 4am on a week night :P
+T 1581605849 24*	d has quit (Client Quit)
+T 1581605866 18<27agent_white18>	Bah yeah I need to get back into that habit.
+T 1581605866 18<22Alternity18>	i like to sit on back porch and read on a nice afternoon
+T 1581605867 18<28Casteil18>	because I've got this habit of being on my computer roughly from the time I get home to the time I go to bed
+T 1581605878 18<28Casteil18>	unless I'm doing some stuff around the house
+T 1581605900 18<28Casteil18>	for me, for some reason, it feels like reading during the day is a 'waste' of time
+T 1581605981 18<28corn26618>	if you enjoyed the time you wasted it wasn't a waste of time
+T 1581605989 18<28corn26618>	unless you're on a heroine binge
+T 1581606016 18<25technonerd18>	id go on a hermoine binge
+T 1581606017 18<28Casteil18>	sure, and it's not like a 3 hour marathon of youtube videos of some dudes exploring abandoned buildings is more productive/more valuable than reading a good book
+T 1581606025 24*	SiAnDoG_ has quit (Remote host closed the connection)
+T 1581606043 18<24DomLS318>	AZURE IS DOWN
+T 1581606047 18<24DomLS318>	IT'S ALL BURNING TO THE GROUND
+T 1581606048 23*	SiAnDoG_ (~514nDoG@gateway/tor-sasl/siandog23) has joined
+T 1581606049 18<24DomLS318>	SKYNET IS HERE
+T 1581606051 18<25technonerd18>	PICNIC
+T 1581606061 18<24DomLS318>	ADMIN.MICROSOFT.COM = SERVICE UNAVAILABLE OOF
+T 1581606070 18<24DomLS318>	POUR ONE FOR THE PATELS AT MICROSOFT
+T 1581606071 18<28corn26618>	[DONG]DrGibby: !STATUS
+T 1581606071 18<24SynMonger18>	I broke my habit of being on the computer only to replace it with watching youtube on the living room tv
+T 1581606075 18<28Casteil18>	seriously though The Proper People on youtube is a pretty cool channel - here's one of my favorites from them: https://www.youtube.com/watch?v=9F2heHgpl6M
+T 1581606091 18<28corn26618>	OFFICE 365? MORE LIKE OFFICE 364 AMIRITE?
+T 1581606104 18<28Casteil18>	since I found them Sunday I've probably played like 10 hours worth of their content lol
+T 1581606177 18<26dsockwell18>	fite me irl
+T 1581606196 18<24DomLS318>	dsockwell: 1v1 me sniperonly360noscopeonrustillrekkukiddd
+T 1581606238 18<25felda18>	Is it just me or does the Microsoft Admin panel always have at least 1 incident going at any given time?
+T 1581606239 18<28corn26618>	wow DomLS3 rookie mistake, forgot the 420blazeit
+T 1581606252 18<24DomLS318>	corn266: no smokey for me
+T 1581606261 18<26dsockwell18>	not even a xXX_69_XXx to be heard
+T 1581606264 18<28corn26618>	ah, mom won't let ya
+T 1581606271 18<24DomLS318>	I won't let me
+T 1581606271 18<24DomLS318>	lol
+T 1581606281 18<24DomLS318>	I've never done any illegal drug inmy life
+T 1581606300 23*	d (~d@2601:882:817f:be70:d93c:6699:60c6:1e4223) has joined
+T 1581606300 18<26dsockwell18>	some of them are very nice
+T 1581606303 18<27agent_white18>	You are missin out man
+T 1581606313 24*	d has quit (Client Quit)
+T 1581606316 18<24DomLS318>	I don't think so
+T 1581606348 18<26dsockwell18>	is there some special reason you don't indulge?
+T 1581606354 18<28Casteil18>	wonder if weed will get federally legalized soon or not
+T 1581606359 18<24DomLS318>	I don't see a reason to
+T 1581606368 18<24DomLS318>	is there some special reason you don't indulge in buttsex?
+T 1581606370 18<27agent_white18>	I experimented all the things in highschool. Now I've been there, done that. Definitely fun though.
+T 1581606381 18<26dsockwell18>	there is not, DomLS3
+T 1581606387 23*	d (~d@2601:882:817f:be70:d93c:6699:60c6:1e4223) has joined
+T 1581606390 18<22Alternity18>	what what, in the butt
+T 1581606394 18<27agent_white18>	\o/
+T 1581606399 24*	d has quit (Client Quit)
+T 1581606418 18<24DomLS318>	if I ever go to Sensation in amersterdam like I want to, that would likely be the only time I'd ever do drugs
+T 1581606426 18<22Alternity18>	https://www.youtube.com/watch?v=fbGkxcY7YFU
+T 1581606427 18<24DomLS318>	but that's highly unlikely, as that requires me to get on a plane
+T 1581606430 18<26dsockwell18>	is that a dance party?
+T 1581606436 18<24DomLS318>	a rave
+T 1581606437 18<24DomLS318>	so yes
+T 1581606451 18<20hxcsp18>	DomLS3: dude they got raves in warehouses here you dont have to get on a plane
+T 1581606453 18<20hxcsp18>	:D
+T 1581606459 18<24DomLS318>	hxcsp: I know but it's not the same
+T 1581606463 18<20hxcsp18>	i know im jk
+T 1581606468 18<24DomLS318>	a warehouse rave is nothing compared to Sensation
+T 1581606479 18<20hxcsp18>	would you say its a different... sensation?
+T 1581606487 18<26dsockwell18>	it might be smart to practice taking drugs if you would otherwise take them for the first time in a giant loud party full of people waving their arms and shit
+T 1581606488 18<24DomLS318>	https://www.youtube.com/watch?v=CsEnqto44vY
+T 1581606490 18<26dsockwell18>	but
+T 1581606502 18<26dsockwell18>	you don't technically have to
+T 1581606503 18<24nyox18>	any suggested interview questions for a it support position?
+T 1581606504 18<24DomLS318>	dsockwell: nah I'd be with people I know
+T 1581606514 18<20hxcsp18>	yeah if you have never done drugs in your entire life, and drop yourself in the middle of a rave and take some shit
+T 1581606518 18<20hxcsp18>	YOU'RE GOING TO HAVE A BAD TIME
+T 1581606523 18<24nyox18>	Its been like 3 months since I've had to do interviews and I have an elephant brain
+T 1581606529 18<24DomLS318>	nyox: google bruh
+T 1581606530 18<24DomLS318>	tf
+T 1581606537 18<24SynMonger18>	"turning it off and on again didn't work, what now?"
+T 1581606542 18<24DomLS318>	there's like 6 threads on reddit right now about that
+T 1581606559 18<20hxcsp18>	nyox: remove the default gateway from the configuration of a computer and ask them to fix it
+T 1581606564 18<20hxcsp18>	for some reason that seems to stump people
+T 1581606574 18<20hxcsp18>	and was one of the things i did when interviewing as a helpdesk mgr
+T 1581606600 18<20hxcsp18>	or remove the dns and ask them to join it to a domain
+T 1581606608 18<26dsockwell18>	start a stupid argument, like whether or not a hot dog is a sandwich
+T 1581606645 18<24nyox18>	the important questions
+T 1581606655 18<24DomLS318>	a hotdog is a sandwich when you put it on a peice of regular bread with a piece of cheese and ketchup
+T 1581606686 23*	xtensive (~xtensive@unaffiliated/xtensive23) has joined
+T 1581606698 18<28wasutton318>	https://i.redd.it/ffo5yigdd4r01.png
+T 1581606764 18<27agent_white18>	nyox: What kinda stuff are they gonna be doing?
+T 1581606776 18<26dsockwell18>	is it reading from a script or thinking?
+T 1581606823 18<20rpifan18>	rsync -avP rsync://administrator@storage.business.gmbh why has the italian set up rsync using that particular syntax
+T 1581606828 18<24nyox18>	level 1 remote and in office support at one of our locations
+T 1581606831 18<20rpifan18>	is there something im misisng
+T 1581606854 18<26dsockwell18>	using the administrator account is stupid
+T 1581606867 18<27agent_white18>	I'd just ask them about technical challenges they've faced (issue new to themselves they had to figure out on the fly and how), a time they worked with colleagues to solve a problem and what they enjoyed (or what they think they coulda done better), and if L1 a time they handled an irate customer and de-escalated.
+T 1581606879 18<26dsockwell18>	what syntax are you talking about rpifan
+T 1581606885 18<20rpifan18>	rsync://
+T 1581606890 18<24DomLS318>	if you have to ask what questions to ask and YOU are the interviewer... you probably shouldn't be interviewing
+T 1581606891 18<24DomLS318>	just saying
+T 1581606933 18<27agent_white18>	Eh, seasoned interviewers ask shitty questions too. Never a bad idea to see what else others might be asking.
+T 1581606955 18<24nyox18>	I like open questions that turn into discussions and lead to other questions
+T 1581606957 18<24DomLS318>	if seasoned interviewers ask shitty question then they aren't really seasoned
+T 1581606960 23*	epierce (~epierce@static-96-233-154-238.prvdri.fios.verizon.net23) has joined
+T 1581606970 18<24DomLS318>	they are marinated but not seasoned
+T 1581606992 18<28corn26618>	https://www.southernliving.com/food/how-to/how-t0-season-a-cast-iron-skillet
+T 1581606998 18<27agent_white18>	For an L1 I'd be more curious how curious they are and how nice they are to work with... that's a bigger thing to tackle than "Tell me the OSI layers"
+T 1581607013 18<28corn26618>	obviously the interviewer needs to be covered in oil
+T 1581607019 23*	FuzZzERD (~fuzzzerd@unaffiliated/fuzzzerd23) has joined
+T 1581607019 24*	noahn has quit (Ping timeout: 260 seconds)
+T 1581607073 18<27agent_white18>	DomLS3: idk you'd be surprised how many folks try and ask technical quiz bullshit rather than meaningful questions :P
+T 1581607161 18<25felda18>	Finally firefox can sync my containers
+T 1581607172 18<26dsockwell18>	https://www.youtube.com/watch?v=I4H0zxQJFUQ
+T 1581607173 18<25felda18>	Also if you haven't tried WebRender yet it is pretty fuckin fast
+T 1581607210 18<25felda18>	My RX 5700 gets 120FPS on youtuben ow
+T 1581607271 18<25felda18>	A few websites get a bit weird so try it on a nonproduction machine lol
+T 1581607449 18<24[DONG]DrGibby18>	AZURE IS DOWN!
+T 1581607463 18<28corn26618>	thanks [DONG]DrGibby
+T 1581607472 18<24[DONG]DrGibby18>	API is slow today
+T 1581607474 18<24[DONG]DrGibby18>	sorry
+T 1581607506 18<26jimender218>	Having first world problems. My monitor is so big I cant find my mouse
+T 1581607512 18<22PublicWiFi18>	lol
+T 1581607520 18<22Alternity18>	add mouse trails
+T 1581607523 18<25felda18>	Reddit is also struggling lol
+T 1581607538 23*	nerobro (~nerobro@mail.practicalalchemy.org23) has joined
+T 1581607547 18<26jimender218>	65 inches is a bit too big for a monitor rn
+T 1581607560 18<25felda18>	that's not what your mom said
+T 1581607563 18<29estranger18>	lol mouse trails
+T 1581607599 24*	Takios__ has quit (Quit: Konversation terminated!)
+T 1581607637 18<20Nightcinder18>	https://imgur.com/gallery/yX5uw
+T 1581607662 18<26dsockwell18>	gdi
+T 1581607686 18<22teh_f4ll3n18>	Should be called Red Nek Linux, Nightcinder
+T 1581607704 18<26dsockwell18>	felda: how is the rx 5700? i have one but i haven't really used it yet, my computer died while i was installing it and i haven't rebuilt yet
+T 1581607727 23*	Lysdexia (2662fbc2@38.98.251.19423) has joined
+T 1581607731 18<22Alternity18>	good value for the money afaik
+T 1581607759 18<22teh_f4ll3n18>	dsockwell, should have not plugged the mobo directly into the power outlet
+T 1581607768 18<28Lysdexia18>	So I have a GC that is rip and need to transfer the FSMO roles to another. Is there any recommended procedures you guys have? I'm not familiar with this
+T 1581607793 18<26dsockwell18>	teh_f4ll3n: there's a whole story i could tell but i'm getting sick of hearing it
+T 1581607847 18<22teh_f4ll3n18>	dsockwell, well, I killed my last PC while cleaning it, so... welcome to the club I guess
+T 1581607851 24*	trekkie1701c has quit (Quit: :P)
+T 1581607869 18<26dsockwell18>	it's not dead-dead, i just lost the FDE keys
+T 1581607878 18<28Casteil18>	this resume is weird..
+T 1581607889 18<28Casteil18>	it's like this guy's been going to school nonstop since 2004
+T 1581607901 18<26dsockwell18>	do they have an advanced degree?
+T 1581607906 18<22teh_f4ll3n18>	dsockwell, ain't that a bitch?
+T 1581607922 18<26dsockwell18>	yes, yes i tis
+T 1581607928 18<26dsockwell18>	yes-itis
+T 1581607929 18<28Casteil18>	dsockwell: not exactly no
+T 1581607946 18<26dsockwell18>	were they studying part-time while they worked in a career?
+T 1581607965 18<24DomLS318>	Lysdexia: you can literally google "transfer FSMO roles"
+T 1581607967 18<24DomLS318>	jesus christ
+T 1581607967 18<22teh_f4ll3n18>	I've bee going to school since 1991... first to study, then to pick up chicks :D
+T 1581607982 18<24DomLS318>	do none of you people do your own research before asking questions that have an EASILY SEARCHABLE ANSWER
+T 1581608009 18<28corn26618>	hold on let me ask
+T 1581608013 18<22teh_f4ll3n18>	why bother? someone's gonna answer
+T 1581608020 18<28corn26618>	hey guys, do none of you people do your own research before asking questions that have an EASILY SEARCHABLE ANSWER?
+T 1581608026 18<28Casteil18>	it's weird because they were doing software dev stuff between 2004-2013, then almost nothing software related between 2013-2018, then back to two short lived software roles after 2018
+T 1581608031 18<28Lysdexia18>	I don't think you understand. I was asking if you had any recommended procedures. I'
+T 1581608047 18<28Lysdexia18>	I've been Googling and I just want to be sure based on people's experience who are currently talking
+T 1581608054 18<28Casteil18>	like 3 months at one place in 2018, then 3 months at another company in 2019
+T 1581608073 18<28corn26618>	Lysdexia: a lot of MS documentation has a best practices section included IIRC, but I don't use any MS products
+T 1581608076 18<24DomLS318>	there are no "recommended procedures" as there's only two ways to do it. Either manually through MMC and ADUC/ADDS or through powershell
+T 1581608077 18<24DomLS318>	that's it
+T 1581608081 18<28Lysdexia18>	I just don't feel 100% comfortable since it's a production environment and I don't want to have to come in for the full weekend for a simple mistake.
+T 1581608095 18<28corn26618>	then don't do it tomorrow 4head
+T 1581608111 18<24[DONG]DrGibby18>	r/rareinsults
+T 1581608117 18<25felda18>	any of you guys going to use WireGuard?
+T 1581608128 18<25felda18>	I keep hearing hype things about it
+T 1581608134 18<28Lysdexia18>	Okay, that's all I wanted to know then. I'm sorry for the bother. :\
+T 1581608139 18<22teh_f4ll3n18>	yeah, learn from my mistakes: DON'T EVER DEPLOY UPDATES RIGHT BEFORE YOUR HOLIDAYS
+T 1581608142 18<28corn26618>	not for wifi, there's no wires to guard
+T 1581608147 18<24DomLS318>	Lysdexia: You didn't bother
+T 1581608158 18<29mrghostman18>	finally got in 365 admin portal but it is lagging harder than usual
+T 1581608159 18<24DomLS318>	But one thing you need to learn as a sysadmin is doing your own research
+T 1581608168 18<24DomLS318>	We are more than happy to help in here
+T 1581608176 18<26dsockwell18>	felda: i technically have it set up and it's exciting but i don't have a real application for it that isn't served fine by ssh
+T 1581608177 18<25giant_it_burrit18>	felda: i do
+T 1581608181 18<24FatalFUUU18>	isnt there a zigbee network hub?
+T 1581608183 18<24DomLS318>	but asking something so mundane like that is like asking "how do you turn the server on"
+T 1581608203 18<22Palmar18>	wireguard sounds super nice for site to site vpns
+T 1581608205 18<25giant_it_burrit18>	yes FatalFUUU
+T 1581608206 18<22teh_f4ll3n18>	Research is 85% of sysadmin work, 5% is actual work, 10% is being yelled at for something you had no hand in
+T 1581608210 18<22Palmar18>	basically as the underlay for your sdwan
+T 1581608210 18<25giant_it_burrit18>	DomLS3: what was the q
+T 1581608213 18<28Lysdexia18>	I just didn't know if there were any implications that I was missing from the pages
+T 1581608218 18<24FatalFUUU18>	bloody irssi, giant_it_burrit that was a reply to something 24 hour ago
+T 1581608221 18<24DomLS318>	giant_it_burrit: "how do you transfer FSMO roles"
+T 1581608235 18<26dsockwell18>	giant_it_burrit: it was something like 'hold my hand im messing with the DC and im scared'
+T 1581608240 18<26dsockwell18>	which
+T 1581608254 18<25giant_it_burrit18>	Lysdexia: only way you will internalize it is if you break it
+T 1581608260 18<25felda18>	can Wireguard do regular traffic or is it for SSH stuff only?
+T 1581608266 18<25giant_it_burrit18>	everything
+T 1581608270 18<28Lysdexia18>	Sorry, I wasn't trying to ask how to transfer. My intent was more in recommended procedures because I don't know what implications there are since this is new to me
+T 1581608276 18<25giant_it_burrit18>	i have a do droplet that i point my phone ti
+T 1581608279 18<26dsockwell18>	wireguard can do regular traffic, it makes a virtual NIC
+T 1581608288 18<25felda18>	I had heard it was recommend for it to be implemented directly in the linux kernel which sounded neato as fuck
+T 1581608291 18<25giant_it_burrit18>	have pihole block ads for it
+T 1581608297 18<25giant_it_burrit18>	it will be rolled into 5.6
+T 1581608303 18<24DomLS318>	Lysdexia: No implications so long as you don't forget to do them ALL
+T 1581608316 18<28Lysdexia18>	I'll remember that giant_it_burrit and okay, thank you DomLS3
+T 1581608333 18<25giant_it_burrit18>	Lysdexia: its literally as easy as you are reading
+T 1581608339 18<25giant_it_burrit18>	just have a backup just in case
+T 1581608351 18<28Lysdexia18>	Okay, awesome. Thank you all for helping put my mind at ease
+T 1581608354 24*	almostdvs has quit (Ping timeout: 240 seconds)
+T 1581608366 18<24DomLS318>	Lysdexia: That'll be $125.99
+T 1581608366 24*	Lysdexia has quit (Remote host closed the connection)
+T 1581608370 18<24DomLS318>	HEY
+T 1581608370 18<26dsockwell18>	Lysdexia: do you have a sandbox type of domain you can ...
+T 1581608375 18<24DomLS318>	GIB ME MONIES
+T 1581608383 18<26dsockwell18>	oh man i think i fucked that one up
+T 1581608456 18<22PublicWiFi18>	giant_it_burrit: have you noticed your pihole isn't as effective lately?
+T 1581608470 18<22PublicWiFi18>	giant_it_burrit: i keep mine updating but heere lately ive seen more ads than usual :(
+T 1581608472 18<24DomLS318>	dsockwell: he probably thinks a sandbox is something at the playground
+T 1581608478 18<25giant_it_burrit18>	depends where you are
+T 1581608485 18<24DomLS318>	s/pihole/penis
+T 1581608485 18<24layer-3ight18>	PublicWiFi meant: "giant_it_burrit: have you noticed your penis isn't as effective lately?"
+T 1581608494 18<24DomLS318>	s/ad/aid
+T 1581608495 18<24layer-3ight18>	PublicWiFi meant: "giant_it_burrit: i keep mine updating but heere lately ive seen more aids than usual :("
+T 1581608500 18<24DomLS318>	GOT EM
+T 1581608507 18<22PublicWiFi18>	LOL
+T 1581608522 18<25giant_it_burrit18>	0 times 0 is still 0
+T 1581608546 18<24SynMonger18>	is it? I thought science had worked that out
+T 1581608569 23*	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth23) has joined
+T 1581608586 18<26dsockwell18>	what's 0 divided by 0?
+T 1581608590 18<28Casteil18>	poatto
+T 1581608592 18<28Casteil18>	potato rather
+T 1581608624 18<28Casteil18>	I don't know why I still hit Wendy's occasionally
+T 1581608634 18<22PublicWiFi18>	i thiink mine blocks around 20% of my DNS traffic
+T 1581608650 18<28Casteil18>	I really burned myself out on it like a year ago when I discovered their 4 for $4 deal
+T 1581608670 18<26dsockwell18>	Wendy's lost my business when they took away the 1:1 relationship between numbered menu items and food
+T 1581608678 18<26dsockwell18>	bitch i come to wendy's because it's simple and i'm grumpy
+T 1581608680 18<28Casteil18>	and ever since they (Wendy's) switched to a new BBQ sauce I've been disappointed every time
+T 1581608686 18<26dsockwell18>	now i'm just grumpy
+T 1581608689 18<28Casteil18>	lmao
+T 1581608703 18<24SynMonger18>	I haven't lived within an hour of one in years
+T 1581608707 18<26dsockwell18>	I WANT THE NUMBER ONE PLEASE
+T 1581608716 18<26dsockwell18>	OK ANSWER ALL THESE QUESTIONS SO YOU FEEL UNIQUE
+T 1581608729 18<28Casteil18>	my problem is that it's the closest fast food place and it's SUPER easy to hit on my way home from work
+T 1581608735 18<22PublicWiFi18>	WHAT IS YOUR DOGS NAME
+T 1581608745 18<22PublicWiFi18>	i love wendy's fries man
+T 1581608747 18<22PublicWiFi18>	omg
+T 1581608752 18<28Casteil18>	so if I'm feeling lazy and get the urge to just get fat food on the way home, it usually ends up being Wendy's
+T 1581608758 18<22PublicWiFi18>	fuck yeah
+T 1581608761 18<26dsockwell18>	really? i always thought they were nothing special
+T 1581608763 18<26dsockwell18>	the fries
+T 1581608766 18<24SynMonger18>	back in my 20's I used to get a jr bacon cheeseburger and a small drink for lunch every day, under $2 with tax
+T 1581608767 18<28Casteil18>	their fries are good when they're fresh
+T 1581608768 18<22PublicWiFi18>	say what
+T 1581608779 18<22PublicWiFi18>	i used to MEAL on some spicy chicken befor ei quit eating it
+T 1581608784 18<22PublicWiFi18>	spicy chicken and fries omg
+T 1581608787 18<22PublicWiFi18>	im moist
+T 1581608789 23*	almostdvs (~almostdvs@162.154.195.11323) has joined
+T 1581608790 18<26dsockwell18>	between the lack of spicy nuggets and the new overcomplicated menu i rarely want to go in there
+T 1581608799 18<28Casteil18>	but it seems like if you just get the 4 for $4 deal, they give you the bottom-of-the-pile components
+T 1581608807 18<26dsockwell18>	the fries aren't good enough by themselves
+T 1581608812 18<26int0x1C818>	half an inch of solid ice on my car this morning
+T 1581608814 18<26int0x1C818>	awesome
+T 1581608815 18<22PublicWiFi18>	maybe my town's wendys is just dope
+T 1581608815 18<28Casteil18>	shitty smashed buns, gross chicken nugs, soggy/old fries..
+T 1581608823 18<26dsockwell18>	it could be PublicWiFi what country is it in
+T 1581608839 18<22PublicWiFi18>	if you go in during lunch, your foo is usually freshly made and put on the tray before you even get your receipt
+T 1581608842 18<22PublicWiFi18>	its nuts
+T 1581608844 18<22PublicWiFi18>	USA
+T 1581608846 18<22PublicWiFi18>	Kentucky
+T 1581608865 18<22PublicWiFi18>	when i was a mailman i'd always eat there cause the food was always done in literally 45 seconds
+T 1581608874 18<22PublicWiFi18>	so i had more time to sit and eat instead of using my lunch waiting ol
+T 1581608878 18<26dsockwell18>	yeah it's fast, i just can't cope with the new menu when i'm hungry
+T 1581608891 18<26dsockwell18>	i used to be able to just yell 'ONE' or 'THREE'
+T 1581608904 18<28Casteil18>	I like Long John Silvers lol
+T 1581608910 18<26dsockwell18>	so you're the one!
+T 1581608915 18<28Casteil18>	keeping them afloat?
+T 1581608916 18<28Casteil18>	probably
+T 1581608918 24*	Macuser has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1581608942 18<28Casteil18>	my local one is pretty good about dropping fresh fish as you order
+T 1581608958 18<22PublicWiFi18>	they had really good crab cakes
+T 1581608966 18<26dsockwell18>	i've actually never been there
+T 1581608976 18<26dsockwell18>	i don't eat much seafood this far from the actual sea
+T 1581609031 18<28Casteil18>	LJS is by no means a genuine high quality seafood dining establishment
+T 1581609041 18<24SynMonger18>	the catfish game around here is strong
+T 1581609043 18<28Casteil18>	it's fast food, and it's greasy/salty as fuck
+T 1581609047 18<28Casteil18>	but that's why people love it, lol
+T 1581609059 18<26dsockwell18>	oh i know it's irrational what with refrigerated transport and frozen fish on the boats for days while they're at sea
+T 1581609066 18<26dsockwell18>	i just never got into it anyway
+T 1581609073 18<28Casteil18>	LJS fish is cod
+T 1581609109 18<28Casteil18>	err, maybe it's Pollock
+T 1581609113 18<25felda18>	lmao user is offering me some homeopathic shit for my light cold I have going on
+T 1581609119 18<25felda18>	how hard do I dunk on them
+T 1581609127 18<24khelpw18>	felda: take it, pretend to seize, threaten to sue
+T 1581609128 18<24SynMonger18>	"but I'm already drinking enough water"
+T 1581609132 18<25felda18>	lol
+T 1581609144 18<28wasutton318>	i miss having access to good fresh seafood
+T 1581609149 18<25felda18>	the product is 99.99% sugar
+T 1581609156 18<26dsockwell18>	felda: just infect them
+T 1581609158 18<28Casteil18>	felda: "thanks but I'm not a hippie weirdo"
+T 1581609160 18<28wasutton318>	the one thing i miss about not living in florida
+T 1581609167 18<24khelpw18>	sneeze in their mouth to assert dominance
+T 1581609172 18<26dsockwell18>	felda: technically the common cold could be a coronavirus
+T 1581609174 18<26dsockwell18>	a mild one
+T 1581609175 18<25felda18>	you ever heard of Oscillococcinum?
+T 1581609181 18<25felda18>	dsockwell that's true
+T 1581609191 18<22PublicWiFi18>	does it vibrate felda
+T 1581609206 18<24SynMonger18>	sounds like it should
+T 1581609207 18<26dsockwell18>	does it vibrate your coccyx
+T 1581609208 18<25felda18>	80% of all people with COVID-19 only show mild symptoms and aren't affected like it
+T 1581609212 18<26dsockwell18>	which is in your butt
+T 1581609223 18<25felda18>	My nose is plugged
+T 1581609227 18<25felda18>	so my voice sounds lower
+T 1581609230 18<25felda18>	I kinda dig this head cold
+T 1581609240 18<26dsockwell18>	felda: not even NCOV-19, there are other coronaviruses and some of them cause colds
+T 1581609245 18<26dsockwell18>	it's a whole classification
+T 1581609248 18<25felda18>	yeah
+T 1581609256 18<26dsockwell18>	but it could also be ncov-19
+T 1581609261 18<26dsockwell18>	shouldn't rule that out
+T 1581609262 18<26dsockwell18>	:)
+T 1581609274 18<25felda18>	did you see China revised the number of people who had COVID-19 to be much higher lel
+T 1581609280 18<26dsockwell18>	again?
+T 1581609286 18<25felda18>	yeah it was last night or something
+T 1581609294 18<26dsockwell18>	did you see them welding the doors to apartment buildings shut?
+T 1581609318 18<25felda18>	https://news.sky.com/story/coronavirus-outbreak-why-the-number-of-covid-19-cases-has-suddenly-shot-up-11932993
+T 1581609318 18<26dsockwell18>	they welded steel bars to the door frames so the door couldn't open
+T 1581609337 18<20rpifan18>	whats the largest capacity ssd on the market atm
+T 1581609340 18<26int0x1C818>	when did they name it?
+T 1581609341 18<24SynMonger18>	DON'T DEAD OPEN INSIDE
+T 1581609354 18<25felda18>	New Racoon City
+T 1581609357 18<26dsockwell18>	rpifan: i have a 2TB from Mushkin
+T 1581609367 18<26dsockwell18>	might install that today
+T 1581609377 18<26int0x1C818>	this is the first time I've seen it refered to has covid-19, it was always just coronavirus
+T 1581609378 18<26dsockwell18>	oh, and my smartcard reader mmmm
+T 1581609390 23*	JK-47 (jk@2600:3c03::f03c:91ff:fe73:fc823) has joined
+T 1581609400 18<26dsockwell18>	int0x1C8: me too i thought felda just spelled ncov-19 wrong
+T 1581609402 18<28corn26618>	"the beer disease"
+T 1581609402 18<25felda18>	my coworkers legit got bamboozled by the photoshopped picture of that nearby pharma company that had a symbol like the umbrella corp.  they went all in on COVID-19 being a chinese military creation
+T 1581609417 18<25felda18>	COVID-19 is the official name for it
+T 1581609419 18<26dsockwell18>	oh yeah, one of those 4chan things?
+T 1581609429 18<25felda18>	ncov-19 was jsut the temporary name
+T 1581609453 18<26dsockwell18>	i saw on 4chan that sulfur-dioxide forecasts (which could never show such things) show that china is burning 50,000 bodies a night!
+T 1581609467 18<25felda18>	generally it is a bad idea to name diseases after where they are located or where they come from as that can cause stereotypes and bad assumptions
+T 1581609473 18<28corn26618>	13k over a few days
+T 1581609488 18<28Casteil18>	doubt.jpg
+T 1581609500 18<25felda18>	sure sure sure bud
+T 1581609505 18<26dsockwell18>	the point is it's bullshit, those satellite forecasts can't account for human corpse burning
+T 1581609520 18<20rpifan18>	wanna move our user profiles to an ssd lol
+T 1581609538 18<28corn26618>	coloqueally named "the felda-virus", ncov-19 has been infecting firewalls everywhere and installing pfsense
+T 1581609539 18<26int0x1C818>	in 1918 we had the Spanish flu
+T 1581609545 18<26int0x1C818>	in 2020 we have the Chinese flu
+T 1581609553 18<26dsockwell18>	it's not even influenza
+T 1581609560 18<26int0x1C818>	still calling it that
+T 1581609577 23*	farmfromjakestat (~farmfromj@gateway/tor-sasl/farmfromjakestat23) has joined
+T 1581609582 18<25JK-4718>	asian flu of 1957
+T 1581609595 18<26dsockwell18>	i only ever had the swine flu
+T 1581609596 18<25JK-4718>	spanish flu started in china.
+T 1581609597 18<26dsockwell18>	but that was nice
+T 1581609623 18<26dsockwell18>	ahhhhhh
+T 1581609632 18<26int0x1C818>	JK-47, actually they're pretty sure it started somewhere in the US interior on an army base
+T 1581609657 18<26dsockwell18>	i put a new motherboard in my TV (450% savings over buying a new TV) and now i can use my Kodi box for things again
+T 1581609660 18<25JK-4718>	"they"
+T 1581609690 18<26dsockwell18>	currently bumping my psytrance collection over mpd from the console
+T 1581609789 23*	trekkie1701c (~trekkie17@ec2-52-15-173-116.us-east-2.compute.amazonaws.com23) has joined
+T 1581609982 18<25technonerd18>	N E R D
+T 1581610061 18<20hxcsp18>	i lived in asia during the sars outbreak.... and this ones much worse
+T 1581610067 18<20hxcsp18>	sucks to be in china atm
+T 1581610073 18<20hxcsp18>	or on a cruise ship apparently
+T 1581610076 18<26dsockwell18>	yeah no kidding
+T 1581610086 18<24SynMonger18>	and I thought a poop cruise was bad
+T 1581610091 18<26dsockwell18>	first you might get sick and die
+T 1581610102 18<26dsockwell18>	but also the CCP might test out their fashy toys on you more than usual
+T 1581610191 18<26rgrizz18>	Yea its kind of surreal to hear about the surveilance stuff going on
+T 1581610213 18<26rgrizz18>	Normally it never really makes it to the media
+T 1581610337 18<25JK-4718>	Just think of all the toys, phones, laptops, keyboards, etc etc covered in virus being shipped all over the world in the next few months.
+T 1581610360 18<24khelpw18>	Yeah, I'm going out to Hawaii next week, here's hoping shit's clean
+T 1581610370 18<25JK-4718>	which island?
+T 1581610378 18<24khelpw18>	Maui
+T 1581610380 18<24DomLS318>	anyone who would wilfully get on a cruise ship with thousands of people and no way off except certain death by either drowning or being eaten by sharks... deserve it
+T 1581610384 18<24DomLS318>	darwinism at it's finest
+T 1581610386 18<28corn26618>	well japan is like the next most infected country after china, and hawaii is full of japanese vacationers
+T 1581610391 18<28corn26618>	so... good luck khelpw
+T 1581610397 18<25JK-4718>	DomLS3:  cruises are awesome
+T 1581610402 18<24khelpw18>	I've got a pretty kickass immune system, so I should be OK
+T 1581610426 18<20hxcsp18>	everytime you pop a bubble from bubble wrap just remember its from China
+T 1581610433 18<25JK-4718>	lol
+T 1581610436 23*	ny0x1 (~ny0x@unaffiliated/ny0x23) has joined
+T 1581610441 18<24SynMonger18>	that's how they getcha
+T 1581610466 23*	zenmechanical (~zenmechan@unaffiliated/zenmechanic23) has joined

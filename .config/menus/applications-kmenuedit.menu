@@ -1,0 +1,42 @@
+<!DOCTYPE Menu PUBLIC '-//freedesktop//DTD Menu 1.0//EN' 'http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd'>
+<Menu>
+ <Menu>
+  <Name>Utilities</Name>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>Apache Directory Studio.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>XUtilities</Menuname>
+   <Filename>android-file-transfer.desktop</Filename>
+   <Filename>org.kde.ark.desktop</Filename>
+   <Filename>atom.desktop</Filename>
+   <Filename>conky-manager.desktop</Filename>
+   <Filename>fcitx.desktop</Filename>
+   <Filename>org.kde.filelight.desktop</Filename>
+   <Filename>com.github.calo001.fondo.desktop</Filename>
+   <Filename>hplip.desktop</Filename>
+   <Filename>org.kde.kcalc.desktop</Filename>
+   <Filename>org.kde.kcharselect.desktop</Filename>
+   <Filename>org.kde.kfind.desktop</Filename>
+   <Filename>org.kde.kgpg.desktop</Filename>
+   <Filename>org.kde.kmag.desktop</Filename>
+   <Filename>org.kde.akonadiimportwizard.desktop</Filename>
+   <Filename>org.kde.kmousetool.desktop</Filename>
+   <Filename>org.kde.kmouth.desktop</Filename>
+   <Filename>org.kde.krusader.desktop</Filename>
+   <Filename>org.kde.ktnef.desktop</Filename>
+   <Filename>org.kde.kwrite.desktop</Filename>
+   <Filename>gnome-nettool.desktop</Filename>
+   <Filename>nextcloud.desktop</Filename>
+   <Filename>sirikali.desktop</Filename>
+   <Filename>org.kde.spectacle.desktop</Filename>
+   <Filename>sublime_text.desktop</Filename>
+   <Filename>terminator.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Include>
+   <Filename>Apache Directory Studio.desktop</Filename>
+  </Include>
+ </Menu>
+</Menu>

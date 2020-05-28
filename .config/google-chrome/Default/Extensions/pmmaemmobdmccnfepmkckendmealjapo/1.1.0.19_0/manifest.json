@@ -1,0 +1,32 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "javascripts/jquery-1.4.4.js", "javascripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/gmail_label_sharing.png"
+   },
+   "content_scripts": [ {
+      "css": [ "stylesheets/jquery.dropdown.css", "stylesheets/popover.css", "stylesheets/file_browser.css", "stylesheets/main.css" ],
+      "exclude_globs": [  ],
+      "include_globs": [  ],
+      "js": [ "javascripts/inboxsdk.js", "javascripts/main_loader.js" ],
+      "matches": [ "https://mail.google.com/*", "https://inbox.google.com/*" ]
+   } ],
+   "content_security_policy": "frame-src 'self' https://www.cloudhq.net https://www.cloudhq.net; script-src 'self' https://www.cloudhq.net https://www.cloudhq.net 'sha256-4Owfgr4YKLxuQlNu9nJe9gdriYc1qajVYToKgP/IAtY='; object-src 'self' https://www.cloudhq.net https://www.cloudhq.net; ",
+   "converted_from_user_script": true,
+   "description": "Email and label sharing plus real-time team collaboration and chat without ever leaving Gmail™",
+   "differential_fingerprint": "1.f69d8d19fab3878e27ecd2772e39766aad93b50781ea9d99e85f708dc90209f9",
+   "icons": {
+      "128": "icons/icon-128x128.png",
+      "48": "icons/icon-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt2qLoU/FJLykk0zc4ildjmi3ydkOnM7PIF0AXD/M1gU70+5e9FAW92w9rbYCqXQoFFef/UuIR/ztOnf9IJCAtN4CQDjiSkWql9f4FweVfCb2noglcxYFvAN7KCSHsVJf8bIrXQrc7ShKLIEJidPsbIKu8d/oVu2rMZKF2hhWoRaMP39cfomx0/JF2czDOtSEkpX3rJfA059BsplKhecLbqBDDCsQNCPsUqOE11YobcXyscw/HGRZFcyGBhdiUXQg+0n7NrYEwh0CW7z25Th6AR9ZsMv4112xLPoaoLQzwHzqXG0ZVnAid8YUBeNVxN/c/GFys4ewx/bO6RG92Oq4zQIDAQAB",
+   "manifest_version": 2,
+   "name": "Gmail Label and Email Sharing",
+   "permissions": [ "storage", "background", "https://mail.google.com/", "https://inbox.google.com/", "https://www.cloudhq.net/" ],
+   "short_name": "Gmail Label and Email Sharing",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0.19",
+   "web_accessible_resources": [ "javascripts/*", "html/*", "icons/*" ]
+}

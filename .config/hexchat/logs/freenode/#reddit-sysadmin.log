@@ -1,0 +1,467 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:38:38 2020
+
+Feb 13 09:38:38 *	Now talking on #reddit-sysadmin
+Feb 13 09:38:38 *	Topic for #reddit-sysadmin is: "Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info.
+Feb 13 09:38:38 *	Topic for #reddit-sysadmin set by ravioli!~ravioli@donger/pasta (Fri Jan 24 12:58:50 2020)
+Feb 13 09:39:20 <agent_white>	I dunno, I think it stands up well enough without that. 'Smaller' issues like locomotion/movement I think need to be more figured out.
+Feb 13 09:39:31 <PublicWiFi>	in order to automate the uploading of these files i need to bake in a user account
+Feb 13 09:39:37 <PublicWiFi>	why no autho token
+Feb 13 09:39:39 <PublicWiFi>	-.-
+Feb 13 09:39:40 <Alternity>	index is the best iteration on the current concept. it's not a true evolution of the concept
+Feb 13 09:40:02 <Alternity>	PublicWiFi no api keys?
+Feb 13 09:40:08 <PublicWiFi>	oh get this
+Feb 13 09:40:11 <PublicWiFi>	you need an api key
+Feb 13 09:40:15 <PublicWiFi>	AND the login
+Feb 13 09:40:17 <PublicWiFi>	-.-
+Feb 13 09:40:23 <PublicWiFi>	what's eve the point
+Feb 13 09:40:26 *	percY- (~percY@138.68.239.19) has joined
+Feb 13 09:40:31 <Nightcinder>	i suppose the question is what exactly is an 'evolution' of vr
+Feb 13 09:40:35 <Alternity>	it's like wearing two condoms at once
+Feb 13 09:40:36 <PublicWiFi>	of course it builds you a token you acn reuse, but if anyone gets ahold of the token that user is pwnd
+Feb 13 09:40:37 <Alternity>	double the protection
+Feb 13 09:40:49 <PublicWiFi>	rip
+Feb 13 09:40:59 <Alternity>	Nightcinder well that's the million dollar question. If i knew i'd be rich
+Feb 13 09:41:12 <PublicWiFi>	and when the user password changes you gotta recreate the token manually
+Feb 13 09:41:15 <PublicWiFi>	so what's even the fucking point lol
+Feb 13 09:41:16 <Nightcinder>	the issue is locomotion
+Feb 13 09:41:21 <Nightcinder>	that's the million dollar question
+Feb 13 09:41:39 <Alternity>	one of them
+Feb 13 09:41:51 <Nightcinder>	that's the current major one
+Feb 13 09:41:55 <Alternity>	can you make VR trick my senses enough that I can convincingly "touch" sometime in VR?
+Feb 13 09:42:02 <Alternity>	Nightcinder the major one we are aware of
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+Feb 13 09:42:27 <agent_white>	Alternity: There is some tech out there for that! Absolutely not in the price range of consumers though.
+Feb 13 09:42:30 <Alternity>	i think at the point where VR can simulate fondling boobies is when we will see it explode
+Feb 13 09:42:39 <Alternity>	agent_white ya some of the haptic stuff def has potential
+Feb 13 09:43:03 <agent_white>	Basically, Ready Player One. I want hentai tiddies rubbing on my pp
+Feb 13 09:43:11 <Statscowski>	UwU
+Feb 13 09:43:26 <Alternity>	personally I"d prefer more Daemon instead of ready player one
+**** ENDING LOGGING AT Thu Feb 13 09:43:52 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:52 2020
+
+Feb 13 09:44:02 <Alternity>	btw if you haven't read Daemon and like VR stuff you really should -> https://www.amazon.com/DAEMON-Daemon-Daniel-Suarez/dp/0451228731
+Feb 13 09:44:08 <Alternity>	it's basically the adult version of ready player one
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+Feb 13 09:46:46 *	Casteil throws it on his list
+Feb 13 09:46:57 <Casteil>	currently re-reading Kingkiller Chronicles
+Feb 13 09:47:19 <Casteil>	probably should've waited to do it until just before book 3 comes out
+Feb 13 09:47:42 <agent_white>	Alternity: Sidenote... you might also dig https://en.wikipedia.org/wiki/Feed_(Anderson_novel)
+Feb 13 09:48:00 <Casteil>	but, The Name of the Wind is my favorite book.. and I was in need of an audiobook I knew I'd enjoy to keep me company for a few long road trips
+Feb 13 09:49:30 <Nightcinder>	https://arstechnica.com/gadgets/2020/02/andy-rubins-smartphone-startup-essential-is-dead/
+Feb 13 09:49:31 <Nightcinder>	lol
+Feb 13 09:49:34 <Nightcinder>	it's finally dead
+Feb 13 09:49:41 *	Rapture (~textual@50.239.87.42) has joined
+Feb 13 09:50:41 <Casteil>	been a while since I've read anything scifi
+Feb 13 09:51:06 *	Macuser (~macuser@unaffiliated/macuser) has joined
+Feb 13 09:51:41 <Casteil>	last one may have been A Fire Upon The Deep - https://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285
+Feb 13 09:51:44 *	d (~d@2601:882:817f:be70:bc83:435c:9299:439d) has joined
+Feb 13 09:51:53 <agent_white>	Casteil: You should read... The Ear, The Eye, and The Arm. https://en.wikipedia.org/wiki/The_Ear,_the_Eye_and_the_Arm
+Feb 13 09:52:19 <Casteil>	"afrofuturism"
+Feb 13 09:52:20 <Casteil>	lol
+Feb 13 09:52:26 <Casteil>	dis some black panther shit?
+Feb 13 09:52:56 *	d has quit (Client Quit)
+Feb 13 09:53:48 <agent_white>	"children's novel" to be taken lightly. I actually saw my teacher reading it in 3rd grade and picked it up to read myself. Really cool story. Basically about some investigation team of mutants out to find the king's kids who ran away from their castle/kingdom to learn about what their country is really like.
+Feb 13 09:53:53 <agent_white>	Super fun read :)
+Feb 13 09:55:12 <Casteil>	one of these days I should try actually just chilling in my lounge chair reading my kindle
+Feb 13 09:55:19 <Alternity>	oh wow agent_white i've read that!
+Feb 13 09:55:24 <Alternity>	i remember that being a fun book
+Feb 13 09:55:27 <Alternity>	in like..... 4th grade?
+Feb 13 09:55:32 <agent_white>	Yep!
+Feb 13 09:55:41 <agent_white>	I couldn't put it down. It was sooo good.
+Feb 13 09:55:44 <teh_f4ll3n>	this planet is going to shit too fast. Can I get off?
+Feb 13 09:55:45 *	ApocalypseCow (~apocalyps@shadowcat/actuallyamemberof/lollipopguild.insomnia) has joined
+Feb 13 09:56:16 <agent_white>	I don't remember the last time I actually read a fiction :(
+Feb 13 09:56:29 *	agent_white throws glue on teh_f4ll3n 
+Feb 13 09:56:30 <Casteil>	virtually all my reading occurs in bed, like.. I'm laying down getting ready to go to sleep
+Feb 13 09:56:42 <Alternity>	i've started reading regularly again
+Feb 13 09:56:50 <SynMonger>	I can't do that, I never go to sleep at a reasonable hour
+Feb 13 09:56:51 <Alternity>	nothing fast but doing about a novel a month
+Feb 13 09:56:56 <Casteil>	I've had that bite me though because there are certain parts of certain books that have kept me reading between like 9pm - 6am
+Feb 13 09:56:59 <agent_white>	Yeah I used to do that all the time. Perfect way to settle down for the evening and prepare your mind for dreams!
+Feb 13 09:57:00 *	d (~d@2601:882:817f:be70:bc83:435c:9299:439d) has joined
+Feb 13 09:57:18 <Alternity>	unless the book gets really good and you can't stop reading
+Feb 13 09:57:23 <Casteil>	but when I'm not getting ready for bed, I *never* read
+Feb 13 09:57:26 <Alternity>	and then it's 4am on a week night :P
+Feb 13 09:57:29 *	d has quit (Client Quit)
+Feb 13 09:57:46 <agent_white>	Bah yeah I need to get back into that habit.
+Feb 13 09:57:46 <Alternity>	i like to sit on back porch and read on a nice afternoon
+Feb 13 09:57:47 <Casteil>	because I've got this habit of being on my computer roughly from the time I get home to the time I go to bed
+Feb 13 09:57:58 <Casteil>	unless I'm doing some stuff around the house
+Feb 13 09:58:20 <Casteil>	for me, for some reason, it feels like reading during the day is a 'waste' of time
+Feb 13 09:59:41 <corn266>	if you enjoyed the time you wasted it wasn't a waste of time
+Feb 13 09:59:49 <corn266>	unless you're on a heroine binge
+Feb 13 10:00:16 <technonerd>	id go on a hermoine binge
+Feb 13 10:00:17 <Casteil>	sure, and it's not like a 3 hour marathon of youtube videos of some dudes exploring abandoned buildings is more productive/more valuable than reading a good book
+Feb 13 10:00:25 *	SiAnDoG_ has quit (Remote host closed the connection)
+Feb 13 10:00:43 <DomLS3>	AZURE IS DOWN
+Feb 13 10:00:47 <DomLS3>	IT'S ALL BURNING TO THE GROUND
+Feb 13 10:00:48 *	SiAnDoG_ (~514nDoG@gateway/tor-sasl/siandog) has joined
+Feb 13 10:00:49 <DomLS3>	SKYNET IS HERE
+Feb 13 10:00:51 <technonerd>	PICNIC
+Feb 13 10:01:01 <DomLS3>	ADMIN.MICROSOFT.COM = SERVICE UNAVAILABLE OOF
+Feb 13 10:01:10 <DomLS3>	POUR ONE FOR THE PATELS AT MICROSOFT
+Feb 13 10:01:11 <corn266>	[DONG]DrGibby: !STATUS
+Feb 13 10:01:11 <SynMonger>	I broke my habit of being on the computer only to replace it with watching youtube on the living room tv
+Feb 13 10:01:15 <Casteil>	seriously though The Proper People on youtube is a pretty cool channel - here's one of my favorites from them: https://www.youtube.com/watch?v=9F2heHgpl6M
+Feb 13 10:01:31 <corn266>	OFFICE 365? MORE LIKE OFFICE 364 AMIRITE?
+Feb 13 10:01:44 <Casteil>	since I found them Sunday I've probably played like 10 hours worth of their content lol
+Feb 13 10:02:57 <dsockwell>	fite me irl
+Feb 13 10:03:16 <DomLS3>	dsockwell: 1v1 me sniperonly360noscopeonrustillrekkukiddd
+Feb 13 10:03:58 <felda>	Is it just me or does the Microsoft Admin panel always have at least 1 incident going at any given time?
+Feb 13 10:03:59 <corn266>	wow DomLS3 rookie mistake, forgot the 420blazeit
+Feb 13 10:04:12 <DomLS3>	corn266: no smokey for me
+Feb 13 10:04:21 <dsockwell>	not even a xXX_69_XXx to be heard
+Feb 13 10:04:24 <corn266>	ah, mom won't let ya
+Feb 13 10:04:31 <DomLS3>	I won't let me
+Feb 13 10:04:31 <DomLS3>	lol
+Feb 13 10:04:41 <DomLS3>	I've never done any illegal drug inmy life
+Feb 13 10:05:00 *	d (~d@2601:882:817f:be70:d93c:6699:60c6:1e42) has joined
+Feb 13 10:05:00 <dsockwell>	some of them are very nice
+Feb 13 10:05:03 <agent_white>	You are missin out man
+Feb 13 10:05:13 *	d has quit (Client Quit)
+Feb 13 10:05:16 <DomLS3>	I don't think so
+Feb 13 10:05:48 <dsockwell>	is there some special reason you don't indulge?
+Feb 13 10:05:54 <Casteil>	wonder if weed will get federally legalized soon or not
+Feb 13 10:05:59 <DomLS3>	I don't see a reason to
+Feb 13 10:06:08 <DomLS3>	is there some special reason you don't indulge in buttsex?
+Feb 13 10:06:10 <agent_white>	I experimented all the things in highschool. Now I've been there, done that. Definitely fun though.
+Feb 13 10:06:21 <dsockwell>	there is not, DomLS3
+Feb 13 10:06:27 *	d (~d@2601:882:817f:be70:d93c:6699:60c6:1e42) has joined
+Feb 13 10:06:30 <Alternity>	what what, in the butt
+Feb 13 10:06:34 <agent_white>	\o/
+Feb 13 10:06:39 *	d has quit (Client Quit)
+Feb 13 10:06:58 <DomLS3>	if I ever go to Sensation in amersterdam like I want to, that would likely be the only time I'd ever do drugs
+Feb 13 10:07:06 <Alternity>	https://www.youtube.com/watch?v=fbGkxcY7YFU
+Feb 13 10:07:07 <DomLS3>	but that's highly unlikely, as that requires me to get on a plane
+Feb 13 10:07:10 <dsockwell>	is that a dance party?
+Feb 13 10:07:16 <DomLS3>	a rave
+Feb 13 10:07:17 <DomLS3>	so yes
+Feb 13 10:07:31 <hxcsp>	DomLS3: dude they got raves in warehouses here you dont have to get on a plane
+Feb 13 10:07:33 <hxcsp>	:D
+Feb 13 10:07:39 <DomLS3>	hxcsp: I know but it's not the same
+Feb 13 10:07:43 <hxcsp>	i know im jk
+Feb 13 10:07:48 <DomLS3>	a warehouse rave is nothing compared to Sensation
+Feb 13 10:07:59 <hxcsp>	would you say its a different... sensation?
+Feb 13 10:08:07 <dsockwell>	it might be smart to practice taking drugs if you would otherwise take them for the first time in a giant loud party full of people waving their arms and shit
+Feb 13 10:08:08 <DomLS3>	https://www.youtube.com/watch?v=CsEnqto44vY
+Feb 13 10:08:10 <dsockwell>	but
+Feb 13 10:08:22 <dsockwell>	you don't technically have to
+Feb 13 10:08:23 <nyox>	any suggested interview questions for a it support position?
+Feb 13 10:08:24 <DomLS3>	dsockwell: nah I'd be with people I know
+Feb 13 10:08:34 <hxcsp>	yeah if you have never done drugs in your entire life, and drop yourself in the middle of a rave and take some shit
+Feb 13 10:08:38 <hxcsp>	YOU'RE GOING TO HAVE A BAD TIME
+Feb 13 10:08:43 <nyox>	Its been like 3 months since I've had to do interviews and I have an elephant brain
+Feb 13 10:08:49 <DomLS3>	nyox: google bruh
+Feb 13 10:08:50 <DomLS3>	tf
+Feb 13 10:08:57 <SynMonger>	"turning it off and on again didn't work, what now?"
+Feb 13 10:09:02 <DomLS3>	there's like 6 threads on reddit right now about that
+Feb 13 10:09:19 <hxcsp>	nyox: remove the default gateway from the configuration of a computer and ask them to fix it
+Feb 13 10:09:24 <hxcsp>	for some reason that seems to stump people
+Feb 13 10:09:34 <hxcsp>	and was one of the things i did when interviewing as a helpdesk mgr
+Feb 13 10:10:00 <hxcsp>	or remove the dns and ask them to join it to a domain
+Feb 13 10:10:08 <dsockwell>	start a stupid argument, like whether or not a hot dog is a sandwich
+Feb 13 10:10:45 <nyox>	the important questions
+Feb 13 10:10:55 <DomLS3>	a hotdog is a sandwich when you put it on a peice of regular bread with a piece of cheese and ketchup
+Feb 13 10:11:26 *	xtensive (~xtensive@unaffiliated/xtensive) has joined
+Feb 13 10:11:38 <wasutton3>	https://i.redd.it/ffo5yigdd4r01.png
+Feb 13 10:12:44 <agent_white>	nyox: What kinda stuff are they gonna be doing?
+Feb 13 10:12:56 <dsockwell>	is it reading from a script or thinking?
+Feb 13 10:13:43 <rpifan>	rsync -avP rsync://administrator@storage.business.gmbh why has the italian set up rsync using that particular syntax
+Feb 13 10:13:48 <nyox>	level 1 remote and in office support at one of our locations
+Feb 13 10:13:51 <rpifan>	is there something im misisng
+Feb 13 10:14:14 <dsockwell>	using the administrator account is stupid
+Feb 13 10:14:27 <agent_white>	I'd just ask them about technical challenges they've faced (issue new to themselves they had to figure out on the fly and how), a time they worked with colleagues to solve a problem and what they enjoyed (or what they think they coulda done better), and if L1 a time they handled an irate customer and de-escalated.
+Feb 13 10:14:39 <dsockwell>	what syntax are you talking about rpifan
+Feb 13 10:14:45 <rpifan>	rsync://
+Feb 13 10:14:50 <DomLS3>	if you have to ask what questions to ask and YOU are the interviewer... you probably shouldn't be interviewing
+Feb 13 10:14:51 <DomLS3>	just saying
+Feb 13 10:15:33 <agent_white>	Eh, seasoned interviewers ask shitty questions too. Never a bad idea to see what else others might be asking.
+Feb 13 10:15:55 <nyox>	I like open questions that turn into discussions and lead to other questions
+Feb 13 10:15:57 <DomLS3>	if seasoned interviewers ask shitty question then they aren't really seasoned
+Feb 13 10:16:00 *	epierce (~epierce@static-96-233-154-238.prvdri.fios.verizon.net) has joined
+Feb 13 10:16:10 <DomLS3>	they are marinated but not seasoned
+Feb 13 10:16:32 <corn266>	https://www.southernliving.com/food/how-to/how-t0-season-a-cast-iron-skillet
+Feb 13 10:16:38 <agent_white>	For an L1 I'd be more curious how curious they are and how nice they are to work with... that's a bigger thing to tackle than "Tell me the OSI layers"
+Feb 13 10:16:53 <corn266>	obviously the interviewer needs to be covered in oil
+Feb 13 10:16:59 *	FuzZzERD (~fuzzzerd@unaffiliated/fuzzzerd) has joined
+Feb 13 10:16:59 *	noahn has quit (Ping timeout: 260 seconds)
+Feb 13 10:17:53 <agent_white>	DomLS3: idk you'd be surprised how many folks try and ask technical quiz bullshit rather than meaningful questions :P
+Feb 13 10:19:21 <felda>	Finally firefox can sync my containers
+Feb 13 10:19:32 <dsockwell>	https://www.youtube.com/watch?v=I4H0zxQJFUQ
+Feb 13 10:19:33 <felda>	Also if you haven't tried WebRender yet it is pretty fuckin fast
+Feb 13 10:20:10 <felda>	My RX 5700 gets 120FPS on youtuben ow
+Feb 13 10:21:11 <felda>	A few websites get a bit weird so try it on a nonproduction machine lol
+Feb 13 10:24:09 <[DONG]DrGibby>	AZURE IS DOWN!
+Feb 13 10:24:23 <corn266>	thanks [DONG]DrGibby
+Feb 13 10:24:32 <[DONG]DrGibby>	API is slow today
+Feb 13 10:24:34 <[DONG]DrGibby>	sorry
+Feb 13 10:25:06 <jimender2>	Having first world problems. My monitor is so big I cant find my mouse
+Feb 13 10:25:12 <PublicWiFi>	lol
+Feb 13 10:25:20 <Alternity>	add mouse trails
+Feb 13 10:25:23 <felda>	Reddit is also struggling lol
+Feb 13 10:25:38 *	nerobro (~nerobro@mail.practicalalchemy.org) has joined
+Feb 13 10:25:47 <jimender2>	65 inches is a bit too big for a monitor rn
+Feb 13 10:26:00 <felda>	that's not what your mom said
+Feb 13 10:26:03 <estranger>	lol mouse trails
+Feb 13 10:26:39 *	Takios__ has quit (Quit: Konversation terminated!)
+Feb 13 10:27:17 <Nightcinder>	https://imgur.com/gallery/yX5uw
+Feb 13 10:27:42 <dsockwell>	gdi
+Feb 13 10:28:06 <teh_f4ll3n>	Should be called Red Nek Linux, Nightcinder
+Feb 13 10:28:24 <dsockwell>	felda: how is the rx 5700? i have one but i haven't really used it yet, my computer died while i was installing it and i haven't rebuilt yet
+Feb 13 10:28:47 *	Lysdexia (2662fbc2@38.98.251.194) has joined
+Feb 13 10:28:51 <Alternity>	good value for the money afaik
+Feb 13 10:29:19 <teh_f4ll3n>	dsockwell, should have not plugged the mobo directly into the power outlet
+Feb 13 10:29:28 <Lysdexia>	So I have a GC that is rip and need to transfer the FSMO roles to another. Is there any recommended procedures you guys have? I'm not familiar with this
+Feb 13 10:29:53 <dsockwell>	teh_f4ll3n: there's a whole story i could tell but i'm getting sick of hearing it
+Feb 13 10:30:47 <teh_f4ll3n>	dsockwell, well, I killed my last PC while cleaning it, so... welcome to the club I guess
+Feb 13 10:30:51 *	trekkie1701c has quit (Quit: :P)
+Feb 13 10:31:09 <dsockwell>	it's not dead-dead, i just lost the FDE keys
+Feb 13 10:31:18 <Casteil>	this resume is weird..
+Feb 13 10:31:29 <Casteil>	it's like this guy's been going to school nonstop since 2004
+Feb 13 10:31:41 <dsockwell>	do they have an advanced degree?
+Feb 13 10:31:46 <teh_f4ll3n>	dsockwell, ain't that a bitch?
+Feb 13 10:32:02 <dsockwell>	yes, yes i tis
+Feb 13 10:32:08 <dsockwell>	yes-itis
+Feb 13 10:32:09 <Casteil>	dsockwell: not exactly no
+Feb 13 10:32:26 <dsockwell>	were they studying part-time while they worked in a career?
+Feb 13 10:32:45 <DomLS3>	Lysdexia: you can literally google "transfer FSMO roles"
+Feb 13 10:32:47 <DomLS3>	jesus christ
+Feb 13 10:32:47 <teh_f4ll3n>	I've bee going to school since 1991... first to study, then to pick up chicks :D
+Feb 13 10:33:02 <DomLS3>	do none of you people do your own research before asking questions that have an EASILY SEARCHABLE ANSWER
+Feb 13 10:33:29 <corn266>	hold on let me ask
+Feb 13 10:33:33 <teh_f4ll3n>	why bother? someone's gonna answer
+Feb 13 10:33:40 <corn266>	hey guys, do none of you people do your own research before asking questions that have an EASILY SEARCHABLE ANSWER?
+Feb 13 10:33:46 <Casteil>	it's weird because they were doing software dev stuff between 2004-2013, then almost nothing software related between 2013-2018, then back to two short lived software roles after 2018
+Feb 13 10:33:51 <Lysdexia>	I don't think you understand. I was asking if you had any recommended procedures. I'
+Feb 13 10:34:07 <Lysdexia>	I've been Googling and I just want to be sure based on people's experience who are currently talking
+Feb 13 10:34:14 <Casteil>	like 3 months at one place in 2018, then 3 months at another company in 2019
+Feb 13 10:34:33 <corn266>	Lysdexia: a lot of MS documentation has a best practices section included IIRC, but I don't use any MS products
+Feb 13 10:34:36 <DomLS3>	there are no "recommended procedures" as there's only two ways to do it. Either manually through MMC and ADUC/ADDS or through powershell
+Feb 13 10:34:37 <DomLS3>	that's it
+Feb 13 10:34:41 <Lysdexia>	I just don't feel 100% comfortable since it's a production environment and I don't want to have to come in for the full weekend for a simple mistake.
+Feb 13 10:34:55 <corn266>	then don't do it tomorrow 4head
+Feb 13 10:35:11 <[DONG]DrGibby>	r/rareinsults
+Feb 13 10:35:17 <felda>	any of you guys going to use WireGuard?
+Feb 13 10:35:28 <felda>	I keep hearing hype things about it
+Feb 13 10:35:34 <Lysdexia>	Okay, that's all I wanted to know then. I'm sorry for the bother. :\
+Feb 13 10:35:39 <teh_f4ll3n>	yeah, learn from my mistakes: DON'T EVER DEPLOY UPDATES RIGHT BEFORE YOUR HOLIDAYS
+Feb 13 10:35:42 <corn266>	not for wifi, there's no wires to guard
+Feb 13 10:35:47 <DomLS3>	Lysdexia: You didn't bother
+Feb 13 10:35:58 <mrghostman>	finally got in 365 admin portal but it is lagging harder than usual
+Feb 13 10:35:59 <DomLS3>	But one thing you need to learn as a sysadmin is doing your own research
+Feb 13 10:36:08 <DomLS3>	We are more than happy to help in here
+Feb 13 10:36:16 <dsockwell>	felda: i technically have it set up and it's exciting but i don't have a real application for it that isn't served fine by ssh
+Feb 13 10:36:17 <giant_it_burrit>	felda: i do
+Feb 13 10:36:21 <FatalFUUU>	isnt there a zigbee network hub?
+Feb 13 10:36:23 <DomLS3>	but asking something so mundane like that is like asking "how do you turn the server on"
+Feb 13 10:36:43 <Palmar>	wireguard sounds super nice for site to site vpns
+Feb 13 10:36:45 <giant_it_burrit>	yes FatalFUUU
+Feb 13 10:36:46 <teh_f4ll3n>	Research is 85% of sysadmin work, 5% is actual work, 10% is being yelled at for something you had no hand in
+Feb 13 10:36:50 <Palmar>	basically as the underlay for your sdwan
+Feb 13 10:36:50 <giant_it_burrit>	DomLS3: what was the q
+Feb 13 10:36:53 <Lysdexia>	I just didn't know if there were any implications that I was missing from the pages
+Feb 13 10:36:58 <FatalFUUU>	bloody irssi, giant_it_burrit that was a reply to something 24 hour ago
+Feb 13 10:37:01 <DomLS3>	giant_it_burrit: "how do you transfer FSMO roles"
+Feb 13 10:37:15 <dsockwell>	giant_it_burrit: it was something like 'hold my hand im messing with the DC and im scared'
+Feb 13 10:37:20 <dsockwell>	which
+Feb 13 10:37:34 <giant_it_burrit>	Lysdexia: only way you will internalize it is if you break it
+Feb 13 10:37:40 <felda>	can Wireguard do regular traffic or is it for SSH stuff only?
+Feb 13 10:37:46 <giant_it_burrit>	everything
+Feb 13 10:37:50 <Lysdexia>	Sorry, I wasn't trying to ask how to transfer. My intent was more in recommended procedures because I don't know what implications there are since this is new to me
+Feb 13 10:37:56 <giant_it_burrit>	i have a do droplet that i point my phone ti
+Feb 13 10:37:59 <dsockwell>	wireguard can do regular traffic, it makes a virtual NIC
+Feb 13 10:38:08 <felda>	I had heard it was recommend for it to be implemented directly in the linux kernel which sounded neato as fuck
+Feb 13 10:38:11 <giant_it_burrit>	have pihole block ads for it
+Feb 13 10:38:17 <giant_it_burrit>	it will be rolled into 5.6
+Feb 13 10:38:23 <DomLS3>	Lysdexia: No implications so long as you don't forget to do them ALL
+Feb 13 10:38:36 <Lysdexia>	I'll remember that giant_it_burrit and okay, thank you DomLS3
+Feb 13 10:38:53 <giant_it_burrit>	Lysdexia: its literally as easy as you are reading
+Feb 13 10:38:59 <giant_it_burrit>	just have a backup just in case
+Feb 13 10:39:11 <Lysdexia>	Okay, awesome. Thank you all for helping put my mind at ease
+Feb 13 10:39:14 *	almostdvs has quit (Ping timeout: 240 seconds)
+Feb 13 10:39:26 <DomLS3>	Lysdexia: That'll be $125.99
+Feb 13 10:39:26 *	Lysdexia has quit (Remote host closed the connection)
+Feb 13 10:39:30 <DomLS3>	HEY
+Feb 13 10:39:30 <dsockwell>	Lysdexia: do you have a sandbox type of domain you can ...
+Feb 13 10:39:35 <DomLS3>	GIB ME MONIES
+Feb 13 10:39:43 <dsockwell>	oh man i think i fucked that one up
+Feb 13 10:40:56 <PublicWiFi>	giant_it_burrit: have you noticed your pihole isn't as effective lately?
+Feb 13 10:41:10 <PublicWiFi>	giant_it_burrit: i keep mine updating but heere lately ive seen more ads than usual :(
+Feb 13 10:41:12 <DomLS3>	dsockwell: he probably thinks a sandbox is something at the playground
+Feb 13 10:41:18 <giant_it_burrit>	depends where you are
+Feb 13 10:41:25 <DomLS3>	s/pihole/penis
+Feb 13 10:41:25 <layer-3ight>	PublicWiFi meant: "giant_it_burrit: have you noticed your penis isn't as effective lately?"
+Feb 13 10:41:34 <DomLS3>	s/ad/aid
+Feb 13 10:41:35 <layer-3ight>	PublicWiFi meant: "giant_it_burrit: i keep mine updating but heere lately ive seen more aids than usual :("
+Feb 13 10:41:40 <DomLS3>	GOT EM
+Feb 13 10:41:47 <PublicWiFi>	LOL
+Feb 13 10:42:02 <giant_it_burrit>	0 times 0 is still 0
+Feb 13 10:42:26 <SynMonger>	is it? I thought science had worked that out
+Feb 13 10:42:49 *	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth) has joined
+Feb 13 10:43:06 <dsockwell>	what's 0 divided by 0?
+Feb 13 10:43:10 <Casteil>	poatto
+Feb 13 10:43:12 <Casteil>	potato rather
+Feb 13 10:43:44 <Casteil>	I don't know why I still hit Wendy's occasionally
+Feb 13 10:43:54 <PublicWiFi>	i thiink mine blocks around 20% of my DNS traffic
+Feb 13 10:44:10 <Casteil>	I really burned myself out on it like a year ago when I discovered their 4 for $4 deal
+Feb 13 10:44:30 <dsockwell>	Wendy's lost my business when they took away the 1:1 relationship between numbered menu items and food
+Feb 13 10:44:38 <dsockwell>	bitch i come to wendy's because it's simple and i'm grumpy
+Feb 13 10:44:40 <Casteil>	and ever since they (Wendy's) switched to a new BBQ sauce I've been disappointed every time
+Feb 13 10:44:46 <dsockwell>	now i'm just grumpy
+Feb 13 10:44:49 <Casteil>	lmao
+Feb 13 10:45:03 <SynMonger>	I haven't lived within an hour of one in years
+Feb 13 10:45:07 <dsockwell>	I WANT THE NUMBER ONE PLEASE
+Feb 13 10:45:16 <dsockwell>	OK ANSWER ALL THESE QUESTIONS SO YOU FEEL UNIQUE
+Feb 13 10:45:29 <Casteil>	my problem is that it's the closest fast food place and it's SUPER easy to hit on my way home from work
+Feb 13 10:45:35 <PublicWiFi>	WHAT IS YOUR DOGS NAME
+Feb 13 10:45:45 <PublicWiFi>	i love wendy's fries man
+Feb 13 10:45:47 <PublicWiFi>	omg
+Feb 13 10:45:52 <Casteil>	so if I'm feeling lazy and get the urge to just get fat food on the way home, it usually ends up being Wendy's
+Feb 13 10:45:58 <PublicWiFi>	fuck yeah
+Feb 13 10:46:01 <dsockwell>	really? i always thought they were nothing special
+Feb 13 10:46:03 <dsockwell>	the fries
+Feb 13 10:46:06 <SynMonger>	back in my 20's I used to get a jr bacon cheeseburger and a small drink for lunch every day, under $2 with tax
+Feb 13 10:46:07 <Casteil>	their fries are good when they're fresh
+Feb 13 10:46:08 <PublicWiFi>	say what
+Feb 13 10:46:19 <PublicWiFi>	i used to MEAL on some spicy chicken befor ei quit eating it
+Feb 13 10:46:24 <PublicWiFi>	spicy chicken and fries omg
+Feb 13 10:46:27 <PublicWiFi>	im moist
+Feb 13 10:46:29 *	almostdvs (~almostdvs@162.154.195.113) has joined
+Feb 13 10:46:30 <dsockwell>	between the lack of spicy nuggets and the new overcomplicated menu i rarely want to go in there
+Feb 13 10:46:39 <Casteil>	but it seems like if you just get the 4 for $4 deal, they give you the bottom-of-the-pile components
+Feb 13 10:46:47 <dsockwell>	the fries aren't good enough by themselves
+Feb 13 10:46:52 <int0x1C8>	half an inch of solid ice on my car this morning
+Feb 13 10:46:54 <int0x1C8>	awesome
+Feb 13 10:46:55 <PublicWiFi>	maybe my town's wendys is just dope
+Feb 13 10:46:55 <Casteil>	shitty smashed buns, gross chicken nugs, soggy/old fries..
+Feb 13 10:47:03 <dsockwell>	it could be PublicWiFi what country is it in
+Feb 13 10:47:19 <PublicWiFi>	if you go in during lunch, your foo is usually freshly made and put on the tray before you even get your receipt
+Feb 13 10:47:22 <PublicWiFi>	its nuts
+Feb 13 10:47:24 <PublicWiFi>	USA
+Feb 13 10:47:26 <PublicWiFi>	Kentucky
+Feb 13 10:47:45 <PublicWiFi>	when i was a mailman i'd always eat there cause the food was always done in literally 45 seconds
+Feb 13 10:47:54 <PublicWiFi>	so i had more time to sit and eat instead of using my lunch waiting ol
+Feb 13 10:47:58 <dsockwell>	yeah it's fast, i just can't cope with the new menu when i'm hungry
+Feb 13 10:48:11 <dsockwell>	i used to be able to just yell 'ONE' or 'THREE'
+Feb 13 10:48:24 <Casteil>	I like Long John Silvers lol
+Feb 13 10:48:30 <dsockwell>	so you're the one!
+Feb 13 10:48:35 <Casteil>	keeping them afloat?
+Feb 13 10:48:36 <Casteil>	probably
+Feb 13 10:48:38 *	Macuser has quit (Quit: Textual IRC Client: www.textualapp.com)
+Feb 13 10:49:02 <Casteil>	my local one is pretty good about dropping fresh fish as you order
+Feb 13 10:49:18 <PublicWiFi>	they had really good crab cakes
+Feb 13 10:49:26 <dsockwell>	i've actually never been there
+Feb 13 10:49:36 <dsockwell>	i don't eat much seafood this far from the actual sea
+Feb 13 10:50:31 <Casteil>	LJS is by no means a genuine high quality seafood dining establishment
+Feb 13 10:50:41 <SynMonger>	the catfish game around here is strong
+Feb 13 10:50:43 <Casteil>	it's fast food, and it's greasy/salty as fuck
+Feb 13 10:50:47 <Casteil>	but that's why people love it, lol
+Feb 13 10:50:59 <dsockwell>	oh i know it's irrational what with refrigerated transport and frozen fish on the boats for days while they're at sea
+Feb 13 10:51:06 <dsockwell>	i just never got into it anyway
+Feb 13 10:51:13 <Casteil>	LJS fish is cod
+Feb 13 10:51:49 <Casteil>	err, maybe it's Pollock
+Feb 13 10:51:53 <felda>	lmao user is offering me some homeopathic shit for my light cold I have going on
+Feb 13 10:51:59 <felda>	how hard do I dunk on them
+Feb 13 10:52:07 <khelpw>	felda: take it, pretend to seize, threaten to sue
+Feb 13 10:52:08 <SynMonger>	"but I'm already drinking enough water"
+Feb 13 10:52:12 <felda>	lol
+Feb 13 10:52:24 <wasutton3>	i miss having access to good fresh seafood
+Feb 13 10:52:29 <felda>	the product is 99.99% sugar
+Feb 13 10:52:36 <dsockwell>	felda: just infect them
+Feb 13 10:52:38 <Casteil>	felda: "thanks but I'm not a hippie weirdo"
+Feb 13 10:52:40 <wasutton3>	the one thing i miss about not living in florida
+Feb 13 10:52:47 <khelpw>	sneeze in their mouth to assert dominance
+Feb 13 10:52:52 <dsockwell>	felda: technically the common cold could be a coronavirus
+Feb 13 10:52:54 <dsockwell>	a mild one
+Feb 13 10:52:55 <felda>	you ever heard of Oscillococcinum?
+Feb 13 10:53:01 <felda>	dsockwell that's true
+Feb 13 10:53:11 <PublicWiFi>	does it vibrate felda
+Feb 13 10:53:26 <SynMonger>	sounds like it should
+Feb 13 10:53:27 <dsockwell>	does it vibrate your coccyx
+Feb 13 10:53:28 <felda>	80% of all people with COVID-19 only show mild symptoms and aren't affected like it
+Feb 13 10:53:32 <dsockwell>	which is in your butt
+Feb 13 10:53:43 <felda>	My nose is plugged
+Feb 13 10:53:47 <felda>	so my voice sounds lower
+Feb 13 10:53:50 <felda>	I kinda dig this head cold
+Feb 13 10:54:00 <dsockwell>	felda: not even NCOV-19, there are other coronaviruses and some of them cause colds
+Feb 13 10:54:05 <dsockwell>	it's a whole classification
+Feb 13 10:54:08 <felda>	yeah
+Feb 13 10:54:16 <dsockwell>	but it could also be ncov-19
+Feb 13 10:54:21 <dsockwell>	shouldn't rule that out
+Feb 13 10:54:22 <dsockwell>	:)
+Feb 13 10:54:34 <felda>	did you see China revised the number of people who had COVID-19 to be much higher lel
+Feb 13 10:54:40 <dsockwell>	again?
+Feb 13 10:54:46 <felda>	yeah it was last night or something
+Feb 13 10:54:54 <dsockwell>	did you see them welding the doors to apartment buildings shut?
+Feb 13 10:55:18 <felda>	https://news.sky.com/story/coronavirus-outbreak-why-the-number-of-covid-19-cases-has-suddenly-shot-up-11932993
+Feb 13 10:55:18 <dsockwell>	they welded steel bars to the door frames so the door couldn't open
+Feb 13 10:55:37 <rpifan>	whats the largest capacity ssd on the market atm
+Feb 13 10:55:40 <int0x1C8>	when did they name it?
+Feb 13 10:55:41 <SynMonger>	DON'T DEAD OPEN INSIDE
+Feb 13 10:55:54 <felda>	New Racoon City
+Feb 13 10:55:57 <dsockwell>	rpifan: i have a 2TB from Mushkin
+Feb 13 10:56:07 <dsockwell>	might install that today
+Feb 13 10:56:17 <int0x1C8>	this is the first time I've seen it refered to has covid-19, it was always just coronavirus
+Feb 13 10:56:18 <dsockwell>	oh, and my smartcard reader mmmm
+Feb 13 10:56:30 *	JK-47 (jk@2600:3c03::f03c:91ff:fe73:fc8) has joined
+Feb 13 10:56:40 <dsockwell>	int0x1C8: me too i thought felda just spelled ncov-19 wrong
+Feb 13 10:56:42 <corn266>	"the beer disease"
+Feb 13 10:56:42 <felda>	my coworkers legit got bamboozled by the photoshopped picture of that nearby pharma company that had a symbol like the umbrella corp.  they went all in on COVID-19 being a chinese military creation
+Feb 13 10:56:57 <felda>	COVID-19 is the official name for it
+Feb 13 10:56:59 <dsockwell>	oh yeah, one of those 4chan things?
+Feb 13 10:57:09 <felda>	ncov-19 was jsut the temporary name
+Feb 13 10:57:33 <dsockwell>	i saw on 4chan that sulfur-dioxide forecasts (which could never show such things) show that china is burning 50,000 bodies a night!
+Feb 13 10:57:47 <felda>	generally it is a bad idea to name diseases after where they are located or where they come from as that can cause stereotypes and bad assumptions
+Feb 13 10:57:53 <corn266>	13k over a few days
+Feb 13 10:58:08 <Casteil>	doubt.jpg
+Feb 13 10:58:20 <felda>	sure sure sure bud
+Feb 13 10:58:25 <dsockwell>	the point is it's bullshit, those satellite forecasts can't account for human corpse burning
+Feb 13 10:58:40 <rpifan>	wanna move our user profiles to an ssd lol
+Feb 13 10:58:58 <corn266>	coloqueally named "the felda-virus", ncov-19 has been infecting firewalls everywhere and installing pfsense
+Feb 13 10:58:59 <int0x1C8>	in 1918 we had the Spanish flu
+Feb 13 10:59:05 <int0x1C8>	in 2020 we have the Chinese flu
+Feb 13 10:59:13 <dsockwell>	it's not even influenza
+Feb 13 10:59:20 <int0x1C8>	still calling it that
+Feb 13 10:59:37 *	farmfromjakestat (~farmfromj@gateway/tor-sasl/farmfromjakestat) has joined
+Feb 13 10:59:42 <JK-47>	asian flu of 1957
+Feb 13 10:59:55 <dsockwell>	i only ever had the swine flu
+Feb 13 10:59:56 <JK-47>	spanish flu started in china.
+Feb 13 10:59:57 <dsockwell>	but that was nice
+Feb 13 11:00:23 <dsockwell>	ahhhhhh
+Feb 13 11:00:32 <int0x1C8>	JK-47, actually they're pretty sure it started somewhere in the US interior on an army base
+Feb 13 11:00:57 <dsockwell>	i put a new motherboard in my TV (450% savings over buying a new TV) and now i can use my Kodi box for things again
+Feb 13 11:01:00 <JK-47>	"they"
+Feb 13 11:01:30 <dsockwell>	currently bumping my psytrance collection over mpd from the console
+Feb 13 11:03:09 *	trekkie1701c (~trekkie17@ec2-52-15-173-116.us-east-2.compute.amazonaws.com) has joined
+Feb 13 11:06:22 <technonerd>	N E R D
+Feb 13 11:07:41 <hxcsp>	i lived in asia during the sars outbreak.... and this ones much worse
+Feb 13 11:07:47 <hxcsp>	sucks to be in china atm
+Feb 13 11:07:53 <hxcsp>	or on a cruise ship apparently
+Feb 13 11:07:56 <dsockwell>	yeah no kidding
+Feb 13 11:08:06 <SynMonger>	and I thought a poop cruise was bad
+Feb 13 11:08:11 <dsockwell>	first you might get sick and die
+Feb 13 11:08:22 <dsockwell>	but also the CCP might test out their fashy toys on you more than usual
+Feb 13 11:09:51 <rgrizz>	Yea its kind of surreal to hear about the surveilance stuff going on
+Feb 13 11:10:13 <rgrizz>	Normally it never really makes it to the media
+Feb 13 11:12:17 <JK-47>	Just think of all the toys, phones, laptops, keyboards, etc etc covered in virus being shipped all over the world in the next few months.
+Feb 13 11:12:40 <khelpw>	Yeah, I'm going out to Hawaii next week, here's hoping shit's clean
+Feb 13 11:12:50 <JK-47>	which island?
+Feb 13 11:12:58 <khelpw>	Maui
+Feb 13 11:13:00 <DomLS3>	anyone who would wilfully get on a cruise ship with thousands of people and no way off except certain death by either drowning or being eaten by sharks... deserve it
+Feb 13 11:13:04 <DomLS3>	darwinism at it's finest
+Feb 13 11:13:06 <corn266>	well japan is like the next most infected country after china, and hawaii is full of japanese vacationers
+Feb 13 11:13:11 <corn266>	so... good luck khelpw
+Feb 13 11:13:17 <JK-47>	DomLS3:  cruises are awesome
+Feb 13 11:13:22 <khelpw>	I've got a pretty kickass immune system, so I should be OK
+Feb 13 11:13:46 <hxcsp>	everytime you pop a bubble from bubble wrap just remember its from China
+Feb 13 11:13:53 <JK-47>	lol
+Feb 13 11:13:56 *	ny0x1 (~ny0x@unaffiliated/ny0x) has joined
+Feb 13 11:14:01 <SynMonger>	that's how they getcha
+Feb 13 11:14:26 *	zenmechanical (~zenmechan@unaffiliated/zenmechanic) has joined

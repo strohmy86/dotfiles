@@ -1,0 +1,42 @@
+[KFileDialog Settings]
+Recent Files[$e]=VYnrFXx.jpg,file:$HOME/Pictures/VYnrFXx.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1080=441
+Height 900=441
+Width 1600=417
+Width 1920=417
+
+[Open-with settings]
+CompletionMode=1
+History=term,sub,atom,termi,fire,dol
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_sublime_text.desktop,1 services_google-chrome.desktop,1 services_megasync.desktop,1 services_org.kde.krfb.desktop,1 services_libreoffice-calc.desktop,1 services_anbox_appmgr.desktop,1 services_etherape.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1599]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal1600]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1602]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal800]
+thickness=36
+
+[ScreenConnectors]
+0=VGA-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/00-start-here-2.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc-1.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

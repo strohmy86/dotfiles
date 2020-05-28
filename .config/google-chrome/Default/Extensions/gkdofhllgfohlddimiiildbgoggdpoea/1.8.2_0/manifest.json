@@ -1,0 +1,22 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "Beagle Term is serial terminal emulator.",
+   "icons": {
+      "128": "images/beagleterm-128.png",
+      "16": "images/beagleterm-16.png",
+      "32": "images/beagleterm-32.png",
+      "48": "images/beagleterm-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDrmaUrQIgTT1gv9X8lrPViaL0xoy190lpjAmd/nFmgdJbqpnUZcCfLUqXuKhx//4l8olZ4HFQecjlb1nWG2B1LHPKeNl8rkAFYWKgPRJo4C86P7pc4VwUYkUDYr7nBQc5RS34/PyxTQYDsS7LvGG8rZGq/3KZIECLzoy7vM+VbuwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "25",
+   "name": "Beagle Term",
+   "offline_enabled": true,
+   "permissions": [ "serial", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.2"
+}

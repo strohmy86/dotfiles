@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Carl Color-schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1331616</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>60</rating>
+  <downloads>1228</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//Carl.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//</installedfile>
+  <id>1331616</id>
+  <releasedate>2019-10-20</releasedate>
+  <summary>Dark color scheme for Carl plasma theme https://store.kde.org/p/1330604/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1571615425/s/f4c0fb8fe6095473a36bc7818a3d0885/t/1578541480/o/1/Carl-20191020234156.colors.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>McMojave Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305007</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>59874</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//McMojaveLight.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//McMojave.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//</installedfile>
+  <id>1305007</id>
+  <releasedate>2019-09-06</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305005/" target="_blank" rel="nofollow">https://www.pling.com/p/1305005/&lt;/a>&lt;br />
+&lt;strong>- Kvantum Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304957/" target="_blank" rel="nofollow">https://www.pling.com/p/1304957/&lt;/a>&lt;br />
+&lt;strong>- Plasma Desktop Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305006/" target="_blank" rel="nofollow">https://www.pling.com/p/1305006/&lt;/a>&lt;br />
+&lt;strong>- Plasma Look-and-Feel Settings&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Icon theme: McMojave-circle&lt;/strong>&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1305429" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1305429&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1567752876/s/139765745ba5bb5dc9c76293114dd614/t/1578541357/o/1/McMojave.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Canta color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1306412</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>6565</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//Cantalight.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//Cantadark.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//</installedfile>
+  <id>1306412</id>
+  <releasedate>2019-09-24</releasedate>
+  <summary>Canta theme for kde plasma desktop</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/7/c/5/8832516bad900d48c1784df8bddd8d9d1dc8.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1569320497/s/935b3c168dc34a8b74e6a7dbc8c6af40/t/1578541338/o/1/Canta.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

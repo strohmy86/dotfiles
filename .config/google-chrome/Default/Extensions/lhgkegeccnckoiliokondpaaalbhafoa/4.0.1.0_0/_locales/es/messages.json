@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "La herramienta de búsqueda en línea. Ver información detallada acerca de cada dirección IP, nombre de dominio y proveedor."
+   },
+   "name": {
+      "message": "IP Address and Domain Information"
+   }
+}

@@ -1,0 +1,40 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "javascripts/jquery-3.2.1.min.js", "javascripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/gmail_url_previews.png"
+   },
+   "content_scripts": [ {
+      "css": [ "stylesheets/jquery.dropdown.css", "stylesheets/popover.css", "stylesheets/border_bottom_animation.css" ],
+      "exclude_globs": [  ],
+      "include_globs": [  ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "css": [ "stylesheets/jquery.dropdown.css", "stylesheets/popover.css", "stylesheets/border_bottom_animation.css" ],
+      "exclude_globs": [  ],
+      "include_globs": [  ],
+      "js": [ "javascripts/inboxsdk.js", "javascripts/jquery-3.2.1.min.js", "javascripts/jquery.json.js", "javascripts/jquery.tokeninput.js", "javascripts/jquery.drilldown.js", "javascripts/common.js", "javascripts/findAndReplaceDOMText.js", "javascripts/main_gmail_url_previews.js" ],
+      "matches": [ "https://mail.google.com/*" ]
+   } ],
+   "content_security_policy": "frame-src 'self' https://www.cloudhq.net https://www.cloudhq.net; script-src 'self' https://www.cloudhq.net https://www.cloudhq.net; object-src 'self' https://www.cloudhq.net https://www.cloudhq.net;",
+   "converted_from_user_script": true,
+   "description": "Automatically add full web URL link previews when composing your email.",
+   "differential_fingerprint": "1.fefa2acab4426c46d8a4e7d19afd4be000b52f56c22570d128f21a9148ca44aa",
+   "externally_connectable": {
+      "matches": [ "*://*.orecons.com/*", "*://*.cloudhq.net/*" ]
+   },
+   "icons": {
+      "128": "icons/icon-128x128.png",
+      "48": "icons/icon-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqTE2GeS/GIy8YfltbbQQt9Xty02O3u4ROD0fArLtvBOqXI+cwG6l4BQepNsz7YRQVrk4KZ5Zdm1TNj7Q+WhxT/cm5YYzwyBggXs92SMfnuX1XX4LGRv+hSPlGm6T5C52+763nFTmgO3HHvih1A8NMqX9FPxesRz3QVljS++Ltw7LgG/kbi0uTtFoYOPf6VOeBpakerQ5S6ubMi0m7TWwa/QhdUMCX37rIPWZSYJsTjtj3bDgMidEFQSBKuKd5u3LpqkLsJ8UiQtpJVmcLjEgso+4+gkz6EmhZ3QfKU1nkBhy5vfWhqo1UEyBZznn2wT6CK3no454xmdw+s5RYTyvxQIDAQAB",
+   "manifest_version": 2,
+   "name": "URL Link Previews in Gmail by cloudHQ",
+   "permissions": [ "storage", "background", "tabs", "activeTab", "\u003Call_urls>", "*://*/*", "contextMenus", "clipboardRead", "clipboardWrite" ],
+   "short_name": "URL Link Previews in Gmail by cloudHQ",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1.19",
+   "web_accessible_resources": [ "javascripts/*", "icons/*" ]
+}

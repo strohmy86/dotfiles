@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Visar land flagga och andra IP / domäninformation i adressfältet."
+   },
+   "longdesc": {
+      "message": "Denna förlängning visar ett lands flagg för den aktuella webbplatsens server. Tooltip visar namnet på staden, regionen och landet.\n\nPopup visar mer information om domänen. Detaljer är Alexa och Quantcast ranking, Google Pagerank och MyWOT rykte. Utformningen av popup är enkel och ren.\n\nFör att skydda din integritet, skicka vi bara domännamnet till vår databas.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP domän land flagga"
+   }
+}

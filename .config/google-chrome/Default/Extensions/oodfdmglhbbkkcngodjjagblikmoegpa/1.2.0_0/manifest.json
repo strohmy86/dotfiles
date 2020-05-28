@@ -1,0 +1,28 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "media/icons/icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Url Shortener"
+   },
+   "description": "The best way to create a short urls using T.ly, Bitly, Rebrandly, TinyUrl, is.gd and to.ly, and more!",
+   "differential_fingerprint": "1.da6d86bd0cedf446fbab0f636491cdd89b0a3ebd6a438e1f2a717f005e738c74",
+   "homepage_url": "https://timleland.com/link-shortener-extension/",
+   "icons": {
+      "128": "media/icons/icon128.png",
+      "16": "media/icons/icon16.png",
+      "48": "media/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiDzx2YOVzr904AUWIHTHwm1NSlL6tQ71dFRTm9T/S/urT+U/3OT+TPqyQwF7FyJB/Glb1IcYtYzGxdkSPP60JsS3WgBeBTt2p40iyKrBOIeDABNuHaqwqDJ6m2UJ2eja8+IwXl3klGtgjWVAkUANH06ds+nwB/++utEfN0kKbMrGXlhVONiVorl4vclTraBXiJfaLwd5zfnG+VBJc2fqeu7RyLrwaWHuSI2AGbqvYEv5Ber+NIEEYye0yOb06jdzDtZhscj5+qo/FI6xtdx+XaqReuU8ZX8EpMXyH5DzrWer2+OYQRFf0NT9zr/hcre9XlTGUhvT3od7JmJiUl3ojwIDAQAB",
+   "manifest_version": 2,
+   "name": "Url Shortener",
+   "options_page": "options.html",
+   "permissions": [ "activeTab", "clipboardWrite", "contextMenus", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.0"
+}

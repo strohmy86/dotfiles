@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Ukazuje, vlajky a iné IP / domain informácie v adresnom riadku."
+   },
+   "longdesc": {
+      "message": "Toto rozšírenie ukazuje vlajky na aktuálnej webovej stránky servera. Tooltip zobrazuje názov mesta, regiónu a krajiny.\n\nPopup zobrazuje viac informácií o doméne. Podrobnosti sú Alexa a Quantcast rebríčku, Google Pagerank a MyWOT povesť. Konštrukcia popup je jednoduché a čisté.\n\nChrániť vaše súkromie, sme len Odoslať doménové meno do našej databázy.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP domény vlajky"
+   }
+}

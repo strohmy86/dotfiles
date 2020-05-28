@@ -1,0 +1,447 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:40:35 2020
+
+Feb 13 09:40:35 *	Now talking on #python
+Feb 13 09:40:35 *	Topic for #python is: Anything about Python is on-topic. Don't paste, use https://bpaste.net/+python | Be nice: https://j.mp/psf-coc | Tutorial: https://j.mp/MCAhYx | New programmer? https://j.mp/23X7emF | Local user groups: https://j.mp/1Mq06bF | #python-fr #python.de #python-uk #python-es #python.tw #python-br #python-nl #python-ir #python.it #python-ro #python-india #python-hu
+Feb 13 09:40:35 *	Topic for #python set by papna (Wed Dec 25 22:09:25 2019)
+Feb 13 09:40:35 <corn266>	_ = [print(obj) for obj in mylistofunkownlength] ?
+Feb 13 09:40:48 *	rjgonza (~rjgonza__@pool-74-105-64-237.nwrknj.fios.verizon.net) has joined
+Feb 13 09:40:52 <acresearch>	barometz: i guess,   but i am on linux
+Feb 13 09:41:18 <altendky>	acresearch: that doesn't save you from damage from random executables
+Feb 13 09:41:21 *	saml (~saml@unaffiliated/saml) has joined
+Feb 13 09:41:24 *	_weedmic has quit (Read error: Connection reset by peer)
+Feb 13 09:41:36 *	KarmenJello has quit (Remote host closed the connection)
+Feb 13 09:41:43 <altendky>	acresearch: you are asking someone to run something?  depends if they want to review source vs. have an all-in-one thing.  pyinstaller can make you 'a program' from 'a python program'
+Feb 13 09:41:53 *	saml has quit (Remote host closed the connection)
+Feb 13 09:41:54 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 09:41:59 <acresearch>	altendky: i know,,, but it sounds doddy,,,  "hey listen    can you run this executable .... "
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+Feb 13 09:42:23 *	saml (~saml@unaffiliated/saml) has joined
+Feb 13 09:42:38 <arhat>	acresearch: Haha you mean like improfessional?
+Feb 13 09:42:42 <arhat>	unprofessional*
+Feb 13 09:42:46 <acresearch>	altendky: so the background info is that i have a large database that needs annotation,    and i have a freelancer who is willing to annotate in return for payment,,,   but he is not a programmer, (just an extra pair of hands)
+Feb 13 09:43:41 *	sav4nt (~maxx@h-64-199.A465.priv.bahnhof.se) has joined
+Feb 13 09:43:41 *	pr100 is now known as pr100|afk
+**** ENDING LOGGING AT Thu Feb 13 09:43:51 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:51 2020
+
+Feb 13 09:43:57 <altendky>	acresearch: ask if they would feel more comfortable with instructions to install python and create an env and install your project, or a .exe.  though fair warning, pyinstaller results do sometimes get flagged by antivirus.  :[
+Feb 13 09:44:05 <altendky>	it's an ongoing hassle
+Feb 13 09:44:08 <acresearch>	altendky: i have a GUI python script that performs this annotation,,, but he does not have the skill to install (on windows) the nessesary libraries for it to run,,, so i thought i would simplify the setup for him by sending an all-in-one executable
+Feb 13 09:44:45 *	GodFather (~rcc@wsip-66-210-242-210.ph.ph.cox.net) has joined
+Feb 13 09:45:00 *	vuoto has quit (Quit: vuoto)
+Feb 13 09:45:20 *	jakehemm_ (~jakehemme@68.235.43.94) has joined
+Feb 13 09:45:22 *	john2496 (~john2496@fw1.fuzzproduction.rbbnet.net) has joined
+Feb 13 09:45:25 <acresearch>	altendky: exactly,,,     and as arhat said,  i think it is just unprofessional to ask someone to run an executable (especially if they cannot understand the code if provided)
+Feb 13 09:45:26 <altendky>	acresearch: install python.  `py -m venv venv`  `venv/scripts/pip install theproject.whl`  `venv/scripts/myprogram` is something you can walk most people through.  but sure, a .exe could be nice.  seems pretty straightforward, ask them what they would prefer.
+Feb 13 09:45:32 *	rjgonza has quit (Quit: Powered by WinIRC)
+Feb 13 09:45:41 <altendky>	acresearch: so it's unprofessional to distribute a program?
+Feb 13 09:45:51 *	rjgonza (uid2292@gateway/web/irccloud.com/x-iasjroltcvwntyfc) has joined
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+Feb 13 09:46:00 *	phasetwo__ (~phasetwo@2601:602:9902:2320:71d5:c1c1:39c:a630) has joined
+Feb 13 09:46:05 *	canarts (~stranac@m83-178-235-246.cust.tele2.hr) has joined
+Feb 13 09:46:07 *	Glorforidor has quit (Ping timeout: 240 seconds)
+Feb 13 09:46:07 <acresearch>	altendky: no,  just in this particular situation
+Feb 13 09:46:14 *	djhoulihan (~djhouliha@pool-96-246-91-229.nycmny.fios.verizon.net) has joined
+Feb 13 09:46:30 <altendky>	acresearch: i mean, you've argued yourself into a corner.  they can't do the python steps and won't be reading your code but saving them from having to do the python steps and making it harder for them to read your code (that they won't be doing regardless) is unacceptable.
+Feb 13 09:46:45 *	stefanc_diff has quit (Excess Flood)
+Feb 13 09:46:57 *	wyclif has quit (Ping timeout: 272 seconds)
+Feb 13 09:46:57 *	davepdotorg has quit (Ping timeout: 272 seconds)
+Feb 13 09:46:58 <FLHerne>	Masklin: Note that `print(*mylistofunknownlength)` will fail with length > 255 in CPython before 3.7
+Feb 13 09:46:59 <altendky>	acresearch: you are asking them to run something.  it doesn't much matter if it's a .py, .bat, or .exe.
+Feb 13 09:47:12 <FLHerne>	Masklin: (since 3.7 there's no limit on the number of arguments)
+Feb 13 09:47:14 <acresearch>	altendky: hmmm
+Feb 13 09:47:18 <arhat>	If you are confident in your script acresearch then I think you should just frame it to them as "I've written this script to make your annotations easier", if the freelancer has a problem with that I'm sure you can work through it
+Feb 13 09:47:25 <altendky>	acresearch: they can't audit any of them presumably so they are trusting you regardless
+Feb 13 09:47:51 <acresearch>	altendky: arhat   true, and the code is on my github anyway
+Feb 13 09:48:09 <altendky>	acresearch: a web app would be the only way to save them from running your code.  or remote desktop to your computer or...
+Feb 13 09:48:26 *	seanacais (~seanacais@173.170.215.25) has joined
+Feb 13 09:48:35 <acresearch>	altendky: yeh i thought about that.... i tried google colab, but that did not work (did not accept the GUI)
+Feb 13 09:48:47 *	Haudegen (~quassel@91.114.49.10) has joined
+Feb 13 09:48:50 <altendky>	acresearch: so.  there is the pyinstaller antivirus hazard so mention that and if they trust you...  go for it
+Feb 13 09:48:55 <acresearch>	altendky: and to be honest i do not have the required skills to setup a web page with python as a back end
+Feb 13 09:48:56 <arhat>	You could learn JS if you have time :P
+Feb 13 09:49:10 <altendky>	acresearch: qt does have some serve-through-a-browser features.  but this really seems pretty unecessary
+Feb 13 09:49:15 <acresearch>	altendky: i think i might take that option
+Feb 13 09:49:19 <acresearch>	arhat: haha
+Feb 13 09:49:19 *	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net) has joined
+Feb 13 09:49:37 <altendky>	acresearch: unless this person is super paranoid or otherwise doesn't trust you
+Feb 13 09:49:38 *	stranac has quit (Ping timeout: 240 seconds)
+Feb 13 09:49:41 *	Rapture (~textual@50.239.87.42) has joined
+Feb 13 09:49:46 <acresearch>	altendky: i agree
+Feb 13 09:50:06 <acresearch>	altendky: well,,,, lets see   :-)   thanks for the ideas
+Feb 13 09:50:09 <arhat>	There might be a project that already exists for this. A quick google search:
+Feb 13 09:50:09 <arhat>	https://github.com/annotorious/annotorious
+Feb 13 09:50:12 <acresearch>	arhat: too :-)
+Feb 13 09:50:18 *	amb11111 has quit (Ping timeout: 268 seconds)
+Feb 13 09:50:23 <arhat>	Good luck :)
+Feb 13 09:51:23 *	phasetwo__ has quit (Ping timeout: 272 seconds)
+Feb 13 09:51:27 *	weedmic (~weedmic@212.68.131.233) has joined
+Feb 13 09:51:35 <arhat>	This looks more active https://github.com/jsbroks/coco-annotator
+Feb 13 09:51:35 <CodePoint>	test
+Feb 13 09:52:11 <acresearch>	arhat: nice let me check them out
+Feb 13 09:53:14 *	mmx_in_orbit has quit (Ping timeout: 240 seconds)
+Feb 13 09:53:18 *	AbedB (~AbedBhuty@bzq-109-67-29-184.red.bezeqint.net) has joined
+Feb 13 09:53:33 *	KarmenJello (~karmenjel@cpc96964-rdng25-2-0-cust380.15-3.cable.virginm.net) has joined
+Feb 13 09:53:50 *	Jerrynicki (~niklas@p549A9E58.dip0.t-ipconnect.de) has joined
+Feb 13 09:54:39 <physiology>	Here's what I've got so far: https://pastebin.com/R7T5sa8f.  What I would like is that the user can enter a .csv that is in the same directory, and then add another plot in another color.  When the user just hits 'return,' all of the plots are on one graph.
+Feb 13 09:54:40 <infobob>	https://bpaste.net/H2VA (repasted for physiology)
+Feb 13 09:54:51 *	mtellez (~user@201.105.185.214) has joined
+Feb 13 09:55:07 *	carc1n0gen_work (~carc1n0ge@freebsd1.carsonevans.ca) has joined
+Feb 13 09:55:24 <altendky>	physiology: https://matplotlib.org/3.1.3/gallery/subplots_axes_and_figures/multiple_figs_demo.html perhaps
+Feb 13 09:55:30 *	DanyC (~DanyC@185.65.25.74) has joined
+Feb 13 09:55:54 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 09:55:57 <physiology>	altendky: What value even designates color, or are they all blue?
+Feb 13 09:57:01 *	markb1 (~mbiggers@2606-a000-111f-41fd-4c46-c249-6cec-3134.inf6.spectrum.com) has joined
+Feb 13 09:57:13 <altendky>	physiology: maybe https://matplotlib.org/tutorials/colors/colors.html
+Feb 13 09:57:26 *	spinningcat-work (~nebioglu@212.175.18.38) has joined
+Feb 13 09:57:33 <spinningcat-work>	is python slow?
+Feb 13 09:57:38 *	derk0pf (~derk0pf@p5B2E5C39.dip0.t-ipconnect.de) has joined
+Feb 13 09:57:43 *	jakehemm_ has quit (Quit: Textual IRC Client: www.textualapp.com)
+Feb 13 09:57:44 <corn266>	that's a question of relativity
+Feb 13 09:58:02 <altendky>	spinningcat-work: there's lots of details to consider.  do you have a specific task you want to do?
+Feb 13 09:58:09 *	sandeepk has quit (Remote host closed the connection)
+Feb 13 09:58:15 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 09:58:21 <spinningcat-work>	image processing
+Feb 13 09:58:21 *	awe00 has quit (Ping timeout: 272 seconds)
+Feb 13 09:58:35 <corn266>	should be fine for that imo
+Feb 13 09:58:36 <altendky>	spinningcat-work: what sort?
+Feb 13 09:58:37 *	GnomosOrg has quit (Quit: killed)
+Feb 13 09:59:25 *	chandankumar is now known as raukadah
+Feb 13 09:59:26 <SnoopJeDi>	physiology, matplotlib's default behavior will give you a particular color for new Line objects, in common usage. You can get things similar to coloring a marker by a value on a 3rd axis and most other problems you might want to do, but it does take some learning the API. The figure demos can be quite helpful.
+Feb 13 09:59:38 <spinningcat-work>	well let say you crop or resize image, descrease the size of image that kind of thing may be some filtering?
+Feb 13 09:59:55 <altendky>	spinningcat-work: maybe use pillow
+Feb 13 10:00:07 *	DanyC has quit (Ping timeout: 260 seconds)
+Feb 13 10:00:10 <corn266>	from PIL import Image
+Feb 13 10:00:21 *	Elzington (Elzington@gateway/vpn/privateinternetaccess/elzington) has joined
+Feb 13 10:00:35 <grym>	spinningcat-work: what framerate do you require
+Feb 13 10:00:35 *	wyclif has quit (Ping timeout: 260 seconds)
+Feb 13 10:00:36 <altendky>	spinningcat-work: i can't say for pillow for sure but...  lots of python libraries have the computationally intensive parts coded in c.
+Feb 13 10:00:39 <SnoopJeDi>	spinningcat-work, it would be very slow to do this purely in python, but yea, pillow gives you tools to express yourself in Python but actually do the work
+Feb 13 10:00:53 *	lockywolf has quit (Max SendQ exceeded)
+Feb 13 10:01:05 <ramsub07>	hello. are the keys of dict fixed? as in, would dict1.keys() be stochastic in nature?
+Feb 13 10:01:08 <SnoopJeDi>	If you're doing anything like computer vision, you also want to know about the openCV bindings for Python, under the package cv2
+Feb 13 10:01:17 <spinningcat-work>	i am not sure framerate could be 60
+Feb 13 10:01:30 <SnoopJeDi>	ramsub07, are you asking about key order, or something else?
+Feb 13 10:01:49 <ramsub07>	SnoopJeDi order of dict.key(s)
+Feb 13 10:01:53 <ramsub07>	dickt.keys()
+Feb 13 10:01:53 <altendky>	ramsub07: dict keys are what you set them to.  order...  is consistent assuming you don't modify.  and now iteration order matches insertion order
+Feb 13 10:01:58 *	cdown has quit (Ping timeout: 245 seconds)
+Feb 13 10:02:02 <grym>	naturally, cv2 is named `pip install opencv-python opencv-contrib-python`
+Feb 13 10:02:03 <grym>	:(
+Feb 13 10:02:06 *	GnomosOrg (~matrixirc@2a01:79c:cebe:f2dc:216:3eff:fe20:8ac1) has joined
+Feb 13 10:02:11 <spinningcat-work>	you suggest me pillow?
+Feb 13 10:02:17 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:02:20 <grym>	spinningcat-work: depends on what you want to do
+Feb 13 10:02:27 <Masklin>	FLHerne: Good to know, thanks!
+Feb 13 10:02:37 <SnoopJeDi>	ramsub07, what altendky said, since 3.7 you can make some guarantees. If you need ordered dictionaries, use collections.OrderedDict, even if you're writing for 3.7+
+Feb 13 10:02:37 *	plutoniix (~q@node-d3t.pool-125-24.dynamic.totinternet.net) has joined
+Feb 13 10:02:38 <corn266>	ramsub07: since python 3.6 key ordering is insertion order
+Feb 13 10:02:39 <spinningcat-work>	i mentioned what i want to do above actualşly
+Feb 13 10:02:48 <grym>	spinningcat-work: not really
+Feb 13 10:02:51 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:02:57 <ramsub07>	thank goodness, i'm on 3.7
+Feb 13 10:03:06 <spinningcat-work>	hmm
+Feb 13 10:03:08 <SnoopJeDi>	corn266, it entered the language in 3.7, 3.6 was when it entered CPython, but you have no reason to expect any other 3.6 interpreter to do the same thing
+Feb 13 10:03:12 <altendky>	corn266: implementation detail in cpython 3.6.  language guarantee in python 3.7.  pypy... for awhile
+Feb 13 10:03:23 <altendky>	(as implementation detail)
+Feb 13 10:03:30 <spinningcat-work>	i just want to apply something to image like resize, crop, reduce quality etc.
+Feb 13 10:03:32 <SnoopJeDi>	but again, use OrderedDict if your code cares about this, don't gamble on versions
+Feb 13 10:03:34 *	nullthevoid (~nullthevo@unaffiliated/nullthevoid) has joined
+Feb 13 10:03:38 <corn266>	really well shit
+Feb 13 10:03:40 <SnoopJeDi>	spinningcat-work, sounds like you want exactly Pillow
+Feb 13 10:03:45 <grym>	spinningcat-work: yes; to what, exactly? frames from a video? static images in a directory?
+Feb 13 10:03:45 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 10:03:51 <SnoopJeDi>	or honestly, ffmpeg :)
+Feb 13 10:03:51 *	jakehemm_ (~jakehemme@68.235.43.94) has joined
+Feb 13 10:03:55 <grym>	or imagemagick
+Feb 13 10:03:59 <SnoopJeDi>	(the libffmpeg bindings are bad though)
+Feb 13 10:04:02 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:04:09 <spinningcat-work>	i dont need to edit video
+Feb 13 10:04:19 *	lbalhar has quit (Ping timeout: 260 seconds)
+Feb 13 10:04:21 <spinningcat-work>	does python have a library for imagemagick?
+Feb 13 10:04:41 *	Lucas_Gray has quit (Quit: %nickname% has gone offline)
+Feb 13 10:04:43 <NoImNotNineVolt>	i'd be shocked if it didn't.
+Feb 13 10:04:43 <SnoopJeDi>	There are bindings, but they're clumsy IIRC
+Feb 13 10:04:46 <spinningcat-work>	imagemagick is really capable
+Feb 13 10:04:50 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:04:59 *	rippa (~rippa@ppp-vpdn-37.1.85.157.yarnet.ru) has joined
+Feb 13 10:05:04 *	Lucas_Gray (~Wryhder@197.210.70.35) has joined
+Feb 13 10:05:21 <grym>	spinningcat-work: frankly i just subprocess.run(), sometimes
+Feb 13 10:05:24 *	stefanos82 (~stephen@93-39-60.internethome.cytanet.com.cy) has joined
+Feb 13 10:05:37 <spinningcat-work>	for running imagemagick command
+Feb 13 10:05:39 <spinningcat-work>	?
+Feb 13 10:05:42 *	DanyC (~DanyC@185.65.25.74) has joined
+Feb 13 10:05:55 <SnoopJeDi>	yes, because the library is designed primarily for the CLI
+Feb 13 10:06:02 <rowbee>	i can't believe that there has yet to be an effort to make something like pillow but using imagick bindings
+Feb 13 10:06:22 <spinningcat-work>	I see
+Feb 13 10:06:26 *	NERD-k (~NERD-k@199.19.107.27.16clouds.com) has joined
+Feb 13 10:06:35 <SnoopJeDi>	rowbee, why? Pillow is pretty good
+Feb 13 10:06:47 <spinningcat-work>	is it fast?
+Feb 13 10:06:47 <grym>	spinningcat-work: imagemagick is very firmly in the "UNIX tradition good" camp, so i treat it that way
+Feb 13 10:06:54 <rowbee>	it can't do some of the more complex transforms that imagick can
+Feb 13 10:06:58 <SnoopJeDi>	spinningcat-work, yes
+Feb 13 10:06:58 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:07:02 <grym>	Pillow[simd] is pretty zippy
+Feb 13 10:07:05 <rowbee>	grym: that can be troublesome
+Feb 13 10:07:09 <SnoopJeDi>	rowbee, can you give an example of what you mean?
+Feb 13 10:07:12 <rowbee>	see: linux and fork+exec
+Feb 13 10:07:13 <spinningcat-work>	understand
+Feb 13 10:07:18 <rowbee>	SnoopJeDi: warping images in waves
+Feb 13 10:07:29 <SnoopJeDi>	oh, effects :)
+Feb 13 10:07:31 <grym>	rowbee: i meant "easily piped around, has a robust CLI"
+Feb 13 10:07:38 <rowbee>	yeah sure
+Feb 13 10:07:45 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:07:53 <SnoopJeDi>	rowbee, I wonder if the GIMP plugin is done in Python heh
+Feb 13 10:08:04 <spinningcat-work>	do you know about cython, pythonnet?
+Feb 13 10:08:06 <rowbee>	now that'd be interesting
+Feb 13 10:08:08 <SnoopJeDi>	or uh whatever the right word is, extension or whatever
+Feb 13 10:08:10 *	pcloadltr (~pcloadltr@185.229.59.123) has left ("Leaving")
+Feb 13 10:08:47 <SnoopJeDi>	I don't know GIMP's data model well enough under the hood but I *think* it uses its own Image class anyway
+Feb 13 10:09:07 *	wyclif has quit (Ping timeout: 272 seconds)
+Feb 13 10:09:14 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:09:35 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:09:59 <cgi777>	I need a deb file for a project. I dont want to store it in git. What is a good place to put it/retrieve it from when installing the python package?
+Feb 13 10:10:13 <spinningcat-work>	can we say python is preferrable language for image ğrpcess,mg_
+Feb 13 10:10:26 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 10:10:27 <SnoopJeDi>	spinningcat-work, it depends on whose preferences you're talking about
+Feb 13 10:10:36 <grym>	cgi777: a ppa, canonically
+Feb 13 10:10:41 <altendky>	cgi777: i'd guess #debian would know about that
+Feb 13 10:10:43 <grym>	cgi777: i have no idea how such things are created
+Feb 13 10:10:49 <altendky>	or, wherever they are
+Feb 13 10:10:50 <SnoopJeDi>	grym, you will soon >:)
+Feb 13 10:10:53 *	dvp (~dvp@157.45.224.4) has joined
+Feb 13 10:11:02 <grym>	SnoopJeDi: ugh
+Feb 13 10:11:03 <SnoopJeDi>	(I hope)
+Feb 13 10:11:05 <spinningcat-work>	wwo this pillow has many functions
+Feb 13 10:11:35 *	awe00 (~awe00@unaffiliated/awe00) has joined
+Feb 13 10:11:53 <spinningcat-work>	SnoopJeDi,  of you for example
+Feb 13 10:12:15 *	NERD-k has quit (Ping timeout: 260 seconds)
+Feb 13 10:12:16 <makara>	how would I open an AES encrypted file AES/CBC/PKCS7Padding
+Feb 13 10:12:38 *	bhoman has quit (Read error: Connection reset by peer)
+Feb 13 10:13:00 *	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net) has joined
+Feb 13 10:13:09 <lmns>	makara: https://cryptography.io/
+Feb 13 10:14:47 *	Tazmainian has quit (Remote host closed the connection)
+Feb 13 10:14:48 *	twobitsprite (~ifreeman@8.42.18.10) has joined
+Feb 13 10:15:11 *	thiras (~thiras@unaffiliated/thiras) has joined
+Feb 13 10:15:47 *	drincruz (~adriancru@104.129.137.82) has joined
+Feb 13 10:16:50 *	z8z has quit (Ping timeout: 240 seconds)
+Feb 13 10:16:52 *	thevishy has quit (Remote host closed the connection)
+Feb 13 10:16:53 *	imp has quit (Quit: WeeChat 2.6)
+Feb 13 10:17:16 *	bonestormii_ (~boneii@c-67-162-87-77.hsd1.il.comcast.net) has joined
+Feb 13 10:17:27 *	horatiohb (~horatiohb@178.128.157.242) has joined
+Feb 13 10:17:31 <bonestormii_>	hi all
+Feb 13 10:17:44 *	enet (~enet@broadband-188-32-114-80.ip.moscow.rt.ru) has joined
+Feb 13 10:17:46 *	phasetwo__ (~phasetwo@2601:602:9902:2320:b0ff:e4fe:ac17:e879) has joined
+Feb 13 10:18:00 *	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net) has joined
+Feb 13 10:18:27 *	jay-m_ has quit (Ping timeout: 240 seconds)
+Feb 13 10:18:56 *	dvp has quit (Remote host closed the connection)
+Feb 13 10:19:14 *	mmx_in_orbit (~mmx_in_sp@pool-173-63-245-155.nwrknj.fios.verizon.net) has joined
+Feb 13 10:19:56 *	dvp (~dvp@157.45.224.4) has joined
+Feb 13 10:19:56 <SnoopJeDi>	spinningcat-work, ?
+Feb 13 10:20:19 <bonestormii_>	Python runs code upon import, but it doesn't seem to *re-run* code that is imported more than once--which makes sense. However, I'd like to find a way to make python reliably re-run initialization code each time the module is imported. Any suggestions?
+Feb 13 10:21:21 *	wyclif has quit (Ping timeout: 246 seconds)
+Feb 13 10:22:51 *	dvp has quit (Read error: Connection reset by peer)
+Feb 13 10:22:52 <ChrisWarrick>	bonestormii_: You can’t do that.
+Feb 13 10:22:53 *	merc1er (~corentinm@ppp-124-120-192-3.revip2.asianet.co.th) has joined
+Feb 13 10:23:13 <bonestormii_>	Ha, thanks ChrisWarrick.
+Feb 13 10:23:16 <SnoopJeDi>	and more importantly, the fact that you want to do this suggests an architectural flaw
+Feb 13 10:23:45 <SnoopJeDi>	so if you can address that, it'd be a lot easier anyway :)
+Feb 13 10:23:59 <bonestormii_>	It suggests it, but it isn't necessarily the case. I'm just thinking of ways to conceal some complexity. It's simple enough to have people initialize things themselves.
+Feb 13 10:24:05 *	spinningcat-work has quit (Quit: Leaving)
+Feb 13 10:24:13 *	millido (~millido@148-252-99.248.3p.ntebredband.no) has joined
+Feb 13 10:24:17 <corn266>	make a class and put the code in the _init_ ?
+Feb 13 10:24:37 <bonestormii_>	corn266: that works the first time it is imported only
+Feb 13 10:24:44 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 10:24:51 <bonestormii_>	it's a code analysis tool that is acting on the file it is being imported into.
+Feb 13 10:25:05 *	dvp (~dvp@157.45.224.4) has joined
+Feb 13 10:25:07 <bonestormii_>	That's why I'm looking for this super specific behavior.
+Feb 13 10:25:07 *	dvp has quit (Remote host closed the connection)
+Feb 13 10:25:26 <SnoopJeDi>	bonestormii_, can you say more about how is the tool meant to be used?
+Feb 13 10:26:25 *	Rurik has quit (Quit: Rurik)
+Feb 13 10:27:00 <bonestormii_>	Sure, right now the objective is to simply import the module into the file you want to analyze. The import statement identifies the file that is importing it and runs code analysis on that file and spits out some info to a file.
+Feb 13 10:27:11 <jfhbrook>	re.match(r"([^:])+:", "testing:") how come the result of this has the colon in the group?
+Feb 13 10:27:18 <bonestormii_>	It basically works, but only for one single file.
+Feb 13 10:27:21 <jfhbrook>	like group(0) is "testing:" not "testing"
+Feb 13 10:27:35 *	nullthevoid has quit (Remote host closed the connection)
+Feb 13 10:27:38 *	carl- has quit (Ping timeout: 240 seconds)
+Feb 13 10:27:40 <corn266>	jfhbrook: use group(1)
+Feb 13 10:27:42 <bonestormii_>	If I have 10 files in a project that I want to analyze and I import the module 10 times, I still only capture the output from the first.
+Feb 13 10:27:46 *	Helenah has quit (Read error: Connection reset by peer)
+Feb 13 10:27:47 <SnoopJeDi>	jfhbrook, group(0) is the whole match I think
+Feb 13 10:28:30 <jfhbrook>	ahhhh
+Feb 13 10:28:45 <jfhbrook>	that seems to be helping - not quite what I want yet but progress haha!
+Feb 13 10:28:56 <FLHerne>	bonestormii_: I guess a sane API would be `import analysis; analysis.analyze_file()` or so
+Feb 13 10:29:16 <bonestormii_>	FLHerne, totally
+Feb 13 10:29:33 *	Helenah (~s98259@unaffiliated/iveeee) has joined
+Feb 13 10:29:35 <FLHerne>	(I'd probably give `analyze_file()` an optional argument so you can analyze some other file)
+Feb 13 10:30:01 <merc1er>	exit
+Feb 13 10:30:04 *	merc1er has quit (Quit: leaving)
+Feb 13 10:30:04 <FLHerne>	Actually, I wouldn't make it optional, just have `analyze_file(__file__)`
+Feb 13 10:30:18 <bonestormii_>	I appreciate the sober advice FLHerne
+Feb 13 10:30:22 *	dvp (~dvp@157.45.224.4) has joined
+Feb 13 10:30:27 <SnoopJeDi>	jfhbrook, if you're writing down a grammar, I recommend giving parsimonious a spin sometime. It makes these little jobs less tedious, and you still have all the regex power at your fingertips
+Feb 13 10:30:36 <bonestormii_>	I actually don't disagree at all and am implementing that type of interface.
+Feb 13 10:30:43 <sveinse>	altendky: here is my story: https://bpaste.net/RLXQ <-- This hopefully illustrates better what I'd like to achieve with asyncio/twisted
+Feb 13 10:30:45 *	duderonomy (~duderonom@216.38.150.140) has joined
+Feb 13 10:30:48 <jfhbrook>	re.match(r"^([^:])+?:$", "testing:").group(1) this one returns "g" instead of "testing"
+Feb 13 10:30:56 <jfhbrook>	yeah I can take a look
+Feb 13 10:31:01 *	dvp has quit (Read error: Connection reset by peer)
+Feb 13 10:31:03 <FLHerne>	bonestormii_: "Explicit is better than implicit", as `import this` tells you ;-)
+Feb 13 10:31:10 <SnoopJeDi>	jfhbrook, qualifier needs to be inside the group if you want the whole thing, you're asking for one char
+Feb 13 10:31:33 <jfhbrook>	ahhhh
+Feb 13 10:31:34 <sveinse>	altendky: during the rubberducking of this, I do realize that this is probably not possible. I will be forced to rewrite the entire callstack when a inner function becomes async
+Feb 13 10:31:36 <SnoopJeDi>	(which I guess is being updated every time you step forward?)
+Feb 13 10:31:45 <jfhbrook>	THERE we go
+Feb 13 10:31:46 <bonestormii_>	FLHerne: it's true, but I feel like you throw that out the window when you are doing this kind of thing.
+Feb 13 10:32:01 *	AquaL1te has quit (Quit: leaving)
+Feb 13 10:32:09 <jfhbrook>	parsimonious looks good, I should give it a try
+Feb 13 10:32:12 *	tsaka__ (~torstein@2a02:2149:827b:f900:7c32:85de:f39d:4d0c) has joined
+Feb 13 10:32:18 *	edrocks (~ed@2603:9000:c900:1eeb:a84e:8286:ca33:96d4) has joined
+Feb 13 10:32:22 <FLHerne>	bonestormii_: I don't really see why; it doesn't save you much typing
+Feb 13 10:32:29 <bonestormii_>	I could definitely just import the tool into a separate file and module.analyze(file) for each one.
+Feb 13 10:32:40 <jfhbrook>	I'm hacking up a comments-based DSL, so using regexp to extract the magic comment seems fine given the file format (pgpass file) but a "real parser" might be good for the actual language
+Feb 13 10:32:48 <bonestormii_>	hmmm
+Feb 13 10:33:07 *	sbetrium (~sbetrium@47.54.208.47) has joined
+Feb 13 10:33:31 *	z8z (~x@ac230029.ppp.asahi-net.or.jp) has joined
+Feb 13 10:33:34 *	millido has quit (Remote host closed the connection)
+Feb 13 10:33:34 *	howdoi (uid224@gateway/web/irccloud.com/x-zsfyjnzljowbgpvd) has joined
+Feb 13 10:33:36 <bonestormii_>	FLHerne: Aesthetics :) The heart wants what the heart wants.
+Feb 13 10:33:45 *	sbetrium has quit (Client Quit)
+Feb 13 10:33:50 <SnoopJeDi>	jfhbrook, EBNF is a pretty broad target for grammars, and it's nice to write the thing that matters expressively instead of all the fuss that comes with writing your own machinery
+Feb 13 10:33:56 *	skywlkr (~skywlkr@unaffiliated/skywlkr) has joined
+Feb 13 10:34:11 *	wyclif has quit (Ping timeout: 260 seconds)
+Feb 13 10:34:29 *	z8z has quit (Remote host closed the connection)
+Feb 13 10:34:53 *	merc1er (~corentinm@ppp-124-120-192-3.revip2.asianet.co.th) has joined
+Feb 13 10:34:57 <SnoopJeDi>	and should be a superset of what regex can do, modulo extensions
+Feb 13 10:34:59 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 10:35:03 *	Burrito has quit (Read error: Connection reset by peer)
+Feb 13 10:35:32 *	amb11111 (~Amber@d28-23-146-85.dim.wideopenwest.com) has joined
+Feb 13 10:35:44 *	dbone has quit (Quit: ZZZzzz…)
+Feb 13 10:35:45 *	trinityblade (~trinitybl@65.220.10.3) has joined
+Feb 13 10:36:04 <SnoopJeDi>	I think stuff like lookaround breaks context-free assumptions or somesuch
+Feb 13 10:36:22 *	usersss is now known as niee
+Feb 13 10:36:47 *	dvp (~dvp@157.45.224.4) has joined
+Feb 13 10:36:50 *	frrs (uid130725@gateway/web/irccloud.com/x-wrenovwbhzjedobd) has joined
+Feb 13 10:36:55 <sveinse>	I do wonder why py has chosen to only allow await/yield in the immediate function, and not make them available for use in any sub functions. Or do py support passing down the coroutine/generator object into subfunction and have them awaited/yielded on there too?
+Feb 13 10:37:27 *	Lord_of_Life has quit (Ping timeout: 260 seconds)
+Feb 13 10:37:28 <gcbirzan>	sveinse: coroutines/generators are proper objects, so to the second part of teh question, yes.
+Feb 13 10:37:38 *	KarmenJello has quit (Remote host closed the connection)
+Feb 13 10:37:43 <gcbirzan>	I'm not sure I understand what you mean by the first
+Feb 13 10:38:06 *	jolvera (uid366386@gateway/web/irccloud.com/x-zzpzxlimhuhqbfsa) has joined
+Feb 13 10:38:20 *	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net) has joined
+Feb 13 10:38:57 *	Lord_of_Life (~Lord@unaffiliated/lord-of-life/x-0885362) has joined
+Feb 13 10:39:30 *	Tichodroma has quit (Quit: leaving)
+Feb 13 10:39:47 *	wyclif has quit (Ping timeout: 260 seconds)
+Feb 13 10:39:50 *	Ialokin (~nothing@unaffiliated/ialokin) has joined
+Feb 13 10:39:53 <sveinse>	gcbirzan: well, I have a use-case where I want to make an inner function in a call stack async, but avoid touching the implementation of the intermediate functions. If the inner function could somehow use the outer generator/coroutine yield/await functionality, the middle functions wouldn't need to care about this.
+Feb 13 10:39:56 *	CodePoint has quit (Quit: WeeChat 1.9.1)
+Feb 13 10:40:05 *	Derogatory_Ternn is now known as foul_foul
+Feb 13 10:40:19 <sveinse>	gcbirzan: Following this example: https://bpaste.net/RLXQ
+Feb 13 10:40:24 <gcbirzan>	How would that work?
+Feb 13 10:40:48 <gcbirzan>	I mean, that makes no sense.
+Feb 13 10:40:52 *	pxs_0o has quit (Ping timeout: 268 seconds)
+Feb 13 10:41:00 <gcbirzan>	You cannot go "I'll change code only at the top and bottom, ignore the middle"
+Feb 13 10:41:18 <sveinse>	gcbirzan: Right, that is precisely what I'm pondering over
+Feb 13 10:42:07 *	panikovsky (~panikovsk@93.178.80.187) has joined
+Feb 13 10:42:20 <sveinse>	gcbirzan: I'm not saying it should, but it does have impact on the mid-layers
+Feb 13 10:42:49 *	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth) has joined
+Feb 13 10:43:24 *	up` (~top-cat@unaffiliated/up/x-6424988) has joined
+Feb 13 10:44:08 *	toverna (~quassel@128-70-125-136.broadband.corbina.ru) has joined
+Feb 13 10:44:55 *	amb11111 has quit (Ping timeout: 260 seconds)
+Feb 13 10:45:23 *	Lucas_Gray has quit (Ping timeout: 260 seconds)
+Feb 13 10:46:18 <sveinse>	It can probably be argued that my example here is esoteric, but I notice that many async programs do actually make a lot of synchronous calls. When then the inner function needs changed to a fully async function, it propegates code changes in the whole call stack up to the closest coroutine/generator.
+Feb 13 10:47:12 *	dvp has quit (Quit: leaving)
+Feb 13 10:47:49 *	iKON (~iKON@c-73-232-163-154.hsd1.tx.comcast.net) has joined
+Feb 13 10:48:50 *	GodFather has quit (Ping timeout: 240 seconds)
+Feb 13 10:49:08 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 10:50:36 <MrTrick>	principle question... If I have two classes with a set of fields that need to match, and I require that the fields not only be setEquals(a, b) , but also that they be defined in the same order... Would you call that adhering to a principle of least surprise?
+Feb 13 10:50:56 *	ASTP001_ (~ASTP001@65.254.25.194) has joined
+Feb 13 10:51:36 <MrTrick>	eg runtime-wise it shouldn't matter if A has 'foo','bar','baz' and B has 'foo','baz','bar', but developer-wise it will potentially confuse.
+Feb 13 10:51:47 *	sdoherty (sdoherty@nat/redhat/x-wbslwsmbvmeqeodr) has joined
+Feb 13 10:51:51 <gcbirzan>	sveinse: What programs?
+Feb 13 10:52:00 *	Deusdeorum has quit (Quit: Textual IRC Client: www.textualapp.com)
+Feb 13 10:52:45 *	carif has quit (Remote host closed the connection)
+Feb 13 10:52:48 *	dino82 (~deeno@unaffiliated/dino82) has joined
+Feb 13 10:53:14 <sveinse>	gcbirzan: We can use this as an example: https://docs.python.org/3/library/asyncio-task.html#asyncio.sleep  -- datetime.datetime.now() is syncronous.
+Feb 13 10:53:15 *	ttoocs has quit (Ping timeout: 240 seconds)
+Feb 13 10:53:34 *	montaropdf has quit (Quit: Have to go see you soon)
+Feb 13 10:53:45 <gcbirzan>	sveinse: Well, by that definition, everything is synchronous.
+Feb 13 10:54:20 <gcbirzan>	sveinse: But, that's the wrong definition. Getting the current time cannot block indefinitely.
+Feb 13 10:54:26 *	foul_foul is now known as graciously_super
+Feb 13 10:54:35 *	honigkuchen (~honigkuch@ip5f5b4d31.dynamic.kabel-deutschland.de) has joined
+Feb 13 10:55:11 <altendky>	sveinse: does this not show your situation and desire?  https://bpaste.net/GSZQ
+Feb 13 10:55:32 <sveinse>	gcbirzan: what if the inner loop for datetime.datetime.now() cannot return immediately because it wants to verify with the NTP server. The function must not block for long time, otherwise it interfers with the event-loop, so that specific function now needs some await mechanism, but the layers inbetween might not
+Feb 13 10:55:51 <gcbirzan>	sveinse: But, datetime.datetime.now() doesn't do that.
+Feb 13 10:56:06 <gcbirzan>	That's not even close to how NTP works
+Feb 13 10:56:14 <sveinse>	gcbirzan: I'm not saying it is, its an example
+Feb 13 10:56:41 *	sbetrium (~sbetrium@47.54.208.47) has joined
+Feb 13 10:56:44 *	wyclif has quit (Ping timeout: 265 seconds)
+Feb 13 10:56:46 *	gschanuel (~gschanuel@177.92.61.3) has joined
+Feb 13 10:56:55 <gcbirzan>	sveinse: It's an example of "most programs do it wrong", but it's not wrong.
+Feb 13 10:57:07 <altendky>	sveinse: though inner() could even be removed from my example i think
+Feb 13 10:57:13 *	zalt (~devp@unaffiliated/lambda443) has joined
+Feb 13 10:57:27 *	Lucas_Gray (~Wryhder@197.210.44.4) has joined
+Feb 13 10:57:53 <sveinse>	altendky: yeah, I need to check what the react() function does
+Feb 13 10:58:00 *	nullthevoid (~nullthevo@unaffiliated/nullthevoid) has joined
+Feb 13 10:58:21 <altendky>	sveinse: it's a way to run the reactor while main runs
+Feb 13 10:58:50 <altendky>	and i did that wrong...
+Feb 13 10:59:41 *	farmfromjakestat (~farmfromj@gateway/tor-sasl/farmfromjakestat) has joined
+Feb 13 10:59:50 *	chele has quit (Quit: Leaving)
+Feb 13 11:00:04 <altendky>	sveinse: https://bpaste.net/FLEQ i think that's more correct...
+Feb 13 11:00:16 *	corn266 (~corn266@unaffiliated/corn266) has left
+Feb 13 11:00:21 *	lbalhar (~lbalhar@cz7.datarail.eu) has joined
+Feb 13 11:00:26 <sveinse>	gcbirzan: I am well aware of how async works vs sync code, so I agree that there are bad designs. However, when implementing an async app, I find that this problem pops over all the time: Running an async outer loop, then some inner function needs to be changed to a async implementation, and then all of the sudden all midlayers needs to be refactored too.
+Feb 13 11:00:38 *	blackandblue (~batdownh@gateway/tor-sasl/blackandblue) has joined
+Feb 13 11:01:03 *	aalmazan (uid180785@gateway/web/irccloud.com/x-esjsajydelwrqgqp) has joined
+Feb 13 11:02:02 *	Lazy0 (~Lazy0@ip68-110-86-110.ph.ph.cox.net) has joined
+Feb 13 11:02:19 *	gambl0re has quit (Ping timeout: 272 seconds)
+Feb 13 11:02:31 *	gone_missing has quit (Quit: Leaving.)
+Feb 13 11:02:37 <sveinse>	altendky: oh, react() starts the reactor. In my example the reactor is alreay running. The outermost function is already an async function
+Feb 13 11:02:49 *	bitdex has quit (Quit: = "")
+Feb 13 11:02:56 *	floi_ has quit (Quit: floi_)
+Feb 13 11:03:04 *	IRCNew (~Elrick@76-10-173-219.dsl.teksavvy.com) has joined
+Feb 13 11:03:18 <altendky>	sveinse: i tried to make an example which was complete and the only truly missing piece (oops, i need some yield in inner()) was the part you wanted filled in.  the body of yield_to_reactor_and_wait_for_deferred()
+Feb 13 11:03:19 *	floi (~floi@141.57.41.161) has joined
+Feb 13 11:03:34 <sveinse>	altendky: did you see my example?
+Feb 13 11:03:44 <altendky>	sveinse: your example is giant.  is mine missing something relevant?  it's got the async outside, sync in the middle, async inside.
+Feb 13 11:04:03 *	JaredSchooley has quit (Ping timeout: 246 seconds)
+Feb 13 11:04:25 *	wyclif (~daniel@unaffiliated/wyclif) has joined
+Feb 13 11:06:14 *	JaredSchooley (~Sech@2600:6c42:7400:c86:2112:fd1a:6b56:ea41) has joined
+Feb 13 11:06:27 *	DanyC_ (~DanyC@185.65.25.74) has joined
+Feb 13 11:06:34 <sveinse>	altendky: an outer() function perhaps? The main loop is elsewhere in the application.
+Feb 13 11:06:49 *	jil (~user@2001:41d0:52:cff::f2a) has joined
+Feb 13 11:06:52 <jil>	hello
+Feb 13 11:06:54 *	Serpent7776 has quit (Quit: Leaving)
+Feb 13 11:06:57 <altendky>	sveinse: would another inlineCallbacks called outer show something?
+Feb 13 11:07:27 *	floi has quit (Client Quit)
+Feb 13 11:07:47 *	floi (~floi@141.57.41.161) has joined
+Feb 13 11:08:10 *	ZeroWalker (~Zerowalke@62-20-231-19-no268.tbcn.telia.com) has joined
+Feb 13 11:08:10 *	Noti has quit (Quit: Konversation terminated!)
+Feb 13 11:08:14 <sveinse>	altendky: The mid layer is missing. To use your fn names: main() -> mid() -> inner(), where mid() is a sync function
+Feb 13 11:09:07 <altendky>	sveinse: https://bpaste.net/57KA  maybe a bit better example
+Feb 13 11:09:14 *	wyclif has quit (Ping timeout: 268 seconds)
+Feb 13 11:09:25 *	DanyC_ has quit (Remote host closed the connection)
+Feb 13 11:10:00 *	DanyC has quit (Ping timeout: 246 seconds)
+Feb 13 11:10:06 *	mcwitt (~Android@208.71.158.126) has joined
+Feb 13 11:10:09 <altendky>	sveinse: i think we're entering QApplication.instance.processCallbacks() territory
+Feb 13 11:10:14 *	kosh has quit (Read error: Connection reset by peer)
+Feb 13 11:10:16 <altendky>	(but sure, you aren't using qt)
+Feb 13 11:10:28 <altendky>	it does this thing you want though
+Feb 13 11:10:48 *	chloeee is now known as reasonable_doubt
+Feb 13 11:10:58 <frrs>	Guys, can I plot a boxplot in seaborn when I don't have the underlying dataset but only aggregate quantiles?
+Feb 13 11:11:31 *	awe00 has quit (Ping timeout: 260 seconds)
+Feb 13 11:11:44 *	DanyC (~DanyC@185.65.25.74) has joined
+Feb 13 11:11:48 *	P1RATEZ (piratez@unaffiliated/p1ratez) has joined
+Feb 13 11:11:49 *	operateur has quit (Ping timeout: 272 seconds)
+Feb 13 11:12:36 *	bhoman has quit (Read error: Connection reset by peer)
+Feb 13 11:12:54 *	lakitu has quit (Read error: Connection reset by peer)
+Feb 13 11:13:00 *	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net) has joined
+Feb 13 11:13:56 *	ny0x1 (~ny0x@unaffiliated/ny0x) has joined
+Feb 13 11:14:37 <sveinse>	altendky: here is the compact version of my example using https://bpaste.net/RNRA

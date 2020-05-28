@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Näyttää maan lipun ja muita IP / toimialuetiedot osoitepalkkiin."
+   },
+   "longdesc": {
+      "message": "Tämä laajennus näyttää maan lipun nykyisen palvelimen. Työkaluvihje näkyy kaupungin, alueen ja maan nimi.\n\nToimialueen tiedot näkyvät popup. Tiedot ovat Alexa ja lisää ranking, Google Pagerank ja MyWOT maine. Popup suunnittelu on yksinkertainen ja puhdas.\n\nYksityisyyden suojaamiseksi lähetämme vain verkkotunnuksen nimi tietokantaamme.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP Domain maan lipun"
+   }
+}

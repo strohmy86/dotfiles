@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Prikazuje država zastave in drugih IP / domenske informacije v namestitev zasova."
+   },
+   "longdesc": {
+      "message": "To podaljšanje kaže državi zastave za trenutni spletni strežnik. Namig prikaže ime mesta, regije in države.\n\nLjudstvo kaže, več informacij o domeni. Podrobnosti so Alexa in Quantcast razvrstitev, Google Pagerank in MyWOT ugled. Design ljudstvo je preprost in čist.\n\nDa bi zaščitili vašo zasebnost, pošiljamo samo ime domene v naši bazi podatkov.\n\nIP Domain Country Flag - Shows country flag and other IP / domain information in the location bar."
+   },
+   "name": {
+      "message": "IP domeno državi zastave"
+   }
+}

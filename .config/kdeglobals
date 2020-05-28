@@ -1,0 +1,163 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed
+
+[ColorEffects:Disabled]
+Color=112,111,110
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=60,120,255
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=160,160,160
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:Complementary]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
+ForegroundActive=147,206,233
+ForegroundInactive=175,176,179
+ForegroundLink=61,174,230
+ForegroundNegative=231,76,60
+ForegroundNeutral=253,188,75
+ForegroundNormal=239,240,241
+ForegroundPositive=46,204,113
+ForegroundVisited=61,174,230
+
+[Colors:Selection]
+BackgroundAlternate=60,120,255
+BackgroundNormal=60,120,255
+DecorationFocus=60,120,255
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=160,160,160
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:Tooltip]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=60,120,255
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=225,225,225
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:View]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=60,120,255
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=160,160,160
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=254,254,254
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:Window]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=60,120,255
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=160,160,160
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[DirSelect Dialog]
+DirSelectDialog Size=852,596
+History Items[$e]=file:$HOME/bin/ApacheDirectoryStudio
+
+[Emoticons]
+emoticonsTheme=GoogleEmojiComplete
+parseMode=2
+
+[General]
+BrowserApplication[$e]=google-chrome.desktop
+ColorScheme=Carl
+Name=Carl
+TerminalApplication[$e]=term
+XftHintStyle=hintslight
+XftSubPixel=none
+dbfile=/home/lstrohm/.mozilla/firefox/yw44k1ta.default/places.sqlite
+shadeSortColumn=true
+toolBarFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+
+[Icons]
+Theme=Tela-dark
+
+[KDE]
+AnimationDurationFactor=1.000000
+LookAndFeelPackage=Carl
+SingleClick=false
+contrast=0
+widgetStyle=kvantum
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=110
+View Style=DetailTree
+
+[WM]
+activeBackground=17,18,22
+activeBlend=17,18,22
+activeFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+activeForeground=255,255,255
+inactiveBackground=17,18,22
+inactiveBlend=17,18,22
+inactiveForeground=150,150,150

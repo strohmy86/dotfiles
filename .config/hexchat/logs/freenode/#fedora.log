@@ -1,0 +1,143 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:39:39 2020
+
+Feb 13 09:39:39 *	Now talking on #fedora
+Feb 13 09:39:39 *	Topic for #fedora is: #Fedora F30, F31 end user support || Please READ: https://tinyurl.com/chanfaq || Common bugs: https://tinyurl.com/f30-common https://tinyurl.com/f31commonbugs ||Only Use Fedora,rpmfusion and Copr Repos || IRC Feedback: https://tinyurl.com/fedoraircsig || Updated F31 Live isos: https://tinyurl.com/Live-respins2 || Default to OPEN: https://tinyurl.com/defualt2open
+Feb 13 09:39:39 *	Topic for #fedora set by Southern_Gentlem!~notfred@fedora/Southern-Gentleman (Mon Feb 10 12:50:52 2020)
+Feb 13 09:39:39 -ChanServ-	[#fedora] "Any advice you read here is provided by individual community members. You should use it at your OWN RISK. This advice is owned by each individual, and does NOT represent the views of Freenode, Fedora or Red Hat. This channel may be logged"
+Feb 13 09:39:59 *	linville (~linville@sapphire.tuxdriver.com) has joined
+Feb 13 09:40:41 <corshmock>	Hey lemonzest, you rule brother!  Thanks very much for that!
+Feb 13 09:40:50 <lemonzest>	it works now?
+Feb 13 09:41:13 <corshmock>	I've got the bottom taskbar
+Feb 13 09:41:17 <lemonzest>	:D
+Feb 13 09:41:24 *	garrett (~garrett@ipbcc20736.dynamic.kabel-deutschland.de) has joined
+Feb 13 09:41:37 <corshmock>	That's a lot better!
+Feb 13 09:41:39 *	mkyral has quit (Ping timeout: 240 seconds)
+Feb 13 09:41:55 *	Carp has quit (Ping timeout: 260 seconds)
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+Feb 13 09:42:29 *	didiksupriadi41 is now known as didiksupriadi41_
+**** ENDING LOGGING AT Thu Feb 13 09:43:52 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:52 2020
+
+Feb 13 09:44:09 *	skywaker is now known as skywalker
+Feb 13 09:44:32 *	didiksupriadi41_ is now known as didiksupriadi41
+Feb 13 09:45:14 <Southern_Gentlem>	codetronaut_, https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2019/application/
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+Feb 13 09:46:30 <Southern_Gentlem>	codetronaut_, https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2020/application/
+Feb 13 09:46:45 *	stefanc_diff has quit (Excess Flood)
+Feb 13 09:46:55 *	leanderthal (~leanderth@91.141.136.152) has joined
+Feb 13 09:49:19 *	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net) has joined
+Feb 13 09:53:31 *	aday__ (~aday@215.213.159.143.dyn.plus.net) has joined
+Feb 13 09:53:35 *	losuler has quit (Ping timeout: 260 seconds)
+Feb 13 09:54:04 *	losuler (~losuler@unaffiliated/losuler) has joined
+Feb 13 09:55:30 *	fusion809 has quit (Remote host closed the connection)
+Feb 13 09:55:38 *	aday_ has quit (Ping timeout: 240 seconds)
+Feb 13 09:56:11 *	Carp (~rue@1-162-52-81.dynamic-ip.hinet.net) has joined
+Feb 13 09:56:45 *	capitanocrunch (~capitanoc@unaffiliated/capitanocrunch) has joined
+Feb 13 09:57:48 <codetronaut_>	thanks @Southern_Gentlem
+Feb 13 09:58:09 *	sandeepk has quit (Remote host closed the connection)
+Feb 13 10:08:02 *	codetronaut_ has quit (Ping timeout: 260 seconds)
+Feb 13 10:10:39 *	davemq has quit (Quit: ZNC 1.7.5 - https://znc.in)
+Feb 13 10:12:38 *	bhoman has quit (Read error: Connection reset by peer)
+Feb 13 10:13:00 *	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net) has joined
+Feb 13 10:15:03 *	solicito has quit (Ping timeout: 260 seconds)
+Feb 13 10:16:31 *	HarveyPwca (~HarveyPwc@70-89-216-161-il.hfc.comcastbusiness.net) has joined
+Feb 13 10:16:33 *	scr267 has quit (Quit: See you later! | A plus tard!)
+Feb 13 10:16:49 *	scr267 (~scr267@unaffiliated/scr267) has joined
+Feb 13 10:18:08 *	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net) has joined
+Feb 13 10:18:20 *	marloi (~mark@104-195-249-90.cpe.teksavvy.com) has joined
+Feb 13 10:18:47 *	diogenes_ (~diogenes_@188.208.120.27) has joined
+Feb 13 10:20:15 *	ReneP- (ReneP@fedora/ReneP) has joined
+Feb 13 10:20:27 *	ReneP has quit (Ping timeout: 240 seconds)
+Feb 13 10:20:27 *	ReneP- is now known as ReneP
+Feb 13 10:20:52 *	bugs_ (~bugs@cpe-70-121-47-23.tx.res.rr.com) has joined
+Feb 13 10:20:56 <marloi>	Hi, I'm having trouble with a python package giving me a core dump from /usr/include/c++/9/bits/stl_vector.h:1042 . Doing some googling this seems to be a Fedora issue, but I'm not sure what to do with that
+Feb 13 10:23:08 <Khaytsus>	marloi: A Fedora package?  put the failure on paste.centos.org ?
+Feb 13 10:23:37 *	vincent--- (~vincent-@unaffiliated/vincent-) has joined
+Feb 13 10:23:59 <marloi>	https://paste.centos.org/view/d114b60f
+Feb 13 10:25:32 <marloi>	This happens when I call a specific function in the graph-tool python package on Fedora 31
+Feb 13 10:25:41 *	deathwish (~deathwish@179.56.30.93) has joined
+Feb 13 10:25:53 *	deathwish has quit (Client Quit)
+Feb 13 10:26:17 *	vincent-- has quit (Ping timeout: 265 seconds)
+Feb 13 10:26:55 <rindolf>	marloi: hi
+Feb 13 10:27:21 <rindolf>	marloi: can you follow https://github.com/shlomif/how-to-share-code-online ?
+Feb 13 10:27:38 *	carl- has quit (Ping timeout: 240 seconds)
+Feb 13 10:28:33 <Khaytsus>	marloi: Yeah if you're using a Fedora python package and it's doing that, sounds like a bug should be logged
+Feb 13 10:28:36 *	Khaytsus points to https://bugzilla.redhat.com/bugzilla
+Feb 13 10:29:13 *	cbaylis has quit (Quit: leaving)
+Feb 13 10:29:14 *	zdohnal has quit (Quit: Leaving.)
+Feb 13 10:29:28 <prussian>	or post the whole stacktrace at least. reading that it failed a bounds check on an stl type doesn't say anything useful.
+Feb 13 10:29:59 <marloi>	How do I get the whole stacktrace?
+Feb 13 10:30:10 *	sub_pop (~sub_pop@2603:3005:4872:8000::29c1) has joined
+Feb 13 10:30:19 <rindolf>	marloi: gdb
+Feb 13 10:30:43 <marloi>	This is the code that causes the error: https://paste.debian.net/1130460/
+Feb 13 10:30:53 <marloi>	Not much there though
+Feb 13 10:31:20 *	dansolo42 (~dansolo42@50.237.110.75) has joined
+Feb 13 10:31:34 *	vincent-- (~vincent-@unaffiliated/vincent-) has joined
+Feb 13 10:31:40 *	jvesely (~jvesely@pool-96-237-153-237.bstnma.ftas.verizon.net) has joined
+Feb 13 10:32:01 *	AquaL1te has quit (Quit: leaving)
+Feb 13 10:32:10 *	dansolo42 has quit (Remote host closed the connection)
+Feb 13 10:32:12 *	tsaka__ (~torstein@2a02:2149:827b:f900:7c32:85de:f39d:4d0c) has joined
+Feb 13 10:34:27 *	vincent--- has quit (Ping timeout: 272 seconds)
+Feb 13 10:34:37 <rindolf>	marloi: thanks! I was able to reproduce the crash on f31 x86-64
+Feb 13 10:35:44 *	dbone has quit (Quit: ZZZzzz…)
+Feb 13 10:36:10 <marloi>	Oh, so it's not just me!
+Feb 13 10:36:43 <rindolf>	marloi: apparently not
+Feb 13 10:38:22 *	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net) has joined
+Feb 13 10:39:12 <rindolf>	marloi: here is the code with only explicit imports: https://paste.debian.net/1130461/
+Feb 13 10:39:21 <rindolf>	still segfaults
+Feb 13 10:40:17 *	dansolo42 (~dansolo42@50.237.110.74) has joined
+Feb 13 10:40:22 <prussian>	curious if the upstream project has the same problem, or if it's because the maintainer built this package with stuff like fortify_source and other stuff.
+Feb 13 10:41:00 <marloi>	I've used other functions in the package with no problem, it's just that minimize_blockmodel_dl() that segfaults for me
+Feb 13 10:42:35 <prussian>	have you tried just importing graph_tool like this guy -> https://git.skewed.de/count0/graph-tool/issues/621 ? looks like the module init code may be to blame.
+Feb 13 10:43:01 *	imbus__ (~imbus@h-223-72.A193.priv.bahnhof.se) has joined
+Feb 13 10:43:24 *	up` (~top-cat@unaffiliated/up/x-6424988) has joined
+Feb 13 10:45:09 *	imbus_ has quit (Ping timeout: 246 seconds)
+Feb 13 10:45:23 *	timothy has quit (Quit: Konversation terminated!)
+Feb 13 10:45:44 *	spybert (~herbert@2601:204:d000:c590::99db) has left ("Leaving")
+Feb 13 10:45:55 *	davemq (~davemq@129.41.86.7) has joined
+Feb 13 10:46:41 <marloi>	prussian, look at how rindolf imported in https://paste.debian.net/1130461/, still segfaults
+Feb 13 10:47:19 *	corshmock (~corshmock@78.16.96.33) has left
+Feb 13 10:48:47 <prussian>	stuff like this is why I hate ffi, cpython, c abi using stuff.
+Feb 13 10:49:28 *	capitanocrunch has quit (Quit: disconnected)
+Feb 13 10:50:07 <prussian>	and ya, try just importing the module. not picking stuff out with named imports
+Feb 13 10:51:04 *	ace_me has quit (Quit: thank you for your time and kind help)
+Feb 13 10:51:57 *	HerbY_NL2 has quit (Quit: Leaving)
+Feb 13 10:52:38 *	codetronaut (~codetrona@49.35.33.183) has joined
+Feb 13 10:52:45 *	carif has quit (Remote host closed the connection)
+Feb 13 10:53:30 *	timothy (~tredaelli@redhat/timothy) has joined
+Feb 13 10:54:21 *	paiton (~paul@2600:8800:1300:6e4:bc59:c0c9:a284:949b) has joined
+Feb 13 10:54:41 *	ace_me (~Thunderbi@unaffiliated/ace-me/x-814638) has joined
+Feb 13 10:54:42 *	ace_me has quit (Remote host closed the connection)
+Feb 13 10:54:51 *	phantsure has quit (Ping timeout: 240 seconds)
+Feb 13 10:55:04 *	infides (~infides@92.117.249.226) has joined
+Feb 13 10:56:10 *	phantsure (~phantsure@2409:4061:2e95:2240:8fbb:ca48:29ef:e47d) has joined
+Feb 13 10:56:21 *	gschanuel (~gschanuel@177.92.61.3) has joined
+Feb 13 10:58:20 *	ramses (~ramses@nat-35.starnet.cz) has joined
+Feb 13 10:59:27 *	leanderthal has quit (Remote host closed the connection)
+Feb 13 10:59:47 *	eiglow_ has quit (Quit: Konversation terminated!)
+Feb 13 11:00:00 *	phantsure has quit (Read error: Connection reset by peer)
+Feb 13 11:00:16 *	phantsure (~phantsure@117.211.86.109) has joined
+Feb 13 11:01:02 *	rdieter_ (~rdieter@fedora/rdieter) has joined
+Feb 13 11:01:03 *	plarsen has quit (Remote host closed the connection)
+Feb 13 11:02:19 *	gambl0re has quit (Ping timeout: 272 seconds)
+Feb 13 11:02:32 *	Usurp_ has quit (Ping timeout: 265 seconds)
+Feb 13 11:02:46 *	crobinso has quit (Quit: Leaving)
+Feb 13 11:03:19 *	leanderthal (~leanderth@91.141.136.152) has joined
+Feb 13 11:03:30 *	Usurp_ (~syl@reactos/developer/Usurp) has joined
+Feb 13 11:04:57 *	rdieter has quit (Ping timeout: 265 seconds)
+Feb 13 11:05:12 *	plarsen (~plarsen@redhat/jboss/pdpc.professional.plarsen) has joined
+Feb 13 11:09:25 *	quippy (~user@cpe-70-113-54-82.austin.res.rr.com) has joined
+Feb 13 11:10:24 <quippy>	I was wondering if anyone else is using Zoom on Fedora 31? I've been experiencing X11 freezes while using Zoom -- I have Wayland disabled because I can't screenshare on Zoom with it. Anyway I'm just trying to debug, not sure where to look.
+Feb 13 11:10:25 *	didiksupriadi41 has quit (Remote host closed the connection)
+Feb 13 11:12:36 *	bhoman has quit (Read error: Connection reset by peer)
+Feb 13 11:13:00 *	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net) has joined
+Feb 13 11:13:15 *	dowdle has quit (Quit: Konversation terminated!)
+Feb 13 11:13:33 *	muhaha has quit (Quit: Ping timeout (120 seconds))
+Feb 13 11:14:08 *	muhaha (~muhaha@88.86.104.21) has joined

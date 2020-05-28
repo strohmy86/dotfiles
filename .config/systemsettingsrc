@@ -1,0 +1,29 @@
+[DownloadDialog Settings]
+Height 1080=477
+Height 898=477
+Width 1591=700
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=conky.sh,file:$HOME/Pictures/LStrohm.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=700
+Height 600=508
+Height 898=703
+Height 900=700
+Height 902=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABOoAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1591=1203
+Width 1600=1024
+Width 1602=1024
+Width 1920=1258
+Width 800=720
+
+[Open-with settings]
+CompletionMode=1
+History=term

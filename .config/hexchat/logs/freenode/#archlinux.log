@@ -1,0 +1,361 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:38:55 2020
+
+Feb 13 09:38:55 *	Now talking on #archlinux
+Feb 13 09:38:55 *	Topic for #archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | pacman 5.2 is out; check your .pacnews http://allanmcrae.com/2019/10/pacman-5-2-release/ | Installing? New `base` package; read the install guide carefully | You are now being helped by: https://i.imgur.com/2bDqnYZ.jpg
+Feb 13 09:38:55 *	Topic for #archlinux set by evilop (Sat Nov  9 17:52:49 2019)
+Feb 13 09:39:40 <Biswa96>	Is it possible to move the mingw-w64 packages (only headers, CRT and GCC) to community packages?
+Feb 13 09:40:03 *	sav4nt has quit (Ping timeout: 260 seconds)
+Feb 13 09:40:15 *	Maxattax (~max@50-195-160-193-static.hfc.comcastbusiness.net) has joined
+Feb 13 09:40:55 *	frvr (~florea@213.233.85.87) has joined
+Feb 13 09:41:32 <Namarrgon>	from the AUR?
+Feb 13 09:41:47 *	yunhao94 has quit (Ping timeout: 240 seconds)
+Feb 13 09:41:53 *	Ruuchan has quit (Ping timeout: 272 seconds)
+Feb 13 09:41:55 *	Carp has quit (Ping timeout: 260 seconds)
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+Feb 13 09:42:57 <Biswa96>	I know. I mean is it possible to move it to community from aur.
+Feb 13 09:43:06 *	yunhao94 (~yunhao94@183.198.141.58) has joined
+Feb 13 09:43:16 <Namarrgon>	you'd have to find a TU willing to maintain them
+Feb 13 09:43:37 *	edlou (uid413273@gateway/web/irccloud.com/x-gjnndlpafacvqmhy) has joined
+Feb 13 09:43:41 *	sav4nt (~maxx@h-64-199.A465.priv.bahnhof.se) has joined
+Feb 13 09:43:42 <Namarrgon>	these three would pull in a handfull of other AUR packages
+**** ENDING LOGGING AT Thu Feb 13 09:43:52 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:52 2020
+
+Feb 13 09:44:16 <Biswa96>	Understand.
+Feb 13 09:44:21 *	Biswa96 has quit (Quit: Biswa96)
+Feb 13 09:45:00 *	vuoto has quit (Quit: vuoto)
+Feb 13 09:45:31 <drathir>	in short probably better find 3rd repo and ask for add them to autobuild system...
+Feb 13 09:45:34 *	jakehemm_ (~jakehemme@68.235.43.94) has joined
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+Feb 13 09:45:59 *	ljmf00 has quit (Ping timeout: 268 seconds)
+Feb 13 09:46:45 *	stefanc_diff has quit (Excess Flood)
+Feb 13 09:47:55 *	ljmf00 (~ljmf00@mescalina/cactus) has joined
+Feb 13 09:49:19 *	stefanc_diff (~stefanc_d@cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net) has joined
+Feb 13 09:50:09 *	hiyosilver (50249084@gateway/web/cgi-irc/kiwiirc.com/ip.80.36.144.132) has joined
+Feb 13 09:50:14 <hiyosilver>	exe jezu! :)
+Feb 13 09:50:31 *	alexozer (~alexozer@72-0-150-238.tvc-ip.com) has joined
+Feb 13 09:51:17 *	grzebiel (~grzebiel@217.138.199.44) has joined
+Feb 13 09:51:56 *	boru_ramen (~boru_rame@2a05:3e00:1:1001:a801:f410:b618:be1e) has joined
+Feb 13 09:52:32 *	orivej (~orivej@185.189.113.83) has joined
+Feb 13 09:53:05 *	Hello71 has quit (Quit: Hello71)
+Feb 13 09:53:41 *	WSDMatty has quit (Quit: Real Life Beckons...)
+Feb 13 09:54:12 *	acmonpong has quit (Remote host closed the connection)
+Feb 13 09:54:32 *	Hello71 (~Hello71@gateway/tor-sasl/hello71) has joined
+Feb 13 09:54:33 *	acmonpong (~user@195.242.46.70) has joined
+Feb 13 09:54:55 *	Hello71 has quit (Client Quit)
+Feb 13 09:55:30 *	fusion809 has quit (Remote host closed the connection)
+Feb 13 09:55:30 <earnestly>	This is what gaslighting looks like: https://shibumi.dev/posts/why-suckless-is-wrong/
+Feb 13 09:55:31 <phrik>	Title: Why suckless is wrong (at shibumi.dev)
+Feb 13 09:56:01 <earnestly>	Also bonus points for all the logical fallacies you can find
+Feb 13 09:56:06 *	Carp (~rue@1-162-52-81.dynamic-ip.hinet.net) has joined
+Feb 13 09:56:47 *	fercell has quit (Quit: WeeChat 2.7)
+Feb 13 09:57:22 <grawity>	that page has words and sentences, but I can't really make out anything coherent in it
+Feb 13 09:57:23 *	Hello71 (~Hello71@gateway/tor-sasl/hello71) has joined
+Feb 13 09:57:43 *	jakehemm_ has quit (Quit: Textual IRC Client: www.textualapp.com)
+Feb 13 09:58:06 *	rapiz (~rapiz@123.101.180.175) has joined
+Feb 13 09:58:21 *	awe00 has quit (Ping timeout: 272 seconds)
+Feb 13 09:58:23 <deltasquared>	I know something's off when I read it but can't quite put my finger on it yet. sort of like I have a gut feeling it's incorrect but would need to work through it to rationalise my objections I guess?
+Feb 13 09:58:31 <earnestly>	grawity: (Although I present it not as a defense of what suckless has to write)
+Feb 13 09:58:54 <earnestly>	But more as an example of how terrible the arguments are
+Feb 13 09:58:56 *	roboticr has quit (Ping timeout: 268 seconds)
+Feb 13 10:00:11 <earnestly>	It also serves as a fairly nice example of how pervasive propaganda is, even within technical fields
+Feb 13 10:00:48 <grawity>	ah I think I understood how the post is laid out
+Feb 13 10:01:07 <deltasquared>	it looks to be refuting each point on the suckless page if you mean that sort of layout?
+Feb 13 10:01:08 *	holdthedeer (50249084@gateway/web/cgi-irc/kiwiirc.com/ip.80.36.144.132) has joined
+Feb 13 10:01:13 <deltasquared>	or at least trying to
+Feb 13 10:01:33 <earnestly>	grawity: It's like an email refuting a prior one
+Feb 13 10:01:37 <grawity>	that "pid 1" thing reminded me of legacy initrd and linuxrc, which did run *before* pid 1
+Feb 13 10:01:42 <grawity>	(afaik)
+Feb 13 10:01:58 *	cdown has quit (Ping timeout: 245 seconds)
+Feb 13 10:02:56 <grawity>	"I have never had problems with journald on my system, therefore nobody else has had or will have problems with journald on theirs"
+Feb 13 10:03:30 <earnestly>	You get a bonus point
+Feb 13 10:03:34 *	nullthevoid (~nullthevo@unaffiliated/nullthevoid) has joined
+Feb 13 10:03:44 <Foxboron>	I think the most annoying arguments against systemd is the people that go "This is how it has been. Thus it doesn't need to change"
+Feb 13 10:03:53 <grawity>	I dunno, it's trying to refute suckless, so it's got fallacies all over
+Feb 13 10:03:56 *	jakehemm_ (~jakehemme@68.235.43.94) has joined
+Feb 13 10:03:59 *	Onslaught2020 (~jeroen@kb-client-040.kb.nl) has joined
+Feb 13 10:04:04 <Tom^>	change is always bad, because i hate learning new things.
+Feb 13 10:04:05 <grawity>	not just in the reply but also in the original
+Feb 13 10:04:05 <nullthevoid>	hey guys, https://i.imgur.com/Dhh6yQS.png - the update fucked up my fonts and everything
+Feb 13 10:04:06 <earnestly>	grawity: I know, it's gloriously bad
+Feb 13 10:04:12 <Foxboron>	The guy running suckless sends emails from a client which is named after a nazi landmark.
+Feb 13 10:04:14 <Foxboron>	Done deal.
+Feb 13 10:04:26 <Namarrgon>	nullthevoid: which update?
+Feb 13 10:04:32 *	e1080 has quit (Ping timeout: 265 seconds)
+Feb 13 10:04:40 <grawity>	like the whole "once it's been invented it can never be reinvented" thing
+Feb 13 10:04:50 <nullthevoid>	latest braves and idk I updated whole system
+Feb 13 10:04:56 <Foxboron>	grawity: Or the "it's always been working. It doesn't need to change"
+Feb 13 10:05:08 <Namarrgon>	nullthevoid: look at the pacman log
+Feb 13 10:05:09 <earnestly>	Foxboron: That is generally a good argument though
+Feb 13 10:05:16 <Namarrgon>	nullthevoid: "brave" the browser?
+Feb 13 10:05:29 <nullthevoid>	Namarrgon, yes
+Feb 13 10:05:29 *	awe00 (~awe00@unaffiliated/awe00) has joined
+Feb 13 10:05:46 <earnestly>	Foxboron: Because the inverse is ridiculous; "When should change it because it has always been working"
+Feb 13 10:06:24 <Foxboron>	earnestly: Evidently, both are extremes.
+Feb 13 10:06:26 *	NERD-k (~NERD-k@199.19.107.27.16clouds.com) has joined
+Feb 13 10:06:34 <earnestly>	Foxboron: Iow, a strawman
+Feb 13 10:06:44 <Foxboron>	earnestly: If the inverse is ridiculous, then you should reconsider the original point
+Feb 13 10:06:47 *	chap has quit (Ping timeout: 240 seconds)
+Feb 13 10:06:53 *	tpowa (~tpowa@archlinux/developer/tpowa) has joined
+Feb 13 10:09:14 <earnestly>	Foxboron: "If something works, we shouldn't change it" is an extreme
+Feb 13 10:09:17 <Namarrgon>	was there any reason to dig out a four year old blog post?
+Feb 13 10:09:18 <earnestly>	Right
+Feb 13 10:09:23 *	fogobogo (~fogobogo@unaffiliated/fogobogo) has joined
+Feb 13 10:09:28 <earnestly>	Namarrgon: lobsters was promoting it just now
+Feb 13 10:09:32 <Foxboron>	oh
+Feb 13 10:09:42 <Namarrgon>	and you just jumped at the bait again?
+Feb 13 10:09:43 <nullthevoid>	Namarrgon, will VAAPI fix any of my problem, the fonts on my Linux are very sharp on my eyes now, after the update.
+Feb 13 10:09:46 *	beest (~root@2601:480:4003:37e0::113c) has joined
+Feb 13 10:09:56 <earnestly>	Namarrgon: No, I found it hilarious
+Feb 13 10:10:29 <Foxboron>	earnestly: Well, that is argument I find mostly tedious as it just attempts to blanket dispell anything systemd offers :p
+Feb 13 10:10:40 <Namarrgon>	nullthevoid: no, vaapi will not fix your fonts.
+Feb 13 10:10:47 <Namarrgon>	nullthevoid: what do you mean by "on my linux"?
+Feb 13 10:10:55 <Foxboron>	earnestly: I even tried asking reddit how one would go about do service hardening in all the other inits. The responses was..well... terrible.
+Feb 13 10:11:07 *	Terence has quit (Ping timeout: 240 seconds)
+Feb 13 10:11:13 <Foxboron>	Someone even suggested you should just be running it in docker/podman
+Feb 13 10:11:41 <earnestly>	Foxboron: That's apparently what google does anyway, more or less
+Feb 13 10:12:00 <earnestly>	Foxboron: Although ask dreisner, I may have misunderstood
+Feb 13 10:12:15 *	NERD-k has quit (Ping timeout: 260 seconds)
+Feb 13 10:12:32 <Foxboron>	earnestly: system services shouldn't be running in OCI containers. But if they are running whatever other services - sure.
+Feb 13 10:12:34 <Foxboron>	I believe that
+Feb 13 10:12:38 *	bhoman has quit (Read error: Connection reset by peer)
+Feb 13 10:12:52 <earnestly>	Foxboron: In other supervisors you'd have to apply hardening using tooling like unshare and co.
+Feb 13 10:13:00 *	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net) has joined
+Feb 13 10:13:14 *	chripell has quit (Quit: Leaving)
+Feb 13 10:13:18 <Foxboron>	earnestly: I'm aware. I was after examples how people *have* implemented this, or how they have attempted. But I got a listing of tools instead of any actual examples.
+Feb 13 10:13:20 <Foxboron>	Like you did now
+Feb 13 10:13:40 <earnestly>	Foxboron: Yup, because they're general purpose.  A "service" is simply an executable
+Feb 13 10:13:55 <earnestly>	Simple like a brick
+Feb 13 10:14:05 <Foxboron>	earnestly: I'm still after examples how people have done it. Dig me up an example!
+Feb 13 10:14:16 <earnestly>	Foxboron: I'm not aware of any, I haven't looked
+Feb 13 10:14:16 <Foxboron>	I'm geniunly curious instead of people just saying "ah just use XYZ"
+Feb 13 10:14:47 *	Tazmainian has quit (Remote host closed the connection)
+Feb 13 10:15:20 <Foxboron>	earnestly: And I find that strange!
+Feb 13 10:15:34 <d9k>	i've found bwrap infinitely useful for doing all sorts of crap like that
+Feb 13 10:15:36 *	ShadowKyogre (7358dd25f8@gateway/shell/jabberfr/x-ijyfmaaqswszywlj) has left
+Feb 13 10:15:45 <Foxboron>	I think it's a neat systemd feature and I'm confused why people don't pursue this in other inits
+Feb 13 10:15:58 <d9k>	i think you could do sd-like namespacing + seccomp stuff with it
+Feb 13 10:16:00 <earnestly>	Hm, I don't personally find it very strange.  The sort of thinking these people have is not towards trying to patch, plug holes everywhere
+Feb 13 10:16:05 <d9k>	on other inits
+Feb 13 10:16:37 <Foxboron>	d9k: I'd love to see how it's used! Because I think it would be a neat learning experience instead of the declarative stuff systemd does
+Feb 13 10:16:37 *	Bosak has quit (Read error: Connection reset by peer)
+Feb 13 10:16:49 <earnestly>	They'd rather run software that isn't exploitable.  There's also the problem of trying to run potentially malicious software on the same machine in a secure way which is fundamentally impossible
+Feb 13 10:16:53 *	Bosak (~Thunderbi@109.120.237.131) has joined
+Feb 13 10:17:02 *	stuckedbear (~textual@47.56.17.1) has joined
+Feb 13 10:17:17 <earnestly>	So I doubt that there has been much effort to "sandbox" services in those communities
+Feb 13 10:17:17 *	John_Ivan (~John_Ivan@unaffiliated/john-ivan/x-3287162) has joined
+Feb 13 10:17:55 <earnestly>	I can't find anything so far
+Feb 13 10:18:32 <earnestly>	bougyman: Have you come across any instances of runit/s6 which have service hardening?  Such as using namespaces
+Feb 13 10:18:40 *	Terence (~terence@212-194-129-150.abo.bbox.fr) has joined
+Feb 13 10:18:48 <deltasquared>	personally I'd find it interesting if there was a sort of systemd unit parser that can generate and compile C code to wrap the actual service program. apply sandboxing, set up environment, watch for respawns, etc.
+Feb 13 10:19:04 <deltasquared>	then just call the generated wrapper from a simpler init system.
+Feb 13 10:19:07 <earnestly>	deltasquared: perp does the first part of that
+Feb 13 10:19:17 <earnestly>	The parsing systemd units bit
+Feb 13 10:19:17 <deltasquared>	earnestly: the compile part or just the parsing?
+Feb 13 10:19:19 <deltasquared>	ah.
+Feb 13 10:19:36 *	cotko has quit (Remote host closed the connection)
+Feb 13 10:19:37 <deltasquared>	I mean supposedly parsing them ain't hard, it's just keeping up with moving goalposts I guess
+Feb 13 10:19:49 <deltasquared>	(which is to say, all the directives and their interpretation)
+Feb 13 10:20:07 <earnestly>	It's INI with duplicate keys, one can mostly ignore the keys which aren't recognised
+Feb 13 10:20:47 *	feriman (~feriman@176.104.191.133) has joined
+Feb 13 10:21:09 *	smb374 has quit (Ping timeout: 272 seconds)
+Feb 13 10:21:14 *	grzebiel has quit (Ping timeout: 240 seconds)
+Feb 13 10:22:29 *	mtn (~mtn@unaffiliated/mtn) has joined
+Feb 13 10:23:03 *	Onslaught2020 has quit (Ping timeout: 272 seconds)
+Feb 13 10:23:03 *	jkwnki has quit (Ping timeout: 272 seconds)
+Feb 13 10:23:09 *	twelveeighty (~twelveeig@unaffiliated/twelveeighty) has joined
+Feb 13 10:23:29 <earnestly>	d9k: I could probably use bwrap to test what happens when software is exposed to arbitrary constraints
+Feb 13 10:23:37 *	grzebiel (~grzebiel@217.138.199.44) has joined
+Feb 13 10:23:49 *	r4pr0n (~r4pr0n@gateway/tor-sasl/r4pr0n) has joined
+Feb 13 10:23:51 <stuckedbear>	I am identified why am I still unreg?
+Feb 13 10:24:42 <beest>	are you?
+Feb 13 10:24:55 <earnestly>	Foxboron: Looking more into bwrap, that would pretty much be the answer.  Tools like chpst (and the former daemontools ones) exposed interfaces to run commands as different users, different environments, in chroots, etc.  That is how runit is typically used
+Feb 13 10:24:58 <deltasquared>	earnestly: you mean like "no you can't touch this file here because you shouldn't need it"?
+Feb 13 10:25:06 <earnestly>	deltasquared: Yeah
+Feb 13 10:25:11 <d9k>	i use it for compiling stuff under other sysroots, dropping net and mount everything ro etc
+Feb 13 10:25:14 <earnestly>	deltasquared: And then see how it breaks
+Feb 13 10:25:37 <earnestly>	d9k: How do you compile with ro?
+Feb 13 10:26:03 <earnestly>	Foxboron: bubblewrap is surprisingly well made too, almost no dependencies; that's really lovely to see \o/
+Feb 13 10:26:10 <d9k>	i dont want random makefiles to mangle my ~
+Feb 13 10:26:19 <d9k>	it has happened
+Feb 13 10:26:23 *	alephZer0 (andrea@gateway/vpn/protonvpn/alephzer0) has joined
+Feb 13 10:26:28 <Foxboron>	earnestly: I see barth has it packaged
+Feb 13 10:26:42 <earnestly>	Foxboron: Yeah I just installed it now
+Feb 13 10:26:50 <Foxboron>	earnestly: I don't see syscall filtering?
+Feb 13 10:27:14 *	solsTiCe has quit (Ping timeout: 240 seconds)
+Feb 13 10:27:35 *	nullthevoid has quit (Remote host closed the connection)
+Feb 13 10:27:46 *	Helenah has quit (Read error: Connection reset by peer)
+Feb 13 10:27:47 <earnestly>	Foxboron: In bubblewrap or chpst?  Neither have it afaik.  IIRC thestinger made a seccomp sandbox which rust used for their online compiler
+Feb 13 10:27:58 <jelle>	he did
+Feb 13 10:28:19 <earnestly>	Foxboron: https://github.com/thestinger/playpen
+Feb 13 10:28:20 <phrik>	Title: GitHub - thestinger/playpen: A secure application sandbox built with modern Linux sandboxing features - no longer actively developed, but still works fine, use bubblewrap if you need more functionality (at github.com)
+Feb 13 10:28:25 <jelle>	bha, too slow =)
+Feb 13 10:28:40 <deltasquared>	earnestly: ooh, I've got a good one, read-only homedir
+Feb 13 10:28:48 <d9k>	earnestly: obviously buildroot is rw but everything else ro
+Feb 13 10:29:35 *	Helenah (~s98259@unaffiliated/iveeee) has joined
+Feb 13 10:29:36 <stuckedbear>	beest sorry I was just being stupid
+Feb 13 10:29:36 *	ashpex (~ashpex@171.248.253.246) has joined
+Feb 13 10:29:40 <earnestly>	d9k: Oh I wanted to agree, I've had .subversion appearing in HOME because of svnversion usage too.  However I wonder
+Feb 13 10:29:45 <earnestly>	d9k: Does it warn you at all?
+Feb 13 10:29:47 *	tkrizek has quit (Quit: Leaving)
+Feb 13 10:30:10 <earnestly>	See the testing I'm refering to is to detect this kind of thing and then fix it so that it doesn't write to HOME
+Feb 13 10:30:16 <beest>	stuckedbear: yes dear channel modes :D
+Feb 13 10:30:39 *	agowa338 has quit (Ping timeout: 272 seconds)
+Feb 13 10:30:43 <stuckedbear>	beest: :D
+Feb 13 10:30:56 <deltasquared>	earnestly: so read-only home would be a pretty common test case then?
+Feb 13 10:31:19 <earnestly>	deltasquared: Also this fork: https://github.com/Cloudef/rewritefs
+Feb 13 10:31:20 <phrik>	Title: GitHub - Cloudef/rewritefs: A FUSE filesystem intended to be used like Apache mod_rewrite (at github.com)
+Feb 13 10:32:24 <d9k>	you could make your home a tmpfs and do a find after if you want to detect
+Feb 13 10:32:30 *	ImQ009 (~ImQ009@unaffiliated/imq009) has joined
+Feb 13 10:32:34 *	Kruppt (~Kruppt@50.111.3.84) has joined
+Feb 13 10:33:08 <earnestly>	Foxboron: Oh interesting, bwrap has  --seccomp FD  which lets you "Load and use seccomp rules from FD. The rules need to be in the form of a compiled eBPF program, as generated by seccomp_export_bpf"
+Feb 13 10:33:33 <Foxboron>	earnestly: ah, neat!
+Feb 13 10:34:39 *	xInferno has quit (Ping timeout: 260 seconds)
+Feb 13 10:35:07 *	barteks2x has quit (Ping timeout: 260 seconds)
+Feb 13 10:35:13 *	twelveeighty has quit (Quit: WeeChat 2.7)
+Feb 13 10:35:18 <earnestly>	Foxboron: It's funny, bubblewrap does a lot of things.  It implements env(1) including env -C.  In the bernstein chaining world you'd have seperate tools that you then chain.  So `sudo env -i FOO=bar -C somedir unshare --... -- runuser -u "$USER" -- command' lol
+Feb 13 10:35:41 <deltasquared>	d9k: I've been considering doing that just for my home dir as it is. especially with browsers where it seems with every passing day they want to record your viewing history somehow in some way when I didn't want that to occur. case of whitelisting the files that I care about and detecting changes in just those.
+Feb 13 10:35:41 <earnestly>	Foxboron: Real example I have in my history (can't quite remember why): sudo perf record -e probe:do_sys_open -o flist -a -- runuser -u "$USER" -- env -i HOME="$HOME" PATH=/usr/bin:/usr/bin/core_perl GNUPGHOME="$GNUPGHOME" XDG_RUNTIME_DIR="$XDG_RUNTIME_DIR" makepkg -Ccrsf -- BUILDDIR=/tmp/makepkg
+Feb 13 10:36:00 *	twelveeighty (~twelveeig@unaffiliated/twelveeighty) has joined
+Feb 13 10:36:02 *	thurisaz has quit (Ping timeout: 240 seconds)
+Feb 13 10:36:12 <earnestly>	Foxboron: That's sudo -> perf -> runuser -> env -> makepkg as a chain lol
+Feb 13 10:36:18 <Foxboron>	earnestly: neat
+Feb 13 10:36:20 <deltasquared>	earnestly: if I had to guess, build benchmarking?
+Feb 13 10:36:22 *	usersss is now known as niee
+Feb 13 10:36:27 *	al has quit (Ping timeout: 240 seconds)
+Feb 13 10:36:33 <earnestly>	I can see why people like to bundle everything into a single command but I still really like the idea of composition like this
+Feb 13 10:36:33 <d9k>	i just do a env -i "${myenv[@]}" bwrap...
+Feb 13 10:36:50 *	SidharthArya (~user@27.100.13.98) has joined
+Feb 13 10:36:55 <earnestly>	So you have pipe | lines, and you have bernstein chains.  The latter collapses into a single command
+Feb 13 10:37:27 *	Lord_of_Life has quit (Ping timeout: 260 seconds)
+Feb 13 10:38:01 *	Rue has quit (Quit: Rue)
+Feb 13 10:38:01 *	cotko (~cotko@188-230-147-88.dynamic.t-2.net) has joined
+Feb 13 10:38:09 <earnestly>	Foxboron: It was named after bernstein because of his daemontools which included commands like:  envdir, envuidgid, pgrphack, setlock, setuidgid, etc.  I particularly like how envdir was designed.  Instead of parsing and having to worry about splitting on '=', he just designed it so no parsing was needed
+Feb 13 10:38:17 *	al (d@niel.cx) has joined
+Feb 13 10:38:36 <earnestly>	Foxboron: I.e. mkdir env; print whatever > env/HOME.  So the environment is a file name and the content is its value; no parsing needed
+Feb 13 10:38:43 <deltasquared>	earnestly: have you seen execline? it has a similar idea to it
+Feb 13 10:38:54 <deltasquared>	https://skarnet.org/software/execline/
+Feb 13 10:38:57 *	Lord_of_Life (~Lord@unaffiliated/lord-of-life/x-0885362) has joined
+Feb 13 10:38:58 <earnestly>	deltasquared: Yeah I'm aware of it, not sure I like it tbh, but it is pretty novel
+Feb 13 10:39:00 <phrik>	Title: execline: a small scripting language (at skarnet.org)
+Feb 13 10:39:12 *	freswa has quit (Quit: freswa)
+Feb 13 10:39:19 <earnestly>	d9k: Yeah I have a script which does essentially that
+Feb 13 10:39:31 <d9k>	dont we all :D
+Feb 13 10:39:34 <earnestly>	                    if env -C "$repo" -i "${env[@]}" /bin/time -f '%M' -o memory_usage makepkg -Crscf -- "$tmp"
+Feb 13 10:39:41 *	hekel has quit (Read error: Connection reset by peer)
+Feb 13 10:39:45 <earnestly>	                if ((required_mem < available_mem)); then
+Feb 13 10:39:47 <earnestly>	                    tmp=BUILDDIR=/tmp/makepkg
+Feb 13 10:40:09 <earnestly>	(If you wondered what -o memory_usage was for)
+Feb 13 10:40:51 <d9k>	i always use bwrap for running games too under various versions of mesa
+Feb 13 10:41:18 <earnestly>	d9k: No LD_LIBRARY_PATH instead?
+Feb 13 10:41:29 *	fogobogo has quit (Ping timeout: 268 seconds)
+Feb 13 10:42:07 *	panikovsky (~panikovsk@93.178.80.187) has joined
+Feb 13 10:42:32 *	cotko_ (~cotko@188-230-147-88.dynamic.t-2.net) has joined
+Feb 13 10:42:34 <earnestly>	Foxboron: nice(1) is chain too, I think you understand
+Feb 13 10:42:41 *	cotko has quit (Ping timeout: 272 seconds)
+Feb 13 10:42:46 *	freswa (~freswa@exchange.betterbits.de) has joined
+Feb 13 10:42:48 *	shibboleth (~shibbolet@gateway/tor-sasl/shibboleth) has joined
+Feb 13 10:43:01 *	imbus__ (~imbus@h-223-72.A193.priv.bahnhof.se) has joined
+Feb 13 10:43:18 <Foxboron>	earnestly: I'm debugging kubernetes :/ my attention span went away
+Feb 13 10:43:27 *	mcquinn (~Thunderbi@185.238.219.22) has joined
+Feb 13 10:43:56 <d9k>	you could do that too
+Feb 13 10:44:15 <earnestly>	Foxboron: No worries, IRC is fairly permanent.  This thing deltasquared mentioned is basically an implementation of a shell-like tool using nothing but chaining: https://skarnet.org/software/execline/grammar.html
+Feb 13 10:44:17 <phrik>	Title: execline: language design and grammar (at skarnet.org)
+Feb 13 10:44:40 <earnestly>	Foxboron: It's interesting if you enjoy seeing weird solutions/designs to things (like learning FP)
+Feb 13 10:45:09 *	imbus_ has quit (Ping timeout: 246 seconds)
+Feb 13 10:46:25 *	dkmueller has quit (Quit: WeeChat 2.6)
+Feb 13 10:47:41 <deltasquared>	though I'd posit that unlike the majority of FP languages that the above has a chance of being efficient by default (within it's caveats)
+Feb 13 10:47:47 *	deltasquared ducks
+Feb 13 10:49:17 *	ashpex (~ashpex@171.248.253.246) has left
+Feb 13 10:49:25 *	sudoforge (~sudoforge@cpepool8acmts1-40.sanbrunocable.com) has joined
+Feb 13 10:51:33 <dreisner>	earnestly: Foxboron: google uses borg, which is a lot like kubernetes. we don't have a real container format (docker, rkt, etc), though. just a shitton of orchestration.
+Feb 13 10:51:57 *	HerbY_NL2 has quit (Quit: Leaving)
+Feb 13 10:52:13 <Foxboron>	dreisner: But not for system services?
+Feb 13 10:52:37 <dreisner>	ah, you mean for the bootstrap services needed to bring up the container manager?
+Feb 13 10:52:44 <Foxboron>	dreisner: Yes
+Feb 13 10:52:50 *	grzebiel has quit (Ping timeout: 240 seconds)
+Feb 13 10:52:51 *	yunhao94 has quit (Ping timeout: 260 seconds)
+Feb 13 10:52:53 <Foxboron>	Is there any way to describe this better :p?
+Feb 13 10:53:15 *	ttoocs has quit (Ping timeout: 240 seconds)
+Feb 13 10:53:16 <dreisner>	we have different cluster management software for that.
+Feb 13 10:53:24 <dreisner>	i guess it's more similar to ansible/chef
+Feb 13 10:53:30 <Foxboron>	Most likely
+Feb 13 10:53:39 <dreisner>	those don't run in containers, though, of course
+Feb 13 10:53:40 *	idbentley (~ian@ool-44c15c73.dyn.optonline.net) has joined
+Feb 13 10:53:52 <Foxboron>	Sure, but I was more curious about system service hardening
+Feb 13 10:53:57 *	yunhao94 (~yunhao94@183.198.141.58) has joined
+Feb 13 10:53:57 <Foxboron>	!shrug
+Feb 13 10:53:58 <phrik>	¯\_(ツ)_/¯
+Feb 13 10:54:03 <dreisner>	oh. i can't speak directly to how that's done.
+Feb 13 10:54:10 <Foxboron>	I know!
+Feb 13 10:54:26 <dreisner>	i mean, ignoring legal/nda things, i literally just don't know.
+Feb 13 10:54:27 *	dhil has quit (Ping timeout: 240 seconds)
+Feb 13 10:54:38 <Foxboron>	But there is something :D?
+Feb 13 10:54:40 <Foxboron>	You think?
+Feb 13 10:54:43 <Foxboron>	you hope?
+Feb 13 10:54:45 <dreisner>	maybe? probably?
+Feb 13 10:54:50 <dreisner>	Top People™ are on that.
+Feb 13 10:54:58 *	grzebiel (~grzebiel@217.138.199.44) has joined
+Feb 13 10:55:01 *	piie is now known as piiE
+Feb 13 10:55:04 *	infides (~infides@92.117.249.226) has joined
+Feb 13 10:55:05 <dreisner>	though i guess it's lower level stuff, so maybe it's Bottom People™.
+Feb 13 10:55:06 <Foxboron>	Someone stuffed in a cubicle, most likely
+Feb 13 10:55:18 <dreisner>	open floor plan, dawg!
+Feb 13 10:55:21 <dreisner>	it's so hip!
+Feb 13 10:55:22 <idbentley>	After motherboard replacement, my arch partition is no longer seen as a UEFI  boot disk.  I re-installed grub and rebuilt the /etc/fstab, but no luck.  Can anyone suggest a next step to troubleshoot?
+Feb 13 10:55:41 *	kelnoky (~shao@ip5f5be490.dynamic.kabel-deutschland.de) has joined
+Feb 13 10:55:46 <Foxboron>	dreisner: how open? We atleast have this fun Ikea dividers
+Feb 13 10:56:28 *	gschanuel (~gschanuel@177.92.61.3) has joined
+Feb 13 10:57:17 *	zalt (~devp@unaffiliated/lambda443) has joined
+Feb 13 10:57:25 *	mrbanie has quit (Quit: WeeChat 2.7)
+Feb 13 10:57:28 <twelveeighty>	It looks like Chromium 80.x has broken SAML authentication into Amazon AWS SSO, anyone else using this combo and found a workaround?
+Feb 13 10:58:00 *	nullthevoid (~nullthevo@unaffiliated/nullthevoid) has joined
+Feb 13 10:58:11 *	tafa has quit (Ping timeout: 265 seconds)
+Feb 13 10:58:14 *	fogobogo (~fogobogo@unaffiliated/fogobogo) has joined
+Feb 13 10:58:36 *	mcoffin (~mcoffin@gateway/tor-sasl/mcoffin) has joined
+Feb 13 11:00:20 *	hekel (~hekel@unaffiliated/hekel) has joined
+Feb 13 11:00:38 *	blackandblue (~batdownh@gateway/tor-sasl/blackandblue) has joined
+Feb 13 11:01:16 *	ValkerDieTowerna (~hawkins@197.185.140.169) has joined
+Feb 13 11:01:18 *	holdthedeer has quit (Remote host closed the connection)
+Feb 13 11:01:39 *	sepehrdad has quit (Quit: Leaving)
+Feb 13 11:02:02 *	novns has quit (Quit: ZNC - https://znc.in)
+Feb 13 11:02:49 *	bitdex has quit (Quit: = "")
+Feb 13 11:02:51 <Sacro>	idbentley: partition type? GRUB has nothing to do with it
+Feb 13 11:03:04 *	fyrgebraec has quit (Ping timeout: 268 seconds)
+Feb 13 11:03:31 <andre_kal_>	How can I mount a drive like the system does it automatically (it makes a folder in /mnt with a random name and the deletes it upon unmounting). Is there a service which does this? Preferably one which can be triggered by somebody without sudo privileges
+Feb 13 11:03:35 *	flc has quit (Ping timeout: 260 seconds)
+Feb 13 11:04:03 <CubeTheThird>	fuse can be used to do that
+Feb 13 11:04:25 *	deltasquared has quit (Quit: SEGMENTATION FAULT)
+Feb 13 11:05:40 <idbentley>	@Sacro - I have 2 seperate SSD boot disks (I use the UEFI boot mgr to select between my Windows drive and arch).  On my arch disc: the /boot partition is the first partition on the boot disk is fat32 and 500MB, the / partition is ext4.
+Feb 13 11:05:48 *	q4t1 has quit (Read error: Connection reset by peer)
+Feb 13 11:05:49 <andre_kal_>	CubeTheThird: Ok, thx, I will try it
+Feb 13 11:07:14 <dreisner>	|                                | <- that open
+Feb 13 11:07:19 <dreisner>	sometimes more, sometimes less.
+Feb 13 11:08:10 *	Noti has quit (Quit: Konversation terminated!)
+Feb 13 11:08:42 *	novns (~novns@unaffiliated/novns) has joined
+Feb 13 11:08:42 *	novns has quit (Remote host closed the connection)
+Feb 13 11:08:47 *	tafa (~ta20@109.125.132.93) has joined
+Feb 13 11:09:08 *	novns (~novns@unaffiliated/novns) has joined
+Feb 13 11:11:11 *	yunhao94 has quit (Ping timeout: 272 seconds)
+Feb 13 11:11:26 *	dhil (~dhil@2001:630:3c1:90:c866:b19b:f136:582b) has joined
+Feb 13 11:11:31 *	awe00 has quit (Ping timeout: 260 seconds)
+Feb 13 11:11:51 *	akiva (~akiva@d50-92-125-120.bchsia.telus.net) has joined
+Feb 13 11:12:30 <jab416171>	why are there so many versions of sonarr and radarr https://aur.archlinux.org/packages/?O=0&K=sonarr
+Feb 13 11:12:32 <phrik>	Title: AUR (en) - Search Criteria: sonarr (at aur.archlinux.org)
+Feb 13 11:12:32 <nullthevoid>	hey, does anyone uses Brave Browser and can help me with the fonts, because the new update messed my font - they are very sharp and small.
+Feb 13 11:12:36 *	bhoman has quit (Read error: Connection reset by peer)
+Feb 13 11:12:46 *	chris64 has quit (Quit: leaving)
+Feb 13 11:13:00 *	bhoman (~quassel@pool-108-35-122-201.nwrknj.fios.verizon.net) has joined
+Feb 13 11:13:05 *	wart has quit (Ping timeout: 272 seconds)
+Feb 13 11:13:07 *	mcquinn has quit (Ping timeout: 240 seconds)
+Feb 13 11:13:17 <jab416171>	nullthevoid, I've had good luck with an extension similar to this, I forget if it was this exact one: https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke
+Feb 13 11:13:17 <phrik>	Title: Font Changer with Google Web Fonts™ - Chrome Web Store (at chrome.google.com)
+Feb 13 11:13:35 *	baltitenger (c3c795a1@linux.karinthy.hu) has joined
+Feb 13 11:13:42 *	akko has quit (Quit: WeeChat 2.6)

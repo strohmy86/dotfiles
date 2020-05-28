@@ -1,0 +1,20 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Icon=application-x-desktop
+Name=Pionux
+X-KDE-PluginInfo-Author=Pios Linux
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasma-desktop
+X-KDE-PluginInfo-Email=nope
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPLv2
+X-KDE-PluginInfo-Name=Pionux
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-Plasma-API=5.0
+comment=transparent theme and that fits all colors

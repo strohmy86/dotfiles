@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-csv
+Name=Labels.csv
+Type=Link
+URL[$e]=file:$HOME/Labels.csv
+X-KDE-LastOpenedWith=org.kde.kdialog

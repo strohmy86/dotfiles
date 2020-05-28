@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>McMojave sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1312086</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>52048</downloads>
+  <installedfile>/tmp/McMojave.tar.xz</installedfile>
+  <id>1312086</id>
+  <releasedate>2019-10-07</releasedate>
+  <summary>McMojave sddm</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/6/9/e/3a19d47bca4563dc50d3c61b96bb89e6ba54.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/6/9/e/3a19d47bca4563dc50d3c61b96bb89e6ba54.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1570447723/s/1a9742ed09d433e2f1bb275e8505f518/t/1578540557/o/1/McMojave.tar.xz</payload>
+  <tags>gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Canta sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1311569</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>10521</downloads>
+  <installedfile>/tmp/Canta.tar.xz</installedfile>
+  <id>1311569</id>
+  <releasedate>2019-06-26</releasedate>
+  <summary>Canta sddm theme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/5/9/6/4428cb9ec3824480f4ca76b6b32848d95b63.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/5/9/6/4428cb9ec3824480f4ca76b6b32848d95b63.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1561540703/s/17b5086cd6a110f5b1ce41e8a76c624d/t/1578541357/o/1/Canta.tar.xz</payload>
+  <tags>gplv3,linux,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

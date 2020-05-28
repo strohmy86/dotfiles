@@ -1,0 +1,61 @@
+{
+  "RunTimeMode": {
+    "Value": "gen4_auto"
+  },
+  "Gen4ProxyHost": {
+    "Value": "cloud-nodes124273-swg.ibosscloud.com"
+  },
+  "Gen4AutoRegisterSecurePort": {
+    "Value": 443
+  },
+  "Gen4AutoRegisterPort": {
+    "Value": 8015
+  },
+  "Gen4AutoLoginEncryptionRegistration": {
+    "Value": 1
+  },
+  "Gen4AutoLoginComputerOverridesUser": {
+    "Value": 0
+  },
+  "Gen4AutoLoginSecurityGroups": {
+    "Value": "mad-admin-inet"
+  },
+  "WebSecurityKey": {
+    "Value": "JFRG9TJ90cCc8QkP"
+  },
+  "Gen4ProxyAutoConfigurationScriptURL": {
+    "Value": "https://cloud-nodes124273-swg.ibosscloud.com:7443/ibreports/web/pac/DPya2IDhAkFWool/v2/proxy.pac"
+  },
+  "Gen4ProxyPort": {
+    "Value": 8009
+  },
+  "Gen4ProxyBypass": {
+    "Value": [
+      "_"
+    ]
+  },
+  "Gen4ProxyMonitorInterval": {
+    "Value": 5000
+  },
+  "Gen4AutoLoginRegistrationInterval": {
+    "Value": 3600
+  },
+  "Gen4AutoLoginCaptivePortalDetection": {
+    "Value": 1
+  },
+  "Gen4AutoLoginCaptivePortalDetectionInterval": {
+    "Value": 5000
+  },
+  "ChromeBridgeIP": {
+    "Value": "100.115.92.0"
+  },
+  "IpAddressCheckInterval": {
+    "Value": 30
+  },
+  "SendCompleteEmail": {
+    "Value": true
+  },
+  "ReloadTabs": {
+    "Value": true
+  }
+}

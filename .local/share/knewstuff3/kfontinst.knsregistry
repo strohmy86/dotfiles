@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Fun Fonts</name>
+  <providerid>http://download.kde.org/khotnewstuff/fonts/fonts.xml</providerid>
+  <author>SeanParsons</author>
+  <homepage></homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>66</rating>
+  <downloads>31492</downloads>
+  <installedfile>/home/lstrohm/.local/share/kfontinst//news.php</installedfile>
+  <id>37782</id>
+  <releasedate>2010-01-14</releasedate>
+  <summary>You want a lot of fun new fonts without sorting through the 6,760 fonts available at http://www.gnome-look.org/content/show.php?content=9883 ?&#xd;
+&#xd;
+No problem myself and a couple of others offered lists of their favorites. They’ve been combined and now the list is down to a much more manageable 76 fonts.</summary>
+  <changelog></changelog>
+  <preview>http://download.kde.org/khotnewstuff/fonts/previews/m37782-1.png</preview>
+  <previewBig></previewBig>
+  <payload>http://thelinuxbox.org/news.php?2010/01/12/fun-fonts.html</payload>
+  <tags></tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Conky Symbols</name>
+  <providerid>http://download.kde.org/khotnewstuff/fonts/fonts.xml</providerid>
+  <author>wiltur</author>
+  <homepage></homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>66</rating>
+  <downloads>4804</downloads>
+  <installedfile>/home/lstrohm/.local/share/kfontinst//01rs0v64gfd7</installedfile>
+  <id>142593</id>
+  <releasedate>2013-11-05</releasedate>
+  <summary>A font to use under conky, there is most of distribution's logo and somes symbols like CPU, RAM, HD...&#xd;
+&#xd;
+there will propably have more symbols, give me some ideas ;)</summary>
+  <changelog></changelog>
+  <preview>http://download.kde.org/khotnewstuff/fonts/previews/m142593-1.png</preview>
+  <previewBig></previewBig>
+  <payload>http://sta.sh/01rs0v64gfd7</payload>
+  <tags></tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

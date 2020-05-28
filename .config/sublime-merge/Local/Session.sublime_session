@@ -1,0 +1,32 @@
+{
+	"last_version": 1119,
+	"project_dir": "/home/lstrohm",
+	"recent":
+	[
+		{
+			"ignore_diff_whitespace": false,
+			"location_bar_visible": false,
+			"path": "/home/lstrohm/Scripts",
+			"table_of_contents_selected": false,
+			"table_of_contents_tree_mode": false,
+			"window_height": 600.0,
+			"window_width": 960.0
+		}
+	],
+	"select_repository":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"windows":
+	[
+		{
+			"path": "/home/lstrohm/Scripts",
+			"position": "0,0,0,0,0,399,129,1359,729,1591,900"
+		}
+	]
+}

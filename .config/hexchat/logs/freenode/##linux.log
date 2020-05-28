@@ -1,0 +1,232 @@
+**** BEGIN LOGGING AT Thu Feb 13 09:40:08 2020
+
+Feb 13 09:40:08 *	Now talking on ##linux
+Feb 13 09:40:08 *	Topic for ##linux is: Channel website: https://freenode.linux.community | Pastebin: "<command> | nc termbin.com 9999" | Need an op? Join ##linux-ops
+Feb 13 09:40:08 *	Topic for ##linux set by sauvin (Wed Jan  8 03:09:39 2020)
+Feb 13 09:40:08 -ChanServ-	[##linux] Please see https://freenode.linux.community/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines laid out at https://freenode.linux.community/channel-rules/.
+Feb 13 09:40:08 *	Channel ##linux url: https://freenode.linux.community
+Feb 13 09:40:15 *	Maxattax (~max@50-195-160-193-static.hfc.comcastbusiness.net) has joined
+Feb 13 09:40:17 *	AgTh (~b50c6@static-212-214-117-93.thenetworkfactory.nl) has joined
+Feb 13 09:41:16 *	mIk3_08 has quit (Quit: mIk3_08)
+Feb 13 09:41:36 *	KarmenJello has quit (Remote host closed the connection)
+Feb 13 09:41:47 *	yunhao94 has quit (Ping timeout: 240 seconds)
+**** ENDING LOGGING AT Thu Feb 13 09:42:22 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:42:22 2020
+
+Feb 13 09:43:06 *	yunhao94 (~yunhao94@183.198.141.58) has joined
+Feb 13 09:43:18 *	innovati (~innovati@206-188-83-209.cpe.distributel.net) has joined
+Feb 13 09:43:25 *	pickyaxe has quit (Quit: Konversation terminated!)
+**** ENDING LOGGING AT Thu Feb 13 09:43:51 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:43:51 2020
+
+Feb 13 09:44:25 <lesshaste>	 I want to send myself an email as soon as a particular file is updated. I know how to send the email from the command line, but how do I detect when I file is updated?
+Feb 13 09:44:30 <lesshaste>	hodapp, thanks
+Feb 13 09:45:00 *	vuoto has quit (Quit: vuoto)
+Feb 13 09:45:05 *	EriC^^ (~Eric@178.135.94.232) has joined
+Feb 13 09:45:27 *	jakehemm_ (~jakehemme@68.235.43.94) has joined
+**** ENDING LOGGING AT Thu Feb 13 09:45:54 2020
+
+**** BEGIN LOGGING AT Thu Feb 13 09:45:54 2020
+
+Feb 13 09:45:59 *	ljmf00 has quit (Ping timeout: 268 seconds)
+Feb 13 09:46:01 *	dez has quit (Quit: Connection closed for inactivity)
+Feb 13 09:46:43 <AppAraat[m]>	lesshaste: you can use inotify
+Feb 13 09:46:56 <lesshaste>	AppAraat[m],  thanks!
+Feb 13 09:47:55 *	ljmf00 (~ljmf00@mescalina/cactus) has joined
+Feb 13 09:48:01 *	enriooooooo (~nanoz@unaffiliated/nanoz) has joined
+Feb 13 09:48:22 *	dongbag has quit (Remote host closed the connection)
+Feb 13 09:48:47 *	Haudegen (~quassel@91.114.49.10) has joined
+Feb 13 09:53:18 *	AbedB (~AbedBhuty@bzq-109-67-29-184.red.bezeqint.net) has joined
+Feb 13 09:53:30 *	KarmenJello (~karmenjel@cpc96964-rdng25-2-0-cust380.15-3.cable.virginm.net) has joined
+Feb 13 09:54:37 *	Promasu has quit (Quit: The Lounge - https://thelounge.chat)
+Feb 13 09:55:10 *	Promasu (~Promasu@srv1.ntlk.de) has joined
+Feb 13 09:55:51 *	raed|laptop has quit (Quit: raed|laptop)
+Feb 13 09:57:43 *	jakehemm_ has quit (Quit: Textual IRC Client: www.textualapp.com)
+Feb 13 09:57:47 *	mortderire has quit (Remote host closed the connection)
+Feb 13 09:58:15 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 09:58:21 *	awe00 has quit (Ping timeout: 272 seconds)
+Feb 13 09:59:35 *	the7thbit_ (~the7thbit@c-73-70-39-36.hsd1.ca.comcast.net) has joined
+Feb 13 10:00:03 *	giovdav has quit (Remote host closed the connection)
+Feb 13 10:00:25 *	Elzington (Elzington@gateway/vpn/privateinternetaccess/elzington) has joined
+Feb 13 10:00:27 *	giovdav (~giovdav@unaffiliated/giovdav) has joined
+Feb 13 10:00:46 *	thebope has quit (Remote host closed the connection)
+Feb 13 10:00:50 *	the7thbit_ has quit (Client Quit)
+Feb 13 10:00:53 *	lockywolf has quit (Max SendQ exceeded)
+Feb 13 10:01:01 *	awe00 (~awe00@unaffiliated/awe00) has joined
+Feb 13 10:01:14 *	linelevel (linelevel@gateway/vpn/privateinternetaccess/linelevel) has joined
+Feb 13 10:01:58 *	cdown has quit (Ping timeout: 245 seconds)
+Feb 13 10:02:03 *	the7thbit (~the7thbit@c-73-70-39-36.hsd1.ca.comcast.net) has joined
+Feb 13 10:02:17 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:02:51 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:03:26 *	thebope (~thebope@pdpc/supporter/student/thebope) has joined
+Feb 13 10:03:51 *	jakehemm_ (~jakehemme@68.235.43.94) has joined
+Feb 13 10:03:59 *	Onslaught2020 (~jeroen@kb-client-040.kb.nl) has joined
+Feb 13 10:04:02 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:04:41 *	kraiskil has quit (Ping timeout: 272 seconds)
+Feb 13 10:04:41 *	Lucas_Gray has quit (Quit: %nickname% has gone offline)
+Feb 13 10:04:50 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:05:04 *	Lucas_Gray (~Wryhder@197.210.70.35) has joined
+Feb 13 10:05:27 *	FreeBirdLjj has quit (Remote host closed the connection)
+Feb 13 10:06:26 *	NERD-k (~NERD-k@199.19.107.27.16clouds.com) has joined
+Feb 13 10:06:47 *	chap has quit (Ping timeout: 240 seconds)
+Feb 13 10:06:58 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:07:45 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:08:34 *	ErickN (~a0226667@192.91.101.32) has joined
+Feb 13 10:09:14 *	lockywolf (~lockywolf@101.224.183.159) has joined
+Feb 13 10:09:18 *	the7thbit has quit (Quit: Leaving)
+Feb 13 10:09:35 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:11:23 *	lockywolf (~lockywolf@117.136.120.77) has joined
+Feb 13 10:11:46 *	lockywolf has quit (Remote host closed the connection)
+Feb 13 10:11:55 *	thebope has quit (Remote host closed the connection)
+Feb 13 10:12:03 *	ghostzec has quit (Remote host closed the connection)
+Feb 13 10:12:15 *	NERD-k has quit (Ping timeout: 260 seconds)
+Feb 13 10:12:42 *	riverr has quit (Ping timeout: 260 seconds)
+Feb 13 10:13:01 *	lockywolf (~lockywolf@117.136.120.77) has joined
+Feb 13 10:13:11 *	thebope (~thebope@pdpc/supporter/student/thebope) has joined
+Feb 13 10:14:47 <triceratux>	well i go mc to work on termux via scrcpy. only vifm & nano could cope with the TERM=xterm-256color termux is shipped with. mc, lynx, & most werent displaying properly without TERM=xterm. then it turns out M-numberkey (not alt-numberkey) also works to make mc usable without having mouseclick the onscreen keyboard
+Feb 13 10:14:47 *	Tazmainian has quit (Remote host closed the connection)
+Feb 13 10:15:11 *	thiras (~thiras@unaffiliated/thiras) has joined
+Feb 13 10:15:40 <triceratux>	so as always, the answer to getting most to run on an arm-based gnu system is ... wait for it ...
+Feb 13 10:15:55 *	BOKALDO (~BOKALDO@46.109.201.199) has joined
+Feb 13 10:15:56 <triceratux>	TERM=xterm ftw \o/
+Feb 13 10:16:31 *	HarveyPwca (~HarveyPwc@70-89-216-161-il.hfc.comcastbusiness.net) has joined
+Feb 13 10:16:50 *	z8z has quit (Ping timeout: 240 seconds)
+Feb 13 10:16:53 *	imp has quit (Quit: WeeChat 2.6)
+Feb 13 10:17:44 *	enet (~enet@broadband-188-32-114-80.ip.moscow.rt.ru) has joined
+Feb 13 10:18:02 *	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net) has joined
+Feb 13 10:20:14 *	kraiskil (~kraiskil@254.red-88-0-193.dynamicip.rima-tde.net) has joined
+Feb 13 10:21:46 *	Porpetinha_ (~felco@unaffiliated/porpetinha) has joined
+Feb 13 10:23:03 *	Onslaught2020 has quit (Ping timeout: 272 seconds)
+Feb 13 10:23:03 *	jkwnki has quit (Ping timeout: 272 seconds)
+Feb 13 10:24:13 *	millido (~millido@148-252-99.248.3p.ntebredband.no) has joined
+Feb 13 10:24:23 *	chchjesus has quit (Quit: WeeChat 2.6)
+Feb 13 10:25:04 *	drzacek has quit (Quit: Leaving)
+Feb 13 10:25:14 *	Porpetinha has quit (Ping timeout: 240 seconds)
+Feb 13 10:26:17 *	sbetrium (~sbetrium@47.54.208.47) has joined
+Feb 13 10:26:23 *	alephZer0 (andrea@gateway/vpn/protonvpn/alephzer0) has joined
+Feb 13 10:26:25 *	sbetrium has quit (Client Quit)
+Feb 13 10:27:06 <prussian>	terminal confusion is unfun
+Feb 13 10:27:46 *	Helenah has quit (Read error: Connection reset by peer)
+Feb 13 10:28:27 <triceratux>	https://i.imgur.com/ze1OT99.jpg
+Feb 13 10:28:49 *	Helenah (~s98259@unaffiliated/iveeee) has joined
+Feb 13 10:28:54 <rascul>	the fish are flying
+Feb 13 10:29:24 <triceratux>	its always the same thing. an x11 era termcap now called a terminfo that makes half the apps display with their font brightness borked & noone including the assemblers of the disto seemingly having any clue
+Feb 13 10:30:16 <triceratux>	but its different now. these termux folks actually have a bunch of X11 apps linked https://dl.bintray.com/xeffyr/x11-packages/arm/
+Feb 13 10:30:58 <triceratux>	if i can get the filemanagers working i might get thunar running on an oreo android
+Feb 13 10:31:14 *	Armand has quit (Quit: Leaving)
+Feb 13 10:31:20 *	bestucan has quit (Quit: Leaving)
+Feb 13 10:31:29 *	SeepingN (~CPngN@unaffiliated/cpngn/x-6985199) has joined
+Feb 13 10:31:50 *	akk (~akk@75-161-73-253.albq.qwest.net) has joined
+Feb 13 10:32:01 *	AquaL1te has quit (Quit: leaving)
+Feb 13 10:32:12 *	tsaka__ (~torstein@2a02:2149:827b:f900:7c32:85de:f39d:4d0c) has joined
+Feb 13 10:32:30 *	ImQ009 (~ImQ009@unaffiliated/imq009) has joined
+Feb 13 10:32:34 *	Kruppt (~Kruppt@50.111.3.84) has joined
+Feb 13 10:33:22 *	_nutcr4ck3r (~su@5.253.207.20) has joined
+Feb 13 10:33:31 *	z8z (~x@ac230029.ppp.asahi-net.or.jp) has joined
+Feb 13 10:33:34 *	millido has quit (Remote host closed the connection)
+Feb 13 10:33:56 *	skywlkr (~skywlkr@unaffiliated/skywlkr) has joined
+Feb 13 10:34:20 *	wodencafe has quit (Quit: ZNC 1.6.6+deb1ubuntu0.2 - http://znc.in)
+Feb 13 10:34:22 *	anonymip has quit (Quit: ZNC 1.8.x-nightly-20190128-91af796c - https://znc.in)
+Feb 13 10:34:29 *	z8z has quit (Remote host closed the connection)
+Feb 13 10:34:57 *	togo has quit (Quit: Leaving)
+Feb 13 10:35:03 *	pask (~Nils@81-234-103-6-no534.tbcn.telia.com) has joined
+Feb 13 10:35:03 *	Burrito has quit (Read error: Connection reset by peer)
+Feb 13 10:35:07 *	barteks2x has quit (Ping timeout: 260 seconds)
+Feb 13 10:35:20 *	CrystalMath (~coderain@reactos/developer/theflash) has joined
+Feb 13 10:35:44 *	dbone has quit (Quit: ZZZzzz…)
+Feb 13 10:35:45 *	trinityblade (~trinitybl@65.220.10.3) has joined
+Feb 13 10:36:02 *	thurisaz has quit (Ping timeout: 240 seconds)
+Feb 13 10:37:27 *	Lord_of_Life has quit (Ping timeout: 260 seconds)
+Feb 13 10:37:38 *	KarmenJello has quit (Remote host closed the connection)
+Feb 13 10:38:00 *	linarcx (~linarcx@151.242.175.158) has joined
+Feb 13 10:38:20 *	dbone (~dbone@c-24-62-5-129.hsd1.nh.comcast.net) has joined
+Feb 13 10:38:22 *	wenijinew has quit (Ping timeout: 265 seconds)
+Feb 13 10:38:22 *	anonymip (~anonymip@unaffiliated/anonymip) has joined
+Feb 13 10:38:57 *	Lord_of_Life (~Lord@unaffiliated/lord-of-life/x-0885362) has joined
+Feb 13 10:39:13 <linarcx>	Hi. I `less` an output of command in terminal and i want to do another action when i press `q` and go back to terminal. How do that?
+Feb 13 10:39:14 *	almostdvs has quit (Ping timeout: 240 seconds)
+Feb 13 10:39:41 *	hekel has quit (Read error: Connection reset by peer)
+Feb 13 10:40:00 <jim>	... | less ; otherfunction
+Feb 13 10:40:05 *	Derogatory_Ternn is now known as foul_foul
+Feb 13 10:40:16 <SeepingN>	lift your left pinky up and depress the q key?
+Feb 13 10:40:40 <SeepingN>	or is it just piping the output and then running otherfunction anyway? without pause?
+Feb 13 10:41:01 <SeepingN>	you could add some sort of read command in between.
+Feb 13 10:41:09 <jim>	that would run it when less is quit
+Feb 13 10:41:35 *	lockywolf_ (~lockywolf@2408:84e2:119:a88f:3a59:f9ff:feb1:f6cb) has joined
+Feb 13 10:42:07 *	panikovsky (~panikovsk@93.178.80.187) has joined
+Feb 13 10:42:18 *	lockywolf_ has quit (Remote host closed the connection)
+Feb 13 10:43:01 *	imbus__ (~imbus@h-223-72.A193.priv.bahnhof.se) has joined
+Feb 13 10:43:03 *	lockywolf_ (~lockywolf@2408:84e2:119:a88f:3a59:f9ff:feb1:f6cb) has joined
+Feb 13 10:43:50 *	lockywolf_ has quit (Remote host closed the connection)
+Feb 13 10:43:57 *	lockywolf has quit (Ping timeout: 272 seconds)
+Feb 13 10:44:00 <SeepingN>	$ head textfile | less ; date ; echo "done"
+Feb 13 10:44:00 <SeepingN>	Thu Feb 13 07:43:30 PST 2020
+Feb 13 10:44:00 <SeepingN>	done
+Feb 13 10:44:08 *	toverna (~quassel@128-70-125-136.broadband.corbina.ru) has joined
+Feb 13 10:44:09 <SeepingN>	after I hit q
+Feb 13 10:44:21 <SeepingN>	but this is on a mac with zsh. zsh may be different
+Feb 13 10:44:45 *	lockywolf_ (~lockywolf@2408:84e2:119:a88f:3a59:f9ff:feb1:f6cb) has joined
+Feb 13 10:45:09 *	imbus_ has quit (Ping timeout: 246 seconds)
+Feb 13 10:45:23 *	Lucas_Gray has quit (Ping timeout: 260 seconds)
+Feb 13 10:45:26 *	lockywolf_ has quit (Remote host closed the connection)
+Feb 13 10:46:11 *	almostdvs (~almostdvs@162.154.195.113) has joined
+Feb 13 10:46:43 *	lockywolf_ (~lockywolf@2408:84e2:119:a88f:3a59:f9ff:feb1:f6cb) has joined
+Feb 13 10:47:05 *	lockywolf_ has quit (Remote host closed the connection)
+Feb 13 10:47:27 *	dez (uid92154@fedora/deSouza) has joined
+Feb 13 10:48:24 *	lockywolf_ (~lockywolf@2408:84e2:119:a88f:3a59:f9ff:feb1:f6cb) has joined
+Feb 13 10:48:52 *	mortderire (~mortderir@134.191.227.37) has joined
+Feb 13 10:49:05 *	lockywolf_ has quit (Remote host closed the connection)
+Feb 13 10:50:11 <kerframil>	bash is not different in this regard.
+Feb 13 10:50:16 *	nksegos (~Thunderbi@lfbn-ann-1-113-54.w86-220.abo.wanadoo.fr) has joined
+Feb 13 10:51:36 *	nksegos has quit (Client Quit)
+Feb 13 10:51:47 *	sdoherty (sdoherty@nat/redhat/x-wbslwsmbvmeqeodr) has joined
+Feb 13 10:51:57 *	HerbY_NL2 has quit (Quit: Leaving)
+Feb 13 10:52:00 *	Deusdeorum has quit (Quit: Textual IRC Client: www.textualapp.com)
+Feb 13 10:52:33 *	m_antis (~m_antis@ool-44c09ec4.dyn.optonline.net) has joined
+Feb 13 10:52:51 *	yunhao94 has quit (Ping timeout: 260 seconds)
+Feb 13 10:53:14 *	istqb1 has quit (Ping timeout: 240 seconds)
+Feb 13 10:53:15 *	ttoocs has quit (Ping timeout: 240 seconds)
+Feb 13 10:53:57 *	yunhao94 (~yunhao94@183.198.141.58) has joined
+Feb 13 10:54:26 *	foul_foul is now known as graciously_super
+Feb 13 10:55:09 *	istqb1 (istqb0@gateway/vpn/privateinternetaccess/istqb0) has joined
+Feb 13 10:56:08 *	sbetrium (~sbetrium@47.54.208.47) has joined
+Feb 13 10:56:25 *	gschanuel (~gschanuel@177.92.61.3) has joined
+Feb 13 10:57:15 *	zalt (~devp@unaffiliated/lambda443) has joined
+Feb 13 10:57:26 *	Lucas_Gray (~Wryhder@197.210.44.4) has joined
+Feb 13 10:58:14 *	_nutcr4ck3r has quit (Read error: Connection reset by peer)
+Feb 13 10:58:20 *	ramses (~ramses@nat-35.starnet.cz) has joined
+Feb 13 10:58:27 *	m_antis has quit (Ping timeout: 260 seconds)
+Feb 13 11:00:20 *	hekel (~hekel@unaffiliated/hekel) has joined
+Feb 13 11:00:55 *	fandbot has quit (Quit: ZZZzzz…)
+Feb 13 11:01:23 *	wodencafe (wodencafe@woden.cafe) has joined
+Feb 13 11:02:19 *	gambl0re has quit (Ping timeout: 272 seconds)
+Feb 13 11:02:21 *	m_antis (~m_antis@ool-44c09ec4.dyn.optonline.net) has joined
+Feb 13 11:03:41 *	kasitan (~kasitano@46.63.31.29) has joined
+Feb 13 11:04:03 *	JaredSchooley has quit (Ping timeout: 246 seconds)
+Feb 13 11:06:14 *	JaredSchooley (~Sech@2600:6c42:7400:c86:2112:fd1a:6b56:ea41) has joined
+Feb 13 11:06:26 *	kasitano has quit (Ping timeout: 240 seconds)
+Feb 13 11:08:10 *	Noti has quit (Quit: Konversation terminated!)
+Feb 13 11:08:13 *	istqb1 has quit (Quit: Leaving)
+Feb 13 11:08:52 *	fandbot (~fandbot@64.103.40.23) has joined
+Feb 13 11:08:55 *	fandbot has quit (Client Quit)
+Feb 13 11:09:15 *	IR0NMAN (IR0NMAN@modemcable050.51-176-173.mc.videotron.ca) has joined
+Feb 13 11:09:45 *	erts has quit (Remote host closed the connection)
+Feb 13 11:09:52 *	fandbot (~fandbot@64.103.40.23) has joined
+Feb 13 11:09:56 *	TomyWork has quit (Ping timeout: 256 seconds)
+Feb 13 11:10:28 *	a0z has quit (Ping timeout: 268 seconds)
+Feb 13 11:10:38 *	P1RATEZ (piratez@unaffiliated/p1ratez) has joined
+Feb 13 11:11:01 *	frmus (~frmus@unaffiliated/frmus) has joined
+Feb 13 11:11:11 *	yunhao94 has quit (Ping timeout: 272 seconds)
+Feb 13 11:11:31 *	awe00 has quit (Ping timeout: 260 seconds)
+Feb 13 11:11:49 *	operateur has quit (Ping timeout: 272 seconds)
+Feb 13 11:12:34 *	paulcarroty (~paul@93.75.226.229) has joined
+Feb 13 11:12:46 *	chris64 has quit (Quit: leaving)
+Feb 13 11:12:54 *	lakitu has quit (Read error: Connection reset by peer)
+Feb 13 11:13:05 *	wart has quit (Ping timeout: 272 seconds)
+Feb 13 11:13:41 *	BOKALDO_ (~BOKALDO@46.109.201.199) has joined
+Feb 13 11:14:07 *	mishiranu has quit (Quit: Life finally caught up.)
+Feb 13 11:14:09 *	crabskuttles_ (~crabskutt@223.204.246.38) has joined
+Feb 13 11:14:09 *	crabskuttles is now known as Guest86548
+Feb 13 11:14:09 *	crabskuttles_ is now known as crabskuttles
