@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=WIU
+Type=Link
+URL[$e]=file:$HOME/.conky/WIU/WIU
+X-KDE-LastOpenedWith=org.kde.kwrite

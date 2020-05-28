@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Dark-openSUSE-v.3</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1359248</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>1825</downloads>
+  <installedfile>/tmp/Dark-openSUSE-v.3.zip</installedfile>
+  <id>1359248</id>
+  <releasedate>2020-02-12</releasedate>
+  <summary>&lt;strong>SDDM Login Theme, customized for the &lt;span style="color: teal;"> &lt;strong>Dark-openSUSE &lt;/strong> &lt;/span> Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1305528/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/c/7/d/774f8a2435421023f110dc629ecf57f6c11b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/c/7/d/774f8a2435421023f110dc629ecf57f6c11b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODE1MDgzMTEiLCJvIjoiMSIsInMiOiJkMzNhNzdkNGNiOGMwZjM2ZmM0MDNjNjJjMThkMThiOTk1ODE2MDQ2Y2MxNzI0ODFlZDIyNzEwMzkzNTI2ZTRkY2U1ZjAzZjY3MTIwNmNlMDY0NTQ2MTM5ZmRlMzc3OTNhMmQzMDBhODYwN2FjYTM1YzkwYzk0OGJlY2Q4N2QxYSIsInQiOjE1ODI3MzA4NjUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.dwXBHFfHi22gw9Fh7uFKs652k4j_1_ePoP3jFMIeHag/Dark-openSUSE-v.3.zip</payload>
+  <tags>gplv3,modification-product,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>McMojave sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1312086</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>99239</downloads>
+  <installedfile>/tmp/McMojave.tar.xz</installedfile>
+  <id>1312086</id>
+  <releasedate>2019-10-07</releasedate>
+  <summary>McMojave sddm</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/6/9/e/3a19d47bca4563dc50d3c61b96bb89e6ba54.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/6/9/e/3a19d47bca4563dc50d3c61b96bb89e6ba54.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzA0NDc3MjMiLCJvIjoiMSIsInMiOiJkMTU0OTBhOTRmZTgyMTAxMDZjYjI5YjU3NGE1MjkwYTczYTcwOGRiNThjZjYyODIwZDViZjQ0ODE3NzI3N2RkMmNlYjkwYzgzY2Y0ODgyY2JlYjIxZjBmZTI3ZDRhOTUxNDJmMjkyZTY1YTM0ZTc3ODUwYTFjYmM4MDA4Zjk1ZSIsInQiOjE1ODI3MzA3OTcsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.qtjWVqqM5jA3cYL0kdaZlSoZfUEI33w1s8ZveD6VbT0/McMojave.tar.xz</payload>
+  <tags>gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>ChromeOS sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1354053</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>9902</downloads>
+  <installedfile>/tmp/ChromeOS.tar.xz</installedfile>
+  <id>1354053</id>
+  <releasedate>2020-01-23</releasedate>
+  <summary>ChromeOS kde is a materia Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+- Aurorae Themes&lt;br />
+- Kvantum Themes&lt;br />
+- Plasma Color Schemes&lt;br />
+- Plasma Desktop Themes&lt;br />
+- Plasma Look-and-Feel Themes</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/7/d/4/7403c79bb211660b9b0c402a71989efd6956.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/7/d/4/7403c79bb211660b9b0c402a71989efd6956.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzk3NjAzMTYiLCJvIjoiMSIsInMiOiIyNTc5ODk5ZjFlMmM1YzVmZDNjMTRhNGUzZmJiYzRiNTU3MzAwNDQ3MmE1YzRiZmE2N2UxMjQ1NmIxNjE3OTgzMTNiMWUxNmNiOGIxZTljNGZjOWQ5NTE4ZDk0Mjk4MDc5NjA2MjdjZTIxNzQxMjBhODYzYzdkZWJhMzhhNDE4NyIsInQiOjE1ODI3MzA4MzUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.Ye2Nb8DHlRzp7v9qb2QAA7MatDAfNGt7_DZQ30rXVFQ/ChromeOS.tar.xz</payload>
+  <tags>gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Sweet sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1334945</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>90227</downloads>
+  <installedfile>/tmp/Sweet.tar.gz</installedfile>
+  <id>1334945</id>
+  <releasedate>2019-11-07</releasedate>
+  <summary>Colorful sddm theme to fit my &lt;a href="https://store.kde.org/p/1294729/" target="_blank" rel="nofollow"> Sweet theme &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/f/f/b/634b8f876ef80d3dd23d9308986ec9a55e03.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/f/f/b/634b8f876ef80d3dd23d9308986ec9a55e03.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzMxNTg3MTYiLCJvIjoiMSIsInMiOiI3YTI2NTA4MDdlODQ2Y2U1ZGE2MzM4ZmIzMTFlZGUzMjg1ODlkODc5ZjBhY2FiOGU5ZmFlMDU4YWE2NTQyOWRmNjZmMzdkNjdhMDQ3ZTQxZjgxM2EzYjFhYTE1ODc2YjJhZDNmZTQxNGI3ZTQxOTAwNzYzYTgzYzAxOTdkYWQ1ZCIsInQiOjE1ODI3MzA4MTQsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.vv0gVAM9FMKsXktBEr8oObiWSTCu3rQisrUpT-3ijWQ/Sweet.tar.gz</payload>
+  <tags>gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

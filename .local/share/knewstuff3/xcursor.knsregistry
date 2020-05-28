@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Star Labs Cursor Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>starlabs</author>
+  <homepage>https://store.kde.org/p/1284345</homepage>
+  <licence></licence>
+  <version>1.0.1</version>
+  <rating>63</rating>
+  <downloads>9700</downloads>
+  <installedfile>/home/lstrohm/.icons//themes/*</installedfile>
+  <installedfile>/home/lstrohm/.icons//</installedfile>
+  <id>1284345</id>
+  <releasedate>2019-01-09</releasedate>
+  <summary>Star Labsesque cursor theme&lt;br />
+&lt;br />
+Currently has Standard, Dark and Light variants.&lt;br />
+&lt;br />
+On Ubuntu, Linux Mint, elementaryOS&lt;br />
+&lt;br />
+Install:&lt;br />
+sudo add-apt-repository ppa:starlabs/ppa&lt;br />
+sudo apt update&lt;br />
+sudo apt install starlabs-cursor-theme&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/f/d/7/027c13fcb6e5f8b33c1a9e5c0c3f5ebb3fc8.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/f/d/7/027c13fcb6e5f8b33c1a9e5c0c3f5ebb3fc8.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NDcwNjUxOTQiLCJvIjoiMSIsInMiOiI2YTYyNmQ0MmVjZDAwNjg1MjMzNGQ0MDMxNzI0NzVlNTJhMjkxNzI2NGMxNGE4OTU2ODQ4ZmM3MTY2NzVlMWMxODUwYjBiMzgyNzU5OTY0YWQwMjFhYTFhYzk3MzZlNmI4ZDNjMTcyYjlhNzcwMTlhMzQ3YjdhYWZmOGY3ZTBlZCIsInQiOjE1ODI3Mjc1ODEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.l0qEKb5sJlK1Aet3WZgGn6ZFeNb8yf2xxB66KZtha1g/themes.zip</payload>
+  <tags>original-product,source-package,gplv3,linux,unix,cursor,star,labs,laptop</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Vimix cursors theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1358330</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>78</rating>
+  <downloads>1577</downloads>
+  <installedfile>/home/lstrohm/.icons//Vimix-white-cursors/*</installedfile>
+  <installedfile>/home/lstrohm/.icons//</installedfile>
+  <id>1358330</id>
+  <releasedate>2020-02-23</releasedate>
+  <summary>Vimix cursors theme for linux desktop</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/a/2/6/f149edb5f0995baf6998b5294bb15e4b33e0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/a/2/6/f149edb5f0995baf6998b5294bb15e4b33e0.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODI0NDIxMTYiLCJvIjoiMSIsInMiOiIyZjEzNGQ0Y2UzZDg0NTEwYTE2ZWJiYzYwZDc2ZjJlOTcxZjFjNzJiOTBkYzBlNjM5NDkxZTRlNTk4NjA1NTlmZWMzMjQyMzVlMmU1NGY2ODg4NTcxZmY0ZTBhNGU3ZTkwMTczNWMxZWZjMmQ4ZWUyZjMwYmMyNWMxMzQ3ZGYzOSIsInQiOjE1ODI3Mjc1NDIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.X5UGteIXEnAFJVy5iP5mtvsLKrmAjC1wVPPXW74t7Ww/02-Vimix-white-cursors.tar.xz</payload>
+  <tags>gplv3,linux,unix,cursor</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

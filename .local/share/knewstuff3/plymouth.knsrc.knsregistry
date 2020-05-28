@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="108">
+  <name>Apple Macintosh Plymouth Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>mikebearly</author>
+  <homepage>https://store.kde.org/p/1311587</homepage>
+  <licence></licence>
+  <version>1</version>
+  <rating>63</rating>
+  <downloads>9922</downloads>
+  <installedfile>/home/lstrohm/.local/share/kplymouththemeinstaller//apple-mac-plymouth.tar.xz</installedfile>
+  <id>1311587</id>
+  <releasedate>2019-06-26</releasedate>
+  <summary>Apple Mac Plymouth Installation for Ubuntu 18.04 LTS, Xubuntu 18.04, Kubuntu 18.04, Linux Mint 19</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/3/6/2/4b6daac8af423b94bf50ea8063ec3fc2f52e.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/3/6/2/4b6daac8af423b94bf50ea8063ec3fc2f52e.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjE1NTExNDAiLCJvIjoiMSIsInMiOiI3MmJiZTlhNDJlMjc2NzUyMGE2N2Q0ZjIyN2QyOWRkNzMyNTg4NmJmZmFkMzAxYmNiNGFlMDlkZjZkYzZjYmNmZjIyM2Y4MjdhYjg0ZDhjYTg4NTNmYWM5Mzc2NTRhNTdjNDQ5MWJmZWNhMDY3NjFhZTU1Y2U3NjIzYjUzZjRkMSIsInQiOjE1ODI3NDc0MDAsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.cik-RwlwpORNdp7ZhfXkYBC8TkGiPy86Kmjaee5KQQA/apple-mac-plymouth.tar.xz</payload>
+  <tags>gplv3,unix,splashscreen,bootscreen,apple,plymouth,splash,linux,macos</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="108">
+  <name>Graffmouth Arch Linux - Alter Plymouth Theme for Arch</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>lisabonne_citadel</author>
+  <homepage>https://store.kde.org/p/1180617</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>847</downloads>
+  <installedfile>/home/lstrohm/.local/share/kplymouththemeinstaller//graffmouth_archlinux.tar.gz</installedfile>
+  <id>1180617</id>
+  <releasedate>2017-06-11</releasedate>
+  <summary>Graffmouth with orange progress bar&lt;br />
+background is 1920X1200&lt;br />
+in case the fit screen is weird, you can redimensionate with center position and apply your screen resolution easily with some image editor</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/3/c/c/07f65291476366ed7d83b0205903f744ebfc.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/3/c/c/07f65291476366ed7d83b0205903f744ebfc.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0OTcyMjE0NzciLCJvIjoiMSIsInMiOiI2NmM1YThlODcwMGUzNTA3ZjQ2NzNmN2JkYWY2YzZlMmExYjM5MTk5Yjc5OGQ0YjMyMTI5MDU4NmRkNmI2Yzk4MDlmNDNiZjlhZjRjOTFhMjMzMTNmYWU1YzA5MzlhNDYxMDJhYmMyNmM4Y2JlMjFmNjkwN2RlNGIxNDE0YzBkYyIsInQiOjE1ODI3NDc1MjUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.n7lninyqaaFr13DzAQiionChDwbPEn4H_BuiwR_gPdg/graffmouth_archlinux.tar.gz</payload>
+  <tags>bootscreen,plymouth,linux,unix,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="108">
+  <name>Windows 10 bootsplash</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Brahimsalem</author>
+  <homepage>https://store.kde.org/p/1009178</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>55</rating>
+  <downloads>9545</downloads>
+  <installedfile>/home/lstrohm/.local/share/kplymouththemeinstaller//174351-win10.tar.gz</installedfile>
+  <id>1009178</id>
+  <releasedate>2017-08-24</releasedate>
+  <summary>- I wanted to help Windows 10 transformation pack project http://b00merang.weebly.com/windows-10.html, so I asked my genius friend OobuntusGooftus http://gnome-look.org/usermanager/search.php?username=OobuntusGooftus   to create me a bootsplash and so he did. Enjoy guys!!!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/174351-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/174351-1.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3NTMxMTkiLCJvIjoiMSIsInMiOiJhNzAzMzRiMWRjNDVhYzQ3NWNhYjIyZmY0MWQ3YzU2ZWRhMzJkYTRjN2M5YjJkOTdhODVhNTc5OTNmNGY1Yzc2ZDk0MTY1OTRlNWM4MjNhZjZiY2U4ZGE1YmUxNjhmMWQ3Y2ViNTMwOThmODFhZmE4YTU0MWI1YTAyZmE3ZWMwNiIsInQiOjE1ODI3NDc0MTYsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.MvbtY13E-coI5BP7Bc--7ZjucZaGkeZCFyN1W8QyvY4/174351-win10.tar.gz</payload>
+  <tags>bootscreen,plymouth,linux,unix,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="108">
+  <name>Fallout Plymouth Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Griffen8280</author>
+  <homepage>https://store.kde.org/p/1259515</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>63</rating>
+  <downloads>3847</downloads>
+  <installedfile>/home/lstrohm/.local/share/kplymouththemeinstaller//fallout.tar.xz</installedfile>
+  <id>1259515</id>
+  <releasedate>2018-09-07</releasedate>
+  <summary>This is a simple Plymouth theme for fans of the Fallout games.&lt;br />
+&lt;br />
+When combined with the Grub-Theme found here: https://www.opendesktop.org/p/1230882/&lt;br />
+&lt;br />
+You can make a pretty complete Fallout boot experience for yourself.  It would only be a matter of updating your login...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/6/d/a/c461cf66cf3ee42f848daae0df78f360ea67.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/6/d/a/c461cf66cf3ee42f848daae0df78f360ea67.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MzYzMzQwMTUiLCJvIjoiMSIsInMiOiIyNzBlZGFiNWI0ZGEzYzdmNmM4Y2FjNTg5YzEwMTViMmQwOGY3OGQwYjVjZmY1ZmQzYjg4ZTlhZjc3NDBmNDQwY2Y5YWQ3MGI5YjgyMmQ3YjU2Y2FhZDlkNTFiYzkwYmYxNTkwMjA2MzEyMTJjMjRjZDg3ZjFlYzBlNzVjYWE3MCIsInQiOjE1ODI3NDc0MzAsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.vCZ2YakS1Y8ZRRyq0IkWeOCei7hKWQP31GQXsLfsvas/fallout.tar.xz</payload>
+  <tags>fallout,plymouth,linux,unix,splashscreen,bootscreen,cc0</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

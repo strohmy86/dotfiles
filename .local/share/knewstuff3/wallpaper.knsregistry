@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Plasma Desktop Wallpaper 1557 HD 4K</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1361483</homepage>
+  <licence></licence>
+  <version>Plasma Scenery Series</version>
+  <rating>60</rating>
+  <downloads>148</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers//HD NO LOGO 1557.png</installedfile>
+  <id>1361483</id>
+  <releasedate>2020-02-20</releasedate>
+  <summary>&lt;strong>Like these? Click on the "impress" tag and you should see many of my KDE Plasma wallpapers.&lt;br />
+Big thanks and shout out to supporting creators and tech support :)&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: #873260;"> &lt;strong>mrcuve0&lt;/strong>&lt;/span>: &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/6/1/1/fa0d929b51e2439632dcb35b889ee3e4b407.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/6/1/1/fa0d929b51e2439632dcb35b889ee3e4b407.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIyMDM0NDIiLCJvIjoiMSIsInMiOiIwY2NhMzliYzc1ZmQwZWMwNzY4YjQ3N2U0ZmQ3OWZhNDlhZGY3ZDFmNmNiMDZiMmNmNTlmMDdkMWEzNmQxMzlhOGY0YmY2ZTlhZjE3MDI3ZjIyZjBjNGY1OTQzYjM3NWI3Nzg1NDViMTAzOGQxNTk1OTUzNzljNDdlMmQ2MDI4YyIsInQiOjE1ODI3Mjg2NjAsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.9SzicXPR0c1XJCvbSaIsqsSYgkJLKrKmkgUGxtrj-nY/HD NO LOGO 1557.png</payload>
+  <tags>wallpaper,artwork,cc-by,original-product,kde,plasma,desktop,scenery,impress</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Space Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>antechdesigns</author>
+  <homepage>https://store.kde.org/p/1243989</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>84</rating>
+  <downloads>67175</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers//Space Plasma 1080P.jpg</installedfile>
+  <id>1243989</id>
+  <releasedate>2018-10-14</releasedate>
+  <summary>**added other color**&lt;br />
+Download file for High Resolution image 16*9 view full screen for best image quality.&lt;br />
+added preview</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/7/0/8/26dcea4ba9055ba7851dbb88ff5b7afb79d4.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/7/0/8/26dcea4ba9055ba7851dbb88ff5b7afb79d4.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MzAxOTIyNjAiLCJvIjoiMSIsInMiOiI3OGEyMjE4ZjUxMjhmZGJkZDRiNDA0YjU4MTBhMDcxNWZhMmEwZjc4YmNjYWZjNjc3NDM1ZTE3MThhNGVlMTc2ZGZhYWNjNTc1ODdkMDE2M2ZlMjUyODQyMWRmZDk3Y2IzMjUzM2U5YTc3OTA5NTkwNWM2Y2VkYzdiN2I0MjhlNSIsInQiOjE1ODI3MjgzMjYsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.jbFNkfJkhoC0b-TMV-YLNC9CBZvdKsBVwgr2UMUUFkw/Space Plasma 1080P.jpg</payload>
+  <tags>plasma,kde,linux,kdeplasma,cc-by,wallpaper,artwork,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>KDE Plasma Nebula 273 HD Multiple Colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1303886</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>36362</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers//Blue And Purple No Logo.png</installedfile>
+  <id>1303886</id>
+  <releasedate>2019-05-04</releasedate>
+  <summary>1920 X 1080&lt;br />
+No Logo&lt;br />
+Like these? Click on the "impress" tag and you should see many of my KDE Plasma wallpapers.&lt;br />
+&lt;br />
+Big thanks and shout out to supporting creators and tech support :)&lt;br />
+&lt;br />
+FreeFreeno https://www.opendesktop.org/u/freefreeno/&lt;br />
+&lt;br />
+l4K1...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/0/e/9/806c2c47237390ac99892f2a4baa962e3774.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/0/e/9/806c2c47237390ac99892f2a4baa962e3774.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTY5OTY2MDgiLCJvIjoiMSIsInMiOiIyOGI3ZWNmYzAyOWI2MWVkNDYxMmNhYTJiMjk5MzQ2Mzk0YTVjZmU1NGVhODZiYmM5MzA2NGMxM2U3MGY1YjUzZWNkZDIwOTI4OGUxZGNkN2U1NWMyMTI4NDhlNjcwMjE3YTJlOGYwMjQ1ODc1NjMwNGI4OTdhNmY3NTQzZDdhMSIsInQiOjE1ODI3MjgzMDEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.vH4WRKye63-a5-2ez8KSoagYSr1YbbCcKAbIr9PfSHI/Blue And Purple No Logo.png</payload>
+  <tags>kde,plasma,impress,abstract,colors,wallpaper,artwork,original-product,cc-by</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>KDE Plasma Scenery 64 HD</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1308584</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>18558</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers//KDE Plasma Scenery 64 NO LOGO.png</installedfile>
+  <id>1308584</id>
+  <releasedate>2019-06-05</releasedate>
+  <summary>HD 1920 X 1080 &amp;amp; 4K 3840 X 2160&lt;br />
+No Logo Option&lt;br />
+Like these? Click on the "impress" tag and you should see many of my KDE Plasma wallpapers.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/d/8/b/2cc769d8a32a546c187ec448f52140fb13ab.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/d/8/b/2cc769d8a32a546c187ec448f52140fb13ab.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTk3ODUyNTciLCJvIjoiMSIsInMiOiI3MjEzNTk0ZDA2NmNhZjRkMjU2OTU2MzRmNDQ0ODIxNGE2OTVkMTcwYWFhOTRlYTZlZDUwZDc2MDBkNjM4ZWQ1MWZhZjU0OTlmNWRiZjBlYThhOTAyYmIzODVhYWM4MmMxOWEzMjQ5ZDQ1ZGFkZmUwMjMyNWMwOGJiOTFjMTg4MSIsInQiOjE1ODI3MjgzMDgsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.bc2GDzoLQ9XIyfxUk-upU3hM2RiXCs8lX3qBmh18k5I/KDE Plasma Scenery 64 NO LOGO.png</payload>
+  <tags>kde,plasma,impress,scenery,city,original-product,cc-by,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

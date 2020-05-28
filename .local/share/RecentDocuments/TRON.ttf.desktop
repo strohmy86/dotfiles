@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=font-ttf
+Name=TRON.ttf
+Type=Link
+URL[$e]=file:$HOME/.conky/WIU/fonts/TRON.ttf
+X-KDE-LastOpenedWith=org.kde.kfontview

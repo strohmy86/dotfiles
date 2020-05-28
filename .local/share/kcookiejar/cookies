@@ -1,0 +1,32 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.google.com]
+google.com           ".google.com"        "/"          1645811207    0 SID                  4    uAc3DyFg7olmP3DdrVIAkoieb-8ibYp3_6jo5Fd0guBZe7dsF4kVvRy4G7lvAzFrYBNgfg.
+google.com           ".google.com"        "/"          1645811207    0 __Secure-3PSID       7    uAc3DyFg7olmP3DdrVIAkoieb-8ibYp3_6jo5Fd0guBZe7dsbZ1jLGeCx5mWcJdOL63-YQ.
+google.com           ".google.com"        "/"          1645811207    0 HSID                 6    A2dPe0wDm3MphLNnj
+google.com           ".google.com"        "/"          1645811207    0 SSID                 7    AuyjnTDclhPDfmoLk
+google.com           ".google.com"        "/"          1645811207    0 APISID               4    AmHUTUC2LVkd_XXI/AyjELTHqsyk-4LiZx
+google.com           ".google.com"        "/"          1645811207    0 SAPISID              5    kYLQGyFRmOZMHmBU/ALAY48Qh0I_9UpV-J
+google.com           ".google.com"        "/"          1596268800    0 __Secure-HSID        7    A2dPe0wDm3MphLNnj
+google.com           ".google.com"        "/"          1596268800    0 __Secure-SSID        7    AuyjnTDclhPDfmoLk
+google.com           ".google.com"        "/"          1596268800    0 __Secure-APISID      5    AmHUTUC2LVkd_XXI/AyjELTHqsyk-4LiZx
+google.com           ".google.com"        "/"          1645811207    0 __Secure-3PAPISID    5    kYLQGyFRmOZMHmBU/ALAY48Qh0I_9UpV-J
+google.com           ".google.com"        "/"          1598550407    0 NID                  7    198=Fu3_aZdVajLtv-k_xJf4Yg6kKGL-IHVfwT-vZMoOZxqJQOvMfSrQVJIOejvru3uC39qOvZcQSDCZjMRhiF-V1w2g-ciAN-leJfideTzF64wJ3YBR2s6u_VSR4Dab77p1SXv1RR4NgJYM90DJAnh5LE86pk6x58mSbrlAKBZB9ow
+accounts.google.com  ""                   "/"          1903283207    0 SMSV                 5    ADHTe-Aw9iiPEoXSk8flmuXJZ-zQ2zHzf6Yyvy4iBiqLnQgK4_dBjnSaOXZo7wY5WgMxB21Pbxz8IpoWvkjKrSQyapnvRYCZHFGfSQY72rOXcrtONiQRAio
+accounts.google.com  ""                   "/"          1645811207    0 ACCOUNT_CHOOSER      5    AFx_qI4jdwl9rQx7srktbFzg5_fMie9xgeucmygf2GKQ-wbzqhRFq327ZiVBXptiwB1YPJrfzNVGo5k3FJ8Va2zFoiPx0h4cedWc1zlRpRS92frI3_vGJDm5iymQvsGy2i3vDmBbumYX
+accounts.google.com  ""                   "/"          1645817598    0 GAPS                 7    1:Heamy4-DqUPzMCtfToXeXFUNfd9KW126CAd9GJQXTHXvEnPv6nS7HVpnUWR0T3GxUPtE_5jjTBbKTFKTtFbAtz7-a7lU3Q:pnJs_QbzLneXdphQ
+accounts.google.com  ""                   "/"          1645817599    0 LSID                 7    ah|lso|s.youtube:uAc3D9toLu6blOzbyeI63wb6G30RtYHpZdMJE1W6RNdHzyiMPP30mr5ZZCefKhabZgmKeg.
+accounts.google.com  ""                   "/"          1645817599    0 __Host-3PLSID        7    ah|lso|s.youtube:uAc3D9toLu6blOzbyeI63wb6G30RtYHpZdMJE1W6RNdHzyiMzgqY4CSHtlvC3DuvWixOhA.
+docs.google.com      ".google.com"        "/"          1615557138    0 SIDCC                4    AJi4QfGfcnbGLkUP2XFgQkQ71Fb5TD5xJZ9lS362W07a8cVt8vByJZTRPy850wc3fL31gqY6
+[.youtube.com]
+youtube.com          ".youtube.com"       "/"          1645811207    0 SID                  4    uAc3DyFg7olmP3DdrVIAkoieb-8ibYp3_6jo5Fd0guBZe7dsF4kVvRy4G7lvAzFrYBNgfg.
+youtube.com          ".youtube.com"       "/"          1645811207    0 __Secure-3PSID       7    uAc3DyFg7olmP3DdrVIAkoieb-8ibYp3_6jo5Fd0guBZe7dsbZ1jLGeCx5mWcJdOL63-YQ.
+youtube.com          ".youtube.com"       "/"          1645811207    0 HSID                 6    AIVFPiqHgKpCEcqFi
+youtube.com          ".youtube.com"       "/"          1645811207    0 SSID                 7    AoGK6WZaRzxZMqJF5
+youtube.com          ".youtube.com"       "/"          1645811207    0 APISID               4    AmHUTUC2LVkd_XXI/AyjELTHqsyk-4LiZx
+youtube.com          ".youtube.com"       "/"          1645811207    0 SAPISID              5    kYLQGyFRmOZMHmBU/ALAY48Qh0I_9UpV-J
+youtube.com          ".youtube.com"       "/"          1596268799    0 __Secure-HSID        7    AIVFPiqHgKpCEcqFi
+youtube.com          ".youtube.com"       "/"          1596268799    0 __Secure-SSID        7    AoGK6WZaRzxZMqJF5
+youtube.com          ".youtube.com"       "/"          1596268799    0 __Secure-APISID      5    AmHUTUC2LVkd_XXI/AyjELTHqsyk-4LiZx
+youtube.com          ".youtube.com"       "/"          1645811207    0 __Secure-3PAPISID    5    kYLQGyFRmOZMHmBU/ALAY48Qh0I_9UpV-J

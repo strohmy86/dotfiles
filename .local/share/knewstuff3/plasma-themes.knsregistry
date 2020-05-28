@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Arc KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1167639</homepage>
+  <licence></licence>
+  <version>20180614</version>
+  <rating>83</rating>
+  <downloads>387963</downloads>
+  <installedfile>/tmp/2-Arc-Color.tar.gz</installedfile>
+  <id>1167639</id>
+  <releasedate>2018-06-14</releasedate>
+  <summary>Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.&lt;br />
+&lt;br />
+Screenshot Details&lt;br />
+Engine: Kavntum&lt;br />
+Kvantum Theme: Arc Darker&lt;br />
+Aurorae Decoration: Arc Dark&lt;br />
+Plasma Theme: Arc Dark&lt;br />
+Icons: Papirus&lt;br />
+Dock: Latte...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Mjg5NzY0MDYiLCJvIjoiMSIsInMiOiJiYWU3OTg4NDE3ZWMwZGU1N2JmZWFjNWJiYmQxZjUwYTZmYjkyNDY2OTc3ZTg2ZmJjYzM5NWQ0YTNiYWVmMmRhODgwZmNjOWZlNDAxY2YwYzViYTM3YTgyOTA1YWZhY2IxYjUxZGU1ZmQ0NDUxMGE5YzFiYWM3MTllMzgyNWYzNyIsInQiOjE1ODI3Mjc0MjYsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.hxuxHOcNYFaRP3pjiWCB9tsqgcwBGpBUM0vtWXFq8GI/2-Arc-Color.tar.gz</payload>
+  <tags>gplv3,source-package,linux,unix,kde,plasma,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294174</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>184500</downloads>
+  <installedfile>/tmp/Sweet.tar.xz</installedfile>
+  <id>1294174</id>
+  <releasedate>2019-08-31</releasedate>
+  <summary>A dark and modern theme for Plasma  based on the awesome &lt;a href="https://store.kde.org/p/998869/" target="_blank" rel="nofollow">Helium&lt;/a> theme.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet Kvantum theme&lt;/a>&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/e/5/5/c0411cd98755fa2d9ed428216e8fc6285040.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/e/5/5/c0411cd98755fa2d9ed428216e8fc6285040.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjcyNzQ5ODEiLCJvIjoiMSIsInMiOiJkNjI2ZWZjYTE1Y2NhNzFmMTY1MDMwYjRmNWQ1YzU5MTQ5M2FkZjY1MjU3NTVlNGEyYzA2YmRjM2I2ZTc2MWZmNWNjOGZiZmE0ZjA3ZDExNjAxMTJiNWI2ZjZiZTFkOGE3MjBiNmIxNDJkODU4ZjRiYzBjYTdmN2FkNjAxNWU3ZCIsInQiOjE1ODI3MjczODksInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.L8YUXywVo70NEOjmX7MSpJZ-xneklS-OwBIuUJLfSBU/Sweet.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Carl Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1330604</homepage>
+  <licence></licence>
+  <version>1.2.1</version>
+  <rating>74</rating>
+  <downloads>2869</downloads>
+  <installedfile>/tmp/Carl.tar.gz</installedfile>
+  <id>1330604</id>
+  <releasedate>2020-01-02</releasedate>
+  <summary>Dark Plasma theme with bluish gradients.&lt;br />
+&lt;br />
+ Image wallpaper of charlie-henson https://www.pling.com/u/charlie-henson/ modified by me.&lt;br />
+The wallpaper is inside the theme folder.&lt;br />
+&lt;br />
+Carl Look-and-Feel: https://www.pling.com/p/1338881/&lt;br />
+&lt;br />
+Carl Kvantum theme: https://www.pling.com/p/1331615/&lt;br />
+&lt;br />
+Carl color schemes: https://www.pling.com/p/1331616/&lt;br />
+&lt;br />
+Carl Aurorae theme: https://www.pling.com/p/1331617/&lt;br />
+&lt;br />
+Carl Konsole theme: https://www.pling.com/p/1331618/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/f/4/3/7b68d7248a7624fdc21a4ab125aeaf4240b9.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/f/4/3/7b68d7248a7624fdc21a4ab125aeaf4240b9.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzgwMDM5MzMiLCJvIjoiMSIsInMiOiI0ZjNjYTVkOGI3YTFhNTI0ODMyYzA1ZGZkMWU0ODk3MWExMDUwMTRhN2UxN2M3ZTJlOGMwZTE1ZjAxYzY4ZDFjMDFhNWIzM2NmNjU3OTIzMDdkNTQ5MTU3ZDNhNWQ3MDMxYzUyZjE2MGRlNGVkYjY0OGU4ZjE3NjI0ZjkyMjY2ZiIsInQiOjE1ODI3MjgwMTgsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.sj1Cr0IXuhwxogm2ceW_-bnC1pKUSjmXx45ZJphSk_c/Carl.tar.gz</payload>
+  <tags>plasma##majorversion=5,gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Adapta KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1191695</homepage>
+  <licence></licence>
+  <version>20180828</version>
+  <rating>83</rating>
+  <downloads>129941</downloads>
+  <installedfile>/tmp/adapta-plasma.tar.gz</installedfile>
+  <id>1191695</id>
+  <releasedate>2018-08-28</releasedate>
+  <summary>Adapta KDE - This is a port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.&lt;br />
+Breeze engine not supported!!!&lt;br />
+PLEASE USE THIS CUSTOMIZATION WITH KVANTUM ENGINE:&lt;br />
+https://www.opendesktop.org/p/1005410/&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/4/7/0/76d5353fa081571df5723ae32be3d548d6c4.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/4/7/0/76d5353fa081571df5723ae32be3d548d6c4.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MzU0MzQ2ODciLCJvIjoiMSIsInMiOiI1NzM2MjE0Y2U1ZDQzNDQzOGQ2NzRjNGQ2NjZmYWMwYWQ5ZjNhNTRlMDM2YTZjOTJkODFjN2JjZGVjMTk5YTY3ODE5OTA3YTdiYWIyODdmNWY3ZjI3YzE4OWVlNmViN2Y0NDkwYWFhNTc4ZGYyYjM0ZTc1ZDkwY2I3ODU4OTcxZCIsInQiOjE1ODI3Mjc0NTMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.TyQh6Mj-edwely09AK_3c5gCqgBZWh6LxfkbviT1bow/adapta-plasma.tar.gz</payload>
+  <tags>adapta,kde,plasma,linux,unix,theme,gplv3,source-package</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Materia KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229134</homepage>
+  <licence></licence>
+  <version>20200125</version>
+  <rating>84</rating>
+  <downloads>5056</downloads>
+  <installedfile>/tmp/Materia.tar.gz</installedfile>
+  <id>1229134</id>
+  <releasedate>2020-02-02</releasedate>
+  <summary>Materia KDE - it's port Materia GTK Theme for Plasma 5 desktop.&lt;br />
+NOTE: This version compatibility with only Materia GTK 20190315&lt;br />
+&lt;br />
+Available 4 variants:&lt;br />
+Materia - default theme with monochrome  &amp;amp; material icons&lt;br />
+Materia Blur - transparent &amp;amp; blurred theme  with...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA2MjI0MDMiLCJvIjoiMSIsInMiOiIyYzllYjc2YjEyNmZmMTA2ZGNiYjVlOGE5ZDY2OGM1NWFhNmQzYWM3MDBhODJkYjk3YmNkMDVlMzdhODdhNDc5MjUzZTFhYzUzNDkwOGM0ZWM1NTQxZDlkMzk0MTY4MjhmYmE1NzBjYTNkYmZiZDg5YmY3OWYxZDM5ZGUwYTBjMiIsInQiOjE1ODI3Mjc0NjMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.dLUky-izne3fawby-Pxt6NG0kk6m7eE8HQG9ctkW_NU/Materia.tar.gz</payload>
+  <tags>gplv3,original-product,plasma##majorversion=5,linux,unix,theme,kde,plasma,materia,material</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>McMojave Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305006</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>78</rating>
+  <downloads>24978</downloads>
+  <installedfile>/tmp/McMojave.tar.xz</installedfile>
+  <id>1305006</id>
+  <releasedate>2020-01-31</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305005/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA0NDk2MTgiLCJvIjoiMSIsInMiOiI5OTdlMWE5NDE5N2ZmMjVmZTVmM2Q3NmYxZDA3NzQxYjJiOWNjMTUxMDMyMjZlM2QxODRlNDZkYzdkYzhlYzY1MTA1ZGJhNDdjNzc2MzhhNTU0MjliNGViNWNlZGI0ZGQyYTgxMGVkM2RhZWUzNzIxZDVlOGQwMTYxZWU0MzkxZiIsInQiOjE1ODI3MjczOTIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.WzEQB0ncip7bkMCxMEolrMFBG_65HzybquinA6-UJoM/McMojave.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Breeze-Noir-Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1361472</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>2919</downloads>
+  <installedfile>/tmp/Breeze-Noir-Dark.zip</installedfile>
+  <id>1361472</id>
+  <releasedate>2020-02-20</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur.&lt;br />
+&lt;br />
+The theme is based on Default Plasma Theme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Dark&lt;/strong> &lt;/span>.&lt;br />
+&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #2e75bc;">...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/5/4/c/7b4fb655330c20852b526369b61d0e09b2cf.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/5/4/c/7b4fb655330c20852b526369b61d0e09b2cf.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIxOTc0MzAiLCJvIjoiMSIsInMiOiIyNmVkMTI1ZmNkZjIyNTVjN2RhNDg0Y2NjNTAxNzBmYzU5YjBiZGZjMmM0ODQyMThmOGUyZDYxZWZmY2RkYmUyOGQyMmU4MzI2YmY2NTM3MjRlYTQ1NjY3M2NmZTc3NmYwYjc5NGM3YWViNzYxOGEzY2ZjZGFmYWRhNjhlYzU2MCIsInQiOjE1ODI3Mjc0MzUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9._BkWC-C1hcKlBgC-i1bq4PuxEpsCb11A5Re0inljsMI/Breeze-Noir-Dark.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3,modification-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lstrohm/.conky/WIU/WIU" added="2020-02-26T14:16:08Z" modified="2020-04-30T15:34:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="electron4" exec="&apos;electron4 %u&apos;" modified="2020-04-30T15:34:31Z" count="2"/>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2020-02-26T18:47:48Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-02-28T18:00:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lstrohm/Wallpapers" added="2020-05-26T11:36:59Z" modified="2020-05-26T11:36:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2020-05-26T11:36:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lstrohm/.xmonad/xmonad.hs" added="2020-05-26T12:10:33Z" modified="2020-05-26T12:10:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="electron5" exec="&apos;electron5 %u&apos;" modified="2020-05-26T12:10:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lstrohm/Downloads/Hack%20Bold%20Nerd%20Font%20Complete%20Mono.ttf" added="2020-05-26T14:43:45Z" modified="2020-05-26T14:43:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-05-26T14:43:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lstrohm/Downloads/Hack%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono.ttf" added="2020-05-26T14:44:01Z" modified="2020-05-26T14:44:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-05-26T14:44:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lstrohm/Downloads/Hack%20Italic%20Nerd%20Font%20Complete%20Mono.ttf" added="2020-05-26T14:44:19Z" modified="2020-05-26T14:44:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-05-26T14:44:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lstrohm/Downloads/gamadv-xtd3-5.03.41-linux-x86_64-glibc2.27.tar.xz" added="2020-05-26T16:19:43Z" modified="2020-05-26T16:19:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-05-26T16:19:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

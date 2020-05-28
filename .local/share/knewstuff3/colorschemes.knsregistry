@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Carl Color-schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1331616</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>60</rating>
+  <downloads>2826</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//Carl.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//</installedfile>
+  <id>1331616</id>
+  <releasedate>2019-10-20</releasedate>
+  <summary>Dark color scheme for Carl plasma theme https://store.kde.org/p/1330604/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzE2MTU0MjUiLCJvIjoiMSIsInMiOiI1MzcyYmRiYTM2ZjFiNWRjMDg0ZmE1NWExYmIzMzQ3NWM0YjNiZmM0YmZiOTlkZmU0NWM2OTQ1MTk0ZDZiZGQwNzJhY2FlYjc0YzY2MjU5MjZkOWQ3ZDIzZGYyNjc2NzA1ZDZmNGFmMWRiZTAxNTM1MGNjMGNkNWMwMGM3MmE0YiIsInQiOjE1ODI3MjgwMTUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.zNt1HHOgVgQ_dj0X_yu7AsTBsYDEYzXSWR1TAJX10fc/Carl-20191020234156.colors.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

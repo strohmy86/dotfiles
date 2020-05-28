@@ -1,0 +1,124 @@
+[: Missing argument at index 2
+
+~/.config/fish/conf.d/omf.fish (line 16): 
+if [ $TERM != "dumb" ]
+   ^
+from sourcing file ~/.config/fish/conf.d/omf.fish
+	called on line 294 of file /usr/share/fish/config.fish
+from sourcing file /usr/share/fish/config.fish
+	called during startup
+
+(Type 'help [' for related documentation)
+XMonad is recompiling and replacing itself another XMonad process because the current process is called "xmonad" but the compiled configuration should be called "xmonad-x86_64-linux"
+XMonad will use ghc to recompile, because "/home/lstrohm/.xmonad/build" does not exist.
+XMonad skipping recompile because it is not forced (e.g. via --recompile), and neither xmonad.hs nor any *.hs / *.lhs / *.hsc files in lib/ have been changed.
+trayer: monitor parameter isn't valid, resetting value to 0
+Bad _NET_DESKTOP with data[0]=-1
+Bad _NET_DESKTOP with data[0]=-1
+Bad _NET_DESKTOP with data[0]=-1
+Bad _NET_DESKTOP with data[0]=-1
+Bad _NET_DESKTOP with data[0]=-1
+Bad _NET_DESKTOP with data[0]=-1
+
+(nm-applet:24834): libnotify-WARNING **: 11:40:01.122: Failed to connect to proxy
+
+(nm-applet:24834): nm-applet-WARNING **: 11:40:26.148: Failed to show notification: Error calling StartServiceByName for org.freedesktop.Notifications: Timeout was reached
+user error (Error in function getWindowAttributes)
+xmobar: Caught signal 15; exiting...
+<file descriptor: 4>: commitBuffer: resource vanished (Broken pipe)
+<file descriptor: 4>: commitBuffer: resource vanished (Broken pipe)
+<file descriptor: 4>: commitBuffer: resource vanished (Broken pipe)
+XMonad is recompiling and replacing itself another XMonad process because the current process is called "xmonad" but the compiled configuration should be called "xmonad-x86_64-linux"
+XMonad will use ghc to recompile, because "/home/lstrohm/.xmonad/build" does not exist.
+XMonad skipping recompile because it is not forced (e.g. via --recompile), and neither xmonad.hs nor any *.hs / *.lhs / *.hsc files in lib/ have been changed.
+user error (Error in function getWindowAttributes)
+[: Missing argument at index 2
+
+~/.config/fish/conf.d/omf.fish (line 16): 
+if [ $TERM != "dumb" ]
+   ^
+from sourcing file ~/.config/fish/conf.d/omf.fish
+	called on line 294 of file /usr/share/fish/config.fish
+from sourcing file /usr/share/fish/config.fish
+	called during startup
+
+(Type 'help [' for related documentation)
+user error (Error in function getWindowAttributes)
+[: Missing argument at index 2
+
+~/.config/fish/conf.d/omf.fish (line 16): 
+if [ $TERM != "dumb" ]
+   ^
+from sourcing file ~/.config/fish/conf.d/omf.fish
+	called on line 294 of file /usr/share/fish/config.fish
+from sourcing file /usr/share/fish/config.fish
+	called during startup
+
+(Type 'help [' for related documentation)
+user error (Error in function getWindowAttributes)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+/bin/sh: xdotool: command not found
+/bin/sh: xdotool: command not found
+user error (Error in function getWindowAttributes)
+user error (Error in function getWindowAttributes)
+user error (Error in function getWindowAttributes)
+xmobar: Caught signal 15; exiting...
+<file descriptor: 4>: commitBuffer: resource vanished (Broken pipe)
+XMonad is recompiling and replacing itself another XMonad process because the current process is called "xmonad" but the compiled configuration should be called "xmonad-x86_64-linux"
+XMonad will use ghc to recompile, because "/home/lstrohm/.xmonad/build" does not exist.
+XMonad doing recompile because some files have changed.
+XMonad recompilation process exited with success!
+user error (Error in function getWindowAttributes)
+user error (Error in function getWindowAttributes)
+user error (Error in function getWindowAttributes)
+user error (Error in function getWindowAttributes)
+user error (Error in function getWindowAttributes)
+user error (Error in function getWindowAttributes)
+[: Missing argument at index 2
+
+~/.config/fish/conf.d/omf.fish (line 16): 
+if [ $TERM != "dumb" ]
+   ^
+from sourcing file ~/.config/fish/conf.d/omf.fish
+	called on line 294 of file /usr/share/fish/config.fish
+from sourcing file /usr/share/fish/config.fish
+	called during startup
+
+(Type 'help [' for related documentation)
+user error (Error in function getWindowAttributes)
+[: Missing argument at index 2
+
+~/.config/fish/conf.d/omf.fish (line 16): 
+if [ $TERM != "dumb" ]
+   ^
+from sourcing file ~/.config/fish/conf.d/omf.fish
+	called on line 294 of file /usr/share/fish/config.fish
+from sourcing file /usr/share/fish/config.fish
+	called during startup
+
+(Type 'help [' for related documentation)
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 32313, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 32328 terminated.
+kdeinit5: PID 32330 terminated.
+kdeinit5: PID 32333 terminated.
+kdeinit5: PID 32332 terminated.
+kdeinit5: PID 32329 terminated.
+kdeinit5: PID 32342 terminated.
+klauncher: Exiting on signal 15
+klauncher: Exiting on signal 1

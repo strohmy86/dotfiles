@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Carl Aurorae theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1331617</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>2875</downloads>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//Carl/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/aurorae/themes//</installedfile>
+  <id>1331617</id>
+  <releasedate>2019-10-19</releasedate>
+  <summary>Aurorae theme for Carl Plasma theme https://store.kde.org/p/1330604/&lt;br />
+&lt;br />
+Based on McMojave aurorae by Vinceliuice https://github.com/vinceliuice/McMojave-kde</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/8/9/5/ecc4e740ee84314c3fcc7762bfb8041352aa.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzE0OTM5NTEiLCJvIjoiMSIsInMiOiIwZDZlN2MyMTIzZjJjODYwOWEzZWRkNTU1NjNiNDZlN2YxZWJlOGY1ZWZhOWM4NzY4ODkyNDkwNDZmNGU1NzhiZjI0MWZiOWVkNDI2NGVlNGZmOWZkYjU1NGIwMWZjODRiZjBlYzVlYzVkODI0NmFlOTBhZDQ2Njk3NGNmMTBlZSIsInQiOjE1ODI3MjgwMjMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.dgdHU2pRTby-63J0oTcIyXI-YGuAQTPsaLBizwV-9Wo/Carl.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

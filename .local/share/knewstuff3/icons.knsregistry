@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Breeze Chameleon Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1281798</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>71</rating>
+  <downloads>111977</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Breeze Chameleon Dark/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1281798</id>
+  <releasedate>2019-10-17</releasedate>
+  <summary>&lt;strong>Breeze Chameleon Dark Icons&lt;br />
+(Icons for Dark Plasma Themes)&lt;br />
+&lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span>...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/b/9/d/687152bdeea7e4a3d524ebeb952aa999e68a.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/b/9/d/687152bdeea7e4a3d524ebeb952aa999e68a.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzEzMjQ1NTYiLCJvIjoiMSIsInMiOiJhNTBhZGMzNGRlMDdjYTU1MGY5MDZmMTAyMzYxNjQyZDE0OGVjODJmOWZmNzZkOTkzMjIwOTQxM2UxNWQ4MDk2ZDk2M2I0OGU4YmYyZjZjZDEwNGZlMzI4NjYwYWNjYmZlYmE1Y2RmOWY4MjlkZmVhZWU1ZmRkZTMwNDcxYzA0OSIsInQiOjE1ODI3MjcyMzksInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.CaTlJZ2Zb8dvhaxqweXGxz7vGQKnLRMbfTc89dxHGjs/Breeze Chameleon Dark-20191017150120.tar.gz</payload>
+  <tags>modification-product,gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Qogir icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1296407</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>9608</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Qogir-dark/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//Qogir/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1296407</id>
+  <releasedate>2020-02-09</releasedate>
+  <summary>This is a colorful and flat design icon theme with obvious borders.&lt;br />
+----------&lt;br />
+In order to provide a consistent experience across all desktops, &lt;br />
+I designed this theme to support all popular desktops.&lt;br />
+----------&lt;br />
+ wish you guys like it!&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODEyMjk4OTEiLCJvIjoiMSIsInMiOiJmYWZmMzkxYzNmOTE4M2VhNzUzNzdlMDMxMjkzMzdjN2EyNDUzZjY2NzlhOTA3NjEwNWYwZTRmMGNlMWE5NzI0MzhjMWVmZDYzMTQwZjA0ODlkNTcwY2JkNmJhMTU0ZDVkZTY3MGM0NmQ1MTg4ZjhmYzkwZDgzNGJjYjg3MTE3ZSIsInQiOjE1ODI3MjcyNzEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.bBT88W7qFfJKczRoGgPQ-wbUZSVOevrlfxFhmEVDUxI/01-Qogir.tar.xz</payload>
+  <tags>original-product,gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>OS Catalina</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1309810</homepage>
+  <licence></licence>
+  <version>0.3.1</version>
+  <rating>87</rating>
+  <downloads>7692</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Os-Catalina-icons/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1309810</id>
+  <releasedate>2020-02-16</releasedate>
+  <summary>&lt;h2>Please up vote or press the plus sign to show your support.&lt;/h2>&lt;br />
+&lt;br />
+born as a fork of "Mojave CT" and find the best imitation of macos catalina. &lt;br />
+&lt;br />
+in this new version all elements in png format have been removed, in order to provide a superior quality to that of "Mojave...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/1/9/3/9e584d57b0ac1c14df25170f628daba13667.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/1/9/3/9e584d57b0ac1c14df25170f628daba13667.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODE4NjY0MDEiLCJvIjoiMSIsInMiOiJmMzM0ZTdmMTQ2MDlmZTdkZmVkYzMwYTcyNTYyNWZmOTRmOWJkMzk3OTcyMzU5NTg0YjY4ZTBmNjI4NmNkYmRjY2ZmMjhkMjQ2YjM4YTU5MjYxOGEzZmZhZDFlNGViNTUwOWZmZGFjMDdhN2VmNWQzMjJlMGI0NTQxMjI1MmQ0MyIsInQiOjE1ODI3MjcyNTgsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.PBrvFEwTBONGu0ePpxNOd8Q733JRirdq8vuebQBy-0I/Os-Catalina-Icons.tar.xz</payload>
+  <tags>mojave,catalina,mac,apple,linux,unix,icon-theme,agplv3,modification-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze-Noir-Black-Blue</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1361471</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>63</rating>
+  <downloads>2670</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Breeze-Noir-Black-Blue/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1361471</id>
+  <releasedate>2020-02-20</releasedate>
+  <summary>&lt;strong>Icons for Light Plasma Themes  &lt;br />
+&lt;br />
+Based on Default &lt;span style="color: blue;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+The Session icons (Lock, Logout, Switch User), as well as System Icons (Suspend, Hybernate, Reboot, Shut Down) have been changed.These icons and Folder...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/a/b/b/f8d966bac5e0127b6dc665d10d230e446e0f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/a/b/b/f8d966bac5e0127b6dc665d10d230e446e0f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIxOTYxNzgiLCJvIjoiMSIsInMiOiJlMDBjOTBkODJkNzAxOTEzMWRlZGQyNTAzN2YzMWI0ZGI0OWMxYzQwYzFjZWU3YmQzYzNlNTQ1Yjg5MzAwMDVkNTM5OGNhOWY2NmViMDM5YmEzYjEyOTVjNjUyMTAzZmYxMTk1MTRhNTNiNDVhNGEwNzUxYzA3ODY5MDg3NTdkZCIsInQiOjE1ODI3MjcyODAsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.bWxjYEuQ7WfflcGDQK0BOT0lJodJS7rITA2J1_bNY-M/Breeze-Noir-Black-Blue.tar.gz</payload>
+  <tags>gplv3,modification-product,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Candy icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.1.6</version>
+  <rating>89</rating>
+  <downloads>8712</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//candy-icons/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1305251</id>
+  <releasedate>2020-02-20</releasedate>
+  <summary>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIyMjI5NzYiLCJvIjoiMSIsInMiOiI5ZGQzOGZkY2E2MzM4YzVmYzEwYzVlN2E1N2JlYWQ3OTc2NWRiMjVkZDE2ZWUxYzJkNmVmN2ZmNzM1MTc3ZmMxOTAxZTYzYmUyMzJiYTMwNThjMzJjNzAwZWFmNzBkMGEwNWZlMjNhYWNlNmVlYjY3YTQwM2E0ZWRkZmUwNGExNiIsInQiOjE1ODI3MjY5NTUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.4U91iqgr6C8aW5-85dcMBfOFJc3J8UUq0w5EdZEI_8c/candy-icons.tar.xz</payload>
+  <tags>linux,unix,icon-theme,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Tela-icon-theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1279924</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>91</rating>
+  <downloads>7278</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Tela-blue-dark/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//Tela-blue/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1279924</id>
+  <releasedate>2020-02-21</releasedate>
+  <summary>&lt;strong> Tela Icon Theme &lt;/strong>&lt;br />
+A flat colorful Design icon theme&lt;br />
+You can use this theme on all popular desktops&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong> Based on &lt;/strong>&lt;br />
+1. numix-icon-theme-circle: &lt;br />
+&lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/9/1/c/84511eab3c160a3a10e87db30ee4ae8a70c1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/9/1/c/84511eab3c160a3a10e87db30ee4ae8a70c1.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIyNzg4NjgiLCJvIjoiMSIsInMiOiI4MDYwNTVmODY2ZmFjNTEyMDMzODYyZmUwZDczZTc4YzYzM2ZkNDEzM2Q3ZTAzYzc3ZmMxOTVjMzk2OTAzNmVkNjk5MjdhMTlkZWFmMTkwN2QyOTQyNzM0NTE5ZjI2YmJkYzFhODM3OGE3NjhlZmVlYjNhMThjOWYzZWQzYTI1YSIsInQiOjE1ODI3MjgxMzMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.a49TiW6P67hz8K8PNRDI8QXZqgCwUIgoIkXKnmGwtFA/03-Tela-blue.tar.xz</payload>
+  <tags>gplv3,linux,unix,icon-theme,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze Chameleon Light</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1298508</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>104209</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Breeze-Chameleon Light/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1298508</id>
+  <releasedate>2019-10-17</releasedate>
+  <summary>&lt;strong>&lt;span style="color: aqua;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>&lt;br />
+(Icons for Bright Plasma Themes)&lt;br />
+&lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/a/a/2/5973231f42511329411aa8c8eeda4910b529.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/a/a/2/5973231f42511329411aa8c8eeda4910b529.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzEzMjUxNDgiLCJvIjoiMSIsInMiOiI0OWE0MTZjM2M3YTYzNjNiOTE2MDgwYmM0MWMxMzNhM2ZiZGIwODNiYmRjMjc3ZjY2OWYyNTU1MGI5YmI2ZmU2N2ZhZjVkN2Q2NTZhMGQwOWY2ZDYwYjIzNjExNWM2NTYwZjRlNGU2NzRjYTZlYWFkY2FlMDU4Zjk4MzE2MzAzMiIsInQiOjE1ODI3MjcyNDEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.StW3l_DlJGs29k1auU2QY7cSE83iQ5HJCVx13tZXUyM/Breeze-Chameleon Light.tar.gz</payload>
+  <tags>gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze-Noir-White-Blue</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1361468</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>2943</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//Breeze-Noir-White-Blue/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1361468</id>
+  <releasedate>2020-02-20</releasedate>
+  <summary>&lt;strong>Icons for Dark Plasma Theme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://www.pling.com/p/1361472/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Default &lt;span...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/d/0/a/c4a848cff98d231cf69b1da44a1dd4282a2f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/d/0/a/c4a848cff98d231cf69b1da44a1dd4282a2f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIxOTY0NTAiLCJvIjoiMSIsInMiOiI2Y2YyM2VjMGVmZmNlODFlNGQyZjk1NzhmMDI4NzMwMjU4ZjU1NDQ5ZGE2NzA1YWQ3NTRmZjY3NGU5MGM5MGU5OWQzYjA1YTM2ODZhOWJkZjEyZTRkMjViZmQ4ZTZkNjk0MzNiMjBmZDMwOWI5Nzc2NjNhMjEyNTFjYmEwNzdiYyIsInQiOjE1ODI3MjcyNjIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.IaeZKvkr09Zjzyfv8xTLa08OgNT_zHYlb0u4AVBgIo8/Breeze-Noir-White-Blue.tar.gz</payload>
+  <tags>linux,unix,icon-theme,gplv3,modification-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>McMojave-circle</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305429</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>91</rating>
+  <downloads>6928</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons//McMojave-circle-blue/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//McMojave-circle-blue-dark/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/icons//</installedfile>
+  <id>1305429</id>
+  <releasedate>2020-02-24</releasedate>
+  <summary>MacOSX Mojave like circle icon theme for linux desktops&lt;br />
+--------------------------&lt;br />
+Based on OSX_ONE: &lt;a href="https://github.com/unc926/OSX_ONE" target="_blank" rel="nofollow">https://github.com/unc926/OSX_ONE&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>You can use this...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODI1MzAzMzQiLCJvIjoiMSIsInMiOiI1MTM4NzU3YTE3N2QxZTA2NTljMDFjOWJkOTkzYzVlZTZiY2U5MWMzOGM5OTMxZjJkOWFjYTZkMDk5YzFjMGFiOTFhMmFmNmM4NWU3NzcwM2FlYmI1NzVlOTdhM2YwMzljNzAyZDA3NWYwMDllZjcyNTJlNDRkOWJkYTIwNTMxOCIsInQiOjE1ODI3MjY5NDMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.uXlDG4IO6hLXM8xmSw0IkwWQS3RYR9bGHnCmmWyjkiA/03-McMojave-circle-blue.tar.xz</payload>
+  <tags>gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

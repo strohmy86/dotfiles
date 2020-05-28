@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Carl Look-and-Feel</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1338881</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>50</rating>
+  <downloads>4337</downloads>
+  <installedfile>/tmp/Carl-20191231041955.tar.gz</installedfile>
+  <id>1338881</id>
+  <releasedate>2019-12-30</releasedate>
+  <summary>Look-and-Feel theme.&lt;br />
+Carl is a dark Plasma theme with bluish gradients.&lt;br />
+&lt;br />
+Carl Plasma theme: https://www.pling.com/p/1330604/&lt;br />
+&lt;br />
+Carl Kvantum theme: https://www.pling.com/p/1331615/&lt;br />
+&lt;br />
+Carl color schemes: https://www.pling.com/p/1331616/&lt;br />
+&lt;br />
+Carl...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/f/4/3/7b68d7248a7624fdc21a4ab125aeaf4240b9.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/f/4/3/7b68d7248a7624fdc21a4ab125aeaf4240b9.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzc3NjY3MzAiLCJvIjoiMSIsInMiOiJkZTZhNzkzNjZjYWY4ODczNTkxMzNmYjgyNzQ1Y2RjODBiNjRiYjlmYTUwMTViM2YyZWE3MjU0MDNlNDI0YWE4NWU4NWQ2OTU1MTkxMWZjNzAyODhiODE3MzBkZmQ2ZWQwNzdhMTY0YWYxZDlmNzFiMzcyYjBmNmZiYjEwNTY2ZCIsInQiOjE1ODI3MjgwMTEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.vcingayYMm78kVOCcE-F09smiSJgZ6DA3rneMmc9wMw/Carl-20191231041955.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

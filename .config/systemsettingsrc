@@ -1,0 +1,19 @@
+[DownloadDialog Settings]
+Height 854=494
+Width 1349=700
+
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[MainWindow]
+Height 854=707
+Height 896=700
+Height 900=865
+Height 907=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1349=1024
+Width 1600=928
+Width 1604=1024
+Width 1620=1024

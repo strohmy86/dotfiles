@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>Arch Space</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yanekyuk</author>
+  <homepage>https://store.kde.org/p/1222244</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>72</rating>
+  <downloads>41755</downloads>
+  <installedfile>/tmp/arch.space.tar.gz</installedfile>
+  <id>1222244</id>
+  <releasedate>2018-03-14</releasedate>
+  <summary>This is an elegant KDE splash screen for Arch Linux&lt;br />
+&lt;br />
+### INSTALLATION&lt;br />
+&lt;br />
+Just extract it to ~/.local/share/plasma/look-and-feel/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/b/e/9/a93f9cce55188fa03cd89134071e8d49e13f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/b/e/9/a93f9cce55188fa03cd89134071e8d49e13f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjEwNTUxODkiLCJvIjoiMSIsInMiOiIwZGExYTYzOTJlNTA2NGE4YzM5MWE0ZjM5NTkyZWM4NGQ0OWI1ZTMxZjBkNWE5OGRmZDZlMWI1OTUwMDU3MmZjNDIwNDhkMGE4OTk5MGE0MjA3OGVhNjhiMzk2YzMyODFiODdkYjQ3ZmRiNjEwYWY1YzkxMTg0NzM2YWIwOGU5YiIsInQiOjE1ODI3MzEwMzcsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.CQ4nfBo3YwOFbp34GrZNJlXUo3qeWm0M7BYsqKhxfOo/arch.space.tar.gz</payload>
+  <tags>unix,plasma,theme,splashscreen,plasma##majorversion=5,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>Breeze-Noir-Dark-Splash</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1361462</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>231</downloads>
+  <installedfile>/tmp/Breeze-Noir-Dark-Splash.zip</installedfile>
+  <id>1361462</id>
+  <releasedate>2020-02-20</releasedate>
+  <summary>&lt;strong>Plasma Splashscreen, customized for the &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span> Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1361472/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/2/4/4/ea007b813acf92e9b65a92d949b5a1638c7f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/2/4/4/ea007b813acf92e9b65a92d949b5a1638c7f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIxOTU3NDciLCJvIjoiMSIsInMiOiI5YTFhMmE5N2Y3MzVjYTEwM2ZhZWQ0MjNkZjJiMTBmNGRkZDA4NmUwZTZmM2JmNTBlN2Y5ZmRkMDY1MDQ5MzgzM2VmYzBjNzc1OTk2MzIzODJlODI4MWE4NzhjOWU4Y2ExMzMzOGE4MTdhMjhjYTE3NTdmMGNmNzMxZDBmZDU3MyIsInQiOjE1ODI3MzEwNDIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.UmF5y6abg5ZEYMefX4DReSmiNJrmET7owA9J5Kg-rYs/Breeze-Noir-Dark-Splash.zip</payload>
+  <tags>gplv3,modification-product,linux,unix,theme,kde,plasma,plasma##majorversion=5,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>Magenta</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1309706</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>70</rating>
+  <downloads>16702</downloads>
+  <installedfile>/tmp/org.Magenta.tar.gz</installedfile>
+  <id>1309706</id>
+  <releasedate>2019-06-13</releasedate>
+  <summary>Plasma Splashscreen, customized for the "Magenta" Plasma Theme, which you can download: &lt;a href="https://store.kde.org/p/1309700/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallpaper "KDE Plasma Nebula 273 HD Multiple Colors": &lt;a href="https://store.kde.org/p/1303886/"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/a/6/1/beb1baa5b904b094d237c91e7698293c846b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/a/6/1/beb1baa5b904b094d237c91e7698293c846b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjA0MzE1NTYiLCJvIjoiMSIsInMiOiI4NDllMThmNGU4NTliNmNlZDA4MjkwZDc0Njk2OGRjMzIwNjIwZTU1ZmY4ODFiNmZlMGZmNTIxOTUzZmM4MTMzZjY4NTdmYTQ4YjEzOTMzZDgyZDJkMzY4MzYxNmZmYzcxNjIyM2E1YjVmNTZkY2FlNTc3N2FlN2Y3YzhkZWU1YyIsInQiOjE1ODI3MzEwNzAsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.s1nZyubym-eF1dy3eyOjJ1ZS-6WJFkGMT0a9c6N60ks/org.Magenta.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,plasma##majorversion=5,splashscreen,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>ArchLinux Blue Splashscreen</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>MrMaire</author>
+  <homepage>https://store.kde.org/p/1290430</homepage>
+  <licence></licence>
+  <version>1</version>
+  <rating>50</rating>
+  <downloads>5488</downloads>
+  <installedfile>/tmp/archblue.tar.gz</installedfile>
+  <id>1290430</id>
+  <releasedate>2019-02-17</releasedate>
+  <summary>Plasma Splashscreen for Archlinux.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/2/0/4/33dbda40c4d106ce459ca8b794d2b9529e3f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/2/0/4/33dbda40c4d106ce459ca8b794d2b9529e3f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTA0MTc3NDIiLCJvIjoiMSIsInMiOiJjNDZjMzU1NGQ0MzkwMWRjYTMxY2I1MjZiNzFiYjQ4NmEwZGUxMmRmZTkzY2JlZGRmOTRiYjUxYTlmYzdkODc0YTk2ZTYyMTBjMDBlYWIxYmNhYzE3MjQ2ZjlkYmJmZmVjZDEwMmY0Mjc2Y2Y5N2Q5NTQ4ZjYyMDU5NGEyMTVjYSIsInQiOjE1ODI3MzExMTcsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.3oZMZnXoaYxkVWQ6X25hvd1Y_gNx7aobjUGLXkHl3f0/archblue.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma##majorversion=5,splashscreen,gplv3,original-product,plasma,splash,archlinux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>Oxygen-Future-splash</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>paul-stockwell</author>
+  <homepage>https://store.kde.org/p/1213573</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>20072</downloads>
+  <installedfile>/tmp/Oxygen-Future-splash.tar.gz</installedfile>
+  <id>1213573</id>
+  <releasedate>2018-02-10</releasedate>
+  <summary>Animated Hand Scan Splash screen with new QML file written to allow proper scaling on different resolution monitors. Some additional graphic have been added to enhance the functionality and entertainment value.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/9/9/e/05c5f7db81e9b79b527bcc6473483a2f19a5.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/9/9/e/05c5f7db81e9b79b527bcc6473483a2f19a5.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MTgzMDUzNDciLCJvIjoiMSIsInMiOiJmZTcxYTUyMjk3MmRjMDdhYTg2YjViOTFlODczOTQ2M2Y3MzQyYjUwZTkwZGI2ZGFkOTM0NjcwMjZjNTE1OTllMGI1YWNlMzZjNzA3ZTNiNWI1N2JhYWJlYmMwNjNmM2U4Mzg2OWE2MjBhNWFkYjU1YTQ0YjMxMzcwZGM2ODA0ZiIsInQiOjE1ODI3MzEwNjEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.RKyovA0bYS1Dj7UxOCBmR5oKHGcZz77eRDjYy6Wh86w/Oxygen-Future-splash.tar.gz</payload>
+  <tags>original-product,gplv2-later,linux,unix,kde,plasma,theme,splashscreen,plasma##majorversion=5,animated</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
