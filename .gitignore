@@ -1,3 +1,9 @@
 
 \.local/share/baloo/
 .local/share/fish/fish_history
+\.config/sublime-text-3/
+\.config/libreoffice/
+\.config/google-chrome/
+\.config/dconf/
+\.config/pcmanfm/
+
