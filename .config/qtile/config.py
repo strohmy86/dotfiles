@@ -223,6 +223,11 @@ layouts = [
     layout.RatioTile(**layout_theme),
     layout.Max(**layout_theme)
 ]
+# QUERY KERNEL VERSION
+
+def kernel():
+    result = os.popen('uname -r'.rstrip('\r\n')).read()
+    return result
 
 # COLORS FOR THE BAR
 
@@ -290,7 +295,52 @@ def init_widgets_list():
                         ),
                 widget.WindowName(font="Noto Sans",
                         fontsize = 12,
-                        foreground = colors[5],
+                        foreground = '#b3c5c9',
+                        background = colors[1],
+                        ),
+                widget.TextBox(
+                        font="FontAwesome",
+                        text="  ",
+                        foreground='#eded45',
+                        background=colors[1],
+                        padding = 0,
+                        fontsize=16,
+                        ),
+                widget.GenPollText(
+                        font="Noto Sans",
+                        fontsize = 12,
+                        func = kernel,
+                        update_interval = 600,
+                        foreground=colors[2],
+                        background=colors[1],
+                        padding = 0,
+                        ),
+                widget.Sep(
+                        linewidth = 1,
+                        padding = 10,
+                        foreground = colors[2],
+                        background = colors[1],
+                        ),
+                widget.TextBox(
+                        font="FontAwesome",
+                        text="  ",
+                        foreground='#d479cf',
+                        background=colors[1],
+                        padding = 0,
+                        fontsize=16,
+                        ),
+                widget.Pacman(
+                        font="Noto Sans",
+                        fontsize = 12,
+                        update_interval = 10,
+                        foreground=colors[2],
+                        background=colors[1],
+                        padding = 0,
+                        ),
+                widget.Sep(
+                        linewidth = 1,
+                        padding = 10,
+                        foreground = colors[2],
                         background = colors[1],
                         ),
                 widget.TextBox(
@@ -306,6 +356,7 @@ def init_widgets_list():
                         fontsize = 12,
                         interface="ens33",
                         format = '{down} ⇵{up}',
+                        update_interval = 0.3,
                         foreground=colors[2],
                         background=colors[1],
                         padding = 0,
@@ -347,6 +398,30 @@ def init_widgets_list():
                 widget.Memory(
                         font="Noto Sans",
                         format = '{MemUsed}M/{MemTotal}M',
+                        update_interval = 1,
+                        fontsize = 12,
+                        foreground = colors[5],
+                        background = colors[1],
+                       ),
+                widget.Sep(
+                        linewidth = 1,
+                        padding = 10,
+                        foreground = colors[2],
+                        background = colors[1],
+                        ),
+                widget.TextBox(
+                        font="FontAwesome",
+                        text="  ",
+                        foreground="#0ec5e6",
+                        background=colors[1],
+                        padding = 0,
+                        fontsize=16,
+                        ),
+                widget.DF(
+                        font="Noto Sans",
+                        visible_on_warn = False,
+                        measure = 'G',
+                        format = 'Free: {uf}GB / {s}GB',
                         update_interval = 1,
                         fontsize = 12,
                         foreground = colors[5],
