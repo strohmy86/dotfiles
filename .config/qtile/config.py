@@ -301,7 +301,7 @@ def init_widgets_list():
                 widget.TextBox(
                         font="FontAwesome",
                         text="  ",
-                        foreground='#eded45',
+                        foreground='#a1a197',
                         background=colors[1],
                         padding = 0,
                         fontsize=16,
@@ -376,7 +376,7 @@ def init_widgets_list():
                         fontsize=16,
                         ),
                 widget.CPU(
-                        format= 'CPU {load_percent}%',
+                        format= '{load_percent}%',
                         forefround=colors[2],
                         background=colors[1],
                         padding = 0,
