@@ -1,10 +1,3 @@
-#  ____ _____ 
-# |  _ \_   _|  Derek Taylor (DistroTube)
-# | | | || |    http://www.youtube.com/c/DistroTube
-# | |_| || |    http://www.gitlab.com/dwt1/ 
-# |____/ |_|
-#
-# My bash config. Not much to see here. Some pretty standard stuff.
 
 PATH="$HOME/.local/bin${PATH:+:${PATH}}"
 EDITOR="vim"
