@@ -34,9 +34,9 @@ function run {
 
 #starting utility applications at boot time
 #run variety &
-run nm-applet &
+nm-applet &
 #run pamac-tray &
-run xfce4-power-manager &
+xfce4-power-manager &
 numlockx on &
 #run vmware-user &
 blueberry-tray &
@@ -47,7 +47,7 @@ picom --config $HOME/.config/qtile/scripts/picom.conf &
 #starting user applications at boot time
 run volumeicon &
 pcmanfm -d &
-#run discord &
+discord --start-minimized&
 nitrogen --restore &
 #run caffeine -a &
 #run vivaldi-stable &
@@ -59,3 +59,4 @@ nitrogen --restore &
 #run atom &
 telegram-desktop &
 megasync &
+sh $HOME/.config/autostart-scripts/msiklm.sh &
