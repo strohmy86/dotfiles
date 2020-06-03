@@ -32,7 +32,7 @@ keys = [
 # FUNCTION KEYS
 
     Key([], "F12", lazy.spawn('xfce4-terminal --drop-down')),
-
+    Key([], "Pause", lazy.spawn('betterlockscreen -l dimblur')),
 # SUPER + FUNCTION KEYS
 
     Key([mod], "e", lazy.spawn('subl3')),
@@ -473,15 +473,15 @@ def assign_app_group(client):
     #########################################################
     d["1"] = ["Navigator", "Firefox", "Vivaldi-stable", "Vivaldi-snapshot", "Chromium", "Google-chrome", "Brave", "Brave-browser",
               "navigator", "firefox", "vivaldi-stable", "vivaldi-snapshot", "chromium", "google-chrome", "brave", "brave-browser", ]
-    d["2"] = ["Atom", "Subl3", "Geany", "Brackets", "Code-oss", "Code",
-              "atom", "subl3", "geany", "brackets", "code-oss", "code"]
+    d["2"] = ["Atom", "Subl3", "Geany", "Brackets", "Code-oss", "Code", "Alacritty",
+              "atom", "subl3", "geany", "brackets", "code-oss", "code", "alacritty"]
     d["3"] = ["Inkscape", "Nomacs", "Ristretto", "Nitrogen", "Feh",
               "inkscape", "nomacs", "ristretto", "nitrogen", "feh", ]
     d["4"] = ["Gimp", "gimp"]
     d["5"] = ["Meld", "meld", "org.gnome.meld" "org.gnome.Meld"]
-    d["6"] = ["Vlc","vlc", "Mpv", "mpv"]
-    d["7"] = ["VirtualBox Manager", "VirtualBox Machine", "Vmplayer",
-              "virtualbox manager", "virtualbox machine", "vmplayer", ]
+    d["6"] = ["Vlc","vlc", "Mpv", "mpv", "Kdenlive", "kdenlive"]
+    d["7"] = ["VirtualBox Manager", "VirtualBox Machine", "Vmplayer", "Virt-Manager",
+              "virtualbox manager", "virtualbox machine", "vmplayer", "virt-manager"]
     d["8"] = ["Thunar", "Nemo", "Caja", "Nautilus", "org.gnome.Nautilus", "Pcmanfm", "Pcmanfm-qt",
               "thunar", "nemo", "caja", "nautilus", "org.gnome.nautilus", "pcmanfm", "pcmanfm-qt", ]
     d["9"] = ["Evolution", "Geary", "Mail", "Thunderbird", "Telegram-Desktop", "Discord",
@@ -546,7 +546,7 @@ floating_layout = layout.Floating(float_rules=[
     {'wname': 'Open File'},
     {'wname': 'pinentry'},
     {'wmclass': 'ssh-askpass'},
-
+    {'wmclass': 'megasync'},
 ],  fullscreen_border_width = 0, border_width = 0)
 auto_fullscreen = True
 
