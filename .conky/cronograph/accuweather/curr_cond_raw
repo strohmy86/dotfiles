@@ -1,0 +1,52 @@
+                    <li class="first current { target: '#detail-now' }"><a href="http://www.accuweather.com/en/us/mansfield-oh/44902/current-weather/330112" class=""><span>Now</span></a>
+                    </li>
+                    <li class="{ target: '#detail-day-night' }"><a href="http://www.accuweather.com/en/us/mansfield-oh/44902/daily-weather-forecast/330112"><span>Daily</span></a></li>
+                    <li class="last { target: '#detail-hourly' }"><a href="http://www.accuweather.com/en/us/mansfield-oh/44902/hourly-weather-forecast/330112"><span>Hourly</span></a></li>
+                    <li class="{ target: '#detail-morning' }"><a href="http://www.accuweather.com/en/us/mansfield-oh/44902/morning-weather-forecast/330112"><span>Morning</span></a></li>
+                    <li class="{ target: '#detail-afternoon' }"><a href="http://www.accuweather.com/en/us/mansfield-oh/44902/afternoon-weather-forecast/330112"><span>Afternoon</span></a></li>
+                    <li class="{ target: '#detail-evening' }"><a href="http://www.accuweather.com/en/us/mansfield-oh/44902/evening-weather-forecast/330112"><span>Evening</span></a></li>
+                    <li class="last { target: '#detail-overnight' }"><a href="http://www.accuweather.com/en/us/mansfield-oh/44902/overnight-weather-forecast/330112"><span>Overnight</span></a></li>                      
+                  </ul>
+                  <!-- /#detail-tab-buttons.detail-tab-buttons -->
+                  <div id="detail-now" class="detail-tab-panel day">
+                    <div class="bg bg-su">
+                      <div class="forecast">
+                        <div class="icon i-3-xl"></div>
+                        <div class="info"> 
+                            <div class="temp">
+                                <span class="large-temp">51&deg;</span>
+                                <span class="small-temp"><em>RealFeel&#174;</em> 55&deg;</span>
+                            </div>
+                            <span class="cond">Partly sunny</span>
+                        </div>
+                        <!-- /.info -->
+                      </div>
+                      <!-- /.forecast -->
+                      <div class="more-info"> 
+                        
+                        
+<div class="wind-box-lg">
+    <div class="wind-point N"></div>
+    <div class="wind-compass"></div>
+</div>                                                 
+                                            
+                        <ul class="stats">
+                          <li class="wind"><strong>9 mph</strong></li>
+                          <li>Humidity: <strong>60%</strong></li>
+                          <li>Pressure: <strong>30.19 in </strong></li>
+                          <li>UV Index: <strong>6</strong></li>
+                          <li>Cloud Cover: <strong>40%</strong></li>
+                          <li>Ceiling: <strong>14400 ft</strong></li>
+                          <li>Dew Point: <strong>38&#176;&nbsp;F</strong></li>
+                          <li>Visibility: <strong>10 mi</strong></li>
+                        </ul>
+                        <!-- /.stats -->
+                      </div>
+                      <!-- /.more-info -->
+                                             
+                    </div>
+                    <!-- /.bg -->
+                  </div>
+                  <!-- /.detail-tab-panel --> 
+                </div>
+                <!-- /#details -->

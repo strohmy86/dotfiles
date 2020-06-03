@@ -1,0 +1,29 @@
+[?25l[?7l[14t[c[3J[H[2J[44A[9999999D[27C​ [0m[1m[36m[1mlstrohm[0m@[36m[1marchmsi[0m 
+[27C​ [0m---------------[0m 
+[27C​ [0m[36m[1mOS[0m[0m:[0m Arch rolling[0m 
+[27C​ [0m[36m[1mModel[0m[0m:[0m GS63VR 7RF REV:1.0[0m 
+[27C​ [0m[36m[1mKernel[0m[0m:[0m 4.12.12-1-ARCH[0m 
+[27C​ [0m[36m[1mMemory[0m[0m:[0m 690MiB / 32065MiB[0m 
+[27C​ [0m[36m[1mUptime[0m[0m:[0m 1 hour, 11 mins[0m 
+[27C​ [0m[36m[1mPackages[0m[0m:[0m 4611[0m 
+[27C​ [0m[36m[1mShell[0m[0m:[0m zsh 5.4.2[0m 
+[27C​ [0m[36m[1mResolution[0m[0m:[0m 1920x1080 @ 60.02Hz[0m 
+[27C​ [0m[36m[1mDE[0m[0m:[0m Xfce[0m 
+[27C​ [0m[36m[1mWM[0m[0m:[0m Openbox[0m 
+[27C​ [0m[36m[1mWM Theme[0m[0m:[0m Arc-Darker[0m 
+[27C​ [0m[36m[1mTheme[0m[0m:[0m Arc-Darker[0m 
+[27C​ [0m[36m[1mIcons[0m[0m:[0m Surfn-Arch-Blue[0m 
+[27C​ [0m[36m[1mTerminal[0m[0m:[0m terminator[0m 
+[27C​ [0m[36m[1mCPU[0m[0m:[0m Intel i7-7700HQ (8) @ 3.800GHz[0m 
+[27C​ [0m[36m[1mGPU[0m[0m:[0m Intel HD Graphics 630[0m 
+[27C​ [0m[36m[1mGPU[0m[0m:[0m NVIDIA GeForce GTX 1060 Mobile[0m 
+[27C​ [0m[36m[1mCPU Usage[0m[0m:[0m 1%[0m 
+[27C​ [0m[36m[1mDisk (/var)[0m[0m:[0m 9.2G / 20G (50%)[0m 
+[27C​ [0m[36m[1mBattery1[0m[0m:[0m 65% [Discharging][0m 
+[27C​ [0m[36m[1mFont[0m[0m:[0m Open Sans 10[0m 
+[27C​ [0m[36m[1mInstall Date[0m[0m:[0m Wed 06 Sep 2017 09:27 AM[0m 
+​ 
+[27C​ [0m[30m[40m   [0m[31m[41m   [0m[32m[42m   [0m[33m[43m   [0m[34m[44m   [0m[35m[45m   [0m[36m[46m   [0m[37m[47m   [0m
+​ 
+
+[?25h[?7h

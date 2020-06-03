@@ -1,0 +1,31 @@
+[global_config]
+  title_transmit_bg_color = "#cf27ca"
+  title_receive_bg_color = "#d3d7cf"
+  suppress_multiple_term_dialog = True
+  title_use_system_font = False
+  title_font = Droid Sans Mono 13
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#282a36"
+    background_darkness = 0.91
+    background_type = transparent
+    cursor_shape = ibeam
+    cursor_color = "#aaaaaa"
+    font = Hack Nerd Font Mono 13
+    foreground_color = "#fdf7ff"
+    show_titlebar = False
+    scrollback_lines = 15000
+    palette = "#000000:#cc0000:#4e9a06:#c4a000:#3465a4:#ec6bd5:#06989a:#d3d7cf:#555753:#ef2929:#8ae234:#fce94f:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      size = 900, 600
+      type = Window
+[plugins]

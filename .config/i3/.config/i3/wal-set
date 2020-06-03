@@ -1,0 +1,17 @@
+  #!/bin/sh
+
+set_bar() {
+    sleep !
+    pkill polybar &&
+    sleep 1
+    wal -i ${HOME}/Pictures/retro-3.png
+    polybar -c ${HOME}/.config/polybar/config laptop &
+    sleep 0.5
+}
+
+
+main() {
+    set_bar &
+}
+
+main >/dev/null 2>&1
