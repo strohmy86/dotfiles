@@ -35,7 +35,7 @@ function run {
 #starting utility applications at boot time
 #run variety &
 run nm-applet &
-run pamac-tray &
+#run pamac-tray &
 run xfce4-power-manager &
 numlockx on &
 run vmware-user &
@@ -47,7 +47,7 @@ picom --config $HOME/.config/qtile/scripts/picom.conf &
 #starting user applications at boot time
 run volumeicon &
 pcmanfm -d &
-#run discord &
+discord --start-minimized&
 nitrogen --restore &
 #run caffeine -a &
 #run vivaldi-stable &

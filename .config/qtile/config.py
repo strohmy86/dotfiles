@@ -40,6 +40,7 @@ keys = [
     Key([mod], "p", lazy.spawn('dmenu_run -p "Run: "')),
     Key([mod], "v", lazy.spawn('pavucontrol')),
     Key([mod], "b", lazy.spawn('google-chrome-stable')),
+    Key([mod], "Escape", lazy.spawn('arcolinux-logout')),
     Key([mod, "shift"], "c", lazy.window.kill()),
     Key([mod], "Return", lazy.spawn('alacritty -e fish')),
     Key([mod], "KP_Enter", lazy.spawn('alacritty -e fish')),
@@ -265,7 +266,7 @@ def init_widgets_list():
                 widget.Pacman(
                         font="Noto Sans",
                         fontsize = 12,
-                        update_interval = 10,
+                        update_interval = 1,
                         foreground=colors[2],
                         background=colors[1],
                         padding = 0,
