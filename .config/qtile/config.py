@@ -345,7 +345,7 @@ def init_widgets_list():
                         fontsize=16,
                         ),
                 widget.CPU(
-                        format= '{load_percent}%',
+                        format= '{freq_current} GHz',
                         forefround=colors[2],
                         background=colors[1],
                         padding = 0,
