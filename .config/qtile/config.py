@@ -43,6 +43,7 @@ keys = [
     Key([mod, "shift"], "c", lazy.window.kill()),
     Key([mod], "Return", lazy.spawn('alacritty -e fish')),
     Key([mod], "KP_Enter", lazy.spawn('alacritty -e fish')),
+    Key([mod], "Escape", lazy.spawn('arcolinux-logout')),
 
 # SUPER + SHIFT KEYS
 
