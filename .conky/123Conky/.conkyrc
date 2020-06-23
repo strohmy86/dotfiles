@@ -1,0 +1,109 @@
+#==============================================================================
+#                                  conkyrc
+#
+#  display : horizontal ring gauge
+#
+#  author  : SLK
+#  version : v20121005-01
+#  license : Distributed under the terms of GNU GPL version 2 or later
+#
+#  Modified by : Umair - http://www.NoobsLab.com
+#==============================================================================
+
+background no
+update_interval 1
+
+cpu_avg_samples 2
+net_avg_samples 2
+temperature_unit celsius
+
+double_buffer yes
+no_buffers yes
+text_buffer_size 2048
+
+gap_x 40
+gap_y 50
+minimum_size 500 200
+maximum_width 800
+own_window yes
+own_window_type conky
+own_window_transparent yes
+own_window_argb_visual yes
+own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
+border_inner_margin 0
+border_outer_margin 0
+alignment top_right
+
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+
+override_utf8_locale yes
+use_xft yes
+xftfont caviar dreams:size=9
+xftalpha 0.5
+uppercase no
+
+default_color FFFFFF
+color1 ffffff
+color2 ffffff
+color3 ffffff
+
+lua_load /home/lstrohm/.conky/123Conky/conky_grey.lua
+lua_draw_hook_post main
+
+own_window_argb_value 0
+own_window_colour 000000
+TEXT
+${voffset 35}${font Ubuntu:size=10}${color1}
+${offset 30}CPU${offset 50}RAM${offset 50}ROOT${offset 40}MEDIA${offset 50}UP${offset 40}DOWN
+
+
+
+${font Xirod:size=7}${voffset 0}${offset -2}${font Xirod:size=7}${voffset 2}${color1}${cpu}% ${freq_g} Ghz ${machine}  ${acpitemp}°C
+${font Xirod:size=7}${voffset 0}${offset -2}${font Xirod:size=7}${voffset 2}${color1}${execi 1000 cat /proc/cpuinfo | grep 'model name' | sed -e 's/model name.*: //'| uniq | cut -c 1-26}
+${font Xirod:size=7}${voffset -12}${offset 93}${font Xirod:size=7}${voffset -34}${color1}${mem}/${memmax}
+${font Xirod:size=7}${voffset 0}${offset 220}${font Xirod:size=7}${voffset -9}${color1}${fs_used /}/${fs_size /}
+
+${font Xirod:size=7}${voffset 0}${offset 200}${font Xirod:size=7}${voffset 5}${color1}${diskiograph 6,50 ffffff ffffff}  ${hddtemp /dev/sda} °C
+${font Xirod:size=7}${voffset 0}${offset 220}${font Xirod:size=7}${voffset 3}${color1}${diskio}/s
+${font Xirod:size=7}${voffset 0}${offset 250}${font Xirod:size=7}${voffset -38}${color1}${fs_used /media/Media}/${fs_size /media/Media}
+${font Xirod:size=7}${voffset 0}${offset -1}${font Xirod:size=7}${voffset 10}${color1}${pre_exec cat /etc/issue.net}
+${font Xirod:size=7}${voffset 0}${offset 327}${font Xirod:size=7}${voffset -10}${color1}${totalup enp0s3}/${upspeed enp0s3}
+${font Xirod:size=7}${voffset 0}${offset 406}${font Xirod:size=7}${voffset -10}${color1}${totaldown enp0s3}/${downspeed enp0s3}
+${font Xirod:size=7}${voffset 0}${offset 350}${font Xirod:size=7}${voffset 5}${color1}Net IP: ${addr }
+
+
+
+
+
+${font Xirod:size=8}${goto 160}${voffset -20}${time %A} ${time %d %B %Y} 
+#${font Xirod:size=18}${goto 169}${voffset -3}${time %H}:${time %M}  ${font Xirod:size=15}${weather http://weather.noaa.gov/pub/data/observations/metar/stations/ KMFD temperature temperature 30}°C
+#${font Xirod:size=8}${goto 60}${voffset -5}User: ${uid_name 1000}@${nodename} for ${uptime_short}  Updates:${execi 360 aptitude search "~U" | wc -l | tail}    Load $loadavg
+#${font Xirod:size=8}${goto -12}${voffset 10}${color ffffff}${offset 20}    Battery 
+#${font Xirod:size=8}${goto -12}${voffset 0}${color ffffff}${offset 20}${battery_bar 2,70} 
+#${font Xirod:size=8}${goto -18}${voffset 0}${color ffffff}${offset 20}${battery}
+#${font Xirod:size=8}${goto -12}${voffset 0}${color ffffff}${offset 20}${acpiacadapter}
+#${font Xirod:size=8}${goto -12}${voffset 0}${color ffffff}${offset 20}${battery_time}
+${font Xirod:size=7}${goto 220}${voffset -60}${color ffffff}${offset 20}TCP port open: ${tcp_portmon 1 65535 count}
+${font Xirod:size=7}${goto 220}${voffset 2}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  0} ${tcp_portmon 1 65535 rport 0}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  1} ${tcp_portmon 1 65535 rport 1}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  2} ${tcp_portmon 1 65535 rport 2}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  3} ${tcp_portmon 1 65535 rport 3}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  4} ${tcp_portmon 1 65535 rport 4}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  5} ${tcp_portmon 1 65535 rport 5}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  6} ${tcp_portmon 1 65535 rport 6}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  7} ${tcp_portmon 1 65535 rport 7}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  8} ${tcp_portmon 1 65535 rport 8}
+${font Xirod:size=7}${goto 220}${voffset 0}${color ffffff}${offset 20}${tcp_portmon 1 65535 rip  9} ${tcp_portmon 1 65535 rport 9}
+${font Xirod:size=8}${goto 330}${voffset -113}${color ffffff}${offset 20}Running Process:  ${running_processes}
+${font Xirod:size=7}${goto 320}${voffset 3}${color ffffff}${offset 20}${top name 1}${top mem 1} ${top cpu 1}
+${font Xirod:size=7}${goto 320}${voffset 0}${color ffffff}${offset 20}${top name 2}${top mem 2} ${top cpu 2}
+${font Xirod:size=7}${goto 320}${voffset 0}${color ffffff}${offset 20}${top name 3}${top mem 3} ${top cpu 3}
+
+${font Xirod:size=7}${goto 320}${voffset 0}${color ffffff}${offset 20}${top_mem name 1}${top_mem cpu 1}${top_mem mem 1}
+${font Xirod:size=7}${goto 320}${voffset 0}${color ffffff}${offset 20}${top_mem name 2}${top_mem cpu 2}${top_mem mem 2}
+${font Xirod:size=7}${goto 320}${voffset 0}${color ffffff}${offset 20}${top_mem name 3}${top_mem cpu 3}${top_mem mem 3}
+
+

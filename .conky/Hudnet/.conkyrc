@@ -1,0 +1,80 @@
+#==============================================================================
+#                            conkyrc_HUD
+#
+#  author  : SLK
+#  version : v2011011601
+#  license : Distributed under the terms of GNU GPL version 2 or later
+#
+#==============================================================================
+
+background yes
+update_interval 1
+
+cpu_avg_samples 2
+net_avg_samples 2
+temperature_unit celsius
+
+double_buffer yes
+no_buffers yes
+text_buffer_size 2048
+
+alignment tr
+gap_x 5
+gap_y 50
+minimum_size 250 130
+maximum_width 250
+own_window yes
+own_window_type override
+own_window_transparent yes
+own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
+border_inner_margin 0
+border_outer_margin 0
+
+
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+
+override_utf8_locale yes
+use_xft yes
+xftfont caviar dreams:size=8
+xftalpha 0.5
+uppercase no
+
+default_color fcfcfc
+color1 222222
+color2 fcfcfc
+color3 555555
+color4 dcdcdc
+
+lua_load /home/lstrohm/.conky/Hudnet/conky_HUD.lua
+lua_draw_hook_post main
+
+TEXT
+
+${goto -20}${color3}${font Caviar Dreams:size=10}${time %b %e %Y}
+${voffset 15}
+${goto 110}${font Caviar Dreams:size=9,weight:bold}${color4}Disks
+${goto 110}${font Caviar Dreams:size=7,weight:normal}${color3}free: HDD
+${goto 105}${font Caviar Dreams:size=9,weight:normal}${color3}${offset 5}${voffset -4}${fs_free /}
+${goto 105}${font Caviar Dreams:size=7,weight:normal}${color3}  free: Home
+${goto 105}${font Caviar Dreams:size=9,weight:normal}${color3}${offset 5}${voffset -4}${fs_free /home}
+
+${voffset -78}
+${goto 30}${font Caviar Dreams:size=9,weight:bold}${color4}Mem
+
+${voffset -25}
+${goto 170}${font Caviar Dreams:size=9,weight:bold}${color4}Cpu
+
+
+${goto 0}${voffset -9}${if_match ${battery_percent BAT0} <= 22}${font Caviar Dreams:size=8}${color red}1${font}${color}${else}${if_match ${goto 60}${battery_percent BAT0} <= 46}${font Caviar Dreams:size=8}${font}${else}${if_match ${battery_percent BAT0} <= 65}${font Caviar Dreams:size=8}3${font}${else}${if_match ${battery_percent BAT0} <= 85}${font Caviar Dreams:size=8}${font}${else}${if_match ${battery_percent BAT0} <= 100}${font Poky:pixelsize=18}${font}${endif}${endif}${endif}${endif}${endif}${goto 30}${color3}${font Caviar Dreams:size=8}${color}Battery: ${font}${battery BAT0}
+${voffset -136}${goto 170}${font Caviar Dreams:size=10}${color3}${alignr} Weather${font}
+${goto 190}${font Caviar Dreams:size=8,weight:bold}${color4}${alignr}${weather http://weather.noaa.gov/pub/data/observations/metar/stations/KMFD temperature temperature 30} °C${font}${color4}                    
+${voffset 95}${goto 171}${font Caviar Dreams:size=9,weight:bold}${color4}Net${color2}${voffset 2}${offset -1}
+
+${font Neuropolitical:size=20}${voffset -15}${time %H:%M:%S}
+${voffset -35}${font Neuropolitical:size=10}${color2}${time %A}${color 222222}${hr}
+
+
+
