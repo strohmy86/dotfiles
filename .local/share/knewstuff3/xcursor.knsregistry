@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Arch Cursor Theme (simple)</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>kgullion</author>
+  <homepage>https://store.kde.org/p/999988</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>72</rating>
+  <downloads>17144</downloads>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/preview0.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/preview1.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/5aca4d189052212118709018842178c0</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/cross</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/fleur</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/f41c0e382c94c0958e07017e42b00462</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/progress</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/forbidden</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/all-scroll</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/copy</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/default</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/grabbing</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/whats_this</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/zoom-in</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/dnd-ask</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/move</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/question_arrow</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/pencil</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/pointing_hand</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/dnd-none</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/wait</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/text</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/center_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/dnd-move</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/cell</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/xterm</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/08ffe1cb5fe6fc01f906f1c063814ccf</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/crosshair</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/arrow</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/right-arrow</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/hand2</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/up-arrow</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/context-menu</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/left_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/vertical-text</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/no-drop</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/08ffe1e65f80fcfdf9fff11263e74c48</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/size_all</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/plus</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/0426c94ea35c87780ff01dc239897213</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/alias</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/048008013003cff3c00c801001200000</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/pointer</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/dnd-link</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/dnd-copy</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/f41c0e382c97c0938e07017e42800402</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/208530c400c041818281048008011002</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/help</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/0876e1c15ff2fc01f906f1c363074c0f</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/zoom-out</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/ibeam</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/X-cursor</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/9116a3ea924ed2162ecab71ba103b17f</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/right_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/not-allowed</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/03b6e0fcb3499374a867d041f52298f0</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/pirate</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/cursors/</installedfile>
+  <installedfile>/home/lstrohm/.icons//ArchCursorTheme/</installedfile>
+  <installedfile>/home/lstrohm/.icons//</installedfile>
+  <id>999988</id>
+  <releasedate>2010-12-08</releasedate>
+  <summary>A (very simple) cursor theme based on the Arch icon set. It is a mostly complete other than the resize cursors. &#xd;
+&#xd;
+Everything should be working correctly at this point (it was missing a few symlinks before) so if you notice anything weird, be sure to let me know.&#xd;
+&#xd;
+Might put up some more sizes later...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img//hive/content-pre1/135902-1.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540/img//hive/content-pre1/135902-1.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1462316425/135902-ArchCursorTheme.tar.gz</payload>
+  <tags></tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>An Arch Cursor (4 sizes)</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>daevski</author>
+  <homepage>https://store.kde.org/p/999852</homepage>
+  <licence></licence>
+  <version>1.5</version>
+  <rating>63</rating>
+  <downloads>5947</downloads>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/.tar.gz</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/screen.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/move.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/left_ptr_watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/move</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/left_ptr.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/hand.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/left_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/crossed_circle.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/crossed_circle</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/hand</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/move.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/.directory</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/left_ptr_watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/left_ptr_watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/crossed_circle.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/left_ptr.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/hand.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/source/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/index.theme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/fleur</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/crossed_circle</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/hand2</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/hand</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/hand1</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/X_cursor</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/move</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/left_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/cursors/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/readme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-16/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/screen.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/crossed_circle.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/left_ptr.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/left_ptr.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/.directory</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/move.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/move.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/left_ptr_watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/crossed_circle.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/left_ptr_watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/hand.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/hand.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/source/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/index.theme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/fleur</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/crossed_circle</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/hand2</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/hand</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/hand1</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/X_cursor</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/move</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/left_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/cursors/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/readme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-22/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/screen.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/crossed_circle.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/left_ptr.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/left_ptr.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/.directory</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/left_ptr_64.xcf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/hand_64.xcf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/crossed_circle_64.xcf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/move_64.xcf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/watch_64.xcf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/left_ptr_watch_64.xcf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/xcf/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/.directory</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/move.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/move.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/left_ptr_watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/crossed_circle.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/left_ptr_watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/hand.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/hand.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/source/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/index.theme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/fleur</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/crossed_circle</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/hand2</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/hand</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/hand1</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/X_cursor</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/move</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/left_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/cursors/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/readme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-32/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/screen.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/crossed_circle.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/left_ptr.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/left_ptr.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/.directory</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/move.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/move.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/left_ptr_watch.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/crossed_circle.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/left_ptr_watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/hand.png</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/hand.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/watch.conf</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/source/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/index.theme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/fleur</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/crossed_circle</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/hand2</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/hand</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/hand1</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/X_cursor</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/move</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/left_ptr</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/watch</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/cursors/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/readme</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/AnArchCursor-26/</installedfile>
+  <installedfile>/home/lstrohm/.icons//AnArchCursor-v1.5-[by.daevski]/</installedfile>
+  <installedfile>/home/lstrohm/.icons//</installedfile>
+  <id>999852</id>
+  <releasedate>2010-09-23</releasedate>
+  <summary>This is a mod of ArchCursorBlue, originally created by bavardage here:( http://kde-look.org/content/show.php/ArchCursorBlue?content=78506 )&#xd;
+&#xd;
+..............................&#xd;
+This new version (1.5) has: &#xd;
+..............................&#xd;
+A new Move, Crossed_Circle, and Hand.&#xd;
+Sizes: 32px, 26px, 22px, 16px &#xd;
+&#xd;
+.................................&#xd;
+You can expect in Version 2: &#xd;
+.................................&#xd;
+(Maybe) Another new Hand. I don\'t think I like this &#xd;
+one any more than the old one...&#xd;
+&#xd;
+And the missing cursor pieces such as Text cursor, etc.&#xd;
+&#xd;
+&#xd;
+++---- Installation ----++&#xd;
+...is the same an most X11 themes...&#xd;
+&#xd;
+In Terminal...&#xd;
+1. tar zxvf 132890-AnArchCursor-v1.5-\[by.daevski\]&#xd;
+2. cd ./132890-AnArchCursor-v1.5-[by.daevski]/&#xd;
+3. sudo cp -R ./AnArchCursor-* /usr/share/icons/&#xd;
+4. Edit ~/.Xdefaults ... add this line: &#xd;
+Xcursor.theme: AnArchCursor-26&#xd;
+If you want to use the 26px version.&#xd;
+&#xd;
+The next time X starts an app, it should be seen... or you will see the change after reboot.&#xd;
+&#xd;
+ ./ daevski \\.</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img//hive/content-pre1/132890-1.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540/img//hive/content-pre1/132890-1.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1461762447/132890-AnArchCursor-v1.5-[by.daevski].tar.gz</payload>
+  <tags></tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Layan cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1365214</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>335714</downloads>
+  <installedfile>/home/lstrohm/.local/share/icons/Layan-border-cursors/*</installedfile>
+  <id>1365214</id>
+  <releasedate>2020-03-30</releasedate>
+  <summary>Layan cursors theme for linux desktop</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODUxMTQ4NDgiLCJvIjoiMSIsInMiOiIwMGRmYmEwYjNmMTkzY2UxM2VkOTE0MTRhODUwN2JhMzcwYWI4ZWNjZGMyZGVjY2M4MTMwYTBjZjM0ODRhZTkzNjc2M2NhOWQ5ZWRlNjE5YWZlZWYwNWNmNzg4YTJiYmZmYmNjNjJmZDQ1MGU4NzJkMDA1MzI4NjQwZTk4NTY0YyIsInQiOjE2NDY5NDIzMDQsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.OVCrFxNXOuVPuyitHup7nNtZfglFlr_RoJFDCmlUkQk/01-Layan-border-cursors.tar.xz</payload>
+  <tags>gplv3,linux,cursor,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

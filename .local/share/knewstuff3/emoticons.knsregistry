@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="113">
+  <name>Google Hangout Emojis Complete</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>gcala</author>
+  <homepage>https://store.kde.org/p/1002289</homepage>
+  <licence></licence>
+  <version>0.3.2.1</version>
+  <rating>76</rating>
+  <downloads>19853</downloads>
+  <installedfile>/home/lstrohm/.local/share/emoticons//GoogleEmojiComplete/*</installedfile>
+  <installedfile>/home/lstrohm/.local/share/emoticons//</installedfile>
+  <id>1002289</id>
+  <releasedate>2014-12-19</releasedate>
+  <summary>Collection of 861 emojis directly from Google Hangout.&lt;br />
+&lt;br />
+This set contains all emoticons currently available.&lt;br />
+&lt;br />
+Icons are property of Google Inc.&lt;br />
+&lt;br />
+&lt;strong>Attention:&lt;/strong> For a mysterious reason, selecting the new theme in System Settings causes changes in...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/162161-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/162161-1.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjM5NzYwMzAiLCJvIjoiMSIsInMiOiI1NjFhMDY5M2YyMjgyMzg1YzE3ZmNlZjA0N2Y0MWM4MDFjMWZiNWNjNGRlOGE0MGU4NWExZTBhYWRlZmU4OTQzZGFhMzU2MTgzODEyOGQwM2UwODUyNmU1MDA5YmQ2ZWU2N2IwNjNhOTVmYTRkZWZiOTViNzQyN2NlNmE3MjUwYyIsInQiOjE1OTAwODcxNTMsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.F6U17cKzbBGmGgC8gMkPRi2v1VmCY_C5Zg3bSkx3dpk/162161-GoogleEmojiComplete.tar.gz</payload>
+  <tags>emoticon,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

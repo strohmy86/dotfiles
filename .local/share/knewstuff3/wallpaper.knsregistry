@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Layan wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1309218</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>70</rating>
+  <downloads>253497</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers/CNQhrO-Layan/*</installedfile>
+  <id>1309218</id>
+  <releasedate>2020-05-19</releasedate>
+  <summary>Layan wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1309218/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1309218/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk4NzY2NzAiLCJvIjoiMSIsInMiOiJiYTM1MzkzYmYxYzgwNTg5ZjY1ODc4OTI3MmFjNzM3Y2MxOTFmNGY4OTNjMjkzNmQ1NTU2ZDIzZjllY2RhZTc1NDhmZmMxNjkyMmJkNmRiZTAxMTVkYjY1MGZhNzBmYjE0Y2RmNzA3YzA2MmJiMmRhYjZiMmU4YmRiNWY1ZTZkMyIsInQiOjE2NDY5NDIyOTQsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.1elPzSRZwKTQSNnp3wY1k2ZsQvePq1t8R9LMzF_HXxA/Layan.tar.xz</payload>
+  <tags>wallpaper,plasma,original-product,artwork,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>KDE Plasma Scenery 194 HD 4K Remastered HIDPI</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1341230</homepage>
+  <licence></licence>
+  <version>Plasma Desktop</version>
+  <rating>67</rating>
+  <downloads>16448</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers/720P KDE Plasma Scenery 194 4K No logo.png</installedfile>
+  <id>1341230</id>
+  <releasedate>2020-02-20</releasedate>
+  <summary>&lt;span style="color: black;">&lt;strong>Like these? Click on the "impress" tag and you should see many of my KDE Plasma wallpapers.&lt;br />
+Big thanks and shout out to supporting creators and tech support :)&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #873260;"> &lt;strong>mrcuve0&lt;/strong>&lt;/span>: &lt;a href="https://www.pling.com/u/mrcuve0/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Here&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #0000ff;"> &lt;strong>FreeFreeno&lt;/strong>&lt;/span>: &lt;a href="https://www.opendesktop.org/u/freefreeno/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Here&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006A80;"> &lt;strong>l4K1&lt;/strong>&lt;/span>: &lt;a href="https://www.opendesktop.org/u/l4k1/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Here&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #6050dc;"> &lt;strong>Shareorlikeit&lt;/strong>&lt;/span>: &lt;a href="https://www.opendesktop.org/u/shareorlikeit/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Here&lt;/strong> &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+&lt;span style="color: #4997d0;"> &lt;strong>You can always buy me coffee&lt;/strong>&lt;/span>: &lt;a href="https://www.paypal.me/charlie1971" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>paypal.me/charlie1971&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: black;">&lt;strong>Please visit my profile page for more than 6000 custom wallpapers&lt;/strong>&lt;/span>: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Here&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: black;">&lt;strong>A wonderful fully edited remastered version directly from the original source.&lt;br />
+4K resolution 3840 X 2160 300 DPI.&lt;br />
+Follow the link above to see the original before the edits.&lt;br />
+As always thank you for looking.&lt;/strong>&lt;/span></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/b/e/8/5b11ef09de954b0c4d7bffa8a3109bed5497.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/b/e/8/5b11ef09de954b0c4d7bffa8a3109bed5497.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODIyMTA4MzEiLCJvIjoiMSIsInMiOiIzZGExZTgxNDc2MGFlN2NjNzkxZGZkZGU2Yjk2OWJiNjNjNmZkNTY2MWEzMWU0NmQwZGNmOTZhNTQ1YWJkM2JmYzA1MjEzMDhmMDIxYjNjN2RhODU5NjkyYTBhZGZhOTU0NzhkZWVmYWI4NTVkMDU4Y2YxYTYyYmQ3NTQ2ZDMxMSIsInQiOjE1ODk5MjM0NzQsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.GDutvvDYgFxd2HweHEQ7SNvyDeRJg095afjV9utD3lc/720P KDE Plasma Scenery 194 4K No logo.png</payload>
+  <tags>wallpaper,cc0,artwork,impress,modification-product,kde,plasma,sunset,ocean</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="311">
+  <name>Aura Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1355738</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2752</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers/Wallpaper.jpg</installedfile>
+  <id>1355738</id>
+  <releasedate>2020-03-31</releasedate>
+  <summary>Aura kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Aura Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1355746/" target="_blank" rel="nofollow">https://www.pling.com/p/1355746/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Aura Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1355739/" target="_blank" rel="nofollow">https://www.pling.com/p/1355739/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Aura Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1355742/" target="_blank" rel="nofollow">https://www.pling.com/p/1355742/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Aura color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1355741/" target="_blank" rel="nofollow">https://www.pling.com/p/1355741/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Aura Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1355744/" target="_blank" rel="nofollow">https://www.pling.com/p/1355744/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Aura Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1355738/" target="_blank" rel="nofollow">https://www.pling.com/p/1355738/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong>Citrus icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1334044/" target="_blank" rel="nofollow">https://www.pling.com/p/1334044/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/4/0/9/ddf1afad476b74cf2d333f5a1814282bb85c.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/4/0/9/ddf1afad476b74cf2d333f5a1814282bb85c.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODU2MzYyODgiLCJvIjoiMSIsInMiOiJiZGEyNGI4NThlZjhhMzFjNDJlOWY4MTc5MmZmMTgzM2JhM2FiNzIyZGQwYWM4ZmYyNGFkODQ2NzI1NWE1OTMwYzk2ZDNhNWFmZDkwMTZkYWVkMWI2Yjg5YzgzNzEwZTY3Y2JjZDNhODM5NTZhNDJlMjRmNmU3NzBkODhjMWE4MSIsInQiOjE1ODk5MjMzNjAsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.jZHy7ros7Yje_BvEE5GQ1laBOCRzyrUpdV3_rvKW_OQ/Wallpaper.jpg</payload>
+  <tags>gplv3,wallpaper,windows,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>Neon Knights Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>ju1464</author>
+  <homepage>https://store.kde.org/p/1320457</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>58</rating>
+  <downloads>1250</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers//NeonKnightsWallpaper.jpg</installedfile>
+  <id>1320457</id>
+  <releasedate>2020-02-23</releasedate>
+  <summary>Wallpaper for Neon Knights Themes.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/1/f/9/829bbf8f95f95ce80e4601a2d2d485a940db.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/1/f/9/829bbf8f95f95ce80e4601a2d2d485a940db.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODI0NzMxODMiLCJvIjoiMSIsInMiOiJmZTI3ZGIxNjQ5NmYyYzE2YTRmMTY0YjUzZDI2MjNjZDAwMjI5YjcwZmEyN2NkMmM5M2RiNTYyZmFiZTM0YTNmYjY3MzBkZDhhNzBkYjI2MmI1YzQ3M2I4OTYxNjRlMDMzY2RkMDA3NmFiZTkzMDcxMmFlMTA1NWIzY2VjZWFkZCIsInQiOjE1ODQ2NTgzNDUsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS4yNTMifQ.mo3NK6NtDUrbcfQuWW2dcXesSN4X4_YjbYbRU91xfY0/NeonKnightsWallpaper.jpg</payload>
+  <tags>neon,wallpaper,artwork,abstract,cc0,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>Starry Nebula 194 4K Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1271439</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>10866</downloads>
+  <installedfile>/home/lstrohm/.local/share/wallpapers/Starry Nebula 194.png</installedfile>
+  <id>1271439</id>
+  <releasedate>2018-10-29</releasedate>
+  <summary>Starry Nebula 194 4K Wallpaper&lt;br />
+3840 X 2160&lt;br />
+&lt;br />
+Like these? Click on the Nebula tag or the Celestial tag and you should see many of my Nebula Celestial based wallpapers.&lt;br />
+Check the original box on the front page to see original content from creators.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/f/6/d/96f6d99ff6e2b0c0c29e7baf25222922f5c9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/f/6/d/96f6d99ff6e2b0c0c29e7baf25222922f5c9.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NDA4Mjc2ODMiLCJvIjoiMSIsInMiOiJiNWI3ZWU4MDVlZGI2ZWIxYmY5MmZjY2FjMTFkN2MyYjEwOTVlODBiOTUyMTc5NWZkN2QzNmM4MGY0OGNlM2VkZjc3MzNkNDA2NDM1NTg2ZGE0ZWUwYTUxYjdlMGVhZmE4ZDg2OThlNDFhYzU4MGNlNmIzZDFhYThlNDQ4MzZkZiIsInQiOjE1ODk5MjM0ODEsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.GeGGOkLx4RytiupdG3GK2Q23nIsDOPTsQpSlS49D5to/Starry Nebula 194.png</payload>
+  <tags>wallpaper,planets,stars,nebula,original-product,abstract,artwork,cc-by,celestial,moons</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

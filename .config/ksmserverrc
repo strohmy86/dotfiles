@@ -1,0 +1,4 @@
+[General]
+confirmLogout=false
+excludeApps=latte-dock
+loginMode=emptySession

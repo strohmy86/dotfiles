@@ -1,0 +1,37 @@
+MenuBar=Disabled
+
+[CompactMode]
+FontWeight=50
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+BrowseThroughArchives=true
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowToolTips=true
+SortingChoice=CaseInsensitiveSorting
+Version=201
+ViewPropsTimestamp=2021,9,5,16,41,28.639
+
+[IconsMode]
+FontWeight=50
+
+[MainWindow]
+HDMI-0 Height 1920x1080=866
+HDMI-0 Width 1920x1080=1400
+HDMI-0 XPosition 1920x1080=369
+HDMI-0 YPosition 1920x1080=121
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,pothumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,textthumbnail,ffmpegthumbs
+
+[VersionControl]
+enabledPlugins=Git,Subversion

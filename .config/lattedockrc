@@ -1,0 +1,53 @@
+[KFileDialog Settings]
+Recent Files[$e]=240px-Faenza-start-here-archlinux-symbolic.svg.png,file:$HOME/.themes/240px-Faenza-start-here-archlinux-symbolic.svg.png
+Recent URLs[$e]=file:$HOME/.themes/
+iconViewIconSize=59
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1100,750
+
+[LatteSettingsDialog][DetailsDialog]
+windowSize=560,640
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=48,508,129,104
+sortColumn=3
+sortOrder=0
+
+[LatteSettingsDialog][ViewsDialog]
+columnWidths=59,256,142,135,131
+sortColumn=2
+sortOrder=0
+windowSize=980,630
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[ScreenConnectors]
+10=HDMI-0:::0,0 1920x1080
+11=eDP-1-1:::0,0 1920x1080
+12=HDMI-A-2:::0,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=true
+canDisableBorders=false
+contextMenuActionsAlwaysShown=
+currentLayout=Default
+downloadWindowSize=800,550
+inAdvancedModeForEditSettings=true
+isAvailableGeometryBroadcastedToPlasma=true
+lastNonAssignedLayout=Default
+launchers=
+layoutsColumnWidths=
+layoutsWindowSize=700,450
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=1100
+showInfoWindow=true
+singleModeLayoutName=Xero
+version=2

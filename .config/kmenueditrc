@@ -1,0 +1,14 @@
+[General]
+SplitterSizes=431,652
+
+[KFileDialog Settings]
+Recent Files[$e]=blackarchlogo.png,file:$HOME/.icons/blackarchlogo.png
+Recent URLs[$e]=file:$HOME/.icons/
+iconViewIconSize=64
+
+[MainWindow]
+HDMI-0 XPosition 1920x1080=612
+HDMI-0 YPosition 1920x1080=331
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABEYAAAF4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

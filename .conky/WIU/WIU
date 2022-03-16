@@ -22,7 +22,7 @@ conky.config = {
 	--Arch Duoscreen
 	--gap_x = -1910,
 	gap_x = 10,									-- pixels between right or left border
-	gap_y = 25,								-- pixels between bottom or left border
+	gap_y = 30,								-- pixels between bottom or left border
 	minimum_height = 200,						-- minimum height of window
 	minimum_width = 240,						-- minimum height of window
 	maximum_width = 240,						-- maximum height of window
@@ -72,7 +72,7 @@ conky.config = {
 	own_window_hints = 'undecorated,below,above,sticky,skip_taskbar,skip_pager',  -- if own_window true - just hints - own_window_type sets it
 	own_window_transparent = true,				-- if own_window_argb_visual is true sets background opacity 0%
 	own_window_title = 'system_conky',			-- set the name manually  - default conky "hostname"
-	own_window_type = 'normal',				    -- if own_window true options are: normal/override/dock/desktop/panel
+	own_window_type = 'normal', 			    -- if own_window true options are: normal/override/dock/desktop/panel
 
 	--Default colors and also border colors
 	default_color = '#ffffff'
@@ -90,7 +90,7 @@ ${voffset -25}${font Zekton:Bold:size=12}${alignc 0}${execpi 1200 cat /sys/class
 ${font Zekton:Bold:size=12}${alignc 0}${execpi 1200 cat /sys/class/dmi/id/product_name}
 ${font DejaVu Sans:Bold:size=13}K${font}  Kernel: ${alignr}${kernel}
 ${offset -2}${font RoadSign:size=16}9${font} CPU Speed: ${alignr}${freq 0}MHz
-${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5}CPU Temp:  ${alignr}${hwmon 5 temp 1}°C
+${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5}CPU Temp:  ${alignr}${hwmon 1 temp 1}°C
 ${font StyleBats:Bold:size=16}A${font} CPU 1: ${cpu cpu1}% ${alignr}${cpubar cpu1 8,60}
 ${font StyleBats:Bold:size=16}A${font} CPU 2: ${cpu cpu2}% ${alignr}${cpubar cpu2 8,60}
 ${font StyleBats:Bold:size=16}A${font} CPU 3: ${cpu cpu3}% ${alignr}${cpubar cpu3 8,60}
@@ -103,7 +103,7 @@ ${font StyleBats:Bold:size=16}g${font} RAM: $mem $memperc% ${alignr}${membar 8,6
 ${font StyleBats:Bold:size=16}j${font} SWAP: $swap $swapperc% ${alignr}${swapbar 8,60}
 ${font Webdings:Bold:size=16}~${font}Battery: ${battery_percent BAT1}% ${alignr}${battery_bar 8,60 BAT1}
 ${font StyleBats:Bold:size=16}q${font} Uptime: ${alignr}${uptime}
-${font PizzaDude Bullets:size=16}v${font} Available Updates: ${alignr 10}${execpi 120 checkupdates | wc -l}
+${font PizzaDude Bullets:size=16}v${font} Available Updates: ${alignr 10}${execpi 120 checkupdates 2>/dev/null | wc -l}
 
 ${voffset -10}${font Zekton:Bold:size=11}DATE ${hr 2}
 
@@ -134,5 +134,6 @@ ${font PizzaDude Bullets:size=14}O${font} Up: ${upspeed wlp62s0}${alignr}${upspe
 ${voffset 4}${font PizzaDude Bullets:size=14}U${font} Down: ${downspeed wlp62s0}${alignr}${downspeedgraph wlp62s0 8,60 black black}
 ${voffset 4}${font PizzaDude Bullets:size=14}N${font} Upload: ${alignr}${totalup wlp62s0}
 ${voffset 4}${font PizzaDude Bullets:size=14}T${font} Download: ${alignr}${totaldown wlp62s0}
+${endif}
 ${endif}
 ]];

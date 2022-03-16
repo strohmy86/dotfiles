@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment=Matrix
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Matrix
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Sergey Musiyenko
+X-KDE-PluginInfo-Category=KDE splashscreen
+X-KDE-PluginInfo-Email=s@musiyenko.com
+X-KDE-PluginInfo-License=GNU GPL v3
+X-KDE-PluginInfo-Name=matrix.splashscreen
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=www.musiyenko.com
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=
