@@ -1,0 +1,64 @@
+---
+- name: Update Ubuntu Servers
+  hosts: ubuntu
+  remote_user: lstrohm
+  become: yes
+  become_method: sudo
+  
+  tasks:
+    - name: Update Cache
+      apt:
+        update_cache: yes
+
+    - name: Upgrade all packages
+      apt:
+        name: "*"
+        state: latest
+
+- name: Update Rocky Linux Servers
+  hosts: rocky
+  remote_user: lstrohm
+  become: yes
+  become_method: sudo
+
+  tasks:
+    - name: Upgrade all packages
+      dnf:
+        name: "*"
+        state: latest
+
+#- name: Update OES servers
+#  hosts: oes
+#  remote_user: root
+#
+#  tasks:
+#    - name: Upgrade all packages
+#      zypper:
+#        name: "*"
+#        state: latest
+#        type: patch
+#        update_cache: yes
+
+- name: Update Linux Appliances
+  hosts: appliance
+  remote_user: root
+
+  tasks:
+    - name: Upgrade all packages
+      zypper:
+        name: "*"
+        state: latest
+        type: patch
+        update_cache: yes
+
+- name: Update Arch Linux Hosts
+  hosts: arch
+  remote_user: lstrohm
+  become: yes
+  become_method: sudo
+
+  tasks:
+    - name: Upgrade all packages
+      pacman:
+        update_cache: yes
+        upgrade: yes

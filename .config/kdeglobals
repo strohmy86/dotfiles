@@ -136,8 +136,11 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [General]
+BrowserApplication=brave-browser.desktop
 ColorSchemeHash=625c32ae46f33771aca7694ab0deae5a44bbf41c
 Name=Layan
+TerminalApplication=terminator
+TerminalService=terminator.desktop
 XftHintStyle=hintslight
 XftSubPixel=rgb
 fixed=Hack,11,-1,5,50,0,0,0,0,0
@@ -156,8 +159,8 @@ contrast=0
 
 [KFileDialog Settings]
 Allow Expansion=false
-Automatically select filename extension=true
-Breadcrumb Navigation=true
+Automatically select filename extension=false
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
