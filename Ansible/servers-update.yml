@@ -27,30 +27,6 @@
         name: "*"
         state: latest
 
-#- name: Update OES servers
-#  hosts: oes
-#  remote_user: root
-#
-#  tasks:
-#    - name: Upgrade all packages
-#      zypper:
-#        name: "*"
-#        state: latest
-#        type: patch
-#        update_cache: yes
-
-- name: Update Linux Appliances
-  hosts: appliance
-  remote_user: root
-
-  tasks:
-    - name: Upgrade all packages
-      zypper:
-        name: "*"
-        state: latest
-        type: patch
-        update_cache: yes
-
 - name: Update Arch Linux Hosts
   hosts: arch
   remote_user: lstrohm
