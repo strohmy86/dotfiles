@@ -85,55 +85,72 @@ ${font Zekton:Bold:size=12}${alignc 0}${exec cut -d '\' -f 1 /etc/issue}
 #${voffset -10}${font OpenLogos:size=40}B
 #Hostname
 ${voffset -15}${alignc}${font Compacta Bd BT:size=32}ARCHMSI
-#PC
+#---------+
+# PC INFO |
+#---------+
 ${voffset -25}${font Zekton:Bold:size=12}${alignc 0}${execpi 1200 cat /sys/class/dmi/id/board_vendor}
 ${font Zekton:Bold:size=12}${alignc 0}${execpi 1200 cat /sys/class/dmi/id/product_name}
 ${font DejaVu Sans:Bold:size=13}K${font}  Kernel: ${alignr}${kernel}
-${offset -2}${font RoadSign:size=16}9${font} CPU Speed: ${alignr}${freq 0}MHz
-${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5}CPU Temp:  ${alignr}${hwmon 1 temp 1}°C
-${font StyleBats:Bold:size=16}A${font} CPU 1: ${cpu cpu1}% ${alignr}${cpubar cpu1 8,60}
-${font StyleBats:Bold:size=16}A${font} CPU 2: ${cpu cpu2}% ${alignr}${cpubar cpu2 8,60}
-${font StyleBats:Bold:size=16}A${font} CPU 3: ${cpu cpu3}% ${alignr}${cpubar cpu3 8,60}
-${font StyleBats:Bold:size=16}A${font} CPU 4: ${cpu cpu4}% ${alignr}${cpubar cpu4 8,60}
-${font StyleBats:Bold:size=16}A${font} CPU 5: ${cpu cpu5}% ${alignr}${cpubar cpu5 8,60}
-${font StyleBats:Bold:size=16}A${font} CPU 6: ${cpu cpu6}% ${alignr}${cpubar cpu6 8,60}
-${font StyleBats:Bold:size=16}A${font} CPU 7: ${cpu cpu7}% ${alignr}${cpubar cpu7 8,60}
-${font StyleBats:Bold:size=16}A${font} CPU 8: ${cpu cpu8}% ${alignr}${cpubar cpu8 8,60}
-${font StyleBats:Bold:size=16}g${font} RAM: $mem $memperc% ${alignr}${membar 8,60}
-${font StyleBats:Bold:size=16}j${font} SWAP: $swap $swapperc% ${alignr}${swapbar 8,60}
-${font Webdings:Bold:size=16}~${font}Battery: ${battery_percent BAT1}% ${alignr}${battery_bar 8,60 BAT1}
+#${font Webdings:Bold:size=16}~${font}Battery: ${battery_percent BAT1}% ${alignr}${battery_bar 8,60 BAT1}
 ${font StyleBats:Bold:size=16}q${font} Uptime: ${alignr}${uptime}
 ${font PizzaDude Bullets:size=16}v${font} Available Updates: ${alignr 10}${execpi 120 checkupdates 2>/dev/null | wc -l}
-
-${voffset -10}${font Zekton:Bold:size=11}DATE ${hr 2}
-
-${voffset -15}${alignc 0}${font Compacta Bd BT:size=26}${time %H:%M}${font Zekton:size=10}
-${voffset 3}${alignc}${time %A, %d %B %Y}
-
-${voffset -15}${font Zekton:Bold:size=11}HD ${hr 2}
-${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5} SSD Temp: ${alignr}${hwmon 2 temp 1}°C
-${voffset 3}${font Pie charts for maps:Bold:size=14}7${font} ${voffset -5}Root:     ${fs_used /}/${fs_size /} ${alignr}${fs_bar 8,60 /}
-${voffset 4}${font Pie charts for maps:Bold:size=14}m${font} ${voffset -4}Home:   ${fs_used /home}/${fs_size /home} ${alignr}${fs_bar 8,60 /home}
-${voffset 3}${font Pie charts for maps:Bold:size=14}p${font} ${voffset -3}Var:       ${fs_used /var}/${fs_size /var} ${alignr}${fs_bar 8,60 /var}
-
-${voffset -10}${font Zekton:Bold:size=11}NETWORK ${hr 2}
-#Aquí tengo que aclarar algo mis interfaces de red son
-#Wired = enp61s0 and WiFi = wlp62s0
-${if_existing /proc/net/route enp61s0}
+#------------+
+# CPU STATS  |
+#------------+
+${voffset 10}${font Zekton:Bold:size=11}CPU ${hr 2}
+${offset -2}${font RoadSign:size=16}9${font} Speed: ${freq 0}MHz ${alignr}${voffset -5}${font ConkyWeather:Bold:size=18}E${font}${voffset -5}Temp: ${hwmon 2 temp 1}°C
+${voffset 3}${font StyleBats:Bold:size=16}A${font} CPU 01: ${cpu cpu1}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 09: ${cpu cpu9}% 
+${font StyleBats:Bold:size=16}A${font} CPU 02: ${cpu cpu2}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 10: ${cpu cpu10}% 
+${font StyleBats:Bold:size=16}A${font} CPU 03: ${cpu cpu3}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 11: ${cpu cpu11}% 
+${font StyleBats:Bold:size=16}A${font} CPU 04: ${cpu cpu4}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 12: ${cpu cpu12}% 
+${font StyleBats:Bold:size=16}A${font} CPU 05: ${cpu cpu5}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 13: ${cpu cpu13}% 
+${font StyleBats:Bold:size=16}A${font} CPU 06: ${cpu cpu6}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 14: ${cpu cpu14}% 
+${font StyleBats:Bold:size=16}A${font} CPU 07: ${cpu cpu7}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 15: ${cpu cpu15}% 
+${font StyleBats:Bold:size=16}A${font} CPU 08: ${cpu cpu8}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 16: ${cpu cpu16}% 
+#------------+
+# Nvidia GPU |
+#------------+
+${voffset 10}${font Zekton:Bold:size=11}GPU ${hr 2}${font}
+${font Zekton:Bold:size=10}${execpi .001 (nvidia-smi --query-gpu=gpu_name --format=csv,noheader)} 
+${font StyleBats:Bold:size=16}o${font} Driver: ${alignr}${execpi .001 (nvidia-smi --query-gpu=driver_version --format=csv,noheader)}
+${font RoadSign:size=16}9${font} Speed: ${alignr}${execpi .001 (nvidia-smi --query-gpu=clocks.sm --format=csv,noheader)} 
+${font ConkyWeather:Bold:size=18}E${voffset -5}${font}Temp: ${alignr}${execpi .001 (nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader)}°C
+${font StyleBats:Bold:size=16}A${font} GPU: ${alignr}${execpi .001 (nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader)} 
+${font StyleBats:Bold:size=16}g${font} Ram: ${alignr}${execpi .001 (nvidia-smi --query-gpu=memory.used --format=csv,noheader)} / ${execpi .001 (nvidia-smi --query-gpu=memory.total --format=csv,noheader)}
+#----------+
+# STORAGE  |
+#----------+
+${voffset 10}${font Zekton:Bold:size=11}STORAGE ${hr 2}${font}
+${font StyleBats:Bold:size=16}g${font} RAM:   $mem / $memmax ${alignr}${membar 8,60}
+${font StyleBats:Bold:size=16}j${font} Swap:    $swap / $swapmax ${alignr}${swapbar 8,60}
+${voffset 5}${font Zekton:Bold:size=10}${execpi 10 (sudo nvme id-ctrl /dev/nvme0n1 | grep 'mn ' | cut -d':' -f2 | cut -d'-' -f1)}
+${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5} SSD Temp: ${alignr}${hwmon 1 temp 1}°C
+${voffset 3}${font Pie charts for maps:Bold:size=14}7${font} ${voffset -5}Root:     ${fs_used /} / ${fs_size /} ${alignr}${fs_bar 8,60 /}
+${voffset 4}${font Pie charts for maps:Bold:size=14}m${font} ${voffset -4}Home:   ${fs_used /home} / ${fs_size /home} ${alignr}${fs_bar 8,60 /home}
+${voffset 3}${font Pie charts for maps:Bold:size=14}p${font} ${voffset -3}Var:       ${fs_used /var} / ${fs_size /var} ${alignr}${fs_bar 8,60 /var}
+${font Zekton:Bold:size=11}${voffset 5}${font}${execpi 10 (sudo hddtemp /dev/sda | cut -d':' -f2)}
+${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5} HDD Temp: ${alignr}${execpi .001 (sudo hddtemp /dev/sda | cut -d':' -f3)}
+${voffset 3}${font Pie charts for maps:Bold:size=14}r${font} ${voffset -3}Data:     ${fs_used /data} / ${fs_size /data} ${alignr}${fs_bar 8,60 /data}
+#---------+
+# NETWORK |
+#---------+
+${voffset 10}${font Zekton:Bold:size=11}NETWORK ${hr 2}
+#Wired = enp4s0 and WiFi = wlp3s0
+${if_existing /proc/net/route enp4s0}
 ${voffset -18}${alignc 0}${font Compacta Bd BT:size=16}W i r e  d
-${font}IP Address:${alignr}${addr enp61s0}
-${font PizzaDude Bullets:size=14}O${font} Up: ${upspeed enp61s0}${alignr}${upspeedgraph enp61s0 8,60 black black}
-${voffset 4}${font PizzaDude Bullets:size=14}U${font} Down: ${downspeed enp61s0}${alignr}${downspeedgraph enp61s0 8,60 black black}
-${voffset 4}${font PizzaDude Bullets:size=14}N${font} Upload: ${alignr}${totalup enp61s0}
-${voffset 4}${font PizzaDude Bullets:size=14}T${font} Dowload: ${alignr}${totaldown enp61s0}
-${else}${if_existing /proc/net/route wlp62s0}${alignc 0}${font Compacta Bd BT:size=16}W i F i
-${font}SSID: ${wireless_essid wlp62s0}
-Signal: ${wireless_link_qual_perc wlp62s0}% ${alignr}${wireless_link_bar 8,60 wlp62s0}
-${font}IP Address:${alignr}${addr wlp62s0}
-${font PizzaDude Bullets:size=14}O${font} Up: ${upspeed wlp62s0}${alignr}${upspeedgraph wlp62s0 8,60 black black}
-${voffset 4}${font PizzaDude Bullets:size=14}U${font} Down: ${downspeed wlp62s0}${alignr}${downspeedgraph wlp62s0 8,60 black black}
-${voffset 4}${font PizzaDude Bullets:size=14}N${font} Upload: ${alignr}${totalup wlp62s0}
-${voffset 4}${font PizzaDude Bullets:size=14}T${font} Download: ${alignr}${totaldown wlp62s0}
+${font}IP Address:${alignr}${addr enp4s0}
+${font PizzaDude Bullets:size=14}O${font} Up: ${upspeed enp4s0}${alignr}${upspeedgraph enp4s0 8,60 black black}
+${voffset 4}${font PizzaDude Bullets:size=14}U${font} Down: ${downspeed enp4s0}${alignr}${downspeedgraph enp4s0 8,60 black black}
+${voffset 4}${font PizzaDude Bullets:size=14}N${font} Upload: ${alignr}${totalup enp4s0}
+${voffset 4}${font PizzaDude Bullets:size=14}T${font} Dowload: ${alignr}${totaldown enp4s0}
+${else}${if_existing /proc/net/route wlp3s0}${alignc 0}${font Compacta Bd BT:size=16}W i F i
+${font}SSID: ${wireless_essid wlp3s0}
+Signal: ${wireless_link_qual_perc wlp3s0}% ${alignr}${wireless_link_bar 8,60 wlp3s0}
+${font}IP Address:${alignr}${addr wlp3s0}
+${font PizzaDude Bullets:size=14}O${font} Up: ${upspeed wlp3s0}${alignr}${upspeedgraph wlp3s0 8,60 black black}
+${voffset 4}${font PizzaDude Bullets:size=14}U${font} Down: ${downspeed wlp3s0}${alignr}${downspeedgraph wlp3s0 8,60 black black}
+${voffset 4}${font PizzaDude Bullets:size=14}N${font} Upload: ${alignr}${totalup wlp3s0}
+${voffset 4}${font PizzaDude Bullets:size=14}T${font} Download: ${alignr}${totaldown wlp3s0}
 ${endif}
 ${endif}
 ]];
