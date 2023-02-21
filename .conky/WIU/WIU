@@ -84,7 +84,7 @@ ${font Zekton:Bold:size=11}SYSTEM ${hr 2}
 ${font Zekton:Bold:size=12}${alignc 0}${exec cut -d '\' -f 1 /etc/issue}
 #${voffset -10}${font OpenLogos:size=40}B
 #Hostname
-${voffset -15}${alignc}${font Compacta Bd BT:size=32}ARCHMSI
+${voffset -15}${alignc}${font Compacta Bd BT:size=32}${nodename}
 #---------+
 # PC INFO |
 #---------+
@@ -113,8 +113,7 @@ ${font StyleBats:Bold:size=16}A${font} CPU 08: ${cpu cpu8}% ${voffset -5}${align
 ${voffset 10}${font Zekton:Bold:size=11}GPU ${hr 2}${font}
 ${font Zekton:Bold:size=10}${execpi .001 (nvidia-smi --query-gpu=gpu_name --format=csv,noheader)} 
 ${font StyleBats:Bold:size=16}o${font} Driver: ${alignr}${execpi .001 (nvidia-smi --query-gpu=driver_version --format=csv,noheader)}
-${font RoadSign:size=16}9${font} Speed: ${alignr}${execpi .001 (nvidia-smi --query-gpu=clocks.sm --format=csv,noheader)} 
-${font ConkyWeather:Bold:size=18}E${voffset -5}${font}Temp: ${alignr}${execpi .001 (nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader)}°C
+${font RoadSign:size=16}9${font} Speed: ${execpi .001 (nvidia-smi --query-gpu=clocks.sm --format=csv,noheader)}${alignr -130}${voffset -5}${font ConkyWeather:Bold:size=18}E${voffset -5}${offset -5}${font}Temp: ${execpi .001 (nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader)}°C
 ${font StyleBats:Bold:size=16}A${font} GPU: ${alignr}${execpi .001 (nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader)} 
 ${font StyleBats:Bold:size=16}g${font} Ram: ${alignr}${execpi .001 (nvidia-smi --query-gpu=memory.used --format=csv,noheader)} / ${execpi .001 (nvidia-smi --query-gpu=memory.total --format=csv,noheader)}
 #----------+
@@ -128,7 +127,7 @@ ${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5} SSD Temp: ${a
 ${voffset 3}${font Pie charts for maps:Bold:size=14}7${font} ${voffset -5}Root:     ${fs_used /} / ${fs_size /} ${alignr}${fs_bar 8,60 /}
 ${voffset 4}${font Pie charts for maps:Bold:size=14}m${font} ${voffset -4}Home:   ${fs_used /home} / ${fs_size /home} ${alignr}${fs_bar 8,60 /home}
 ${voffset 3}${font Pie charts for maps:Bold:size=14}p${font} ${voffset -3}Var:       ${fs_used /var} / ${fs_size /var} ${alignr}${fs_bar 8,60 /var}
-${font Zekton:Bold:size=11}${voffset 5}${font}${execpi 10 (sudo hddtemp /dev/sda | cut -d':' -f2)}
+${font Zekton:Bold:size=12}${voffset 5}${font}${execpi 10 (sudo hddtemp /dev/sda | cut -d':' -f2)}
 ${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5} HDD Temp: ${alignr}${execpi .001 (sudo hddtemp /dev/sda | cut -d':' -f3)}
 ${voffset 3}${font Pie charts for maps:Bold:size=14}r${font} ${voffset -3}Data:     ${fs_used /data} / ${fs_size /data} ${alignr}${fs_bar 8,60 /data}
 #---------+
