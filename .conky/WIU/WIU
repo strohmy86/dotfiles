@@ -17,15 +17,15 @@ conky.config = {
 
 	--Placement
 
-	alignment = 'top_left',					-- top-left,top-middle,top-right,bottom-left,bottom-middle,bottom-right,
+	alignment = 'top_left',						-- top-left,top-middle,top-right,bottom-left,bottom-middle,bottom-right,
 												-- middle-left,middle-middle,middle-right,none
 	--Arch Duoscreen
 	--gap_x = -1910,
 	gap_x = 10,									-- pixels between right or left border
-	gap_y = 30,								-- pixels between bottom or left border
+	gap_y = 30,									-- pixels between bottom or left border
 	minimum_height = 200,						-- minimum height of window
-	minimum_width = 240,						-- minimum height of window
-	maximum_width = 240,						-- maximum height of window
+	minimum_width = 260,						-- minimum height of window
+	maximum_width = 260,						-- maximum height of window
 
 	--Graphical
 
@@ -93,12 +93,13 @@ ${font Zekton:Bold:size=12}${alignc 0}${execpi 1200 cat /sys/class/dmi/id/produc
 ${font DejaVu Sans:Bold:size=13}K${font}  Kernel: ${alignr}${kernel}
 #${font Webdings:Bold:size=16}~${font}Battery: ${battery_percent BAT1}% ${alignr}${battery_bar 8,60 BAT1}
 ${font StyleBats:Bold:size=16}q${font} Uptime: ${alignr}${uptime}
-${font PizzaDude Bullets:size=16}v${font} Available Updates: ${alignr 10}${execpi 120 checkupdates 2>/dev/null | wc -l}
+${font PizzaDude Bullets:size=14}v${font} Available Updates: ${alignr 10}${execpi 120 checkupdates 2>/dev/null | wc -l}
 #------------+
 # CPU STATS  |
 #------------+
 ${voffset 10}${font Zekton:Bold:size=11}CPU ${hr 2}
-${offset -2}${font RoadSign:size=16}9${font} Speed: ${freq 0}MHz ${alignr}${voffset -5}${font ConkyWeather:Bold:size=18}E${font}${voffset -5}Temp: ${hwmon 2 temp 1}°C
+${font Zekton:Bold:size=10}${execpi 1000 (cat /proc/cpuinfo | grep 'model name' | sed -e 's/model name.*: //'| uniq | cut -c 1-26)}
+${offset -2}${font RoadSign:size=16}9${font} Speed: ${freq 0}MHz ${alignr -10}${voffset -5}${font ConkyWeather:Bold:size=18}E${font}${voffset -5}${offset -5}Temp: ${hwmon 2 temp 1}°C
 ${voffset 3}${font StyleBats:Bold:size=16}A${font} CPU 01: ${cpu cpu1}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 09: ${cpu cpu9}% 
 ${font StyleBats:Bold:size=16}A${font} CPU 02: ${cpu cpu2}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 10: ${cpu cpu10}% 
 ${font StyleBats:Bold:size=16}A${font} CPU 03: ${cpu cpu3}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 11: ${cpu cpu11}% 
@@ -112,15 +113,15 @@ ${font StyleBats:Bold:size=16}A${font} CPU 08: ${cpu cpu8}% ${voffset -5}${align
 #------------+
 ${voffset 10}${font Zekton:Bold:size=11}GPU ${hr 2}${font}
 ${font Zekton:Bold:size=10}${execpi .001 (nvidia-smi --query-gpu=gpu_name --format=csv,noheader)} 
-${font StyleBats:Bold:size=16}o${font} Driver: ${alignr}${execpi .001 (nvidia-smi --query-gpu=driver_version --format=csv,noheader)}
+${font StyleBats:Bold:size=16}o${font} Driver: ${alignr}${font DejaVu Sans:Bold:size=11}${execpi .001 (nvidia-smi --query-gpu=driver_version --format=csv,noheader)}
 ${font RoadSign:size=16}9${font} Speed: ${execpi .001 (nvidia-smi --query-gpu=clocks.sm --format=csv,noheader)}${alignr -130}${voffset -5}${font ConkyWeather:Bold:size=18}E${voffset -5}${offset -5}${font}Temp: ${execpi .001 (nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader)}°C
-${font StyleBats:Bold:size=16}A${font} GPU: ${alignr}${execpi .001 (nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader)} 
-${font StyleBats:Bold:size=16}g${font} Ram: ${alignr}${execpi .001 (nvidia-smi --query-gpu=memory.used --format=csv,noheader)} / ${execpi .001 (nvidia-smi --query-gpu=memory.total --format=csv,noheader)}
+${voffset 5}${font StyleBats:Bold:size=16}A${font} GPU: ${alignr}${execpi .001 (nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader)} 
+${font StyleBats:Bold:size=16}g${font} VRam: ${alignr}${execpi .001 (nvidia-smi --query-gpu=memory.used --format=csv,noheader)} / ${execpi .001 (nvidia-smi --query-gpu=memory.total --format=csv,noheader)}
 #----------+
 # STORAGE  |
 #----------+
 ${voffset 10}${font Zekton:Bold:size=11}STORAGE ${hr 2}${font}
-${font StyleBats:Bold:size=16}g${font} RAM:   $mem / $memmax ${alignr}${membar 8,60}
+${font StyleBats:Bold:size=16}g${font} RAM:      $mem / $memmax ${alignr}${membar 8,60}
 ${font StyleBats:Bold:size=16}j${font} Swap:    $swap / $swapmax ${alignr}${swapbar 8,60}
 ${voffset 5}${font Zekton:Bold:size=10}${execpi 10 (sudo nvme id-ctrl /dev/nvme0n1 | grep 'mn ' | cut -d':' -f2 | cut -d'-' -f1)}
 ${offset -4}${font ConkyWeather:Bold:size=18}E${font}${voffset -5} SSD Temp: ${alignr}${hwmon 1 temp 1}°C
