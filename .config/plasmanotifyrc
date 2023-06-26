@@ -1,7 +1,13 @@
 [Applications][brave-browser]
 Seen=true
 
+[Applications][discord]
+Seen=true
+
 [Applications][google-chrome]
+Seen=true
+
+[Applications][heroic]
 Seen=true
 
 [Applications][org.qbittorrent.qBittorrent]

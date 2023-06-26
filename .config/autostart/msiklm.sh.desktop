@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=/home/lstrohm/.config/old-autostart-scripts/msiklm.sh
-Icon=dialog-scripts
-Name=msiklm.sh
-Path=
-Type=Application
-X-KDE-AutostartScript=true

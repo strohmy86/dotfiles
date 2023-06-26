@@ -52,20 +52,6 @@ plugin=org.kde.plasma.appmenu
 [Containments][12][Applets][104][Configuration]
 PreloadWeight=0
 
-[Containments][12][Applets][204]
-immutability=1
-plugin=org.kde.netspeedWidget
-
-[Containments][12][Applets][204][Configuration]
-PreloadWeight=0
-
-[Containments][12][Applets][204][Configuration][ConfigDialog]
-DialogHeight=558
-DialogWidth=720
-
-[Containments][12][Applets][204][Configuration][General]
-speedUnits=bits
-
 [Containments][12][Applets][208]
 immutability=1
 plugin=org.kde.plasma.keyboardlayout
@@ -91,25 +77,6 @@ use24hFormat=2
 DialogHeight=558
 DialogWidth=720
 
-[Containments][12][Applets][222]
-immutability=1
-plugin=com.github.k-donn.plasmoid-wunderground
-
-[Containments][12][Applets][222][Configuration]
-PreloadWeight=0
-
-[Containments][12][Applets][222][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][12][Applets][222][Configuration][Station]
-latitude=40.772
-longitude=-82.456
-stationID=KOHMANSF105
-
-[Containments][12][Applets][222][Configuration][Units]
-unitsChoice=1
-
 [Containments][12][Applets][223]
 immutability=1
 plugin=org.kde.latte.separator
@@ -117,26 +84,12 @@ plugin=org.kde.latte.separator
 [Containments][12][Applets][223][Configuration]
 PreloadWeight=0
 
-[Containments][12][Applets][225]
-immutability=1
-plugin=org.kde.latte.separator
-
-[Containments][12][Applets][225][Configuration]
-PreloadWeight=0
-
-[Containments][12][Applets][226]
-immutability=1
-plugin=org.kde.latte.separator
-
-[Containments][12][Applets][226][Configuration]
-PreloadWeight=0
-
 [Containments][12][Applets][229]
 immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][12][Applets][229][Configuration]
-PreloadWeight=92
+PreloadWeight=97
 
 [Containments][12][Applets][229][Configuration][ConfigDialog]
 DialogHeight=540
@@ -203,45 +156,41 @@ DialogWidth=720
 containmentType=Latte
 lengthPixels=8
 
-[Containments][12][Applets][235]
+[Containments][12][Applets][236]
 immutability=1
-plugin=org.kde.plasma.systemmonitor
+plugin=org.kde.plasma.weather
 
-[Containments][12][Applets][235][Configuration]
-PreloadWeight=0
+[Containments][12][Applets][236][Configuration]
+PreloadWeight=75
+configMigrated=true
 
-[Containments][12][Applets][235][Configuration][Appearance]
-chartFace=org.kde.ksysguard.barchart
-title=Individual Core Usage
+[Containments][12][Applets][236][Configuration][Appearance]
+showHumidityInTooltip=true
+showPressureInTooltip=true
+showTemperatureInCompactMode=true
+showTemperatureInTooltip=true
+showWindInTooltip=true
 
-[Containments][12][Applets][235][Configuration][ConfigDialog]
+[Containments][12][Applets][236][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
-[Containments][12][Applets][235][Configuration][SensorColors]
-cpu/cpu.*/usage=86,87,245
-cpu/cpu0/usage=86,87,245
-cpu/cpu1/usage=204,86,245
-cpu/cpu2/usage=245,86,167
-cpu/cpu3/usage=245,125,86
-cpu/cpu4/usage=245,244,86
-cpu/cpu5/usage=127,245,86
-cpu/cpu6/usage=86,245,164
-cpu/cpu7/usage=86,206,245
+[Containments][12][Applets][236][Configuration][Units]
+pressureUnit=5028
+speedUnit=9002
+temperatureUnit=6002
+visibilityUnit=2024
 
-[Containments][12][Applets][235][Configuration][Sensors]
-highPrioritySensorIds=["cpu/cpu.*/usage"]
-totalSensors=["cpu/all/usage"]
-
-[Containments][12][Applets][235][Configuration][org.kde.ksysguard.linechart][General]
-lineChartStacked=true
+[Containments][12][Applets][236][Configuration][WeatherStation]
+source=wettercom|weather|Mansfield, Ohio, US|US0OH0551;Mansfield
+updateInterval=30
 
 [Containments][12][Applets][88]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][12][Applets][88][Configuration]
-PreloadWeight=73
+PreloadWeight=92
 SystrayContainmentId=89
 
 [Containments][12][ConfigDialog]
@@ -254,7 +203,7 @@ PreloadWeight=0
 [Containments][12][General]
 alignment=10
 alignmentUpgraded=true
-appletOrder=229;233;232;234;103;104;220;223;222;225;204;226;235;231;208;88
+appletOrder=229;233;232;234;103;104;220;223;236;231;208;88
 autoDecreaseIconSize=false
 autoSizeEnabled=false
 backgroundRadius=24
@@ -351,7 +300,7 @@ hoverAction=PreviewWindows
 infoBadgeProminentColorEnabled=true
 isInLatteDock=true
 isPreferredForDroppedLaunchers=false
-launchers59=file:///latte-separator1.desktop,applications:org.kde.dolphin.desktop,file:///opt/onlyoffice/desktopeditors/DesktopEditors?iconData=iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAMRklEQVRoge2ZaZBc1XXHf-fe915vM5rpng3NCAm0ggQuA0ZsisEEgwyV2HGCMEpETIpKmXIqRSqJE1x2YdkmTsWpwqjilO2ycYwSOyEOXnAhDMI4XjAgIhAIMIuEhEbSjGbTtGaml_fePfnwejbNDlI5H3Jq7nS_7nfP-f_POfec2_fB_8tvVuR0KW795FNtFVdZZ_E8cdGhvn-48pXTYeeUEyh88hfvF8NH1clVyCT9-0T5hvr2wf6tlxZPlb1TQqDlrmfOUBdvBjaDts9hchj0-7HRbw1svWLvO7X9jgi0febpqxXdAnKNgH0bKp5D5P7uu9b_x9vFsGACrXc_1Wad9xFgs8CZb9fwJFEGjeGBSljd3rP18jcWMnXeBJZ-_tkNWLtFVTcCvi4Y5byAqMKTEsfbD3364h8uYN70svKupxbFdcGNBrtFkdXq4FQDnwmQGHcM5d-lWv23fZ9af2iu-yfJuV_cc15szUcR80EgFy8UtaogoqhO1S8yb21GQEQcyk80jre__lfnPzZF3cSLtdv2_gHGu0VV3qMobiZT0wE7FTIDOSNgEMTQCfF3JIy_vfeO87uhRuCir752g8N8wSnNsTIVuManreHNKGKnkEkiAlYIjdMv7b591T0egHjePwqmwTlFGK2HE71sZjb0TqMxc0rV9E79XgXfT5m_BhIClZ6hh-vaFt2cDjwiB5FTVGfMnxkB6wLIyDjwCXOmJSO1CWoN-EYwSjTSe-LopMkr7_zlZblCw53ZhuxFmfqMCVWpxBPXwWRw04JNPhND6IuEgeBsMs_ETv2qk6CCMsXrMiUK49cCBEYIPCGqRFoaGD480j_8zy9_9qJvnsQ-kfZb7zszv-xdty1qbdhcX6irwzOUY5UwVnQa4OqSaxE1hkrKSJhKgE8VRZzToKKkyk7FAYiZAHYCEc-Ipq3gCQwNlKKhvuM_LR49um3_vR_YNYnqdIYAyC9vWLHl3qvzZ5395w2t-XOyi9JSjpyUIyV24ySEyDNU0iJRIAtojE5t6AjKKkF1NCoCpHyjGSu4akix50TPwOHub_Xteuz-7ke3HptOz0wGcyRr2QK2-dq_XXbGJdff1rxsyQ2NLfVpZ5ByFKZCV00JkTfa3eZb4GXCP0Wcxa-k_Ew5bXAnBkbivq6B3b0v7fnywX-55UnAAREwMl8C2YngAa82_Mv_aNm6-rU33KGF6zfkmlcG6bo0pUgpRcpCm50IZKyQ8YAw5njvsVh7H39Vjv1w28--vOuRUolKDXhcG246ErMR8ADvjLPSuWv-NH9d4Qz_940n70ZjUZTBcofXXd2UtvlrgnxrnlCFkUipxDB9pUry2zOQ9YSsB8X-YUp9e6J8tL1UyO2pWsBYNIrlzZFB98CzO_q-98Kj5YEJJOYkkCUp-uZDd7QsX7I2d3O6Tj4klkaNnTgFdU7iWEWdog4JXcr0lK7yy3U3pxpbz7ZBLsVwBCPReAUTIOVBnRWMc9rX3aNy_EdhW_BgORP0xUZEkdoiFoNnUbEGURmpVt2OwR7912_-5cE9wPCsBFpaqPvIF85-X12DbBErGxSMxk5ip2isEjsn6pJK5FySwJBcq0OK1eW2n82pdOt7vUJLAzGC1rw-NDhCseuVOFe-v9qa2VUVE6sYFARjUGNQxKgRQFAxtc-txSAK8mJlOP7OUzv6vv-Lbw8OTCJw1Y0tdRtuav5jm-IW0KUOJ6ouuUMR55zEkRJHTtQpThF1tVGr_arJvShUXdb0jlzhVVMXWkhjote0yf_vas4_4hLQibdFUBHUWFExqAhJw7JGrRXEJmknoCIGwSBiiji-OzBktt27eW-3AHx2x_k_MoaLnEZo4uKxyCgiY7VfkSh0ElZjiSNFnYoqtaGJu3W0C6mM5v2YMoNKrVwiqDGjwEWth3qexfpGR3uDMGE7MNYjBGs8UFv81MY9a5KtxHDY3tCcJXYQazwprxLP6th7L7CkMj5xpBJWI6rlGFVwLkGPgiYZPYZdpFZhRZK_xPuIETzfkMpYrGcExqIwevs4jlEfiMGKT1Rx9VDbt9UvqTzhWdmQyWaa6rN1WGskMaBirGAMtVcjxogYI2I9kSCwks76WCu1NFIREcQgVkS85DYjIoIVFRExRvA8IZ3zyNYHpLM-1jNirWCsYC2Y0ffGYIxgjBB4AWkvizqfviMnim--3v0XL-ws_XrSIr7u49kLl52b_7O2jvz729oafbWxRK6Cc1FtsSK4ZEWhKqoYat1IFAlDJ-FwaF058q3DTmxtzuAIvKqX86p-2lNq-V9LKWVsbYyuJDBi1ZMU1gR6vH9Yew4ff_ngm8e2Pfj5E2M_N6cro3bNBdn6825I37Ti3NZbF5_Z1JatCyR2FcK4IqpOnFMjNeAoRhRjnfrW4Qsq6qBSjohCB6pYzxCkPayX-CEyEkZWKmqIELRWRnU01awN1DdpXGj0aGdfufNg3_fefLH4lSfuO3GIk3rBtAQmDP-KTdkL33Vl68eWLm--uHVxs-e0ZMK4LLELjYnVt47AOPVGFc3WkE825oxEsaXifFMWYzSwWfVMhuMDQ3rkQN_-X7_Y_fVn_qv_oe59lEka2ex9gAmNDPBrw0ulSK1dne5Yc139javfs_iDZy5tac6lTCqKSyZyFRQ3C-zZiVgJ8G1WY1Llzq6e4r43uh5_6fGer_3qofKrQEiynYhqvpnSib1p9OuE4QoZpCMb-FuwK879VXnlol0HFh9tPOAduqRA-oJ2WtraiCgT6QixhvMkYPBNFl-yDBdLHH35sOSf7MlcdjhKrw91RXfJnNOf5fVXR3Aw5p0FbeYM4G1emir8YUewqTFl_8Q3rJpYlh1C0TfsW-lT3tBB-6p2_BSEbphQS0yXTFYCfMlhNKCrs5fwmcMse26QlqHxQ1SDYgSc0l1R2b63GN738d1DMx4MT7udfmB9_WVLcv5tKSs3CZoDQJMfNC4pRGPbBCVpWYcKyrHLm2l4dwdNrXlCHca5Cooi4hOYHKWhkO5XOsn-vIuVh2JSEYy1iLGh2NE9SlKd4xj9cTWWr13xRN8PZiTwiTXN9b-3RD6csfIxa7i01pFRIEZwmoAfz6_R5syk1xMpZf85KeJL26lrWYQRw8iJEcKXuul4eoDFRTMBsI4Bn_KZ1KIxTgREDjin3xio8vX3_bSna4zA8xtbPxxY759Qt5ga8ImiQKRCWGvuoySmEhgnJcCwrziBbChYHff2ZI-Pd9xR8BawolPPQmpExJiqc2xdt-Po3wnAq7-7ZL-oOxsXnzxlioQqVDUhNF0E5pLJ3k5mSu1o2xfwRMfTYkYlBrGWVT_oFAvQmrE9Kxszl2R8b5ERk9RRkWmHb4S0EVIGRJL1ILXvZI5hpnkNrJA1ya8z3wh2BrtGBGMs1vPBeiO7B8J7vntwaOco2VUpj7PuPL91w8aOzHXtGXuxuNioc6Cz13gFKg7KDsI5wjBeaSBtkmHmcrcIYixYj2LoDjzTW37kc88de2z_ULwfeH7i9A6gFWi8uj131h3rmj5wXiF9TQaXVxdDHM1hKSFQihMyJ3MRkhTJWkjNctA3JsYi1iM2tvrWUPTkfx488fA9Lxx7DjgO9AE9wNB0_FuBJqBQb23-c-vb3nt1R_3GxRl7HnEkGoVzRsVpLSIuqWKewOgZz6wiAtZDrM-w4-j_9A3_-O7dPY_s7ikdBQaAXmCQCU1tNpV5oBFoBho3Lc-vuH1d0_VrC5mrAnX1GlXnFZV5ibGI5-OsH3cOh88-dGDg4c_s6no6SrzdXxt903Keh_ocsAgoAIXWrG36-_VLfvvK9rprWzLeag2rMI-oTLUs4PmIF1BS6X2-Z2TnF1_o3rHzreIhxr19HBiaVc3CrFIgiUwT0HD7urZ1t65tun51PrPBj6OMhpW5o2Is-AH4gR4ZDvc8euj4jr_55ZGfDUdRkcTL_ST5PS95u0fjdSRRaQIKaxoyLXdf3nHtb3U0XNvgyTINKxBWJjdEz0eCDBVM8aX-0k--tKfr4Qde632DJKf7SLy-4OfHp-LBRaFGJA80fHr9kgtuXt38O8sbMuvFRQEoGKu95fi1nZ2Dj3zi52_t7B6pDDCeJtOeec5XTuWTlzqSRV8A8isaM4VNq5pX5CzBE51DBx_vHOgi8XYvCfjBU2H0dD06aiIhk63ZKJOkR5EZ9vX_VyVbG6dN_hcXDXIW5FRO0AAAAABJRU5ErkJggg%3D%3D,applications:signal-desktop.desktop,applications:virt-manager.desktop,applications:brave-browser.desktop,applications:visual-studio-code.desktop,applications:terminator.desktop,file:///latte-separator2.desktop
+launchers59=file:///latte-separator1.desktop,applications:org.kde.dolphin.desktop,applications:signal-desktop.desktop,applications:virt-manager.desktop,applications:brave-browser.desktop,applications:code.desktop,applications:terminator.desktop,file:///latte-separator3.desktop
 previewWindowAsPopup=true
 showOnlyCurrentActivity=false
 showOnlyCurrentDesktop=true
@@ -428,6 +377,8 @@ lastScreen=-1
 layoutId=
 location=3
 plugin=org.kde.plasma.private.systemtray
+popupHeight=480
+popupWidth=480
 wallpaperplugin=org.kde.image
 
 [Containments][89][Applets][100]
@@ -498,14 +449,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][89][Applets][94][Configuration]
-PreloadWeight=0
-
-[Containments][89][Applets][95]
-immutability=1
-plugin=org.kde.kdeconnect
-
-[Containments][89][Applets][95][Configuration]
-PreloadWeight=0
+PreloadWeight=76
 
 [Containments][89][Applets][96]
 immutability=1
@@ -519,7 +463,10 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][89][Applets][97][Configuration]
-PreloadWeight=0
+PreloadWeight=5
+
+[Containments][89][Applets][97][Configuration][General]
+migrated=true
 
 [Containments][89][Applets][98]
 immutability=1
@@ -540,9 +487,9 @@ DialogHeight=941
 DialogWidth=1804
 
 [Containments][89][General]
-extraItems=org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager
+extraItems=org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager
 hiddenItems=org.kde.plasma.mediacontroller,Yakuake,org.kde.kdeconnect,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.printmanager,org.kde.plasma.clipboard,org.kde.plasma.diskquota,org.kde.plasma.vault,Barrier,MEGAsync,org.kde.kscreen,TeamViewer,org.kde.plasma.notifications,Package Manager,Discover Notifier_org.kde.DiscoverNotifier
-knownItems=org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.ktp-contactlist
+knownItems=org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.ktp-contactlist,org.kde.kscreen
 shownItems=org.kde.plasma.volume,org.kde.plasma.networkmanagement
 
 [LayoutSettings]

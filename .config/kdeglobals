@@ -135,6 +135,10 @@ ForegroundNormal=234,234,234
 ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
+[DirSelect Dialog]
+DirSelectDialog Size=837,591
+History Items[$e]=file:$HOME/Music,file:$HOME/Pictures,file:$HOME/Videos,file:$HOME/Desktop,file:$HOME/Documents,file:$HOME/Downloads
+
 [General]
 BrowserApplication=brave-browser.desktop
 ColorSchemeHash=625c32ae46f33771aca7694ab0deae5a44bbf41c
@@ -159,8 +163,8 @@ contrast=0
 
 [KFileDialog Settings]
 Allow Expansion=false
-Automatically select filename extension=false
-Breadcrumb Navigation=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -172,6 +176,7 @@ Show Speedbar=true
 Show hidden files=true
 Sort by=Name
 Sort directories first=true
+Sort hidden files last=false
 Sort reversed=false
 Speedbar Width=138
 View Style=Simple

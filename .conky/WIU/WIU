@@ -92,15 +92,15 @@ ${voffset -25}${font Zekton:Bold:size=12}${alignc 0}${execpi 1200 cat /sys/class
 ${font Zekton:Bold:size=12}${alignc 0}${execpi 1200 cat /sys/class/dmi/id/product_name}
 ${font DejaVu Sans:Bold:size=13}K${font}  Kernel: ${alignr}${kernel}
 #${font Webdings:Bold:size=16}~${font}Battery: ${battery_percent BAT1}% ${alignr}${battery_bar 8,60 BAT1}
-${font StyleBats:Bold:size=16}q${font} Uptime: ${alignr}${uptime}
-${font PizzaDude Bullets:size=14}v${font} Available Updates: ${alignr 10}${execpi 120 checkupdates 2>/dev/null | wc -l}
+${offset -2}${font StyleBats:Bold:size=16}q${font} Uptime: ${alignr}${uptime}
+${offset -2}${font PizzaDude Bullets:size=14}v${font} Available Updates: ${alignr 10}${execpi 120 checkupdates 2>/dev/null | wc -l}
 #------------+
 # CPU STATS  |
 #------------+
 ${voffset 10}${font Zekton:Bold:size=11}CPU ${hr 2}
 ${font Zekton:Bold:size=10}${execpi 1000 (cat /proc/cpuinfo | grep 'model name' | sed -e 's/model name.*: //'| uniq | cut -c 1-26)}
 ${offset -2}${font RoadSign:size=16}9${font} Speed: ${freq 0}MHz ${alignr -10}${voffset -5}${font ConkyWeather:Bold:size=18}E${font}${voffset -5}${offset -5}Temp: ${hwmon 2 temp 1}°C
-${voffset 3}${font StyleBats:Bold:size=16}A${font} CPU 01: ${cpu cpu1}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 09: ${cpu cpu9}% 
+${font StyleBats:Bold:size=16}A${font} CPU 01: ${cpu cpu1}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 09: ${cpu cpu9}% 
 ${font StyleBats:Bold:size=16}A${font} CPU 02: ${cpu cpu2}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 10: ${cpu cpu10}% 
 ${font StyleBats:Bold:size=16}A${font} CPU 03: ${cpu cpu3}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 11: ${cpu cpu11}% 
 ${font StyleBats:Bold:size=16}A${font} CPU 04: ${cpu cpu4}% ${voffset -5}${alignr}${font StyleBats:Bold:size=16}A${font} CPU 12: ${cpu cpu12}% 

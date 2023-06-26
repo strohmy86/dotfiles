@@ -1,13 +1,13 @@
 MenuBar=Disabled
 
-[CompactMode]
-FontWeight=50
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
 
 [ContextMenu]
 ShowCopyMoveMenu=true
 
-[DetailsMode]
-FontWeight=50
+[CreateDialog]
+LastMimeType=application/zip
 
 [General]
 BrowseThroughArchives=true
@@ -15,11 +15,10 @@ RememberOpenedTabs=false
 ShowFullPath=true
 ShowToolTips=true
 SortingChoice=CaseInsensitiveSorting
-Version=201
+Version=202
 ViewPropsTimestamp=2021,9,5,16,41,28.639
 
 [IconsMode]
-FontWeight=50
 PreviewSize=48
 
 [KFileDialog Settings]
@@ -41,6 +40,10 @@ ToolBarsMovable=Disabled
 
 [Notification Messages]
 ConfirmTrash=true
+
+[Open-with settings]
+CompletionMode=1
+History=kate
 
 [PreviewSettings]
 Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,pothumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,textthumbnail,ffmpegthumbs

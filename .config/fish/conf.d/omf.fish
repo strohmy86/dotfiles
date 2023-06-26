@@ -19,8 +19,9 @@ end
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export MSF_DATABASE_CONFIG="`ls ~/.msf4/database.yml`"
-export PATH="/home/lstrohm/.local/bin:/var/lib/snapd/snap/bin:/usr/sbin:/usr/local/opt/qt/bin:$PATH"
+export PATH="/home/lstrohm/.cargo/bin:/home/lstrohm/.emacs.d/bin:/home/lstrohm/.local/bin:/var/lib/snapd/snap/bin:/usr/sbin:/usr/local/opt/qt/bin:$PATH"
 export GAM_THREADS=15
+export EDITOR="vim"
 #export DOCKER_HOST=tcp://guac.mlsd.net:2376 DOCKER_TLS_VERIFY=1
 
 ## Bang Bang function
@@ -45,3 +46,4 @@ end
 
 bind ! __history_previous_command
 bind '$' __history_previous_command_arguments
+clear && neofetch

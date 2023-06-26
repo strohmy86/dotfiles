@@ -3,6 +3,10 @@ Recent Files[$e]=240px-Faenza-start-here-archlinux-symbolic.svg.png,file:$HOME/.
 Recent URLs[$e]=file:$HOME/.themes/
 iconViewIconSize=59
 
+[KPropertiesDialog]
+HDMI-0 Height 1920x1080 HDMI-0=494
+HDMI-0 Width 1920x1080 HDMI-0=451
+
 [LatteSettingsDialog]
 downloadWindowSize=980,600
 windowSize=1100,750
