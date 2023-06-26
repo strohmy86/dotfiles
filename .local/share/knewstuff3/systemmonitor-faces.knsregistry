@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="596">
+  <name>Concentric Circles</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>kdecommunity</author>
+  <homepage>https://store.kde.org/p/1453145</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>13974</downloads>
+  <installedfile>/home/lstrohm/.local/share/ksysguard/sensorfaces/org.kde.circles</installedfile>
+  <id>1453145</id>
+  <releasedate>2020-12-04</releasedate>
+  <summary>Displays sensors as concentric circles</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/89/26/1453145/66ce7c00821d0eb8e12fa352135941b1a3c4aafabcfdc74bb2485af8a9797df70cea.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/89/26/1453145/66ce7c00821d0eb8e12fa352135941b1a3c4aafabcfdc74bb2485af8a9797df70cea.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDcwNzYwNjgiLCJvIjoiMSIsInMiOiJlMDdiZWI2YWUwMTdhYjYxN2M1MDgyNjQ0OWRhMjBlNWE2M2QxOWI3NjE0YmZiY2QxYzgyYWFjNGIzOGI1MzNjOWU3MGM0MWRkMGRjYTEzMWUxODU5ODQ1OTJiZmU2MGI0NzgwMTc4MTdiMTVhMmQyM2ViZDQxY2Q0NjhjY2UyZiIsInQiOjE2NDc5NjA5NTMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.sjAnK8AZn91ztwjqh7Asdm1SB80cRIiN3XhnoMUcS4M/org.kde.circles.tar.gz</payload>
+  <tags>unix,concentric,donuts,kde,chart,circles,linux,extension,face,lgplv2,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="596">
+  <name>Digital Gauge</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>mart</author>
+  <homepage>https://store.kde.org/p/1446770</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>58</rating>
+  <downloads>27904</downloads>
+  <installedfile>/home/lstrohm/.local/share/ksysguard/sensorfaces/notmart.ksysguard.digitalgauge</installedfile>
+  <id>1446770</id>
+  <releasedate>2020-11-17</releasedate>
+  <summary>A face for the new system monitor plasmoid (and for the new Plasma Systemmonitor app) that shows a gauge made of glowing digital segments with a somewhat 80's look and feel.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/00/21/61/1446770/9e0afd59e4a6ce8f0188eb69fcd5c3372c808036f9ce830769b4aa0e749405d257db.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/00/21/61/1446770/9e0afd59e4a6ce8f0188eb69fcd5c3372c808036f9ce830769b4aa0e749405d257db.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDU2MTQ4NjUiLCJvIjoiMSIsInMiOiIxYjRlMWM1NzA3MmRmZDI1ZTVmZjUzZTE1NTEwZjQzOGE3OTYyNGFmNjQxYjBhNjgwMTdjYTg2OWUyYmVhMzMwZWQzNTg1MWNkYmU3NzkyMzhlN2Y5NGM2YmYxNTdlYzM5MDAzMTM2MDdmNjlkYzYyNzllOTFkNmQzODRkZjIwZiIsInQiOjE2NDc5NjA5NTQsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.pcFiGnKcVbSRH6YeIt3_Rqeu4D0I45sCwzULqW4vDw4/notmart.ksysguard.digitalgauge.plasmoid</payload>
+  <tags>original-product,plasma,unix,linux,extension,lgplv2,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

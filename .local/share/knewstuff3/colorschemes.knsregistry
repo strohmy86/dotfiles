@@ -2,56 +2,6 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="112">
-  <name>Carl Color-schemes</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>jomada</author>
-  <homepage>https://store.kde.org/p/1331616</homepage>
-  <licence></licence>
-  <version>1.2</version>
-  <rating>74</rating>
-  <downloads>1158</downloads>
-  <installedfile>/home/lstrohm/.local/share/color-schemes/Carl.colors</installedfile>
-  <id>1331616</id>
-  <releasedate>2022-01-06</releasedate>
-  <summary>Dark color scheme for Carl plasma theme https://store.kde.org/p/1330604/</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1331616/carl-global-350.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1331616/carl-global-350.jpg</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDE0NzkxOTMiLCJvIjoiMSIsInMiOiJkMGJiMDEzOWVjNTI3YzdkMTA3NzJmOGExMWI2ZGQ0OGI0N2E3NGYwZjAxMDJmNmE0NTQ4YzIzMWRjZGE5NjRjODEwMGFmZDY0YmVkOTU2Y2Q4ZjYwOTg0MWJkMTUxNDMyNzdhMGU5YTRmNjEwNGJiNDI1MDJmODg5YTY4ZTZlNiIsInQiOjE2NDY0MTIwMDMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.Wgr0QGbfSlIlq_M72KTxQdI3ZGyNTfFAoKOGJMG5I34/Carl.colors.tar.gz</payload>
-  <tags>theme,plasma,original-product,unix,linux,kde,gplv3,colorscheme</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Afterglow-dark Color Theme</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>yeyushengfan258</author>
-  <homepage>https://store.kde.org/p/1628967</homepage>
-  <licence></licence>
-  <version></version>
-  <rating>50</rating>
-  <downloads>5067</downloads>
-  <installedfile>/home/lstrohm/.local/share/color-schemes/AfterglowDark.colors</installedfile>
-  <id>1628967</id>
-  <releasedate>2021-10-28</releasedate>
-  <summary>Afterglow-dark kde is a dark clean theme for KDE Plasma desktop.&lt;br />
-&lt;br />
-In this repository you'll find:&lt;br />
-&lt;br />
-    Aurorae Themes&lt;br />
-    Kvantum Themes&lt;br />
-    Plasma Color Schemes&lt;br />
-    Plasma Desktop Themes&lt;br />
-    Plasma Look-and-Feel Settings&lt;br />
-    &lt;br />
-    &lt;br...</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1628967/857de533f4459f4c4073194d6b9d4d4eca061b4d04202af68bd48bbbb3306374130b.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1628967/857de533f4459f4c4073194d6b9d4d4eca061b4d04202af68bd48bbbb3306374130b.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0NDcxMjYiLCJvIjoiMSIsInMiOiJhYTNhNTliY2RhYTc4YjljMWU0M2RjM2E4NDBkNDU4ZDRmMDFiZmM1NWY1ZjM4NzczZDJmMTVlOTgxNDljMDE2ZGNjNmFlZGNkMGViMmEyN2NmYjAyNTBlOGU2MDMyM2FhMGI2ZGUzODEwNzc3NmI2MTIxYzVkNTQ0ZTAyNjQxNiIsInQiOjE2NDY0MTIwNTQsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.T_aSx69CxryUyYzrSKXd8JpRJbhbTho8utKR9f3I8w8/AfterglowDark.zip</payload>
-  <tags>linux,colorscheme,gplv3,kde,unix,theme,plasma,original-product</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
   <name>Neon Knights Blue</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
   <author>ju1464</author>
@@ -59,7 +9,7 @@ In this repository you'll find:&lt;br />
   <licence></licence>
   <version>1.0</version>
   <rating>50</rating>
-  <downloads>3454</downloads>
+  <downloads>4283</downloads>
   <installedfile>/home/lstrohm/.local/share/color-schemes/NeonKnightsBlue.colors</installedfile>
   <id>1320447</id>
   <releasedate>2020-07-14</releasedate>
@@ -73,7 +23,182 @@ If you like my work feel free to &lt;a href="https://paypal.me/ju1464" target="_
   <preview>https://images.pling.com/cache/100x100-0/img/00/00/51/30/30/1320447/bf71d63acc87525ef0ebe9157e3d63b608d5.png</preview>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/51/30/30/1320447/bf71d63acc87525ef0ebe9157e3d63b608d5.png</previewBig>
   <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ3NjY5MzYiLCJvIjoiMSIsInMiOiI4NWNlNDgyYjM1MmEyYzNlMmU1MDE4NjI2N2JjZjEyYWEyZGEwMDE5NWRkZjNiMzFhZTRjYmFmYjZhODJlMWQwYjRiYzU5NGYyMzkwODg5MzExNWU5Y2VhMjVlMWJmZjQwMDkyZDRkNDdmZTY0YmE0ZTE4NTZiOWEzNDU3MGE4MCIsInQiOjE2MzE4MDgxNDksInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.cqIQitGeOzjyi5w6wntC1WX23RQx0C3a5ZBvIy7aXW8/NeonKnightsBlue.colors</payload>
-  <tags>kde,gplv3,colorscheme,linux,neon,theme,original-product,plasma,unix</tags>
+  <tags>plasma,theme,unix,linux,gplv3,original-product,neon,colorscheme,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Layan color schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325239</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>84572</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes/Layan.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes/LayanLight.colors</installedfile>
+  <id>1325239</id>
+  <releasedate>2022-02-13</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
+&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ3NjA0MzUiLCJvIjoiMSIsInMiOiI3NGJkOTMxNTdjZjhjZGQzOWMxYTkyMGE2ZjAwYzM1MzdiOTkxZTQ5MDYzZjQ1MmUyNGFhNDc1YzU5Zjc2OWJmMTdlY2EyZWE4NTU5OThmMGI5ZDAyZWU0MmIyODU0NzVmMjQyNWNmYmZkODE2MjEwNDM1NmU5ZWI4ZTZiODc5YyIsInQiOjE2NDY5NDIyODEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.PfRh8qcEC871Kd0dyjOuWUc7PMGrQzv1QDCGXrDBXLE/Layan.tar.gz</payload>
+  <tags>plasma,theme,unix,kde,gplv3,colorscheme,original-product,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Breeze-Splendent</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1351137</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>13018</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes/BreezeSplendent.colors</installedfile>
+  <id>1351137</id>
+  <releasedate>2020-04-30</releasedate>
+  <summary>&lt;strong>&lt;span style="color: #003c96;"> &lt;strong>Color Scheme, adapted to Plasma Theme&lt;/strong> &lt;/span> &lt;span style="color: #483d8b;"> &lt;strong>Breeze-Splendent&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://store.kde.org/p/1351143/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #483d8b;"> &lt;strong>Link to Wallpaper&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong>KDE Plasma Scenery 194 HD 4K Remastered&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1341230" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #483d8b;"> &lt;strong>Link to Wallpaper&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong> Starry Nebula 194 4K Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1271439/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #483d8b;"> &lt;strong>Link to Wallpaper&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong> KDE Plasma Nebula 273 HD Multiple Colors&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1303886/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #483d8b;"> &lt;strong>Author Wallpapers:&lt;/strong> &lt;/span> &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1351137/001d0825ea97bf80ef8dbe704c390210c63d1.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1351137/001d0825ea97bf80ef8dbe704c390210c63d1.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODgyMzc3MDUiLCJvIjoiMSIsInMiOiJiZTQ0ZWI0M2E2MGJkYjQ4NzlhYWFlOWMwMWUwYmQ0NGE0ODQ2MTcyYTQwYjZmMmQ5ZmVhMjM0ZmU4NzA4YjE4Nzg4YzBkZWQ5Mjc4MjRlMTM3YWNiNDc0YTI3YjEyYTBlOGI5MTFjZDVlZTA1NDA5MzU3YTRiMDllMTBiY2IyMSIsInQiOjE1ODk5MjMzNjYsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.2DGxbo8Y82GUwbrv4cmK7zorrN78liO2iJix0nIH_hU/BreezeSplendent.colors</payload>
+  <tags>plasma,theme,unix,kde,linux,gplv3,original-product,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>ArcMidnight-dark Color Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1659735</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>7490</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes/ArcMidnightDark.colors</installedfile>
+  <id>1659735</id>
+  <releasedate>2021-12-06</releasedate>
+  <summary>ArcMidnight-dark kde is a dark clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+    &lt;br />
+    &lt;br />
+&lt;br />
+    &lt;br />
+&lt;strong>ArcMidnight-dark Global Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1659747/" target="_blank" rel="nofollow">https://www.pling.com/p/1659747/&lt;/a>        &lt;br />
+    &lt;br />
+&lt;strong>ArcMidnight-dark Plasma Theme  &lt;/strong>:&lt;a href="https://www.pling.com/p/1659742/" target="_blank" rel="nofollow">https://www.pling.com/p/1659742/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>ArcMidnight-dark Sddm Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1659737/" target="_blank" rel="nofollow">https://www.pling.com/p/1659737/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>ArcMidnight-dark Aurorae Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1659734/" target="_blank" rel="nofollow">https://www.pling.com/p/1659734/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>ArcMidnight-dark Kvantum &lt;/strong>:&lt;a href="https://www.pling.com/p/1659736/" target="_blank" rel="nofollow">https://www.pling.com/p/1659736/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>ArcMidnight-dark Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1659733/" target="_blank" rel="nofollow">https://www.pling.com/p/1659733/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11 icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1546069/" target="_blank" rel="nofollow">https://www.pling.com/p/1546069/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>ArcMidnight cursors theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1659743/" target="_blank" rel="nofollow">https://www.pling.com/p/1659743/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1659735/3245b9230825cc0c95f337519bec859e1c6ea9df97cfa71bf6f068235f560bc0394c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1659735/3245b9230825cc0c95f337519bec859e1c6ea9df97cfa71bf6f068235f560bc0394c.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mzg4MjE5MjUiLCJvIjoiMSIsInMiOiI3MTdmYjI2NjNjMGQxZTg2NGI4YjFhMGE1MTViNjBlYTc0NTExYzZlMWRlZTgyYzk1ZTU5ODJkYWI1MzdiZDdlNmZjZjIwZjAxNGIyZGY4NjI4N2FjZmEzNDhlYjllNDZjNjU1ZjkzYWRhMzZjMjFiNzk4MTljYTVjN2U1ZjVhMyIsInQiOjE2NDY0MTIwNjIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.-93GzmxM2e9wbBrithQi3CaeXHVCcimkUqsTNoDpyy8/ArcMidnightDark.zip</payload>
+  <tags>linux,gplv3,colorscheme,kde,original-product,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Carl Color-schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1331616</homepage>
+  <licence></licence>
+  <version>1.3</version>
+  <rating>74</rating>
+  <downloads>387</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes/Carl.colors</installedfile>
+  <id>1331616</id>
+  <releasedate>2023-02-11</releasedate>
+  <summary>Dark color scheme for Carl plasma theme https://store.kde.org/p/1330604/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1331616/carl-global-350.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1331616/carl-global-350.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzYxMjM1MzciLCJvIjoiMSIsInMiOiIyYTM3ZjhjMzczZWVhNzhhNzc5NjQxOTU1Njc2ZTM4YjkwMjg5ZDk5NTBlNTkwMmFjZmM4MWQzNzMzY2U2OGY4Mjg4OTM5NzcwMmUyNGI0NTA2NDYyNjQ1MmEzYmU0OGYwMTliNTQ3YjVjZDBlYzg4MmJmNjA0OTlkOWNmOTZjZiIsInQiOjE2NzY1NzA3NzMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.fgbaTQSaB9VtRXsSCCaCd6IQtdSpyn5uTQf_QSyvFu0/Carl.colors.tar.gz</payload>
+  <tags>theme,unix,plasma,kde,colorscheme,original-product,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Flat Remix KDE Red Colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>daniruiz06</author>
+  <homepage>https://store.kde.org/p/1315464</homepage>
+  <licence></licence>
+  <version>1.4</version>
+  <rating>50</rating>
+  <downloads>4180</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//FlatRemixRedDark.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//FlatRemixRed.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//FlatRemixRedDarkest.colors</installedfile>
+  <installedfile>/home/lstrohm/.local/share/color-schemes//</installedfile>
+  <id>1315464</id>
+  <releasedate>2020-02-11</releasedate>
+  <summary>&lt;h4>&lt;br />
+Web Page: &lt;strong>&lt;a href="https://drasite.com/flat-remix-kde" target="_blank" rel="nofollow">drasite.com/flat-remix-kde&lt;/a>&lt;/strong>&lt;br />
+&lt;img src="https://opendesktop.org/theme/flatui/img/email3.png" alt="email3" />  &lt;strong>&lt;a href="https://twitter.com/dani_ruiz24" target="_blank" rel="nofollow">@dani_ruiz24&lt;/a>&lt;/strong>&lt;br />
+&lt;/h4>&lt;br />
+&lt;br />
+&lt;hr />[/hr]&lt;br />
+&lt;h1>Themes&lt;/h1>&lt;br />
+&lt;ul>&lt;li> Flat Remix&lt;/li>&lt;li> Flat Remix Dark&lt;/li>&lt;li> Flat Remix Darkest&lt;/li>&lt;/ul>&lt;br />
+&lt;h2>Color Variants&lt;/h2>&lt;br />
+&lt;ul>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1304623/" target="_blank" rel="nofollow">Blue&lt;/a>&lt;/strong>&lt;/li>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1315465/" target="_blank" rel="nofollow">Green&lt;/a>&lt;/strong>&lt;/li>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1315464/" target="_blank" rel="nofollow">Red&lt;/a>&lt;/strong>&lt;/li>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1315462/" target="_blank" rel="nofollow">Yellow&lt;/a>&lt;/strong>&lt;/li>&lt;/ul>&lt;br />
+&lt;br />
+&lt;hr />[/hr]&lt;br />
+&lt;h1>Other Projects&lt;/h1>&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1012430" target="_blank" rel="nofollow">&lt;br />
+&lt;strong>Flat Remix ICON theme&lt;/strong>&lt;br />
+&lt;br />
+&lt;img src="https://cn.opendesktop.org/cache/280x167/img/5/2/2/0/6f4c48a15d62e03e6206e018e210bba58fc4.png" alt="6f4c48a15d62e03e6206e018e210bba58fc4" />&lt;br />
+&lt;/a>&lt;br />
+&lt;a href="https://store.kde.org/p/1308564/" target="_blank" rel="nofollow">&lt;br />
+&lt;strong>Flat Remix KDE&lt;/strong>&lt;br />
+&lt;br />
+&lt;img src="https://cn.opendesktop.org/cache/280x167/img/9/6/0/1/a25dbd46e13f9cc444b4bd8d3b3bafd511a6.png" alt="a25dbd46e13f9cc444b4bd8d3b3bafd511a6" />&lt;br />
+&lt;/a>&lt;br />
+&lt;br />
+&lt;hr />[/hr]</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/00/71/1315464/008abe3850a6f371ac7afe30d81bf519b04f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/00/71/1315464/008abe3850a6f371ac7afe30d81bf519b04f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODE0NDQ0NDMiLCJvIjoiMSIsInMiOiI2NGZmNjNhMzgxYWM3M2ZkMTI2MTBkZjJlOWJjYzhiMWJjNTRlYzkyNDE2OTMwZWE3Y2M4OTM3N2NjM2FkMThhMDFhYzIxNWY5YjIxODQzMDJlZjI1ODQyMjQ0ODA3YjFlNjRhZjQ3MTUxNWIxZTAxMDg1NmI1OGZiZTUzZGZjNCIsInQiOjE1ODQ2NjA2MDEsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.IOmbFTDCgrutz_O9ptdpqvm2cFjPACn_bqcdFvAGohk/FlatRemixRed.tar.xz</payload>
+  <tags>plasma,remix,theme,unix,material,linux,original-product,flat,gplv3,kde,colorscheme</tags>
   <status>installed</status>
  </stuff>
  <stuff category="112">
@@ -121,65 +246,18 @@ In this repository you'll find:&lt;br />
   <status>installed</status>
  </stuff>
  <stuff category="112">
-  <name>Flat Remix KDE Red Colors</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>daniruiz06</author>
-  <homepage>https://store.kde.org/p/1315464</homepage>
-  <licence></licence>
-  <version>1.4</version>
-  <rating>50</rating>
-  <downloads>3573</downloads>
-  <installedfile>/home/lstrohm/.local/share/color-schemes//FlatRemixRedDark.colors</installedfile>
-  <installedfile>/home/lstrohm/.local/share/color-schemes//FlatRemixRed.colors</installedfile>
-  <installedfile>/home/lstrohm/.local/share/color-schemes//FlatRemixRedDarkest.colors</installedfile>
-  <installedfile>/home/lstrohm/.local/share/color-schemes//</installedfile>
-  <id>1315464</id>
-  <releasedate>2020-02-11</releasedate>
-  <summary>&lt;h4>&lt;br />
-Web Page: &lt;strong>&lt;a href="https://drasite.com/flat-remix-kde" target="_blank" rel="nofollow">drasite.com/flat-remix-kde&lt;/a>&lt;/strong>&lt;br />
-&lt;img src="https://opendesktop.org/theme/flatui/img/email3.png" alt="email3" />  &lt;strong>&lt;a href="https://twitter.com/dani_ruiz24" target="_blank" rel="nofollow">@dani_ruiz24&lt;/a>&lt;/strong>&lt;br />
-&lt;/h4>&lt;br />
-&lt;br />
-&lt;hr />[/hr]&lt;br />
-&lt;h1>Themes&lt;/h1>&lt;br />
-&lt;ul>&lt;li> Flat Remix&lt;/li>&lt;li> Flat Remix Dark&lt;/li>&lt;li> Flat Remix Darkest&lt;/li>&lt;/ul>&lt;br />
-&lt;h2>Color Variants&lt;/h2>&lt;br />
-&lt;ul>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1304623/" target="_blank" rel="nofollow">Blue&lt;/a>&lt;/strong>&lt;/li>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1315465/" target="_blank" rel="nofollow">Green&lt;/a>&lt;/strong>&lt;/li>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1315464/" target="_blank" rel="nofollow">Red&lt;/a>&lt;/strong>&lt;/li>&lt;li> &lt;strong>&lt;a href="https://store.kde.org/p/1315462/" target="_blank" rel="nofollow">Yellow&lt;/a>&lt;/strong>&lt;/li>&lt;/ul>&lt;br />
-&lt;br />
-&lt;hr />[/hr]&lt;br />
-&lt;h1>Other Projects&lt;/h1>&lt;br />
-&lt;a href="https://www.opendesktop.org/p/1012430" target="_blank" rel="nofollow">&lt;br />
-&lt;strong>Flat Remix ICON theme&lt;/strong>&lt;br />
-&lt;br />
-&lt;img src="https://cn.opendesktop.org/cache/280x167/img/5/2/2/0/6f4c48a15d62e03e6206e018e210bba58fc4.png" alt="6f4c48a15d62e03e6206e018e210bba58fc4" />&lt;br />
-&lt;/a>&lt;br />
-&lt;a href="https://store.kde.org/p/1308564/" target="_blank" rel="nofollow">&lt;br />
-&lt;strong>Flat Remix KDE&lt;/strong>&lt;br />
-&lt;br />
-&lt;img src="https://cn.opendesktop.org/cache/280x167/img/9/6/0/1/a25dbd46e13f9cc444b4bd8d3b3bafd511a6.png" alt="a25dbd46e13f9cc444b4bd8d3b3bafd511a6" />&lt;br />
-&lt;/a>&lt;br />
-&lt;br />
-&lt;hr />[/hr]</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/00/71/1315464/008abe3850a6f371ac7afe30d81bf519b04f.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/00/71/1315464/008abe3850a6f371ac7afe30d81bf519b04f.png</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODE0NDQ0NDMiLCJvIjoiMSIsInMiOiI2NGZmNjNhMzgxYWM3M2ZkMTI2MTBkZjJlOWJjYzhiMWJjNTRlYzkyNDE2OTMwZWE3Y2M4OTM3N2NjM2FkMThhMDFhYzIxNWY5YjIxODQzMDJlZjI1ODQyMjQ0ODA3YjFlNjRhZjQ3MTUxNWIxZTAxMDg1NmI1OGZiZTUzZGZjNCIsInQiOjE1ODQ2NjA2MDEsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.IOmbFTDCgrutz_O9ptdpqvm2cFjPACn_bqcdFvAGohk/FlatRemixRed.tar.xz</payload>
-  <tags>unix,original-product,plasma,remix,theme,material,linux,colorscheme,gplv3,kde,flat</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>ArcMidnight-dark Color Theme</name>
+  <name>Afterglow-dark Color Theme</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
   <author>yeyushengfan258</author>
-  <homepage>https://store.kde.org/p/1659735</homepage>
+  <homepage>https://store.kde.org/p/1628967</homepage>
   <licence></licence>
   <version></version>
   <rating>50</rating>
-  <downloads>3797</downloads>
-  <installedfile>/home/lstrohm/.local/share/color-schemes/ArcMidnightDark.colors</installedfile>
-  <id>1659735</id>
-  <releasedate>2021-12-06</releasedate>
-  <summary>ArcMidnight-dark kde is a dark clean theme for KDE Plasma desktop.&lt;br />
+  <downloads>10933</downloads>
+  <installedfile>/home/lstrohm/.local/share/color-schemes/AfterglowDark.colors</installedfile>
+  <id>1628967</id>
+  <releasedate>2021-10-28</releasedate>
+  <summary>Afterglow-dark kde is a dark clean theme for KDE Plasma desktop.&lt;br />
 &lt;br />
 In this repository you'll find:&lt;br />
 &lt;br />
@@ -189,71 +267,37 @@ In this repository you'll find:&lt;br />
     Plasma Desktop Themes&lt;br />
     Plasma Look-and-Feel Settings&lt;br />
     &lt;br />
-    &lt;br...</summary>
+    &lt;br />
+    &lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+Main launcher:OnzeMenu/Menu 11&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Afterglow-dark Global Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1628978/" target="_blank" rel="nofollow">https://www.pling.com/p/1628978/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Afterglow-dark Plasma Theme  &lt;/strong>:&lt;a href="https://www.pling.com/p/1628975/" target="_blank" rel="nofollow">https://www.pling.com/p/1628975/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Afterglow-dark Sddm Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1628972/" target="_blank" rel="nofollow">https://www.pling.com/p/1628972/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Afterglow-dark Aurorae Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1628965/" target="_blank" rel="nofollow">https://www.pling.com/p/1628965/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Afterglow-dark Kvantum &lt;/strong>:&lt;a href="https://www.pling.com/p/1628968/" target="_blank" rel="nofollow">https://www.pling.com/p/1628968/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Afterglow-dark Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1628962/" target="_blank" rel="nofollow">https://www.pling.com/p/1628962/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11 icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1546069/" target="_blank" rel="nofollow">https://www.pling.com/p/1546069/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Afterglow cursors theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1628952/" target="_blank" rel="nofollow">https://www.pling.com/p/1628952/&lt;/a></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1659735/3245b9230825cc0c95f337519bec859e1c6ea9df97cfa71bf6f068235f560bc0394c.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1659735/3245b9230825cc0c95f337519bec859e1c6ea9df97cfa71bf6f068235f560bc0394c.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mzg4MjE5MjUiLCJvIjoiMSIsInMiOiI3MTdmYjI2NjNjMGQxZTg2NGI4YjFhMGE1MTViNjBlYTc0NTExYzZlMWRlZTgyYzk1ZTU5ODJkYWI1MzdiZDdlNmZjZjIwZjAxNGIyZGY4NjI4N2FjZmEzNDhlYjllNDZjNjU1ZjkzYWRhMzZjMjFiNzk4MTljYTVjN2U1ZjVhMyIsInQiOjE2NDY0MTIwNjIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.-93GzmxM2e9wbBrithQi3CaeXHVCcimkUqsTNoDpyy8/ArcMidnightDark.zip</payload>
-  <tags>unix,linux,kde,colorscheme,gplv3,theme,plasma,original-product</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Breeze-Splendent</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>l4k1</author>
-  <homepage>https://store.kde.org/p/1351137</homepage>
-  <licence></licence>
-  <version>1.0</version>
-  <rating>50</rating>
-  <downloads>11590</downloads>
-  <installedfile>/home/lstrohm/.local/share/color-schemes/BreezeSplendent.colors</installedfile>
-  <id>1351137</id>
-  <releasedate>2020-04-30</releasedate>
-  <summary>&lt;strong>&lt;span style="color: #003c96;"> &lt;strong>Color Scheme, adapted to Plasma Theme&lt;/strong> &lt;/span> &lt;span style="color: #483d8b;"> &lt;strong>Breeze-Splendent&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://store.kde.org/p/1351143/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
-&lt;br />
-&lt;br />
-&lt;span style="color: #483d8b;"> &lt;strong>Link to Wallpaper&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong>KDE Plasma Scenery 194 HD 4K Remastered&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1341230" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
-&lt;br />
-&lt;span style="color: #483d8b;"> &lt;strong>Link to Wallpaper&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong> Starry Nebula 194 4K Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1271439/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
-&lt;br />
-&lt;span style="color: #483d8b;"> &lt;strong>Link to Wallpaper&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong> KDE Plasma Nebula 273 HD Multiple Colors&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1303886/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
-&lt;br />
-&lt;span style="color: #483d8b;"> &lt;strong>Author Wallpapers:&lt;/strong> &lt;/span> &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1351137/001d0825ea97bf80ef8dbe704c390210c63d1.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1351137/001d0825ea97bf80ef8dbe704c390210c63d1.jpg</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODgyMzc3MDUiLCJvIjoiMSIsInMiOiJiZTQ0ZWI0M2E2MGJkYjQ4NzlhYWFlOWMwMWUwYmQ0NGE0ODQ2MTcyYTQwYjZmMmQ5ZmVhMjM0ZmU4NzA4YjE4Nzg4YzBkZWQ5Mjc4MjRlMTM3YWNiNDc0YTI3YjEyYTBlOGI5MTFjZDVlZTA1NDA5MzU3YTRiMDllMTBiY2IyMSIsInQiOjE1ODk5MjMzNjYsInN0ZnAiOm51bGwsInN0aXAiOiIyNC4xNDQuMTc4LjQ3In0.2DGxbo8Y82GUwbrv4cmK7zorrN78liO2iJix0nIH_hU/BreezeSplendent.colors</payload>
-  <tags>unix,kde,gplv3,linux,colorscheme,plasma,original-product,theme</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Layan color schemes</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1325239</homepage>
-  <licence></licence>
-  <version></version>
-  <rating>58</rating>
-  <downloads>9664</downloads>
-  <installedfile>/home/lstrohm/.local/share/color-schemes/Layan.colors</installedfile>
-  <installedfile>/home/lstrohm/.local/share/color-schemes/LayanLight.colors</installedfile>
-  <id>1325239</id>
-  <releasedate>2022-02-13</releasedate>
-  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
----------------------&lt;br />
-&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
-&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
----------------------&lt;br />
-&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
-&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
----------------------&lt;br />
-&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
-&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ3NjA0MzUiLCJvIjoiMSIsInMiOiI3NGJkOTMxNTdjZjhjZGQzOWMxYTkyMGE2ZjAwYzM1MzdiOTkxZTQ5MDYzZjQ1MmUyNGFhNDc1YzU5Zjc2OWJmMTdlY2EyZWE4NTU5OThmMGI5ZDAyZWU0MmIyODU0NzVmMjQyNWNmYmZkODE2MjEwNDM1NmU5ZWI4ZTZiODc5YyIsInQiOjE2NDY5NDIyODEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.PfRh8qcEC871Kd0dyjOuWUc7PMGrQzv1QDCGXrDBXLE/Layan.tar.gz</payload>
-  <tags>gplv3,linux,colorscheme,kde,plasma,original-product,theme,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1628967/857de533f4459f4c4073194d6b9d4d4eca061b4d04202af68bd48bbbb3306374130b.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1628967/857de533f4459f4c4073194d6b9d4d4eca061b4d04202af68bd48bbbb3306374130b.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0NDcxMjYiLCJvIjoiMSIsInMiOiJhYTNhNTliY2RhYTc4YjljMWU0M2RjM2E4NDBkNDU4ZDRmMDFiZmM1NWY1ZjM4NzczZDJmMTVlOTgxNDljMDE2ZGNjNmFlZGNkMGViMmEyN2NmYjAyNTBlOGU2MDMyM2FhMGI2ZGUzODEwNzc3NmI2MTIxYzVkNTQ0ZTAyNjQxNiIsInQiOjE2NDY0MTIwNTQsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.T_aSx69CxryUyYzrSKXd8JpRJbhbTho8utKR9f3I8w8/AfterglowDark.zip</payload>
+  <tags>theme,unix,plasma,original-product,colorscheme,gplv3,linux,kde</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

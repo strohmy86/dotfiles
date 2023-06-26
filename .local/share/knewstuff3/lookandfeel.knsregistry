@@ -8,21 +8,30 @@
   <homepage>https://store.kde.org/p/1325243</homepage>
   <licence></licence>
   <version></version>
-  <rating>88</rating>
-  <downloads>5651</downloads>
+  <rating>89</rating>
+  <downloads>4295</downloads>
   <installedfile>/home/lstrohm/.local/share/plasma/look-and-feel/com.github.vinceliuice.Layan</installedfile>
   <id>1325243</id>
-  <releasedate>2022-02-21</releasedate>
+  <releasedate>2023-02-07</releasedate>
   <summary>Layan modern and elegant design theme for kde desktop&lt;br />
 ---------------------&lt;br />
 For better experience you need this&lt;br />
 &lt;strong>kvantum theme&lt;/strong>: Layan &lt;br />
-&lt;a href="https://www.pling.com/p/1325246/" target="_blank" rel="nofollow">https://www.pling.com/p/1325246/&lt;/a>&lt;br...</summary>
+&lt;a href="https://www.pling.com/p/1325246/" target="_blank" rel="nofollow">https://www.pling.com/p/1325246/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
+&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
   <changelog></changelog>
   <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</preview>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDU0NTE4MDkiLCJvIjoiMSIsInMiOiJkNmQyZmFkYmNjMThkOGMyZjEzMDY2NGYxYmJhNzcxZjI2MmM1OWY0MzI0MTVlNmNjZTY1M2U2MDJjZDU5YmM0NWU3NzhkNGExODYzMDIyY2I1ZjMwMGNlOGE5MWZjZTliZTcwN2UwOWY0Mzk1Mzg0NWJmMzFiN2ZjMDhjMTdmOSIsInQiOjE2NDY5NDIyNzgsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.bGAcqdgz1lC3K2WDbp5yi9owksRPWk1wiMQKGwe18so/com.github.vinceliuice.Layan.tar.xz</payload>
-  <tags>original-product,theme,plasma,unix,gplv3,linux,look-and-feel,kde</tags>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzU3ODM4MzMiLCJvIjoiMSIsInMiOiIxOGVlMTg4MjM4MTFjMWIyYjAzZTNhZmZiNmVmN2NmZjBmYjUxMGNkYWM5NDE0MDUwNzJkM2E1ZWYyNmYxZDY0ZDhiMDNiYTE3MmU0ZmVmODBkZDdjMDZiN2E2ODEyZTY4ODIzM2UzNTE3YWQ1NTY5ZTAyNWE3ZTI0Njg1YTY1NSIsInQiOjE2NzY1NzA3NzMsInN0ZnAiOm51bGwsInN0aXAiOiIyMDguMTA4LjExOS43NCJ9.wNe7AEbr3YirPMTXQcmiwAYuUjLFtsFHeWxfL5LSK4Y/com.github.vinceliuice.Layan.tar.gz</payload>
+  <tags>plasma,theme,unix,original-product,gplv3,linux,look-and-feel,kde</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>
